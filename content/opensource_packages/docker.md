@@ -9,13 +9,19 @@ supported_minimum_version:
   release_date: 2016/04/13
 optional_info:
   homepage_url: https://www.docker.com/
-  support_caveats: null
+  support_caveats: Docker works on Windows on Arm starting from a release in August 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/install-guides/docker/
     partner_content:
       - display_name: Alibaba Cloud
         url: https://www.alibabacloud.com/blog/arm-container-applications-accelerating-development-and-testing_595802
+      - display_name: Amazon AWS
+        url: https://aws.amazon.com/blogs/containers/how-to-build-your-containers-for-arm-and-save-with-graviton-and-spot-instances-on-amazon-ecs/
+      - display_name: Microsoft Azure
+        url: https://devblogs.microsoft.com/dotnet/improving-multiplatform-container-support/
+      - display_name: Google GCP
+        url: https://cloud.google.com/dataflow/docs/guides/multi-architecture-container
       - display_name: Oracle OCI
         url: https://blogs.oracle.com/linux/post/oracle-container-runtime-for-docker-on-oracle-linux-for-arm
     official_docs: https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/

@@ -10,7 +10,7 @@ release_date_on_arm: 2020/06/08
 
 optional_info:
     homepage_url: https://www.rapid7.com/products/insightvm/
-    support_caveats:
+    support_caveats: InsightVM works on Windows on Arm starting from version 4.0.10 released in September 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

@@ -11,7 +11,7 @@ supported_minimum_version:
  
 optional_info:
     homepage_url: https://github.com/grpc/grpc
-    support_caveats:
+    support_caveats: gRPC works on Windows on Arm starting from version 1.45.0 released in March 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

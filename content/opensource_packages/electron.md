@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.electronjs.org/
-    support_caveats:
+    support_caveats: Electron works on Windows on Arm starting from version 6.0.8 released in September 2019.
     alternative_options:
     getting_started_resources:
         arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/electron/how-to-1/

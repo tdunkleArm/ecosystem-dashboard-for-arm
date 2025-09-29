@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2024/04/12
 optional_info:
   homepage_url: https://www.daytona.io/
-  support_caveats: null
+  support_caveats: All releases of Daytona work on Windows on Arm.
   alternative_options: null
   getting_started_resources:
     arm_content: null

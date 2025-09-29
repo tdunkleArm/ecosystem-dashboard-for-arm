@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.openblas.net/
-    support_caveats:
+    support_caveats: OpenBLAS works on Windows on Arm starting from version 0.3.30 released in June 2025.
     alternative_options:
     getting_started_resources:
         arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/deep-learning-yitian-710

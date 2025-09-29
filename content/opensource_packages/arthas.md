@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://arthas.aliyun.com/en/
-    support_caveats:
+    support_caveats: Arthas works on Windows on Arm starting from version 3.7.0 released in December 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

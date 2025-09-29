@@ -10,7 +10,7 @@ release_date_on_arm: 2022/12/09
 
 optional_info:
     homepage_url: https://docs.rapid7.com/insight-agent/
-    support_caveats:
+    support_caveats: Insight agent works on Windows on Arm starting from version 4.0.8 released in September 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

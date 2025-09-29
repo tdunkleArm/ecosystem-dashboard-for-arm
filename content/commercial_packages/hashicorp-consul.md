@@ -9,7 +9,7 @@ release_date_on_arm: 2017/06/09
 
 optional_info:
     homepage_url: https://www.hashicorp.com/products/consul
-    support_caveats:
+    support_caveats: Consul works on Windows on Arm starting from version 1.15.0 released in February 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

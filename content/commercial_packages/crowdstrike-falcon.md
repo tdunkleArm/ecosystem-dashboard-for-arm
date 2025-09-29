@@ -10,7 +10,7 @@ release_date_on_arm: 2019/12/03
 
 optional_info:
     homepage_url: https://www.crowdstrike.com/falcon-platform/
-    support_caveats:
+    support_caveats: Falcon works on Windows on Arm starting from a release published in September 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

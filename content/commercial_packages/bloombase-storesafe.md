@@ -9,7 +9,7 @@ release_date_on_arm: 2021/03/10
 
 optional_info:
     homepage_url: https://www.bloombase.com/products/storesafe
-    support_caveats:
+    support_caveats: Bloombase StoreSafe works on Windows on Arm starting from releases in late 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

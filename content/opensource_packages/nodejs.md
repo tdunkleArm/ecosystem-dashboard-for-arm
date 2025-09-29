@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2015/09/08
 optional_info:
   homepage_url: https://nodejs.org/en
-  support_caveats: null
+  support_caveats: Node.js works on Windows on Arm starting from version 7.2.479 released in January 2019.
   alternative_options: null
   getting_started_resources:
     arm_content: null

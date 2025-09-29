@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://eigen.tuxfamily.org/index.php?title=Main_Page
-    support_caveats:
+    support_caveats: Eigen works on Windows on Arm starting from version 3.3 released in November 2016.
     alternative_options:
     getting_started_resources:
         arm_content:

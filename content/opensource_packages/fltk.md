@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.fltk.org/
-    support_caveats:
+    support_caveats: FLTK (Fast Light ToolKit) works on Windows on Arm starting from version 1.4.0 released in November 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

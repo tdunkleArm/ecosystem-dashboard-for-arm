@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.linaro.org/downloads/
-    support_caveats:
+    support_caveats: LLVM works on Windows on Arm starting from version 12 released in April 2021.
     alternative_options:
     getting_started_resources:
         arm_content: https://developer.arm.com/Tools%20and%20Software/LLVM%20Toolchain#Technical-Specifications

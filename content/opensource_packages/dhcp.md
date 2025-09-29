@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.isc.org/dhcp/
-    support_caveats:
+    support_caveats: Windows on Arm machines can work as clients of DHCP.
     alternative_options:
     getting_started_resources:
         arm_content: https://developer.arm.com/documentation/dui0102/g/using-the-dhcp-utility

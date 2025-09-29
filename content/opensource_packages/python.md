@@ -9,11 +9,13 @@ supported_minimum_version:
   release_date: 2012/04/09
 optional_info:
   homepage_url: https://www.python.org/
-  support_caveats: null
+  support_caveats: Python works on Windows on Arm starting from version 3.11 released in October 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: null
     partner_content:
+      - display_name: Amazon AWS
+        url: https://aws.amazon.com/blogs/compute/migrating-aws-lambda-functions-to-arm-based-aws-graviton2-processors/
       - display_name: Oracle OCI
         url: https://blogs.oracle.com/linux/post/connect-from-an-arm-based-a1-compute-shape-to-autonomous-database-two-ways
     official_docs: https://speed.python.org/comparison/

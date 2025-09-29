@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.chef.io/products/chef-infra
-    support_caveats: Chef Infra 15 improved cross-platform compatibility, including better support for Arm64 across multiple distributions.
+    support_caveats: Chef Infra 15 improved cross-platform compatibility, including better support for Arm64 across multiple distributions. Chef Infra works on Windows on Arm starting from version 16 released in April 2020.
     alternative_options:
     getting_started_resources:
         arm_content:

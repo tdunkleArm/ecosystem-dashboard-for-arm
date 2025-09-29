@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.checkov.io/
-    support_caveats:
+    support_caveats: Checkov works on Windows on Arm starting from version 2.4.305 released in December 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

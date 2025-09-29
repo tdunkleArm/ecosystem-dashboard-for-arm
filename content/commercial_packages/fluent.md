@@ -10,7 +10,7 @@ release_date_on_arm: 2024/02/01
 
 optional_info:
     homepage_url: https://www.ansys.com/products/fluids/ansys-fluent
-    support_caveats:
+    support_caveats: Ansys Fluent works on Windows on Arm starting from version 2025 R2 released in July 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

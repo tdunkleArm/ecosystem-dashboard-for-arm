@@ -10,7 +10,7 @@ release_date_on_arm: 2021/11/23
 
 optional_info:
     homepage_url: https://www.aquasec.com/aqua-cloud-native-security-platform/
-    support_caveats:
+    support_caveats: Aqua Cloud Native Security Platform works on Windows on Arm starting from March 2021.
     alternative_options:   
     getting_started_resources:
         arm_content:

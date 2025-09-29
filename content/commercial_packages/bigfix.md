@@ -10,7 +10,7 @@ release_date_on_arm: 2022/12/15
 
 optional_info:
     homepage_url: https://www.hcl-software.com/bigfix/getting-started-with-bigfix
-    support_caveats:
+    support_caveats: HCL BigFix works on Windows on Arm starting from version 11.0.1 released in December 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

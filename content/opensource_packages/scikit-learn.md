@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://scikit-learn.org/1.5/index.html
-    support_caveats:
+    support_caveats: Scikit-learn works on Windows on Arm starting from version 1.3 released in June 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

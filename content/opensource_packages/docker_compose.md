@@ -9,11 +9,13 @@ supported_minimum_version:
   release_date: 2021/09/28
 optional_info:
   homepage_url: https://docs.docker.com/compose/
-  support_caveats: null
+  support_caveats: Docker Compose works on Windows on Arm starting from a release in May 2024.
   alternative_options: null
   getting_started_resources:
     arm_content: null
     partner_content:
+      - display_name: Amazon AWS
+        url: https://docs.aws.amazon.com/zh_cn/elasticbeanstalk/latest/relnotes/release-2024-03-28-al2.html
     official_docs: https://docs.docker.com/compose/install/
   arm_recommended_minimum_version:
     version_number: null

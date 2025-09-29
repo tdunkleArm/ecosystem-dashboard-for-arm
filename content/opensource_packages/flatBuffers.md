@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://flatbuffers.dev/
-    support_caveats:
+    support_caveats: FlatBuffers works on Windows on Arm starting from version 22.9.24 released in September 2022.
     alternative_options:
     getting_started_resources:
         arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/

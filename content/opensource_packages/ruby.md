@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2013/12/25
 optional_info:
   homepage_url: https://www.ruby-lang.org/en/
-  support_caveats: null
+  support_caveats: Ruby works on Windows on Arm starting from version 3.4.1-2 released in January 2025.
   alternative_options: null
   getting_started_resources:
     arm_content: https://developer.arm.com/Additional%20Resources/Video%20Tutorials/Arm%20Socrates%20-%20Managing%20Projects%20-%20Generating%20and%20Running%20IP%20Configuration%20Scripts%20and%20Ruby%20API

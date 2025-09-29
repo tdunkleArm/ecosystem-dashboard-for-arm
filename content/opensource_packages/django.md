@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.djangoproject.com/
-    support_caveats:
+    support_caveats: Django works on Windows on Arm starting from version 4.2 LTS released in April 2023.
     alternative_options:
     getting_started_resources:
         arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/ 

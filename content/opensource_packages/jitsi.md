@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://jitsi.org/
-    support_caveats:
+    support_caveats: Jitsi Meet works on Windows on Arm starting from version 2025.7.0 released in July 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

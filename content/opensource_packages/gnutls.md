@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.gnutls.org/
-    support_caveats:
+    support_caveats: GnuTLS works on Windows on Arm starting from version 3.8.0 released in early 2023.
     alternative_options:
     getting_started_resources:
         arm_content: 

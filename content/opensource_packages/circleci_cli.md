@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://circleci.com/docs/local-cli/
-    support_caveats:
+    support_caveats: CircleCI-CLI works on Windows on Arm starting from version 0.1.258 released in March 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

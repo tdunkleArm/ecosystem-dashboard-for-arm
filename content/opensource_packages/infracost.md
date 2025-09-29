@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.infracost.io/
-    support_caveats:
+    support_caveats: Infracost works on Windows on Arm starting from version 0.9.19 released in March 2022.
     alternative_options: 
     getting_started_resources:
         arm_content: 

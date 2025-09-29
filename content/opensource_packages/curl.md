@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://curl.se/
-    support_caveats:
+    support_caveats: Curl works on Windows on Arm starting from version 8.3.0 released in September 2023.
     alternative_options:
     getting_started_resources:
         arm_content: 

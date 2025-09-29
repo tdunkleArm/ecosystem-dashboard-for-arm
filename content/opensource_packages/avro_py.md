@@ -11,7 +11,7 @@ supported_minimum_version:
  
 optional_info:
     homepage_url: https://avro.apache.org/
-    support_caveats:
+    support_caveats: Apache Avro works on Windows on Arm starting from version 1.11.2 released in July 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

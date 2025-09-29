@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info: 
     homepage_url: https://www.busybox.net/
-    support_caveats:
+    support_caveats: BusyBox works on Windows on Arm starting from version 5579.0.0 released in February 2025.
     alternative_options:
     getting_started_resources:
         arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/refinfra-quick-start/build-2/

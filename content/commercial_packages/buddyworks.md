@@ -10,7 +10,7 @@ release_date_on_arm: 2024/02/21
 
 optional_info:
     homepage_url: https://buddy.works/
-    support_caveats:
+    support_caveats: Buddy Works works on Windows on Arm starting from its February 2024 release.
     alternative_options:
     getting_started_resources:
         arm_content:

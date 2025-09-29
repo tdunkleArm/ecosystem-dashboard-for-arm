@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://github.com/allegroai/clearml/
-    support_caveats:
+    support_caveats: ClearML works on Windows on Arm starting from version 1.9.0 released in August 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

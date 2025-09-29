@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://nifi.apache.org/
-    support_caveats:
+    support_caveats: Apache NiFi works on Windows on Arm starting from version 2.5.0 released in July 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

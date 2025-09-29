@@ -9,11 +9,13 @@ supported_minimum_version:
   release_date: 2015/01/22
 optional_info:
   homepage_url: https://www.openssl.org/
-  support_caveats: null
+  support_caveats: OpenSSL works on Windows on Arm starting from version 1.1.1 released in September 2018.
   alternative_options: null
   getting_started_resources:
     arm_content: https://developer.arm.com/Tools%20and%20Software/Security%20Library%20Projects
     partner_content:
+      - display_name: Microsoft Azure
+        url: https://techcommunity.microsoft.com/blog/linuxandopensourceblog/azure-linux-3-0-now-generally-available-with-azure-kubernetes-service-v1-32/4399804
     official_docs: https://wiki.openssl.org/index.php/Compilation_and_Installation
   arm_recommended_minimum_version:
     version_number: 3.3.0

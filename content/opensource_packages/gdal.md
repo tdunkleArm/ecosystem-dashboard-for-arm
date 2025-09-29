@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2014/04/05
 optional_info:
   homepage_url: https://gdal.org
-  support_caveats: null
+  support_caveats: GDAL works on Windows on Arm starting from version 3.6.0 released in December 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: null

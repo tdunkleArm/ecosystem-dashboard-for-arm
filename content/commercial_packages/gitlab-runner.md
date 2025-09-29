@@ -10,7 +10,7 @@ release_date_on_arm: 2021/06/16
 
 optional_info:
     homepage_url: https://docs.gitlab.com/runner/
-    support_caveats:
+    support_caveats: GitLab Runner supports Windows on Arm targets starting from version 17.5 released in October 2024.
     alternative_options:
     getting_started_resources:
         arm_content: https://community.arm.com/arm-research/b/articles/posts/continuous-cross-architecture-integration-with-gitlab

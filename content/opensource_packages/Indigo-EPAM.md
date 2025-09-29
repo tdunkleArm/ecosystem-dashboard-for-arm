@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://solutionshub.epam.com/solution/indigo
-    support_caveats:
+    support_caveats: Indigo by EPAM works on Windows on Arm starting from version 1.34.0 released in September 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

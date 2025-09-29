@@ -10,7 +10,7 @@ release_date_on_arm: 2022/06/21
 
 optional_info:
     homepage_url: https://www.fastly.com/
-    support_caveats:
+    support_caveats: The Fastly Next-Gen WAF works on Windows on Arm starting from a release published in March 2022.
     alternative_options:
     getting_started_resources:
         arm_content: 

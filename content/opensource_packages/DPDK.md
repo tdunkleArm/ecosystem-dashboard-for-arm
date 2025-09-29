@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2015/12/15
 optional_info:
   homepage_url: https://www.dpdk.org/
-  support_caveats: null
+  support_caveats: DPDK works on Windows on Arm starting from version 19.05 released in May 2019.
   alternative_options: null
   getting_started_resources:
     arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/dpdk-optimization-on-arm

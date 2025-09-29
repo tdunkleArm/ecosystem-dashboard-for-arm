@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://code.videolan.org/videolan/dav1d/
-    support_caveats:
+    support_caveats: Dav1d works on Windows on Arm starting from version 0.8.0 released in October 2020.
     alternative_options:
     getting_started_resources:
         arm_content:  

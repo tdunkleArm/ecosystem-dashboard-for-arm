@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2015/08/19
 optional_info:
   homepage_url: https://github.com/golang/go
-  support_caveats: null
+  support_caveats: Golang works on Windows on Arm starting with version 1.18 released in March 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/golang/

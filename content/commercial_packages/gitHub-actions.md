@@ -8,7 +8,7 @@ works_on_arm: true
 release_date_on_arm: 2019/11/12
 optional_info:
   homepage_url: https://docs.github.com/en/actions
-  support_caveats: null
+  support_caveats: Self-hosted Windows on Arm runners are available starting from an update published in September 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/windows_cicd_github/runner-setup/

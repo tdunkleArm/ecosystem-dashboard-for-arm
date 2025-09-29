@@ -14,6 +14,8 @@ optional_info:
   getting_started_resources:
     arm_content: null
     partner_content:
+      - display_name: Amazon AWS
+        url: https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/
     official_docs: https://www.cloudhypervisor.org/docs/prologue/quick-start/
   arm_recommended_minimum_version:
     version_number: 46.0

@@ -9,11 +9,13 @@ supported_minimum_version:
   release_date: 2016/04/26
 optional_info:
   homepage_url: https://caddyserver.com/
-  support_caveats: null
+  support_caveats: Caddy works on Windows on Arm starting from version 2.7.4 released in December 2023.
   alternative_options: null
   getting_started_resources:
     arm_content: null
     partner_content:
+      - display_name: Amazon AWS
+        url: https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/
     official_docs: https://caddyserver.com/docs/install
   arm_recommended_minimum_version:
     version_number: 2.8.0

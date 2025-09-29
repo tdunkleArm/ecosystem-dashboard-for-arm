@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.sqlite.org/
-    support_caveats:
+    support_caveats: SQLite works on Windows on Arm starting from version 3.50.4 released in July 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

@@ -11,7 +11,7 @@ supported_minimum_version:
  
 optional_info:
     homepage_url: https://flask.palletsprojects.com/en/3.0.x/
-    support_caveats:
+    support_caveats: Flask works on Windows on Arm starting from version 2.2.3 released in February 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

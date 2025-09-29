@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://cloudevents.io/
-    support_caveats:
+    support_caveats: The Golang SDK for CloudEvents works on Windows on Arm starting from version 2.16.1 released in June 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

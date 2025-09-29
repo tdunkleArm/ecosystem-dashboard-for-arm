@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2017/09/27
 optional_info:
   homepage_url: https://www.docker.com/
-  support_caveats: null
+  support_caveats: Docker CE (Community Edition) works on Windows on Arm starting from a release in May 2024.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/install-guides/docker/

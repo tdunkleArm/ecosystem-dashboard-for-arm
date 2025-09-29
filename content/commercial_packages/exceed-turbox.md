@@ -10,7 +10,7 @@ release_date_on_arm: 2021/09/03
 
 optional_info:
     homepage_url: https://etxlive.rocketsoftware.com/
-    support_caveats:
+    support_caveats: OpenText Exceed TurboX (ETX) works on Windows on Arm starting from version 12.5.2 released in October 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

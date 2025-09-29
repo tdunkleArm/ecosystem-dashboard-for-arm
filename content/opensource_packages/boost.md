@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.boost.org/
-    support_caveats:
+    support_caveats: Boost works on Windows on Arm starting from version 1.83.0 released in August 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

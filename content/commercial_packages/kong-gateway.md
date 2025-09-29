@@ -9,7 +9,7 @@ release_date_on_arm: 2019/11/05
 
 optional_info:
     homepage_url: https://konghq.com/products/kong-gateway
-    support_caveats:
+    support_caveats: Kong Gateway works on Windows on Arm starting from version 3.0 released in November 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2014/03/18
 optional_info:
   homepage_url: https://openjdk.org/
-  support_caveats: null
+  support_caveats: Java/OpenJDK works on Windows on Arm starting from version 16, released in March 2021.
   alternative_options: null
   getting_started_resources:
     arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/performance-of-specjbb2015-on-oci-ampere-a1-compute-instances
@@ -20,6 +20,8 @@ optional_info:
         url: https://aws.amazon.com/blogs/compute/running-java-applications-on-amazon-ec2-a1-instances-with-amazon-corretto/
       - display_name: Microsoft Azure
         url: https://techcommunity.microsoft.com/blog/azurecompute/scaling-azure-arm64-vms-with-microsoft%E2%80%99s-build-of-openjdk-a-performance-testing-/3820435
+      - display_name: Google GCP
+        url: https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip
     official_docs: https://docs.oracle.com/en/java/
   arm_recommended_minimum_version:
     version_number: 11.0.9

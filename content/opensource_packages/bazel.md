@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://bazel.build/
-    support_caveats:
+    support_caveats: Bazel works on Windows on Arm starting from version 5.1 released in early 2022.
     alternative_options:
     getting_started_resources:
         arm_content: https://community.arm.com/arm-community-blogs/b/ai-and-ml-blog/posts/building-bazel-and-tensorflow-2-x-on-aarch64

@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://freetype.org/freetype2/docs/
-    support_caveats:
+    support_caveats: FreeType2 works on Windows on Arm starting from version 2.13.2 released in August 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

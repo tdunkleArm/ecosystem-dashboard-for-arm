@@ -9,13 +9,15 @@ supported_minimum_version:
   release_date: 2020/09/10
 optional_info:
   homepage_url: https://www.rust-lang.org/learn
-  support_caveats: null
+  support_caveats: Rust works on Windows on Arm starting with version 1.60 released in April 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/install-guides/rust/
     partner_content:
       - display_name: Amazon AWS
         url: https://aws.amazon.com/blogs/devops/building-an-arm64-rust-development-environment-using-aws-graviton2-and-aws-cdk/
+      - display_name: Microsoft Azure
+        url: https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/
     official_docs: https://www.rust-lang.org/tools/install
   arm_recommended_minimum_version:
     version_number: null

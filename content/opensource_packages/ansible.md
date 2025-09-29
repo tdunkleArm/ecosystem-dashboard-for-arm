@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://www.ansible.com/
-    support_caveats:
+    support_caveats: Ansible works on Windows on Arm starting from version 2.18 released in November 2024.
     alternative_options:
     getting_started_resources:
         arm_content: https://learn.arm.com/install-guides/ansible/

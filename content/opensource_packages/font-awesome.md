@@ -10,7 +10,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://docs.fontawesome.com/
-    support_caveats:
+    support_caveats: Font Awesome works on Windows on Arm starting from version 6.6.0 released in July 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

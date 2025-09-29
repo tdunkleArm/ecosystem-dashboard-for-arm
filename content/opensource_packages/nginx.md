@@ -9,13 +9,17 @@ supported_minimum_version:
   release_date: 2014/10/28
 optional_info:
   homepage_url: https://www.nginx.com/
-  support_caveats: null
+  support_caveats: NGINX works on Windows on Arm starting from version 1.26.0 released in May 2024.
   alternative_options: null
   getting_started_resources:
     arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/nginx/
     partner_content:
       - display_name: Microsoft Azure
         url: https://amperecomputing.com/briefs/nginx-on-azure-brief
+      - display_name: Google GCP
+        url: https://cloud.google.com/kubernetes-engine/docs/how-to/autopilot-arm-workloads
+      - display_name: Oracle OCI
+        url: https://blogs.oracle.com/cloud-infrastructure/post/introducing-oci-ampere-a2-arm-cloud-compute
     official_docs: https://www.nginx.com/resources/wiki/start/
   arm_recommended_minimum_version:
     version_number: 1.20.1

@@ -10,7 +10,7 @@ release_date_on_arm: 2019/12/03
 
 optional_info:
     homepage_url: https://docs.datadoghq.com/agent/?tab=Linux
-    support_caveats:
+    support_caveats: The Datadog Agent works on Windows on Arm starting from version 7.50 released in February 2024.
     alternative_options:
     getting_started_resources:
         arm_content: 

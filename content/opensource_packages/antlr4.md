@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://github.com/antlr/antlr4
-    support_caveats:
+    support_caveats: ANTLR works on Windows on Arm starting from version 4.13.0 released in May 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

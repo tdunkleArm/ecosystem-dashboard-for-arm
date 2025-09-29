@@ -11,7 +11,7 @@ supported_minimum_version:
  
 optional_info:
     homepage_url: https://git-scm.com/
-    support_caveats:
+    support_caveats: Git works on Windows on Arm starting from version 2.47.1 released in February 2025.
     alternative_options:
     getting_started_resources:
         arm_content:

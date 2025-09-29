@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2011/11/05
 optional_info:
   homepage_url: https://ffmpeg.org/
-  support_caveats: null
+  support_caveats: FFmpeg works on Windows on Arm starting from version 5.1 released in July 2022.
   alternative_options: null
   getting_started_resources:
     arm_content: https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/quick-tips-use-ffmpeg-to-convert-pictures-to-raw-rgb565

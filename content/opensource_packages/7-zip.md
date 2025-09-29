@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2022/03/18
 optional_info:
   homepage_url: https://www.7-zip.org/
-  support_caveats: null
+  support_caveats: 7-Zip works on Windows on Arm starting from version 21.00 released in August 2020.
   alternative_options: null
   getting_started_resources:
     arm_content: null

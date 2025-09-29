@@ -10,7 +10,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://activemq.apache.org/
-    support_caveats:
+    support_caveats: ActiveMQ works on Windows on Arm starting from version 5.19.0 released in March 2025.
     alternative_options:
     getting_started_resources:
         arm_content: 

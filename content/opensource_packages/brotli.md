@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2016/10/12
 optional_info:
   homepage_url: https://github.com/google/brotli?tab=readme-ov-file#introduction
-  support_caveats: null
+  support_caveats: Brotli works on Windows on Arm starting from version 1.0.9.2 of brotlicffi released in April 2021.
   alternative_options: null
   getting_started_resources:
     arm_content: null

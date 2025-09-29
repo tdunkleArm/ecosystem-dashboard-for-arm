@@ -8,7 +8,7 @@ works_on_arm: true
 release_date_on_arm: 2024/09/01
 optional_info:
   homepage_url: https://docs.github.com/en/actions
-  support_caveats: null
+  support_caveats: Hosted Arm64 Windows virtual machines are available starting from an update published in April 2025.
   alternative_options: null
   getting_started_resources:
     arm_content: null

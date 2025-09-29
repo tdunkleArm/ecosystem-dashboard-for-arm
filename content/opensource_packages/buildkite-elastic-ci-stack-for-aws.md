@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://buildkite.com/
-    support_caveats:
+    support_caveats: The Buildkite Elastic CI Stack for AWS works on Windows on Arm starting from version 5.13.0 released in November 2022.
     alternative_options:
     getting_started_resources:
         arm_content:

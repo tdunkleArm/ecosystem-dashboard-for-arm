@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://junit.org/junit5/
-    support_caveats:
+    support_caveats: JUnit5 works on Windows on Arm starting from version 5.10.0 released in July 2023.
     alternative_options:
     getting_started_resources:
         arm_content:

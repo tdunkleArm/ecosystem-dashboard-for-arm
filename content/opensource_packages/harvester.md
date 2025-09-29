@@ -9,7 +9,7 @@ supported_minimum_version:
   release_date: 2024/03/15
 optional_info:
   homepage_url: https://harvesterhci.io/
-  support_caveats: null
+  support_caveats: Harvester works on Windows on Arm starting from version 1.5 released in May 2025.
   alternative_options: null
   getting_started_resources:
     arm_content: null

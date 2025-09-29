@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://camel.apache.org/camel-k/latest/concepts/overview.html
-    support_caveats:
+    support_caveats: Camel K works on Windows on Arm starting from version 2.3.0 released in April 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

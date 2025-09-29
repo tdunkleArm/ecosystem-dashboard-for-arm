@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://iniparser.gitlab.io/iniparser/index.html
-    support_caveats:
+    support_caveats: IniParser works on Windows on Arm starting from version 4.2.6 released in September 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

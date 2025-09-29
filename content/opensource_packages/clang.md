@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://clang.llvm.org/
-    support_caveats:
+    support_caveats: Clang works on Windows on Arm starting from version 12.0 released in December 2021.
     alternative_options:
     getting_started_resources:
         arm_content: https://developer.arm.com/documentation/101458/2404/Supporting-reference-information/Clang-and-LLVM-documentation

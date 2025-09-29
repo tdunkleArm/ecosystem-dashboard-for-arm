@@ -11,7 +11,7 @@ supported_minimum_version:
 
 optional_info:
     homepage_url: https://arrow.apache.org/
-    support_caveats:
+    support_caveats: Apache Arrow works on Windows on Arm starting from version 12.0.0 released in May 2023.
     alternative_options:
     getting_started_resources:
         arm_content: https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/apache-optimization-on-arm

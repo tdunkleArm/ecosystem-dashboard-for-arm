@@ -10,7 +10,7 @@ release_date_on_arm: 2023/05/19
 
 optional_info:
     homepage_url: https://hazelcast.com
-    support_caveats:
+    support_caveats: Hazelcast works on Windows on Arm starting from version 5.5 released in July 2024.
     alternative_options:
     getting_started_resources:
         arm_content:

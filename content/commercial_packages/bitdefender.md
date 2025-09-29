@@ -10,7 +10,7 @@ release_date_on_arm: 2023/07/13
 
 optional_info:
     homepage_url: https://www.bitdefender.com/
-    support_caveats:
+    support_caveats: Bitdefender works on Windows on Arm starting from releases in late 2023.
     alternative_options:
     getting_started_resources:
         arm_content: 
