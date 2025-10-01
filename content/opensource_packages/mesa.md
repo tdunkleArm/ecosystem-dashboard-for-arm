@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.5
     release_date: 2014/12/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://mesa.readthedocs.io/en/stable/

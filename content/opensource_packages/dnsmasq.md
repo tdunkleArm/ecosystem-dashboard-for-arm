@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.68
     release_date: 2013/12/08
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://thekelleys.org.uk/dnsmasq/doc.html

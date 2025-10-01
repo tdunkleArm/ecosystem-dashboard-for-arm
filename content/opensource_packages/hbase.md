@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: hbase-0.92.0
   release_date: 2012/01/23
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://hbase.apache.org/
   support_caveats: null

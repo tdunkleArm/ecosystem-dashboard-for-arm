@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 16.04
   release_date: 2015/10/21
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://ubuntu.com/
   support_caveats: null

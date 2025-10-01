@@ -7,6 +7,8 @@ product_url: https://docs.sophos.com/esg/sls/help/en-us/index.html
 works_on_arm: true
 release_date_on_arm: 2022/06/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.sophos.com/en-us

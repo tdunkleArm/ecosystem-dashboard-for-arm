@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.15
     release_date: 2013/03/01
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: http://software.schmorp.de/pkg/libev.html
     support_caveats:

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v2.8.0.0
   release_date: 2021/11/16
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://docs.yugabyte.com/
   support_caveats: null

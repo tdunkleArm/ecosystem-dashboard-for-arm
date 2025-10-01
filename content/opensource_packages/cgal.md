@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.7
     release_date: 2015/10/19
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cgal.org/
     support_caveats: 

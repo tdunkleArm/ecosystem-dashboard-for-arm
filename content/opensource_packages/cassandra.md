@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 3.0.14
   release_date: 2017/10/04
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://cassandra.apache.org/_/index.html
   support_caveats: null

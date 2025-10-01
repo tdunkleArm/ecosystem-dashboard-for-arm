@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.1.1
     release_date: 2022/08/08
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://nacos.io/
     support_caveats: For Nacos to run on ARM servers, Java 8 or above must be installed. Lower versions do not support Nacos on ARM64.

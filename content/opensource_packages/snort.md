@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.9.15.1
     release_date: 2020/01/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.snort.org/

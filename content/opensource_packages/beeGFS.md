@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.3.0
     release_date: 2022/04/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.beegfs.io/c/

@@ -7,6 +7,8 @@ product_url: https://resources.sw.siemens.com/en-US/fact-sheet-solido-variation-
 works_on_arm: true
 release_date_on_arm: 2021/10/19
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://resources.sw.siemens.com/en-US/fact-sheet-solido-variation-designer

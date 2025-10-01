@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.4.9
     release_date: 2012/03/08
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://freetype.org/

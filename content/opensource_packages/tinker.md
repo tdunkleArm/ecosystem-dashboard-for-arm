@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 8.1.2
     release_date: 2017/02/17
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://dasher.wustl.edu/tinker/

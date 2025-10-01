@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.1
     release_date: 2016/06/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/splitio/python-client

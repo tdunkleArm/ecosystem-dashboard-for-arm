@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v1.0.0
     release_date: 2022/06/06
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://github.com/paulnorthrop/itp
     support_caveats: 

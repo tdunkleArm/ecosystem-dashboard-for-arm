@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.13.0
     release_date: 2022/11/30
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/kehrlab/PopIns2

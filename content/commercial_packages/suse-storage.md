@@ -7,6 +7,8 @@ product_url: https://www.suse.com/products/rancher/storage/
 works_on_arm: true
 release_date_on_arm: 2022/12/30
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/storage/

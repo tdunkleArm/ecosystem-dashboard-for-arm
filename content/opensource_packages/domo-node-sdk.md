@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v2.0.0
     release_date: 2017/08/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://developer.domo.com/

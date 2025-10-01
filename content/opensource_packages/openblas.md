@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.3.9
     release_date: 2020/03/02
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.openblas.net/

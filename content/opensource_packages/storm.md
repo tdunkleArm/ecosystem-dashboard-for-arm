@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.2.0
   release_date: 2020/06/18
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://storm.apache.org/
   support_caveats: openjdk-11-jdk

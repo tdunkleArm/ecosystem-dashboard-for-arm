@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.10.0
     release_date: 2022/04/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://pulsar.apache.org/

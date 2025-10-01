@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 9.6.9
   release_date: 2018/05/07
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.postgresql.org/
   support_caveats: null

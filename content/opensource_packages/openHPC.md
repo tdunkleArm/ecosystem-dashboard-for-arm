@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v1.2
   release_date: 2016/11/12
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://openhpc.community/
   support_caveats: null

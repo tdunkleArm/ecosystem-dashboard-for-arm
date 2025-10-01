@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.3.3
     release_date: 2023/05/29
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://postgis.net/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.12.4
     release_date: 2021/10/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.openvswitch.org/

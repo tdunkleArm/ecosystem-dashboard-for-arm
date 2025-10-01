@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.6.3
     release_date: 2015/04/10
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://openzfs.github.io/openzfs-docs/
     support_caveats:

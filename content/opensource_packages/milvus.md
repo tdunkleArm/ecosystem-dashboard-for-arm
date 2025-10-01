@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.0
     release_date: 2023/08/23
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://milvus.io/

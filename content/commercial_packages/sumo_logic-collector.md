@@ -7,6 +7,8 @@ product_url: https://www.sumologic.com/guides/opentelemetry/
 works_on_arm: true
 release_date_on_arm: 2022/07/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.sumologic.com/guides/opentelemetry/

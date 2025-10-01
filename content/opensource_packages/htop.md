@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.0.3
     release_date: 2014/04/25
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://htop.dev/

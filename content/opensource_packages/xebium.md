@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6
     release_date: 2012/01/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/xebia/Xebium

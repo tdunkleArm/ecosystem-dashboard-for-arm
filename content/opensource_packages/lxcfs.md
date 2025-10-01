@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.12
     release_date: 2015/11/18
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://linuxcontainers.org/lxcfs/introduction/

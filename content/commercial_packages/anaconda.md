@@ -7,6 +7,9 @@ product_url: https://www.anaconda.com/
 works_on_arm: true
 release_date_on_arm: 2021/05/14
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.anaconda.com/
     support_caveats:

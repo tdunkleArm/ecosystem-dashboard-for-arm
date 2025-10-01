@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.8.0
     release_date: 2018/02/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.phoronix-test-suite.com/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.26.0
     release_date: 2019/03/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.intel.com/content/www/us/en/developer/tools/isa-l/overview.html

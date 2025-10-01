@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.1.4
     release_date: 2013/11/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://libvirt.org/index.html

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 6.6+r27746-2
     release_date: 2016/02/15
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://nwchemgit.github.io/index.html

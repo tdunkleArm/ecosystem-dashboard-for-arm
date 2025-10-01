@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.21
     release_date: 2012/11/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://libevent.org/

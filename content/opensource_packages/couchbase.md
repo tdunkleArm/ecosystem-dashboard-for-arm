@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.1
     release_date: 2022/05/31
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.couchbase.com/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.4.0
     release_date: 2015/04/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.webmproject.org/code/

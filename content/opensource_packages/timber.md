@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.21.0
     release_date: 2015/03/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://timber.github.io/docs/v2/

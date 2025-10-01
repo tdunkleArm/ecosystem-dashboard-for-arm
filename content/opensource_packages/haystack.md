@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10.0
     release_date: 2022/10/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://haystack.deepset.ai/

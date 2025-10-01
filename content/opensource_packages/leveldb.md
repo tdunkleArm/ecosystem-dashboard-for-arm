@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v1.19
     release_date: 2016/08/11
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://dbdb.io/db/leveldb
     support_caveats:

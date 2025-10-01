@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.9.2
     release_date: 2014/04/07
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://ant.apache.org/

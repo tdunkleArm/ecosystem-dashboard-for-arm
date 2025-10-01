@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.24.0
     release_date: 2020/12/22
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://scikit-learn.org/1.5/index.html

@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.3.3
     release_date: 2014/11/03
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.fltk.org/

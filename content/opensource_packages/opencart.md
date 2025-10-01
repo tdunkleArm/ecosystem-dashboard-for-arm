@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.0.0
     release_date: 2016/07/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.opencart.com/

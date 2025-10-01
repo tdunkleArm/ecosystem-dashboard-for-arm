@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.3.6
     release_date: 2020/07/31
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.hikunpeng.com/en/developer/boostkit/library

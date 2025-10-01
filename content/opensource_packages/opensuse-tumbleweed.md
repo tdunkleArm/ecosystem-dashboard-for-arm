@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 20190130
     release_date: 2019/01/30
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.opensuse.org/#Tumbleweed

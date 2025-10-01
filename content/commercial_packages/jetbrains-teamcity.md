@@ -7,6 +7,8 @@ product_url: https://www.jetbrains.com/teamcity/
 works_on_arm: true
 release_date_on_arm: 2021/05/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.jetbrains.com/teamcity/

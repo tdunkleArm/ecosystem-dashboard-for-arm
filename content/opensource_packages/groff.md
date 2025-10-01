@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.22.2
     release_date: 2013/02/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.gnu.org/software/groff/

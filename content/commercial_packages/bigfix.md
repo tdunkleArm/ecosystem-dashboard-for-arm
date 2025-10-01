@@ -7,6 +7,9 @@ product_url: https://www.hcl-software.com/bigfix/getting-started-with-bigfix
 works_on_arm: true
 release_date_on_arm: 2022/12/15
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.hcl-software.com/bigfix/getting-started-with-bigfix

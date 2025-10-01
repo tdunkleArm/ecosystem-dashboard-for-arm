@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.9.0
     release_date: 2016/07/31
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://roadmap.sh/cpp/libraries/spdlog

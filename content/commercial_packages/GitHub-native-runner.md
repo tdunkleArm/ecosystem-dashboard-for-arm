@@ -6,6 +6,11 @@ description: Hosted Arm64 Linux virtual machines from GitHub to run automated wo
 product_url: https://docs.github.com/en/actions
 works_on_arm: true
 release_date_on_arm: 2024/09/01
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://docs.github.com/en/actions
   support_caveats: null

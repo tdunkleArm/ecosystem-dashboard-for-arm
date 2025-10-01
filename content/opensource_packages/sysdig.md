@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.30.0
     release_date: 2022/10/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://www.sysdig.com/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.2.2
     release_date: 2015/08/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://openscenegraph.github.io/openscenegraph.io/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.15.2
     release_date: 2020/12/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://rocksdb.org/

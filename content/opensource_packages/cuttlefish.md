@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9.26
     release_date: 2024/05/21
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://source.android.com/docs/devices/cuttlefish

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 3.5
   release_date: 2016/11/16
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://alpinelinux.org/
   support_caveats: null

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.14.0
   release_date: 2020/02/23
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://spack.readthedocs.io/en/latest/index.html
   support_caveats: null

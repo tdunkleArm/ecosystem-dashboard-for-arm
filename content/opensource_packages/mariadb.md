@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: mariadb-10.3.7
   release_date: 2018/05/24
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://mariadb.org/
   support_caveats: null

@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.0.0
     release_date: 2015/03/07
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://freeglut.sourceforge.net/

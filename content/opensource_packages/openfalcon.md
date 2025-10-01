@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.2.1
     release_date: 2017/08/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://open-falcon.github.io/

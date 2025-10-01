@@ -7,6 +7,9 @@ product_url: https://landing.ai/platform
 works_on_arm: true
 release_date_on_arm: 2023/10/18
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://landing.ai/
     support_caveats: Arm installation is currently supported only when deploying LandingLens via Docker.

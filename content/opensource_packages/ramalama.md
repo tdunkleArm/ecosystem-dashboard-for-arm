@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.0.1
     release_date: 2024/10/01
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://ramalama.ai/

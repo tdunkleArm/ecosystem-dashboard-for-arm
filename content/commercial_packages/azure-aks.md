@@ -7,6 +7,8 @@ product_url: https://azure.microsoft.com/en-us/products/kubernetes-service/
 works_on_arm: true
 release_date_on_arm: 2022/04/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://azure.microsoft.com/en-us/products/kubernetes-service/

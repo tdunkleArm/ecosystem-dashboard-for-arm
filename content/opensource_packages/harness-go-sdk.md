@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.1
     release_date: 2021/06/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/harness-io/harness-go-sdk

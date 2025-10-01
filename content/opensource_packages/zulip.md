@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.10
     release_date: 2022/02/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://zulip.com/

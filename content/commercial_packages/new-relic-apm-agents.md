@@ -7,6 +7,8 @@ product_url: https://docs.newrelic.com/docs/apm/new-relic-apm/getting-started/in
 works_on_arm: true
 release_date_on_arm: 2021/08/05
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://newrelic.com/

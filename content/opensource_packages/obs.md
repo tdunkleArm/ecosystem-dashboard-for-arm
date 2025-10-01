@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.4
     release_date: 2013/04/30
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://openbuildservice.org/

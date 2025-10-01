@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0
     release_date: 2013/07/31
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://supervisord.org/

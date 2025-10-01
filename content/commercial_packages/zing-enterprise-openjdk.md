@@ -7,6 +7,9 @@ product_url: https://www.azul.com/products/prime/
 works_on_arm: true
 release_date_on_arm: 2023/02/07
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.azul.com/downloads/#prime
     support_caveats:

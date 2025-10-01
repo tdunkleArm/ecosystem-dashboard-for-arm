@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 25.0
     release_date: 2022/05/18
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.erlang.org/

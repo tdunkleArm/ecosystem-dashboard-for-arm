@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.1
   release_date: 2016/08/17
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://huggingface.co/transformers
   support_caveats: null

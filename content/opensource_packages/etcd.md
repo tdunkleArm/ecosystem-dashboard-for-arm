@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v3.2.11
   release_date: 2017/12/06
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://etcd.io/
   support_caveats: null

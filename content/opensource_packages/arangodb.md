@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.10
     release_date: 2022/10/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://arangodb.com/

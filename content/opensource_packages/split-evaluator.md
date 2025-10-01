@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2017/07/29
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator

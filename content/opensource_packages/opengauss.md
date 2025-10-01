@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.0
     release_date: 2021/03/31
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://opengauss.org/en/

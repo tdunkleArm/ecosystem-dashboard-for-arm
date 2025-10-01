@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v9.0.0.rc1
     release_date: 2020/03/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://vtk.org/

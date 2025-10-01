@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2020.8.0
     release_date: 2020/08/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://developers.cloudflare.com/

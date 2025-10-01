@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.2a1
     release_date: 2019/11/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://robotframework.org/

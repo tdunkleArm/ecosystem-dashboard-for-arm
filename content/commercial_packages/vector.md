@@ -7,6 +7,9 @@ product_url: https://vector.dev/
 works_on_arm: true
 release_date_on_arm: 2019/12/12
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://vector.dev/
     support_caveats:

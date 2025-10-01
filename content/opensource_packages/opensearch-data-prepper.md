@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.5.0
     release_date: 2023/10/11
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://docs.opensearch.org/latest/data-prepper/

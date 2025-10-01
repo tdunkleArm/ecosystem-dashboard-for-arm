@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.0.1
     release_date: 2015/10/14
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://nifi.apache.org/

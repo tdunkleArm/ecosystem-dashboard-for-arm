@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.21.3
     release_date: 2022/01/13
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://docs.tigera.io/calico/latest/about/
     support_caveats:

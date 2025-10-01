@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.3.0
     release_date: 2016/05/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.xuxueli.com/xxl-job/

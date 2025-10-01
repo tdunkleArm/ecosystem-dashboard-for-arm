@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.1
     release_date: 2014/03/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://leethomason.github.io/tinyxml2/index.html

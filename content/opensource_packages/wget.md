@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.15
     release_date: 2014/01/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/mirror/wget

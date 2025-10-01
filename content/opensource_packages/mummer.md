@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.9.0alpha
     release_date: 2015/10/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://mummer.sourceforge.net/

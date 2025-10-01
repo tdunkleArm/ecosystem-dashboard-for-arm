@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: v1.3.8
     release_date: 2021/09/07
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://dolphinscheduler.apache.org/en-us

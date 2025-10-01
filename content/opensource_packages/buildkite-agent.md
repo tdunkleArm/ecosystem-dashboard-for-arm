@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.2-beta.2
     release_date: 2016/03/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://buildkite.com/docs/agent/

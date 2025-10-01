@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v5.2.0
   release_date: 2022/11/21
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: http://neo4j.com/
   support_caveats: null

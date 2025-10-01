@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.14.31-rc
     release_date: 2021/11/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.datree.io/

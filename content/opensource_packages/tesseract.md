@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.04.00 
     release_date: 2015/07/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://tesseract-ocr.github.io/

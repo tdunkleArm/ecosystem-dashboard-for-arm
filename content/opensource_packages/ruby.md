@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.1.0
   release_date: 2013/12/25
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.ruby-lang.org/en/
   support_caveats: null

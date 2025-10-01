@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.1.0
     release_date: 2025/06/06
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/elastic/elastic-otel-node/tree/main/packages/mockopampserver

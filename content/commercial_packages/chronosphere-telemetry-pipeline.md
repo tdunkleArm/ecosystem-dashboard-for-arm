@@ -7,6 +7,8 @@ product_url: https://chronosphere.io/platform/telemetry-pipeline/
 works_on_arm: true
 release_date_on_arm: 2023/04/19
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://chronosphere.io

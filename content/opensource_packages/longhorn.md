@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.1.0
     release_date: 2020/12/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://longhorn.io/

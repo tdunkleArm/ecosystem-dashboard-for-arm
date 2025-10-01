@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 6.5.0
   release_date: 2018/10/30
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://gcc.gnu.org/
   support_caveats: null

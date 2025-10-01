@@ -7,6 +7,8 @@ product_url: https://docs.tuxcare.com/live-patching-services/
 works_on_arm: true
 release_date_on_arm: 2020/06/12
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.tuxcare.com/live-patching-services/

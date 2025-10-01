@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.6.0-alpha.1
   release_date: 2020/04/10
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://istio.io/
   support_caveats: null

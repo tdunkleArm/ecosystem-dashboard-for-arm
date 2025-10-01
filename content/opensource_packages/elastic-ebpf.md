@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 8.5.0
     release_date: 2022/11/07
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/elastic/ebpf

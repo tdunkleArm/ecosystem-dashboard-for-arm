@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.1.25
     release_date: 2024/01/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://logz.io/

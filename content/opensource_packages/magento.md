@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.4.4
     release_date: 2022/04/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://business.adobe.com/products/magento/open-source.html

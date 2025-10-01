@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.7.1
     release_date: 2022/11/11
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/google/benchmark

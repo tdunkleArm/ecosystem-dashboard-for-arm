@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.6.2
     release_date: 2014/07/09
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/knightliao/disconf

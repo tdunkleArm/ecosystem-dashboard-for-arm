@@ -7,6 +7,9 @@ product_url: https://developer.hashicorp.com/nomad/docs
 works_on_arm: true
 release_date_on_arm: 2018/09/26
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://developer.hashicorp.com/
     support_caveats:

@@ -7,6 +7,8 @@ product_url: https://redis.io/about/redis-enterprise/
 works_on_arm: true
 release_date_on_arm: 2017/09/26
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://redis.io/

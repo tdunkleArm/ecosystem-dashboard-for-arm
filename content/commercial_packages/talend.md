@@ -7,6 +7,8 @@ product_url: https://www.qlik.com/us/products/qlik-talend-data-integration-and-q
 works_on_arm: true
 release_date_on_arm: 2022/11/18
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.qlik.com/us/products/qlik-talend-data-integration-and-quality

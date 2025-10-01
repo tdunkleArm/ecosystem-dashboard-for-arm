@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.0.0
     release_date: 2018/03/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.openstack.org/kolla/latest/

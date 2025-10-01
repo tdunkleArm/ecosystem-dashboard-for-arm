@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 9.1.6
     release_date: 2018/12/20
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://opendev.org/openstack/ironic
     support_caveats:

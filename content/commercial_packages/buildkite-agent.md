@@ -7,6 +7,9 @@ product_url: https://buildkite.com/docs/agent/v3
 works_on_arm: true
 release_date_on_arm: 2016/03/17
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://buildkite.com/docs/agent/v3
     support_caveats:

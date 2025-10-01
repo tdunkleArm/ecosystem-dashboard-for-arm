@@ -7,6 +7,8 @@ product_url: https://www.scylladb.com/product/scylla-enterprise/
 works_on_arm: true
 release_date_on_arm: 2022/08/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.scylladb.com/

@@ -7,6 +7,9 @@ product_url: https://www.tigera.io/project-calico/
 works_on_arm: true
 release_date_on_arm: 2023/08/23
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.tigera.io/
     support_caveats:

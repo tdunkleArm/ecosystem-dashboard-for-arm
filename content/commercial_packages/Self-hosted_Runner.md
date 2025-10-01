@@ -7,6 +7,8 @@ product_url: https://circleci.com/docs/runner-overview/
 works_on_arm: true
 release_date_on_arm: 2020/11/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://circleci.com/docs/runner-overview/

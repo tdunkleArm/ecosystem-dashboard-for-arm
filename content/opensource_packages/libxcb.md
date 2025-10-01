@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10
     release_date: 2013/12/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/xorg/lib/libxcb

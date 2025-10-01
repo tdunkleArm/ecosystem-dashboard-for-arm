@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.2
     release_date: 2023/06/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/harness/harness-cli?tab=readme-ov-file#harness-cli

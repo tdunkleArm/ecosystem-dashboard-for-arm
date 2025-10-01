@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 20.10
     release_date: 2020/10/02
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://developer.arm.com/documentation/102249/2410/Tutorials/Get-started-with-Arm-RAN-Acceleration-Library?lang=en

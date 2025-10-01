@@ -7,6 +7,8 @@ product_url: https://www.microsoft.com/en-in/windows
 works_on_arm: true
 release_date_on_arm: 2018/11/15
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.microsoft.com/en-in/windows

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: Master branch
     release_date: 2024/11/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/LINBIT/linstor-server

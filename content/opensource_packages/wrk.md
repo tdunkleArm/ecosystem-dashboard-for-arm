@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2012/03/18
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://github.com/wg/wrk
     support_caveats:

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v4.9.0
     release_date: 2018/09/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.samba.org/

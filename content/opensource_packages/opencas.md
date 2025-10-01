@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 24.9
     release_date: 2024/10/08
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://open-cas.com/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.4
     release_date: 2016/09/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://oneapi-src.github.io/oneTBB/

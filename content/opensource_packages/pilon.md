@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9
     release_date: 2013/08/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/broadinstitute/pilon/wiki#overview

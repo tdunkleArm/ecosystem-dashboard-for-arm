@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.4.8
     release_date: 2022/11/08
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://gerrit.googlesource.com/gerrit

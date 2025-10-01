@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.2
     release_date: 2013/10/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.r-project.org/

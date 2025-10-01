@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v2.1.0
     release_date: 2017/03/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://support.sas.com/en/software/saspy.html

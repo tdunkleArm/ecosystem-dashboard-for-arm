@@ -7,7 +7,9 @@ works_on_arm: FALSE
 supported_minimum_version:
     version_number:
     release_date:
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.yambo-code.eu/

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.5.1
   release_date: 2018/08/16
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://mosquitto.org/
   support_caveats: null

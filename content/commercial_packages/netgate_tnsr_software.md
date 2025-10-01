@@ -7,6 +7,8 @@ product_url: https://www.netgate.com/tnsr
 works_on_arm: true
 release_date_on_arm: 2024/07/11
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.netgate.com/tnsr

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: OPENLDAP_REL_ENG_2_4_50
     release_date: 2020/04/28
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.openldap.org/

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.2.5
     release_date: 2022/02/02
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/kubewarden/kwctl

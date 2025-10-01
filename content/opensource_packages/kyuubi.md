@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.5.0-incubating
     release_date: 2022/03/16
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://kyuubi.readthedocs.io/en/master/index.html
     support_caveats:

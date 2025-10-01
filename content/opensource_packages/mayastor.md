@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.8.0
     release_date: 2021/03/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://mayastor.gitbook.io/introduction

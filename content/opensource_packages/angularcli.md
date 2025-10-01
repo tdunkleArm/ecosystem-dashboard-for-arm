@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.0.8
     release_date: 2018/06/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://angular.dev/

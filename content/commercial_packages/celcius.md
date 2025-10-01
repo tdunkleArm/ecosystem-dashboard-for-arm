@@ -7,6 +7,8 @@ product_url: https://www.cadence.com/en_US/home/tools/system-analysis/thermal-so
 works_on_arm: true
 release_date_on_arm: 2025/12/31
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/system-analysis/thermal-solutions/celsius-thermal-solver.html

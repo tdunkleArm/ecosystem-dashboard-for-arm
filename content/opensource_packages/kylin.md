@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: v3.1.3
     release_date: 2022/01/05
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://kylin.apache.org/

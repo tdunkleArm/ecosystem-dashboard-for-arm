@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: CentOS7(1511)
     release_date: 2016/02/19
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.centos.org/

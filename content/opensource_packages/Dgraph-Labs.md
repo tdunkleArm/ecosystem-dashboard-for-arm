@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v22.0.2
     release_date: 2022/12/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://dgraph.io/

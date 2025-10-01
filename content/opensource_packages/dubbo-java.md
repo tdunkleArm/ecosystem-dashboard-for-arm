@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: dubbo-2.7.11
     release_date: 2021/05/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://dubbo.apache.org/en/docs3-v2/java-sdk/

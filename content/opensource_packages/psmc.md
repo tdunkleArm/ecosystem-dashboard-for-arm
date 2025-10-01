@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.5
     release_date: 2015/04/29
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/lh3/psmc

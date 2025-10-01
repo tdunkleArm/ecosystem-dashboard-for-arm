@@ -6,7 +6,9 @@ description: LEIP optimizes AI models for deployment on edge devices by compress
 product_url: https://latentai.com/products/
 works_on_arm: true
 release_date_on_arm: 2023/08/04
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://latentai.com/products/

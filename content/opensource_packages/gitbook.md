@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 
     release_date:  2024/11/05 (Main branch)
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.gitbook.com/

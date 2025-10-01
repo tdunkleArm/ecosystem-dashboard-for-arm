@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 3.19.3
   release_date: 2021/01/13
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://cmake.org/
   support_caveats: null

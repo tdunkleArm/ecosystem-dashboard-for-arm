@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 16.2 RTM
     release_date: 2016/10/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.infragistics.com/products/ignite-ui

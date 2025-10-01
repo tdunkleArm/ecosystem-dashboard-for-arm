@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.12.0
     release_date: 2024/03/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.paraview.org/

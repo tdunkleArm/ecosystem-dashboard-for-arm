@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.5.16
   release_date: 2019/05/25
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://memcached.org/
   support_caveats: null

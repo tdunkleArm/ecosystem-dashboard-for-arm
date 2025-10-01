@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.1.1
     release_date: 2013/11/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://log4cpp.sourceforge.net/

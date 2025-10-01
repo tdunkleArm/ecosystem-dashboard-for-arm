@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.7.0-rc1
     release_date: 2022/12/05
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc/fraunhofer-versatile-video-encoder-vvenc.html

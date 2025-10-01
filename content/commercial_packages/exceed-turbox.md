@@ -7,6 +7,9 @@ product_url: https://etxlive.rocketsoftware.com/
 works_on_arm: true
 release_date_on_arm: 2021/09/03
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://etxlive.rocketsoftware.com/

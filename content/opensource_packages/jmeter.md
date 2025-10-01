@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.0
     release_date: 2018/09/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://jmeter.apache.org/

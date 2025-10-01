@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.20.0
     release_date: 2022/5/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://kerberos.org/

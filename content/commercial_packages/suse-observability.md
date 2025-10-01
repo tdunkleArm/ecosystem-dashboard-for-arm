@@ -7,6 +7,8 @@ product_url: https://www.suse.com/products/rancher/observability/
 works_on_arm: true
 release_date_on_arm: 2025/07/22
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/observability/

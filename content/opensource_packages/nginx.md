@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.7.7
   release_date: 2014/10/28
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.nginx.com/
   support_caveats: null

@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.2.0
     release_date: 2013/05/10
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.gnutls.org/

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.0.1
   release_date: 2022/10/25
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.langchain.com/langchain
   support_caveats: null

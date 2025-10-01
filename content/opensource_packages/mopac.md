@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 22.0.4
     release_date: 2022/07/08
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://openmopac.net/

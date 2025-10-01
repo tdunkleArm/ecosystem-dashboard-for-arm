@@ -6,6 +6,10 @@ description: Oracle Database is the world's leading converged, multi-model datab
 product_url: https://www.oracle.com/database/technologies/oracle-database-software-downloads.html
 works_on_arm: true
 release_date_on_arm: 2019/01/30
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.oracle.com/database/
   support_caveats: For database version 19c, there are some known bugs listed [here](https://docs.oracle.com/en/database/oracle/oracle-database/19/rnrdm/issues-affecting-linux-arm-aarch64-oracle-database-19.14.html). The latest versions are more stable on the Arm architecture.

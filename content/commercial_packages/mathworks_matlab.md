@@ -7,6 +7,8 @@ product_url: https://in.mathworks.com/products/matlab.html
 works_on_arm: false
 release_date_on_arm: 
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://in.mathworks.com/products/matlab.html

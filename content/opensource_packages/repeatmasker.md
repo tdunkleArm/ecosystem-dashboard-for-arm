@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 4.1.0
     release_date: 2019/10/30
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.repeatmasker.org/

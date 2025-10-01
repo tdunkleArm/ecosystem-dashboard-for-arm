@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.10.0
     release_date: 2014/09/11
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://valgrind.org/
     support_caveats: Certain Valgrind tools may have limitations on Arm servers.

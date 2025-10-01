@@ -7,6 +7,9 @@ product_url: https://www.cloudbees.com/products/cloudbees-feature-management
 works_on_arm: true
 release_date_on_arm: 2022/11/02 
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cloudbees.com/
     support_caveats:

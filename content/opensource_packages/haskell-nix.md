@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: nix-tools-0.1.6
     release_date: 2024/03/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://input-output-hk.github.io/haskell.nix/

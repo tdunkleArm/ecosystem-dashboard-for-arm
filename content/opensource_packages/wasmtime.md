@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.16.0
   release_date: 2020/05/15
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://wasmtime.dev/
   support_caveats: null

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.0.0
     release_date: 2020/01/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://vitess.io/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.99.4
     release_date: 2014/11/10
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://sqoop.apache.org/

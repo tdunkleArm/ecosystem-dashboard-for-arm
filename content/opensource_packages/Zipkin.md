@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.22.1
     release_date: 2020/11/01
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://zipkin.io/

@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.5
   release_date: 2015/08/19
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://github.com/golang/go
   support_caveats: null

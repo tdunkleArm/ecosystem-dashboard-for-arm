@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.21
     release_date: 2014/10/30
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://acl-dev.cn/

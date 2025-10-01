@@ -7,6 +7,8 @@ product_url: https://octopus.com/docs/infrastructure/deployment-targets/tentacle
 works_on_arm: true
 release_date_on_arm: 2021/01/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://octopus.com/ 

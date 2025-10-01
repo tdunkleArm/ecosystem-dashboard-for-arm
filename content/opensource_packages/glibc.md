@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.19
   release_date: 2014/02/07
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://sourceware.org/glibc/
   support_caveats: null

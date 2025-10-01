@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.31
     release_date: 2021/02/16
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://freemarker.apache.org/

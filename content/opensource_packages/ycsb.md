@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.7.0
     release_date: 2016/02/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/brianfrankcooper/YCSB

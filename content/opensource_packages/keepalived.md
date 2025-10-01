@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.2.3
     release_date: 2012/08/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.keepalived.org/index.html#

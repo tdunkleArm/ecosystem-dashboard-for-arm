@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v6.0.0
     release_date: 2021/12/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://deepstreamio.github.io/

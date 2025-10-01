@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.0.4
     release_date: 2015/07/29
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://grails.org/

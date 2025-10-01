@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.18.0
     release_date: 2023/03/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://weaviate.io/developers/weaviate/

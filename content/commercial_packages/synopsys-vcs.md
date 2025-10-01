@@ -7,6 +7,9 @@ product_url: https://www.synopsys.com/verification/simulation/vcs.html
 works_on_arm: true
 release_date_on_arm: 2020/12/17
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.synopsys.com/
     support_caveats:

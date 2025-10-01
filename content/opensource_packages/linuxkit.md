@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.2
     release_date: 2018/01/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/linuxkit/linuxkit

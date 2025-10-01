@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.9.17
     release_date: 2022/01/31
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.infracost.io/

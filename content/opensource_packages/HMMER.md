@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: hmmer-3.4
     release_date: 2023/08/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://hmmer.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.3.1
     release_date: 2024/07/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/FyraLabs/tiffin

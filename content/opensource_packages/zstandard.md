@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.16.0
     release_date: 2021/10/17
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/indygreg/python-zstandard

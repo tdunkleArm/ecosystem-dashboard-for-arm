@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 3.25.23
     release_date: 2014/03/24
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://v8.dev/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2017-05-01
     release_date: 2017/05/29
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/google/re2

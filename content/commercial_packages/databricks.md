@@ -7,6 +7,9 @@ product_url: https://www.databricks.com/product/data-intelligence-platform
 works_on_arm: true
 release_date_on_arm: 2024/09/01
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.databricks.com/
     support_caveats: Support is listed for AWS Graviton instance types with some limitations. View all details [here.](https://docs.databricks.com/en/compute/configure.html#aws-graviton-instance-types)

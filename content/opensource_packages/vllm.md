@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.5
     release_date: 2024/12/17
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/vllm-project/vllm/

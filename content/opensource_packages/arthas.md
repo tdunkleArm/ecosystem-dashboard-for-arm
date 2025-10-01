@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.0.5
     release_date: 2018/11/28
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://arthas.aliyun.com/en/

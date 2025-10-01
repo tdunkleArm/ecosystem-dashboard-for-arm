@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.0
     release_date: 2022/03/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://argoproj.github.io/

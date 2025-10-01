@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 6.3.0
   release_date: 2022/05/12
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://docs.keydb.dev/
   support_caveats: null

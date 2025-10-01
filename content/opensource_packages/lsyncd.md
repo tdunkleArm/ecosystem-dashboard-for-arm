@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.0.6
     release_date: 2012/02/16
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/lsyncd/lsyncd

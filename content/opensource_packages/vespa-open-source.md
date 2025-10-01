@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.37.26
     release_date: 2022/08/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://vespa.ai/

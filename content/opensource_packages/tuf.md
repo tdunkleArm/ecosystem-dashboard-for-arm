@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.7.5
     release_date: 2013/09/27
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://theupdateframework.com/

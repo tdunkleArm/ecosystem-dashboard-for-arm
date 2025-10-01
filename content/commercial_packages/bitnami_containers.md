@@ -7,6 +7,8 @@ product_url: https://bitnami.com/stacks/containers
 works_on_arm: true
 release_date_on_arm: 2023/02/24
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://bitnami.com/stacks/containers

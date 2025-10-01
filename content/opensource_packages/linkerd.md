@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: edge-20.8.1
   release_date: 2020/08/12
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://linkerd.io/
   support_caveats: null

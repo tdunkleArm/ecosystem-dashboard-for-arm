@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.0
     release_date: 2017/05/22
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.drone.io/

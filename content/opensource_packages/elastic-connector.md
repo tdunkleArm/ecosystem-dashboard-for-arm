@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 8.15.2
     release_date: 2024/10/10
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/search-connectors

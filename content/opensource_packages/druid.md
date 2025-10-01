@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.17.0
   release_date: 2020/01/26
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://druid.apache.org/
   support_caveats: null

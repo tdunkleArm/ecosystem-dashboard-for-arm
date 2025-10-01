@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.3.27
     release_date: 2023/07/10
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.trychroma.com/

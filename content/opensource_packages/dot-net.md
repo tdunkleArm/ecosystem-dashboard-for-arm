@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 5.0
   release_date: 2020/11/10
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://dotnet.microsoft.com/
   support_caveats: null

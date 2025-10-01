@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.15
     release_date: 2013/10/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.nongnu.org/lzip/

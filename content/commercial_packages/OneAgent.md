@@ -7,6 +7,8 @@ product_url: https://www.dynatrace.com/platform/oneagent/
 works_on_arm: true
 release_date_on_arm: 2020/04/29
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.dynatrace.com/

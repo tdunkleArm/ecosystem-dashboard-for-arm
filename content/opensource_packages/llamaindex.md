@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.10.30
     release_date: 2024/04/17
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.llamaindex.ai/open-source

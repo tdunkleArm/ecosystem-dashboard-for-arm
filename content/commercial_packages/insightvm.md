@@ -7,6 +7,9 @@ product_url: https://www.rapid7.com/products/insightvm/
 works_on_arm: true
 release_date_on_arm: 2020/06/08
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.rapid7.com/products/insightvm/

@@ -7,6 +7,8 @@ product_url: https://www.trendmicro.com/en_us/business/products/hybrid-cloud/dee
 works_on_arm: true
 release_date_on_arm: 2021/01/18
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html

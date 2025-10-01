@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 3.0.3.1
     release_date: 2016/05/25
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://security.appspot.com/vsftpd.html

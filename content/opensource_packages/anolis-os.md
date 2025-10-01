@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 7.7
   release_date: 2021/11/16
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://openanolis.cn/
   support_caveats: null

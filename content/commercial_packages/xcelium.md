@@ -7,6 +7,8 @@ product_url: https://www.cadence.com/en_US/home/tools/system-design-and-verifica
 works_on_arm: true
 release_date_on_arm: 2018/10/25
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/system-design-and-verification/simulation-and-testbench-verification/xcelium-simulator.html

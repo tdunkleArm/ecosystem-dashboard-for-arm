@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: r13475
   release_date: 2015/08/15
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.lammps.org/
   support_caveats: null

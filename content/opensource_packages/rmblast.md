@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.14.1
     release_date: 2023/10/04
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.repeatmasker.org/rmblast/

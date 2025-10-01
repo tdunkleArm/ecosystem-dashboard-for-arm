@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.1.0
     release_date: 2024/06/04
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/web-crawler

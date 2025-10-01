@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.1.90
     release_date: 2018/10/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.gnu.org/software/bison/

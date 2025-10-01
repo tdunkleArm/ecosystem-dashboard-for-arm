@@ -7,6 +7,9 @@ product_url: https://docs.rapid7.com/insight-agent/
 works_on_arm: true
 release_date_on_arm: 2022/12/09
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://docs.rapid7.com/insight-agent/

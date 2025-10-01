@@ -7,6 +7,8 @@ product_url: https://www.qualys.com/apps/container-security/
 works_on_arm: true
 release_date_on_arm: 2021/12/21
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.qualys.com/

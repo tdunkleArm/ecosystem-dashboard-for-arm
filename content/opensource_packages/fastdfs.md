@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 6.04
     release_date: 2019/12/05
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://github.com/happyfish100/fastdfs
     support_caveats: 

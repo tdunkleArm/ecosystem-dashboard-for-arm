@@ -6,7 +6,9 @@ description: Questa Advanced Simulator is a powerful tool for hardware simulatio
 product_url: https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/
 works_on_arm: true
 release_date_on_arm: 2019/10/08
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/

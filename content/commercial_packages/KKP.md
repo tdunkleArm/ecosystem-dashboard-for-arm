@@ -7,6 +7,8 @@ product_url: https://www.kubermatic.com/products/kubermatic-kubernetes-platform/
 works_on_arm: true
 release_date_on_arm: 2021/02/10
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.kubermatic.com/kubermatic/v2.25/

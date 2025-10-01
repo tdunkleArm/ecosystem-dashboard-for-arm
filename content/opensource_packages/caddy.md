@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.8.3
   release_date: 2016/04/26
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://caddyserver.com/
   support_caveats: null

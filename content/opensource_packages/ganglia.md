@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.6.0
     release_date: 2013/04/30
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: http://ganglia.info

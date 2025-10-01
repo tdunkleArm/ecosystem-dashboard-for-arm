@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.8.1-beta
     release_date: 2017/09/29
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.electronjs.org/

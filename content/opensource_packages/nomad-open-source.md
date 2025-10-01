@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.8.6
     release_date: 2018/09/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.hashicorp.com/products/nomad

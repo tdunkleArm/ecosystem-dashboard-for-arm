@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: aarch64-shenandoah-jdk8u262-b10
     release_date: 2020/09/28
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.openeuler.org/en/other/projects/bishengjdk/

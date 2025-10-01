@@ -7,6 +7,9 @@ product_url: https://buddy.works/
 works_on_arm: true
 release_date_on_arm: 2024/02/21
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://buddy.works/

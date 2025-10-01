@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.4.0
     release_date: 2019/12/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://rethinkdb.com/

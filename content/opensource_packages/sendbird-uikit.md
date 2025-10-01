@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.0.0
     release_date: 2022/07/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://sendbird.com/

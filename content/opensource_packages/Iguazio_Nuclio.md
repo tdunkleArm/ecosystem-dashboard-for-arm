@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.6.1
     release_date: 2021/02/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.iguazio.com/open-source/nuclio/

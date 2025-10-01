@@ -7,6 +7,9 @@ product_url: https://www.chainguard.dev/chainguard-images
 works_on_arm: true
 release_date_on_arm: 2023/01/10
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.chainguard.dev/
     support_caveats:

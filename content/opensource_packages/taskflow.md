@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.22.0
     release_date: 2015/10/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.openstack.org/taskflow/latest/

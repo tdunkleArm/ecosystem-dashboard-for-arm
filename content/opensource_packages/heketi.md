@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.0.0
     release_date: 2017/02/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/heketi/heketi

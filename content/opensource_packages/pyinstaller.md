@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.dev1
     release_date: 2015/09/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://pyinstaller.org/en/stable/

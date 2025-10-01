@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 3.2.1
   release_date: 2022/02/26
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://spark.apache.org/
   support_caveats: null

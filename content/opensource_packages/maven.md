@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: maven-3.6.0
   release_date: 2018/10/25
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://maven.apache.org/
   support_caveats: null

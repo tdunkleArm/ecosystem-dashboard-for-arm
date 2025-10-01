@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v4.0 (kirkstone)
   release_date: 2022/04/01
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.openembedded.org/wiki/OpenEmbedded-Core
   support_caveats: null

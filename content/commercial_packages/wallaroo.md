@@ -7,6 +7,9 @@ product_url: https://wallaroo.ai/platform/
 works_on_arm: true
 release_date_on_arm: 2023/08/01
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://wallaroo.ai/
     support_caveats:

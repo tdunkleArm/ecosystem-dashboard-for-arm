@@ -7,6 +7,8 @@ product_url: https://www.appdynamics.com/
 works_on_arm: true
 release_date_on_arm: 2022/02/24
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.appdynamics.com/

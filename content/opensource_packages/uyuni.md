@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2021.12
     release_date: 2021/12/09
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.uyuni-project.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.6.4
     release_date: 2023/05/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://spiffe.io/spire/

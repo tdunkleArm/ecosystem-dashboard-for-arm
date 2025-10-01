@@ -7,6 +7,8 @@ product_url: https://dgraph.io/
 works_on_arm: true
 release_date_on_arm: 2022/12/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://dgraph.io/

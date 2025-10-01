@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v5.31.6
     release_date: 2019/11/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://dev.perl.org/perl5/

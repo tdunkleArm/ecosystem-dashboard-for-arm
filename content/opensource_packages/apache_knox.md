@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: v1.5.0-release
     release_date: 2020/12/06
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://knox.apache.org/

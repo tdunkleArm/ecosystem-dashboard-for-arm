@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0 
     release_date: 2020/11/26
 
+platform:
+  - linux-server
   
 optional_info:
     homepage_url: https://openmetrics.io

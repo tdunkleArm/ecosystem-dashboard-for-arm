@@ -7,6 +7,9 @@ product_url: https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design
 works_on_arm: true
 release_date_on_arm: 2024/09/30
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/circuit-simulation/spectre-x-simulator.html
     support_caveats:

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: freedesktop-sdk-18.08.0
     release_date: 2018/08/09
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://freedesktop-sdk.gitlab.io/

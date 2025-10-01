@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.3
     release_date: 2016/06/09
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/kubernetes-retired/contrib/tree/master/exec-healthz

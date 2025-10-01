@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.7.3
     release_date: 2021/06/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://hyperrealm.github.io/libconfig/

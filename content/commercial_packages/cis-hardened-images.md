@@ -7,6 +7,8 @@ product_url: https://www.cisecurity.org/
 works_on_arm: true
 release_date_on_arm: 2021/07/08
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.cisecurity.org/

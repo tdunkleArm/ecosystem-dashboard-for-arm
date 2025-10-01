@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.6
     release_date: 2013/04/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://sourceware.org/gdb/

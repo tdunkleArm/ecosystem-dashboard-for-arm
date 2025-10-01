@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: fips-20220613
     release_date: 2022/12/07
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://boringssl.googlesource.com/boringssl

@@ -6,6 +6,10 @@ description: CircleCI is a continuous integration(CI) and continuous delivery(CD
 product_url: https://circleci.com/
 works_on_arm: true
 release_date_on_arm: 2021/02/01
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://circleci.com/
   support_caveats: null

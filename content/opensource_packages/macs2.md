@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.0.10.07022012
     release_date: 2012/07/03
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://macs3-project.github.io/MACS/

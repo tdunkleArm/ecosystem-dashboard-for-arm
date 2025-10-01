@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v1.0.0
   release_date: 2020/03/04
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://github.com/kunpengcompute/AvxToNeon
   support_caveats: null

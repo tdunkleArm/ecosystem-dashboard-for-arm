@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.8.0
   release_date: 2021/03/04
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://pytorch.org/
   support_caveats: The AArch64 wheels are present from python 3.9 onwards.

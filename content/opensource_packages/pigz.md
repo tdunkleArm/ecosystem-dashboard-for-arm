@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.1.7
     release_date: 2011/12/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://zlib.net/pigz/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.28.1
     release_date: 2022/08/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://thoughtworks.github.io/talisman/

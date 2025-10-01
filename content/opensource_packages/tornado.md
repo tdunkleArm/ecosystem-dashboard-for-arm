@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 3.0
     release_date: 2013/03/29
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: http://www.tornadoweb.org/

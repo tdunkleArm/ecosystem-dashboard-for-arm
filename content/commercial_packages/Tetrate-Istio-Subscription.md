@@ -7,6 +7,9 @@ product_url: https://tetrate.io/tetrate-istio-subscription/
 works_on_arm: true
 release_date_on_arm: 2022/04/12
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://tetrate.io/tetrate-istio-subscription/
     support_caveats:

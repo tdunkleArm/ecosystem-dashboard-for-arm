@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v7.1.1
     release_date: 2019/02/18
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://github.com/sassoftware/relic
     support_caveats:

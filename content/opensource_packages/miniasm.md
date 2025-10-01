@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.2
     release_date: 2015/12/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/lh3/miniasm

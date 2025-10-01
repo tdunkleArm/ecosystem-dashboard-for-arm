@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.18.1
     release_date: 2020/06/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.jaegertracing.io/

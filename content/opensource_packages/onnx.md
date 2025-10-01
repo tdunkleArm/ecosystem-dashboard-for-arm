@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.13.0
   release_date: 2022/12/10
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://onnx.ai/
   support_caveats: null

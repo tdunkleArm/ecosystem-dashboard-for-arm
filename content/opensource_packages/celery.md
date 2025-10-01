@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.0.0rc3
     release_date: 2016/07/09
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.celeryq.dev/en/stable/

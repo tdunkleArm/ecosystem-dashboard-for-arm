@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.1.17554
     release_date: 2022/05/05
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://circleci.com/docs/local-cli/

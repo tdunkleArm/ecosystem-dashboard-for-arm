@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: master
     release_date: 2019/12/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/intel/lmbench

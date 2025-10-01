@@ -7,6 +7,8 @@ product_url: https://docs.honeycomb.io/getting-data-in/logs/honeytail/
 works_on_arm: true
 release_date_on_arm: 2020/02/29
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.honeycomb.io/getting-data-in/logs/honeytail/

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.15.3
     release_date: 2019/11/18
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/popgenmethods/smcpp

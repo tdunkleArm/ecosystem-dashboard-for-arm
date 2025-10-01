@@ -7,6 +7,9 @@ product_url: https://www.harness.io/products/chaos-engineering
 works_on_arm: true
 release_date_on_arm: 2023/10/30
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.harness.io/
     support_caveats:

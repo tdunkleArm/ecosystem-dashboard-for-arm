@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2017/07/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://joyieldinc.github.io/predixy/

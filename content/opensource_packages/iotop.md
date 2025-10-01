@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.18
     release_date: 2021/08/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/Tomas-M/iotop/

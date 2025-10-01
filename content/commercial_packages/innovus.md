@@ -7,6 +7,8 @@ product_url: https://www.cadence.com/en_US/home/tools/digital-design-and-signoff
 works_on_arm: true
 release_date_on_arm: 2025/12/31
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html

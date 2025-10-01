@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.0.0-beta.8
     release_date: 2024/08/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.harness.io/open-source

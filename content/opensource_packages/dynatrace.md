@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.0
     release_date: 2021/01/18
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.dynatrace.com/

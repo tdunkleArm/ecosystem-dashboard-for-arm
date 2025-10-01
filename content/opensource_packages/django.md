@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.2.6
     release_date: 2012/05/08
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.djangoproject.com/

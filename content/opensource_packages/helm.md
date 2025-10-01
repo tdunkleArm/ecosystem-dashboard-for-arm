@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.10.0
   release_date: 2018/08/18
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://helm.sh/
   support_caveats: null

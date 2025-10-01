@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: lighttpd-1.4.54
     release_date: 2019/05/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.lighttpd.net/

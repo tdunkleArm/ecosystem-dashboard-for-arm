@@ -7,6 +7,8 @@ product_url: https://www.ibm.com/products/mq
 works_on_arm: true
 release_date_on_arm: 2022/06/23
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.bigcommerce.com/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.0.M1
     release_date: 2019/06/11
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-stream

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.4.0
     release_date: 2022/02/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc/fraunhofer-versatile-video-decoder-vvdec.html

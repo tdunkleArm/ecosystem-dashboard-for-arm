@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.32.1
   release_date: 2022/07/11
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://falco.org/
   support_caveats: null

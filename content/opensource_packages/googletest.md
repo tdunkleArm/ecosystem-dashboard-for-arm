@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.11.0
     release_date: 2021/06/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/google/googletest

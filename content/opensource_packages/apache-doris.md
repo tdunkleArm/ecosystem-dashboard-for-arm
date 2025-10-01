@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.2.1
     release_date: 2022/12/31
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://doris.apache.org

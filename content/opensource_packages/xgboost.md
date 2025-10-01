@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.2.1
   release_date: 2020/10/14
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://xgboost.ai/
   support_caveats: null

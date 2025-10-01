@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: v3.10.41
     release_date: 2023/07/31
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/TencentBlueKing/bk-cmdb

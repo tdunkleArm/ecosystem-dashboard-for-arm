@@ -7,6 +7,9 @@ product_url: https://victoriametrics.com/products/enterprise/
 works_on_arm: true
 release_date_on_arm: 2020/08/28
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://docs.victoriametrics.com/
     support_caveats: VictoriaMetrics Kubernetes Operator added arm support with cross-compilation in version 0.2.1.

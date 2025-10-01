@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.4.6
     release_date: 2022/01/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.vectorcamp.gr/vectorscan/

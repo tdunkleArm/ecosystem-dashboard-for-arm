@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.4.0
     release_date: 2017/09/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://mesos.apache.org/

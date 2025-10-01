@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.0
     release_date: 2023/03/05
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/terrapkg/madoguchi

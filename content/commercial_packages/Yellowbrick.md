@@ -7,6 +7,9 @@ product_url: https://yellowbrick.com/product/
 works_on_arm: true
 release_date_on_arm: 2022/04/15
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://yellowbrick.com/
     support_caveats:

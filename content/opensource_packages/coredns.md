@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.9.10
   release_date: 2017/11/04
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://coredns.io/
   support_caveats: null

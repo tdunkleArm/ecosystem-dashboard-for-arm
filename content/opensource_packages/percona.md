@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 8.0.33-25.1-multi
   release_date: 2023/08/02
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.percona.com/mysql/software/percona-server-for-mysql
   support_caveats: null

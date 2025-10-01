@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2017/07/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.gatsbyjs.com/

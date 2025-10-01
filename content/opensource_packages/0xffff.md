@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.7
     release_date: 2016/12/25
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/pali/0xFFFF

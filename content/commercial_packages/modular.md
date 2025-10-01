@@ -7,6 +7,8 @@ product_url: https://www.modular.com/max
 works_on_arm: true
 release_date_on_arm: 2023/12/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.modular.com/

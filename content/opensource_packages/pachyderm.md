@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v2.3.0
     release_date: 2022/08/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.pachyderm.com/

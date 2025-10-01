@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.1.2
     release_date: 2020/05/27
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cobbler.github.io/

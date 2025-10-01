@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.0.2
     release_date: 2022/10/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.liferay.com/

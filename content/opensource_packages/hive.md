@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 4.0.0-alpha-2
   release_date: 2022/11/16
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://hive.apache.org/
   support_caveats: null

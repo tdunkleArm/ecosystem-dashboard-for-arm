@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.2.0
     release_date: 2019/03/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/rancher/rke

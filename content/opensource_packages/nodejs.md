@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v4.0.0
   release_date: 2015/09/08
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://nodejs.org/en
   support_caveats: null

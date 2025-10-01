@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: REL6_0_RC2
     release_date: 2024/01/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://benchmarksql.readthedocs.io/en/latest/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v5.1.3
     release_date: 2015/06/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://code.google.com/archive/p/byte-unixbench/

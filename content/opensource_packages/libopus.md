@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9.9
     release_date: 2012/02/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://opus-codec.org/

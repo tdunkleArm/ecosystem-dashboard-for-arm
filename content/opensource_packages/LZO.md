@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.10
     release_date: 2017/03/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.oberhumer.com/opensource/lzo/

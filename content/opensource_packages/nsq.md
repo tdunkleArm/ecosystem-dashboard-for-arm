@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.2.1
     release_date: 2021/07/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://nsq.io/

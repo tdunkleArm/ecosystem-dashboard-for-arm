@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 8.0.23
   release_date: 2021/01/18
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.mysql.com/
   support_caveats: On Oracle Linux 7, ARM64 requires the Oracle Linux 7 Software Collections Repository which can be installed following the commands as mentioned [here](https://dev.mysql.com/doc/mysql-repo-excerpt/8.3/en/linux-installation-yum-repo.html)

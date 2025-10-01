@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.19.0
     release_date: 2020/11/11
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://knative.dev
     support_caveats:

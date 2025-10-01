@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.3
     release_date: 2021/03/07
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://velocity.apache.org/index.html

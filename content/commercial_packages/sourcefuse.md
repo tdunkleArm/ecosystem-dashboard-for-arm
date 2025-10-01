@@ -6,7 +6,9 @@ description: SourceFuse offers top-notch tech consulting and custom software dev
 product_url: https://www.sourcefuse.com/
 works_on_arm: true
 release_date_on_arm: 2023/08/28
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://www.sourcefuse.com/

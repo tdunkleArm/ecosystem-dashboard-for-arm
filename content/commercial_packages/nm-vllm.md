@@ -7,6 +7,9 @@ product_url: https://neuralmagic.com/nm-vllm/
 works_on_arm: false
 release_date_on_arm: 
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://neuralmagic.com/
     support_caveats:

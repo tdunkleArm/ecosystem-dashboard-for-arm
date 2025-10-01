@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.8.0
     release_date: 2022/02/08
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/ecctl

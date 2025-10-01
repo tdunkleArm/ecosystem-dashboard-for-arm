@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: jdk8u-2021-01-31-20-36
     release_date: 2021/02/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://adoptium.net/

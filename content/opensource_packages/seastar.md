@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 17.05.0
   release_date: 2017/05/03
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://seastar.io/
   support_caveats: null

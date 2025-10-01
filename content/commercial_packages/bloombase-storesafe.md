@@ -7,6 +7,10 @@ product_url: https://www.bloombase.com/products/storesafe
 works_on_arm: true
 release_date_on_arm: 2021/03/10
 
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
     homepage_url: https://www.bloombase.com/products/storesafe
     support_caveats:

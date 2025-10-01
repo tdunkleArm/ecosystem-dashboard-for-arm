@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 19.1.0
     release_date: 2024/09/17
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://clang.llvm.org/

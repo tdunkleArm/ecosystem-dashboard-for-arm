@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: r116
     release_date: 2014/04/10
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://www.lz4.org

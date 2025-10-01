@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 39
     release_date: 2023/11/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://wiki.ultramarine-linux.org/en/welcome/

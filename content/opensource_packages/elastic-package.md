@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.9.1
     release_date: 2021/07/16
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/extend/integrations/elastic-package

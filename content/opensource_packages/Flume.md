@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10.0
     release_date: 2022/06/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://flume.apache.org/

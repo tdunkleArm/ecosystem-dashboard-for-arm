@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.9.0
     release_date: 2019/06/11
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://github.com/allegroai/clearml/

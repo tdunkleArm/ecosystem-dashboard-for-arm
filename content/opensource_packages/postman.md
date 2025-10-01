@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 10.24.26
     release_date: 2024/06/03
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.postman.com/

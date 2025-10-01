@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.1
     release_date: 2016/03/23
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://prometheus.io/docs/alerting/latest/alertmanager/

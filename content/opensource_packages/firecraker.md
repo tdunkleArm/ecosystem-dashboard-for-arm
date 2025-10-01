@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.17.0
     release_date: 2019/06/14
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://firecracker-microvm.github.io/
     support_caveats:

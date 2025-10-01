@@ -8,6 +8,10 @@ supported_minimum_version:
     version_number: 5.1.0
     release_date: 2018/06/21
 
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
     homepage_url: https://docs.fontawesome.com/
     support_caveats:

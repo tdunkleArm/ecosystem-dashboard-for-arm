@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.4.10
     release_date: 2017/11/23
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://git.launchpad.net/ubuntu/+source/qperf

@@ -7,6 +7,9 @@ product_url: https://cfd.direct/cloud/
 works_on_arm: true
 release_date_on_arm: 2020/07/22
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://cfd.direct/
     support_caveats:

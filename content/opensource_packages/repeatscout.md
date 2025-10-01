@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.0.6
     release_date: 2024/11/19
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/Dfam-consortium/RepeatScout

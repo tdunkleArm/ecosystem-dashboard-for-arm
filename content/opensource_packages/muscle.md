@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v5.2
     release_date: 2024/08/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://drive5.com/muscle/

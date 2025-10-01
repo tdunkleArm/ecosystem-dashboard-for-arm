@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.22.0
     release_date: 2022/11/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://geoserver.org/

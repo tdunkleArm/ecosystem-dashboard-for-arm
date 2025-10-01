@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.2
   release_date: 2015/12/15
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.dpdk.org/
   support_caveats: null

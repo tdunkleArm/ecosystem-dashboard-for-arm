@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.1.0
     release_date: 2022/12/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://redis.io/lp/hiredis/

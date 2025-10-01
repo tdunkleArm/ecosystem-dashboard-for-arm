@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.5.0
     release_date: 2013/03/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://shiny.posit.co/

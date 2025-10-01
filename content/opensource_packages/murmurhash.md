@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.0
     release_date: 2023/03/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://pypi.org/project/mmh3/

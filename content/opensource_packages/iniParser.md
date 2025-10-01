@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.2.2
     release_date: 2024/05/21
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://iniparser.gitlab.io/iniparser/index.html

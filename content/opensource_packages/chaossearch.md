@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.7
     release_date: 2022/05/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.chaossearch.io/docs/chaossearch-terraform-provider-for-resources

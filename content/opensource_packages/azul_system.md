@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: zulu8.31.1.122-ca-jdk1.8.0.181
   release_date: 2014/04/08
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.azul.com/
   support_caveats: null

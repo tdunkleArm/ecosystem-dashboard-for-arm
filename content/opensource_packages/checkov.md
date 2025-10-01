@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.3.321
     release_date: 2023/07/13
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.checkov.io/

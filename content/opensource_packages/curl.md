@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 7.43.0
     release_date: 2015/06/29
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://curl.se/

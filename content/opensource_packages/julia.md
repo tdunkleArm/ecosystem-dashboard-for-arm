@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.8.0-rc1
     release_date: 2022/06/01
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://julialang.org/

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 23.07.0-edge
     release_date: 2023/07/22
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://nextflow.io/

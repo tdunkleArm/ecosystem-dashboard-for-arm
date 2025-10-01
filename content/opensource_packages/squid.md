@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 3.2.0.15
     release_date: 2012/02/05
- 
+
+platform:
+  - linux-server 
 
 optional_info:
     homepage_url: https://www.squid-cache.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.31
     release_date: 2012/02/15
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://avahi.org/

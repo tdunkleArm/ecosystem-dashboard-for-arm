@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.0.3
   release_date: 2020/12/15
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://docs.influxdata.com/influxdb/v2/
   support_caveats: null

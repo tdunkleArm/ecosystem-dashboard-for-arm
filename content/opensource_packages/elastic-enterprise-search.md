@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 7.13.0
     release_date: 2021/05/25
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/guide/en/enterprise-search/current/start.html

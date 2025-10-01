@@ -7,7 +7,10 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.10
     release_date: 2013/06/13
- 
+
+platforms:
+  - linux-server
+  - windows-on-arm
  
 optional_info:
     homepage_url: https://flask.palletsprojects.com/en/3.0.x/

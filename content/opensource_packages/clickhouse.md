@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 22.1
   release_date: 2022/01/18
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://clickhouse.com/docs/en/intro
   support_caveats: null

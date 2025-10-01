@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.1
     release_date: 2021/03/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-task

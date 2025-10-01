@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.0.10
     release_date: 2018/10/25
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://orientdb.org/
     support_caveats:

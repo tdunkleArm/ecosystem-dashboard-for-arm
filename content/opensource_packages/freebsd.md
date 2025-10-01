@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 11.0
   release_date: 2016/10/10
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.freebsd.org/
   support_caveats: null

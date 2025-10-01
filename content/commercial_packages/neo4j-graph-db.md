@@ -7,6 +7,9 @@ product_url: https://neo4j.com/product/neo4j-graph-database/
 works_on_arm: true
 release_date_on_arm: 2024/06/28
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://neo4j.com/
     support_caveats:

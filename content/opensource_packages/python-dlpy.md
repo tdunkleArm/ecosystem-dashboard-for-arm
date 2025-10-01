@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.6.1
     release_date: 2018/04/05
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/sassoftware/python-dlpy

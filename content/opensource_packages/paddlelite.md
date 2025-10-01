@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.5.0
     release_date: 2019/07/02
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.paddlepaddle.org.cn/lite

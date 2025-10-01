@@ -6,7 +6,9 @@ description: Citrix Workspace app for Linux is a client software that enables se
 product_url: https://docs.citrix.com/en-us/citrix-workspace-app-for-linux
 works_on_arm: true
 release_date_on_arm: 2023/05/31
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://docs.citrix.com/en-us/citrix-workspace-app-for-linux

@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 5.9.0
     release_date: 2022/07/26
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://junit.org/junit5/

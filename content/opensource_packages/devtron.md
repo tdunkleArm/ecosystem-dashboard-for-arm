@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.6.0
   release_date: 2022/09/26
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://devtron.ai/
   support_caveats: null

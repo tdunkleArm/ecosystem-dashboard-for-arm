@@ -7,7 +7,10 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 6.7.0
     release_date: 2024/04/02
- 
+
+platform:
+  - linux-server
+  - windows-on-arm
  
 optional_info:
     homepage_url: https://www.qt.io/

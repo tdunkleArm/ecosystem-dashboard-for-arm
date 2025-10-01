@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 202006-20200712
   release_date: 2020/07/12
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://sonicfoundation.dev/
   support_caveats: null

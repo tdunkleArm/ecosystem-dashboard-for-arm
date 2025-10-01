@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.60
     release_date: 2016/01/27
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://moosefs.com/

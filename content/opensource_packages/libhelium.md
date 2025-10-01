@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.1.0
     release_date: 2022/10/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.developers.tauos.co/libhelium/libhelium-1/

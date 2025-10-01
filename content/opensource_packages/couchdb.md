@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.0
     release_date: 2020/02/28
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.couchdb.org/en/stable/intro/index.html

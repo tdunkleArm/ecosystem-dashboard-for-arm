@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.5
     release_date: 2022/10/05
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://crates.io/crates/anda

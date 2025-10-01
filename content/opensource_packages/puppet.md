@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.3.1
     release_date: 2023/11/01
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.puppet.com/community/open-source/open-source-puppet

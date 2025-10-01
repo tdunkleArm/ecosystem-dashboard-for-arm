@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.0.0
     release_date: 2023/1/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.profiling.ydata.ai/latest/

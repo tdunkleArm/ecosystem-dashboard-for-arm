@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.0.1
     release_date: 2021/02/02
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://epinio.io/

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 18.0
   release_date: 2021/09/09
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.cloudhypervisor.org/
   support_caveats: null

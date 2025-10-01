@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 15.3
     release_date: 2022/03/05
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.opensuse.org/#Leap

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2021/02/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://dapr.io

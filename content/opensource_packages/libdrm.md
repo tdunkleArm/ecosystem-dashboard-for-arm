@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.4.67
     release_date: 2016/02/16
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/mesa/drm
     support_caveats:

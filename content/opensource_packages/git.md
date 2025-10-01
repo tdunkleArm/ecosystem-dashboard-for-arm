@@ -7,7 +7,10 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.9.1
     release_date: 2014/03/19
- 
+
+platform:
+  - linux-server
+  - windows-on-arm
  
 optional_info:
     homepage_url: https://git-scm.com/

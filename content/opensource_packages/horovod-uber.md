@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.20.0
     release_date: 2020/09/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://horovod.ai/

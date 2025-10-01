@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 4.3.18
     release_date: 2017/05/10
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://docs.conda.io/projects/conda/en/stable/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 15.0.0
     release_date: 2017/02/22
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.openstack.org/nova/latest/

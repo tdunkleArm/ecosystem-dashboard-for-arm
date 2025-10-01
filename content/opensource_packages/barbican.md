@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.0
     release_date: 2016/04/07
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://opendev.org/openstack/barbican

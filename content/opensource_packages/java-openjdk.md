@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 8
   release_date: 2014/03/18
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://openjdk.org/
   support_caveats: null

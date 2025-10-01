@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v2.0.0
     release_date: 2021/05/11
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://flatbuffers.dev/

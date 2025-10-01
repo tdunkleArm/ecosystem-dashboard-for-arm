@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 5.1.1
     release_date: 2013/02/12
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://gmplib.org/

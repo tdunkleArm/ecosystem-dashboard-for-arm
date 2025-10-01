@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 6.0.0
     release_date: 2018/08/30
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://docs.openstack.org/masakari/latest/

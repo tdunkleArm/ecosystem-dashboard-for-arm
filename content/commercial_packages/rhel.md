@@ -6,6 +6,10 @@ description: Red Hat Enterprise Linux is a fully supported production-grade oper
 product_url: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 works_on_arm: true
 release_date_on_arm: 2018/04/10
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
   support_caveats: null

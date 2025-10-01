@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9.0
     release_date: 2021/09/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://karmada.io/

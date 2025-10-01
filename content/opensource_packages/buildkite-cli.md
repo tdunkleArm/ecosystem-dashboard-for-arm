@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v1.2.0
   release_date: 2021/03/11
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://buildkite.com/docs/cli
   support_caveats: null

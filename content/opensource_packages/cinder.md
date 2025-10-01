@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2014.1
     release_date: 2014/04/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.openstack.org/cinder/latest/

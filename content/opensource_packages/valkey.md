@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 7.2.5
     release_date: 2024/04/15
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://valkey.io/

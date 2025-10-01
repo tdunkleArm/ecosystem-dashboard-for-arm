@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 3.8.10
   release_date: 2018/06/26
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.joomla.org
   support_caveats: null

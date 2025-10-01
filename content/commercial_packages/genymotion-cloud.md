@@ -7,6 +7,9 @@ product_url: https://www.genymotion.com/
 works_on_arm: true
 release_date_on_arm: 2020/11/05
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.genymotion.com/
     support_caveats:

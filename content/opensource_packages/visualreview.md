@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1
     release_date: 2015/06/01
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/xebia/VisualReview#see-it-in-action

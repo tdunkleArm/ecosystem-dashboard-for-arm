@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.0
     release_date: 2024/02/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://access.redhat.com/products/red-hat-jboss-web-server

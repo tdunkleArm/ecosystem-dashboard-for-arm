@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.2.8
     release_date: 2014/02/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://ubuntu.com/server/docs/network-file-system-nfs

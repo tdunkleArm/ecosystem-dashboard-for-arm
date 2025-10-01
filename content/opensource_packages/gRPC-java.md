@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.26.0
     release_date: 2019/12/19
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://grpc.io/docs/languages/java/
     support_caveats:

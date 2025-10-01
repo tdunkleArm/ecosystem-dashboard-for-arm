@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.10.0-rc0
     release_date: 2022/08/05
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.tensorflow.org/tfx/guide/serving

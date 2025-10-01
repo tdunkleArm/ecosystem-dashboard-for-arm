@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v5.2.0
     release_date: 2019/02/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://sensu.io/

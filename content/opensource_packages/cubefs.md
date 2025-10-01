@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.2.0
     release_date: 2020/09/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cubefs.io/

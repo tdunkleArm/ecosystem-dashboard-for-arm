@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: Linux_3.9
     release_date: 2013/04/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.kernel.org/virt/kvm/index.html

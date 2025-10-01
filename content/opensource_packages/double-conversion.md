@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.1.0
     release_date: 2018/09/09
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/google/double-conversion

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.3
     release_date: 2016/05/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://notaryproject.dev/

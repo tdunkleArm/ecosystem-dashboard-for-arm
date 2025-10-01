@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 21.07
   release_date: 2022/03/18
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.7-zip.org/
   support_caveats: null

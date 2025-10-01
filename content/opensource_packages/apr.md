@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.5.0
     release_date: 2013/11/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://apr.apache.org/

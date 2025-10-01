@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.2.2
     release_date: 2014/03/02
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.sphinx-doc.org/en/master/
     support_caveats:

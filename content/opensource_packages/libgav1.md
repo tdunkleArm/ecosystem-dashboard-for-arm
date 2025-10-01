@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.16.0
     release_date: 2020/07/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://chromium.googlesource.com/codecs/libgav1/

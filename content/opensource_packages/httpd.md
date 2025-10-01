@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.4.32
   release_date: 2018/03/14
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://httpd.apache.org/
   support_caveats: null

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.15.1
     release_date: 2017/04/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/sassoftware/epdb

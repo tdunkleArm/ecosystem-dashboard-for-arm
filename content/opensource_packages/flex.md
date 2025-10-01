@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.6.1
     release_date: 2016/03/02
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/westes/flex

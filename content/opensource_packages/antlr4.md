@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4
     release_date: 2013/01/22
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://github.com/antlr/antlr4

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 3.5.0-RC2
     release_date: 2024/06/28
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.scala-lang.org/

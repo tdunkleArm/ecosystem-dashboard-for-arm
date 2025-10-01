@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0
     release_date: 2014/05/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.openh264.org/

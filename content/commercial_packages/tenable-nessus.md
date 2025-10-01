@@ -7,6 +7,8 @@ product_url: https://www.tenable.com/products/nessus
 works_on_arm: true
 release_date_on_arm: 2020/05/19
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.tenable.com/products/nessus

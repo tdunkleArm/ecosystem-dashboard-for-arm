@@ -7,6 +7,10 @@ product_url: https://www.hashicorp.com/products/consul
 works_on_arm: true
 release_date_on_arm: 2017/06/09
 
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
     homepage_url: https://www.hashicorp.com/products/consul
     support_caveats:

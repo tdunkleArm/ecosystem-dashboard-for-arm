@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 13.4.0
   release_date: 2020/09/22
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://about.gitlab.com/
   support_caveats: null

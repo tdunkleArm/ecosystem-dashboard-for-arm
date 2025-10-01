@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.2.10
     release_date: 2016/10/04
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://eigen.tuxfamily.org/index.php?title=Main_Page

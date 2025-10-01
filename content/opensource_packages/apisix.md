@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9
     release_date: 2019/11/15
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://apisix.apache.org/

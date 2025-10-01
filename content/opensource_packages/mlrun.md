@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.6
     release_date: 2019/08/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.iguazio.com/open-source/mlrun/

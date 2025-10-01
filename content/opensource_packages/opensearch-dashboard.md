@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.0.0
     release_date: 2021/07/12
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://opensearch.org/platform/opensearch-dashboards/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 22.09
     release_date: 2022/12/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://spdk.io/

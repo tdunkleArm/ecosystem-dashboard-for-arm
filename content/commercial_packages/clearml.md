@@ -7,6 +7,8 @@ product_url: https://clear.ml/enterprise
 works_on_arm: true
 release_date_on_arm: 2019/06/11
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://clear.ml/enterprise

@@ -7,6 +7,8 @@ product_url: https://docs.cloudera.com/data-engineering/cloud/index.html
 works_on_arm: true
 release_date_on_arm: 2024/07/23
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.cloudera.com/data-engineering/cloud/index.html

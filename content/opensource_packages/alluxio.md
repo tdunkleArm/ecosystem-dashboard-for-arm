@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.1.2
     release_date: 2020/01/31
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.alluxio.io/

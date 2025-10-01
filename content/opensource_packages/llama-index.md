@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.4.5
     release_date: 2023/02/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.llamaindex.ai/en/stable/

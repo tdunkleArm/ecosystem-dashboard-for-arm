@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.11.0
   release_date: 2016/04/13
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.docker.com/
   support_caveats: null

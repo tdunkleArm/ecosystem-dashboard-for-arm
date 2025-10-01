@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9.14
     release_date: 2018/05/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://guacamole.apache.org/

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 20.03 LTS
   release_date: 2020/03/01
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.openeuler.org/en/
   support_caveats: null

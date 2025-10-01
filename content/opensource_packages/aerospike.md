@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.2
     release_date: 2022/11/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://aerospike.com/

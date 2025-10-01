@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.9.0
     release_date: 2023/10/28
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://shiro.apache.org/

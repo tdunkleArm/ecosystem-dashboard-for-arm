@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9.7
     release_date: 2020/03/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://brpc.apache.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.1
     release_date: 2017/11/10
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://in-toto.io

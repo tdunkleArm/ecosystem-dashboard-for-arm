@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.4.95-nightly
     release_date: 2021/09/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.databend.com/

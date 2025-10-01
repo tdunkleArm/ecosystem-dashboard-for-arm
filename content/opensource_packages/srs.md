@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.0-r0
     release_date: 2020/06/27
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://ossrs.io/lts/en-us/

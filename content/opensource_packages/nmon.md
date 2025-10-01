@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 14g
     release_date: 2013/10/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://nmon.sourceforge.io

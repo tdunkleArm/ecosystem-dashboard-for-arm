@@ -7,6 +7,8 @@ product_url: https://www.suse.com/products/edge/
 works_on_arm: true
 release_date_on_arm: 2024/10/25
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.suse.com/products/edge/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.3.1
     release_date: 2019/03/27
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://www.quartz-scheduler.org/

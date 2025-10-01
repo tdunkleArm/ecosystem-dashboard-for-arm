@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.3.0
     release_date: 2024/09/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://pytorch.org/torchtune/stable/overview.html

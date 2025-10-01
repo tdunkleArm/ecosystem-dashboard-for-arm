@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.2.12
   release_date: 2022/03/27
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: http://zlib.net/
   support_caveats: null

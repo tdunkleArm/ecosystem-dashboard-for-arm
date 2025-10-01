@@ -7,7 +7,10 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.1.0
     release_date: 2021/09/30
- 
+
+platform:
+  - linux-server
+  - windows-on-arm
  
 optional_info:
     homepage_url: https://github.com/authzed/zed

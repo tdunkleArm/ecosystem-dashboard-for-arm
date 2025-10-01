@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.4.4
     release_date: 2021/10/21
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://emqtt.io/

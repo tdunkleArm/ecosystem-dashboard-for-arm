@@ -7,6 +7,8 @@ product_url: https://www.vmware.com/products/security/endpoint-detection-and-res
 works_on_arm: true
 release_date_on_arm: 2023/01/23
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.vmware.com/products/security/endpoint-detection-and-response

@@ -7,6 +7,8 @@ product_url: https://www.oracle.com/in/database/technologies/instant-client.html
 works_on_arm: true
 release_date_on_arm: 2021/05/03
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.oracle.com/in/database/technologies/instant-client.html

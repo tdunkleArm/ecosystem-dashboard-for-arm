@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 330
     release_date: 2020/02/18
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://trino.io/

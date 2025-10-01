@@ -7,6 +7,8 @@ product_url: https://arangodb.com/arangograph-selfmanaged/
 works_on_arm: true
 release_date_on_arm: 2022/10/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://arangodb.com/

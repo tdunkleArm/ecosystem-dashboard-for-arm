@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.1.0
     release_date: 2022/11/01
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://accumulo.apache.org/
     support_caveats:

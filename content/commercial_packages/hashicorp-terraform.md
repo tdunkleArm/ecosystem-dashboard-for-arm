@@ -7,6 +7,8 @@ product_url: https://developer.hashicorp.com/terraform
 works_on_arm: true
 release_date_on_arm: 2020/10/15
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://developer.hashicorp.com/terraform

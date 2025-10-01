@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.2.12
     release_date: 2019/12/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://cme.h-its.org/exelixis/web/software/raxml/index.html

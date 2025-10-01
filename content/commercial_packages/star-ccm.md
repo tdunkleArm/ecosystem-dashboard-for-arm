@@ -7,6 +7,8 @@ product_url: https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulatio
 works_on_arm: true
 release_date_on_arm: 2023/02/23
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/

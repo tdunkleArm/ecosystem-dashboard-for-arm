@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.2.2
     release_date: 2018/09/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://xerces.apache.org/xerces-c/index.html

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.30.0
   release_date: 2023/04/27
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://spinnaker.io/
   support_caveats: null

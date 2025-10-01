@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.37.0
   release_date: 2022/02/01
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.openpolicyagent.org/
   support_caveats: null

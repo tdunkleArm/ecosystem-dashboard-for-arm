@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.7.0
     release_date: 2018/12/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://distribution.github.io/distribution/

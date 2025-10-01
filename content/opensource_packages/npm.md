@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.10.0
     release_date: 2019/07/03
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.npmjs.com/

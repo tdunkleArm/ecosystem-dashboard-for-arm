@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: gzip 1.10
     release_date: 2018/12/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.gnu.org/software/gzip/

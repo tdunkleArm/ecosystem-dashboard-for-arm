@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: v6.0.0
   release_date: 2021/11/08
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://dotnet.microsoft.com/en-us/apps/aspnet
   support_caveats: null

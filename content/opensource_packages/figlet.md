@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.2.5
     release_date: 2019/02/13
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: http://www.figlet.org/

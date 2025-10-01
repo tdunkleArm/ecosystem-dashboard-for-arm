@@ -6,6 +6,10 @@ description: Elasticsearch is a distributed, RESTful search engine optimized for
 product_url: https://www.elastic.co/elasticsearch
 works_on_arm: true
 release_date_on_arm: 2020/03/13
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.elastic.co/elasticsearch
   support_caveats: While the source code for Elasticsearch is available under multiple licenses (SSPL, Elastic License, and since September 2024, AGPLv3), the official releases distributed by Elastic are under the Elastic License, which includes usage restrictions for certain features and commercial deployments. Organizations using Elasticsearch in production often need a commercial subscription for advanced features and official support from Elastic. Please see [this](https://www.elastic.co/pricing/faq/licensing).

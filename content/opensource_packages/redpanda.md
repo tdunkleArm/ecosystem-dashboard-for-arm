@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 21.5.6
     release_date: 2021/05/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://redpanda.com/

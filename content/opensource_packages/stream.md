@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 
     release_date: Master branch (2023/07/28)
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/jeffhammond/STREAM

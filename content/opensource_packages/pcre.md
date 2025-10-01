@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.36
     release_date: 2015/04/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.pcre.org/

@@ -7,6 +7,9 @@ product_url: https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design
 works_on_arm: true
 release_date_on_arm: 2021/02/21
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/library-characterization/liberate-trio-characterization-suite.html
     support_caveats:

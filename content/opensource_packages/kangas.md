@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.1
     release_date: 2022/09/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/comet-ml/kangas/wiki

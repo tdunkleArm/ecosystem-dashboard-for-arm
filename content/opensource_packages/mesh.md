@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.4
     release_date: 2019/11/5
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/weaveworks/mesh

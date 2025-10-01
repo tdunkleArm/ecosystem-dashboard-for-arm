@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.6.1
     release_date: 2021/12/30
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://solutionshub.epam.com/solution/indigo

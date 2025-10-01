@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 17.5
     release_date: 2013/07/03
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://www.gunicorn.org/

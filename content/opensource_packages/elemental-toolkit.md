@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.7.0
     release_date: 2021/10/11
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://rancher.github.io/elemental-toolkit/docs/

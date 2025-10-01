@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.28.0.0
     release_date: 2021/04/01
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://opendataplane.org/

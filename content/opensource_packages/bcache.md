@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.7
     release_date: 2014/05/10
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://bcache.evilpiepirate.org/

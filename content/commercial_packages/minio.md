@@ -7,6 +7,8 @@ product_url: https://min.io/docs/minio/linux/index.html
 works_on_arm: true
 release_date_on_arm: 2017/01/25
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://min.io/docs/minio/linux/index.html

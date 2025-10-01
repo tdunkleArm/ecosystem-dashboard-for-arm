@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.1.7
     release_date: 2015/03/19
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.musl-libc.org/
     support_caveats:

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.16
     release_date: 2023/06/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.pantsbuild.org/

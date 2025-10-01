@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.2.2
     release_date: 2019/08/05
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/facebook/rocksdb/tree/main/java

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.3.1
     release_date: 2019/09/30
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cloudevents.io/

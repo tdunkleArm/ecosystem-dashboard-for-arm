@@ -7,6 +7,9 @@ product_url: https://www.azul.com/products/core/
 works_on_arm: true
 release_date_on_arm: 2014/04/08
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.azul.com/downloads/#zulu
     support_caveats:

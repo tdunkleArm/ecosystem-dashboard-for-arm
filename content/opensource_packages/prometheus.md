@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.18 
     release_date: 2016/04/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://prometheus.io/ 

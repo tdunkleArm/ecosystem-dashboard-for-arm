@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v1.0.0
     release_date: 2021/06/04
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.nvidia.com/en-in/ai-data-science/products/nemo/
     support_caveats:

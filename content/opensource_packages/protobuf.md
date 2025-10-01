@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: v3.5.0
     release_date: 2017/11/16
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/protocolbuffers/protobuf

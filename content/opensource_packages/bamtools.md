@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.4.1
     release_date: 2016/12/09
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/
     support_caveats:

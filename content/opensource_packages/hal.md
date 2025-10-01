@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.2.0
     release_date: 2023/05/24
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://source.android.com/docs/core/architecture/hal
     support_caveats:

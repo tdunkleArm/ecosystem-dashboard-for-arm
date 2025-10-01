@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.4.3
     release_date: 2016/10/04
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/rambaut/figtree

@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 5.9
   release_date: 2022/01/25
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://developer.wordpress.org/
   support_caveats: null

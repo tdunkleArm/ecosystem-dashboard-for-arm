@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.6.0
     release_date: 2023/05/02
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://bioconda.github.io/

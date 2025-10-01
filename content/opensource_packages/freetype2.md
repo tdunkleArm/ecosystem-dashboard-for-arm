@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: VER-2-4-9
     release_date: 2012/03/09
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://freetype.org/freetype2/docs/

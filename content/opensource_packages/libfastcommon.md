@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: V1.0.7
     release_date: 2014/09/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/happyfish100/libfastcommon

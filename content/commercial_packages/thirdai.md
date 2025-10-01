@@ -7,6 +7,8 @@ product_url: https://www.thirdai.com/thirdai-platform/
 works_on_arm: true
 release_date_on_arm: 2024/01/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.thirdai.com/

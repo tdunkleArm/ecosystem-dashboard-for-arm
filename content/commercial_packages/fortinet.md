@@ -7,6 +7,8 @@ product_url: https://www.fortinet.com/products/private-cloud-security/fortigate-
 works_on_arm: true
 release_date_on_arm: 2021/09/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.fortinet.com/

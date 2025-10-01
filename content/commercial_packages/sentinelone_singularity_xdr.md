@@ -7,6 +7,8 @@ product_url: https://www.sentinelone.com/resources/singularity-xdr/
 works_on_arm: true
 release_date_on_arm: 2022/07/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.sentinelone.com/resources/singularity-xdr/

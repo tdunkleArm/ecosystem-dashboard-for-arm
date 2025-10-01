@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.54.0
     release_date: 2021/02/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://victoriametrics.com/

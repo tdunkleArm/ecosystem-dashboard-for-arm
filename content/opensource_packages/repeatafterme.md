@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.0.5
     release_date: 2024/10/18
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/Dfam-consortium/RepeatAfterMe

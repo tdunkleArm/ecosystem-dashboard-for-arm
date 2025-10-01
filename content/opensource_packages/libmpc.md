@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.1
     release_date: 2012/09/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://altairlab.gitlab.io/optcontrol/libmpc/

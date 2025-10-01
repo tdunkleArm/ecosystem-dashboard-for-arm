@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.11.0
   release_date: 2024/04/12
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.daytona.io/
   support_caveats: null

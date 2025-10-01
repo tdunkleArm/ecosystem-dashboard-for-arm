@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.1.0-beta3
     release_date: 2017/05/02
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://luajit.org/

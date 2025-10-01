@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 3.8.1
     release_date: 2013/10/17
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.sqlite.org/

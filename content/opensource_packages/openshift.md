@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 4.11
   release_date: 2022/08/08
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://docs.openshift.com/
   support_caveats: null

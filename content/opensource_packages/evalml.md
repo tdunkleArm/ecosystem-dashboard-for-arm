@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.1
     release_date: 2020/07/03
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://evalml.alteryx.com/en/stable/

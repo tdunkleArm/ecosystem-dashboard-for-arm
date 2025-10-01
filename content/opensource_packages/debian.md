@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 8
   release_date: 2018/06/23
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.debian.org/
   support_caveats: null

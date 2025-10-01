@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 4.9.3
   release_date: 2022/02/27
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://rocketmq.apache.org/
   support_caveats: null

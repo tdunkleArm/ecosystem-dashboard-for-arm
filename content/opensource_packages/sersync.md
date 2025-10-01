@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 
     release_date: 
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://wsgzao.github.io/post/sersync/
     support_caveats: 

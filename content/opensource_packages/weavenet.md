@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.9.0
     release_date: 2017/2/2
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/weaveworks/weave

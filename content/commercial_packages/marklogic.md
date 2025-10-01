@@ -7,6 +7,8 @@ product_url: https://www.progress.com/marklogic
 works_on_arm: FALSE
 release_date_on_arm:
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.progress.com/marklogic

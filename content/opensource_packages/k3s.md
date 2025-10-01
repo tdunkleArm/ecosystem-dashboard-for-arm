@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.1.0
     release_date: 2019/02/26
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://k3s.io/

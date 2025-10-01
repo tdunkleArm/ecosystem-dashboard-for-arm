@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v0.1.0
     release_date: 2023/12/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/FyraLabs/submarine

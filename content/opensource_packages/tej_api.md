@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.3
     release_date: 2018/05/09
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://api.tej.com.tw/

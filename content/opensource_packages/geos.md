@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.3.2
     release_date: 2012/01/05
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://libgeos.org/

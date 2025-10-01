@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.2.0
     release_date: 2019/12/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.wireshark.org/

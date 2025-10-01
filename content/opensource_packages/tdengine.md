@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0.1.0
     release_date: 2022/09/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://docs.tdengine.com

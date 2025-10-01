@@ -7,6 +7,9 @@ product_url: https://www.cloudbees.com/products/cloudbees-cdro
 works_on_arm: false
 release_date_on_arm: 
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cloudbees.com/
     support_caveats:

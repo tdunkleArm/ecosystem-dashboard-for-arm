@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 7.1.0
     release_date: 2019/05/11
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.linaro.org/downloads/

@@ -7,6 +7,9 @@ product_url: https://newrelic.com/platform/infrastructure
 works_on_arm: true
 release_date_on_arm: 2021/10/26
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://newrelic.com/platform/infrastructure
     support_caveats:

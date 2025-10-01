@@ -7,6 +7,8 @@ product_url: https://azure.microsoft.com/en-in/products/azure-sql/database
 works_on_arm: false
 release_date_on_arm: 
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://azure.microsoft.com/en-in/products/azure-sql/database

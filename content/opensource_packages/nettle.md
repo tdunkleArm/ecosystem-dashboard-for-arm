@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.1
     release_date: 2015/04/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.lysator.liu.se/~nisse/nettle/

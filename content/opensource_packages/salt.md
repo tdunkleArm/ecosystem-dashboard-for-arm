@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2016.3.0
     release_date: 2016/05/26
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://saltproject.io/

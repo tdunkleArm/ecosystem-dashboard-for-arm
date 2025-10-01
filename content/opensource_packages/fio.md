@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.28
     release_date: 2021/09/08
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/axboe/fio

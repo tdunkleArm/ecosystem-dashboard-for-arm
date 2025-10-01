@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.3.1
     release_date: 2020/07/10
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.aquasec.com/products/open-source-projects/

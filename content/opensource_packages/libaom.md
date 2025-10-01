@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2018/06/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://aomedia.googlesource.com/aom/

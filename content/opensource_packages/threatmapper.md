@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.1.0
     release_date: 2024/02/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.deepfence.io/threatmapper

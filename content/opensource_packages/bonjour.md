@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number:
     release_date:
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://developer.apple.com/bonjour/

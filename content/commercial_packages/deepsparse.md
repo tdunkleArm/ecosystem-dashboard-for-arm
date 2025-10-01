@@ -7,6 +7,9 @@ product_url: https://neuralmagic.com/deepsparse/
 works_on_arm: true
 release_date_on_arm: 2023/12/12
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://neuralmagic.com/
     support_caveats:

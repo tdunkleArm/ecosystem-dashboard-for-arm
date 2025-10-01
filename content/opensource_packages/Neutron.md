@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 10.0.5
     release_date: 2018/04/15
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://docs.openstack.org/neutron/latest/
     support_caveats:

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 2.8.0
     release_date: 2012/05/23
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://gitlab.gnome.org/GNOME/libxml2

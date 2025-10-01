@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.09.1
     release_date: 2020/06/29
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://tandem.bu.edu/trf/trf.html
     support_caveats:

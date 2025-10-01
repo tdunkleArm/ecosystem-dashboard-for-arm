@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.1.0
     release_date: 2023/11/10
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://seqera.io/wave/

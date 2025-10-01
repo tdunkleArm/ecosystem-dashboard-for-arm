@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.7.0
   release_date: 2022/05/05
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://keda.sh/
   support_caveats: null

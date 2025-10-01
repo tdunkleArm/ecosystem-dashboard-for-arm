@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.7.1
     release_date: 2022/08/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.shopify.com/

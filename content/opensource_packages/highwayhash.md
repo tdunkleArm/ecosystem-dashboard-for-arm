@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.2
     release_date: 2021/03/25
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/minio/highwayhash

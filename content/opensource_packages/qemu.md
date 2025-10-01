@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.6.0
     release_date: 2013/08/15
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url:

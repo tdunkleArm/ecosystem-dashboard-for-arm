@@ -6,6 +6,11 @@ description: A self-hosted runner is a system that deploys and manages the execu
 product_url: https://docs.github.com/en/actions
 works_on_arm: true
 release_date_on_arm: 2019/11/12
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://docs.github.com/en/actions
   support_caveats: null

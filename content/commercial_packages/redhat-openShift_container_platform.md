@@ -7,6 +7,9 @@ product_url: https://www.redhat.com/en/technologies/cloud-computing/openshift/co
 works_on_arm: true
 release_date_on_arm: 2022/03/10
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform
     support_caveats:

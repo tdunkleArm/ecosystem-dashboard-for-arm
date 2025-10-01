@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.9.7
     release_date: 2020/02/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://ssdb.io/

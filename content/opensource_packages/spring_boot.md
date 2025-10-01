@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.0.0
   release_date: 2023/09/12
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://spring.io/projects/spring-boot
   support_caveats: null

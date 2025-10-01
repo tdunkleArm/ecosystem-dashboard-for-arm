@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: rel/v5.2
     release_date: 2022/11/10
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://hc.apache.org/httpcomponents-client-4.5.x/index.html

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.3.6
     release_date: 2023/12/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://xml2.r-lib.org/

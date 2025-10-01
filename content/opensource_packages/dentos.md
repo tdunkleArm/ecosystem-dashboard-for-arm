@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.9
     release_date: 2020/12/12
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://dent.dev/

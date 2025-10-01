@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.0
     release_date: 2022/02/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.zabbix.com/

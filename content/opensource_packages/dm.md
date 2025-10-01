@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.1.2
     release_date: 2020/05/04
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://dm.cynkra.com/
     support_caveats:

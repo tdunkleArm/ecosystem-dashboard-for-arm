@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.4.10
     release_date: 2020/04/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://opencv.org/

@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: n0.7.7
   release_date: 2011/11/05
+
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://ffmpeg.org/
   support_caveats: null

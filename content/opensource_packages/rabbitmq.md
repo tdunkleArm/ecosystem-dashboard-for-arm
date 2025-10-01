@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.0
     release_date: 2012/11/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://rabbitmq.com/

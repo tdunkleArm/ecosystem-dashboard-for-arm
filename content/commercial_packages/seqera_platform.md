@@ -6,7 +6,9 @@ description: The Seqera Platform is a collaborative tool for organizing, sharing
 product_url: https://seqera.io/platform/
 works_on_arm: true
 release_date_on_arm: 2023/07/31
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://seqera.io/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.1.0
     release_date: 2021/03/23
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/zoho/hawking

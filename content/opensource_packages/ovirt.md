@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.5.0
     release_date: 2022/03/16
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.ovirt.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10.1
     release_date: 2023/03/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://combine-lab.github.io/salmon/

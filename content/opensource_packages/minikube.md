@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10.0
     release_date: 2020/05/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://minikube.sigs.k8s.io/docs/

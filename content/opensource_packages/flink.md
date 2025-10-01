@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.17.1
     release_date: 2023/05/25
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://flink.apache.org/

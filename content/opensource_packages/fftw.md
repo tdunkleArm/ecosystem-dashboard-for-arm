@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.3.7
     release_date: 2017/10/29
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.fftw.org/index.html

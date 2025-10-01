@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.1.0
   release_date: 2018/12/04
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://crossplane.io/
   support_caveats: null

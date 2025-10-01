@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.10.0
     release_date: 2021/08/05
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cortexmetrics.io/

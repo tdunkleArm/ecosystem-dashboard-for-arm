@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 6.40
     release_date: 2013/07/28
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://nmap.org/

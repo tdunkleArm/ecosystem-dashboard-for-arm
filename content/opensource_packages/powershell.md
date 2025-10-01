@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.0.0
     release_date: 2020/04/03
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://learn.microsoft.com/en-us/powershell/

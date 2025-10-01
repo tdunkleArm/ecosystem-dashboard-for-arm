@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.8.2
     release_date: 2016/04/17
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cloudcustodian.io/

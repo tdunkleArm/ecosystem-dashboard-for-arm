@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.2.5.RELEASE
     release_date: 2017/02/03
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-netflix

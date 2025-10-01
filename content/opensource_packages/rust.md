@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.8.0
   release_date: 2020/09/10
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.rust-lang.org/learn
   support_caveats: null

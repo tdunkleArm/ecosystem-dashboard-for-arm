@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.2.0
     release_date: 2020/12/08
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.nebula-graph.io/

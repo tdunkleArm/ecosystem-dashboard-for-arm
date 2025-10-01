@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0
     release_date: 2018/12/8
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://jax.readthedocs.io/en/latest/index.html

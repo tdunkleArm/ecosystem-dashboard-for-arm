@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.10.0
     release_date: 2017/01/06
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://thrift.apache.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.4
     release_date: 2018/02/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://nats.io/

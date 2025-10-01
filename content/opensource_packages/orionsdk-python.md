@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.2
     release_date: 2016/02/18
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/solarwinds/orionsdk-python

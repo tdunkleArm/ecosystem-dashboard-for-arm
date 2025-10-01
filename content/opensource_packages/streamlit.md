@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.26.0
     release_date: 2019/02/14
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://streamlit.io/

@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 4.0.0
     release_date: 2021/04/26
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://arrow.apache.org/

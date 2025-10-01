@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.1.2
     release_date: 2021/03/12
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://chaos-mesh.org/
     support_caveats:

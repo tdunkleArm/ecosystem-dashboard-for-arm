@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v1.8
     release_date: 2012/11/03
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://beanstalkd.github.io/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: Debian 10 Buster
     release_date: 2019/07/06
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.debian.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v2.4.2
     release_date: 2016/11/07
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://corosync.github.io/corosync/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.6.16
     release_date: 2021/08/26
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.lightbend.com/akka

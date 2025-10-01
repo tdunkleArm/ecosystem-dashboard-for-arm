@@ -7,6 +7,8 @@ product_url: https://www.simform.com/
 works_on_arm: true
 release_date_on_arm: 2024/01/03
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.simform.com/

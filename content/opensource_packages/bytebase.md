@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.3
     release_date: 2022/04/14
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.bytebase.com/

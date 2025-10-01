@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 7.3
     release_date: 2022/11/16
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.hyland.com/en/solutions/products/alfresco-platform

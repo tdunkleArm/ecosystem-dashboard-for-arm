@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 2.0.0
     release_date: 2023/07/24
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://camel.apache.org/camel-k/latest/concepts/overview.html

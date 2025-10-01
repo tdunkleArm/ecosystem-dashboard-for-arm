@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2018/01/29
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: http://caffe.berkeleyvision.org/
     support_caveats:

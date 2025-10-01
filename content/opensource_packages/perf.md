@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.18
     release_date: 2018/08/12
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/torvalds/linux/tree/master/tools/perf

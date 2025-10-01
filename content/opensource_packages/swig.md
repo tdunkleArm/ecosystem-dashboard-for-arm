@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 2.0.5
     release_date: 2012/4/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.swig.org/

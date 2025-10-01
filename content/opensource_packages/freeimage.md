@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.18.10
     release_date: 2023/06/29
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://freeimage.sourceforge.io/

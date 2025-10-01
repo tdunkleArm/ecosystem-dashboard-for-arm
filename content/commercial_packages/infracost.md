@@ -7,6 +7,9 @@ product_url: https://www.infracost.io
 works_on_arm: true
 release_date_on_arm: 2022/02/16
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.infracost.io

@@ -7,6 +7,8 @@ product_url: https://www.comsol.com/products
 works_on_arm: true
 release_date_on_arm: 2023/01/01
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.comsol.com/products

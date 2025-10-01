@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 18.08.4
     release_date: 2018/12/11
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: slurm.schedmd.com/

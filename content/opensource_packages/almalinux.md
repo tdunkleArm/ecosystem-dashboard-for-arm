@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.4
     release_date: 2021/05/26
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://almalinux.org/

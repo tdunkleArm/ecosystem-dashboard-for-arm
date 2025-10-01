@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.2
     release_date: 2016/12/30
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/dridi/cashpack?tab=readme-ov-file#cashpack---the-c-anti-state-hpack-library

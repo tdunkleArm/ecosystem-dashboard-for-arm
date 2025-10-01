@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.12.32
   release_date: 2017/02/03
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://www.fluentd.org/
   support_caveats: null

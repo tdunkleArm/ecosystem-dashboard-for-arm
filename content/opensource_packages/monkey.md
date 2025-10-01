@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0
     release_date: 2012/06/06
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/monkey/monkey/blob/master/README.md

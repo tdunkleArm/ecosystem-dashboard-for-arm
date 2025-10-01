@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 4.0.0
     release_date: 2021/05/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://uui.epam.com/

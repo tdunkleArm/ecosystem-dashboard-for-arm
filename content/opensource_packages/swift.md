@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: Swift 4.2.3 RELEASE
     release_date: 2019/04/07
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.swift-arm.com/

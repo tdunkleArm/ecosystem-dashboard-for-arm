@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1
     release_date: 2016/04/02
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://sassoftware.github.io/sas_kernel/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.7.8
     release_date: 2023/11/03
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://optipng.sourceforge.net/

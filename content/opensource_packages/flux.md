@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.0.21
   release_date: 2020/09/04
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://fluxcd.io/
   support_caveats: null

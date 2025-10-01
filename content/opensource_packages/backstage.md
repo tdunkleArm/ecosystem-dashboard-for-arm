@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.2.0
     release_date: 2020/12/29
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://backstage.io/

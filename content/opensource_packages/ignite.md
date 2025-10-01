@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.5.0
     release_date: 2019/08/13
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://ignite.readthedocs.io/en/stable/

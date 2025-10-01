@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.0.0
     release_date: 2025/04/02
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet

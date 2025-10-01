@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 1.0.2
   release_date: 2015/01/22
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.openssl.org/
   support_caveats: null

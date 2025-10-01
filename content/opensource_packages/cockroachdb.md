@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: v22.2.0-alpha.1
     release_date: 2022/08/30
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.cockroachlabs.com/
     support_caveats:

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.04.17
     release_date: 2013/11/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/pentaho

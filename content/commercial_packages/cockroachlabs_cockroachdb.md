@@ -6,7 +6,9 @@ description: CockroachDB is a distributed SQL database designed for developing, 
 product_url: https://www.cockroachlabs.com/pricing/
 works_on_arm: true
 release_date_on_arm: 2022/08/30
- 
+
+platforms:
+  - linux-server
  
 optional_info:
     homepage_url: https://www.cockroachlabs.com/

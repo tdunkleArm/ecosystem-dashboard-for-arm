@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.1.0
     release_date: 2018/12/11
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://code.videolan.org/videolan/dav1d/

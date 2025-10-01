@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.74.0
     release_date: 2020/08/14
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.boost.org/

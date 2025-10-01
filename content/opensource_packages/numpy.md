@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.19.0
     release_date: 2020/06/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://numpy.org/

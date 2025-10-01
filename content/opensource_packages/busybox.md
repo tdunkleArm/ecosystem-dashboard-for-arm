@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.28.1
     release_date: 2018/02/15
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info: 
     homepage_url: https://www.busybox.net/

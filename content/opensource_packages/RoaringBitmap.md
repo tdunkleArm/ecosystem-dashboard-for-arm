@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.0.1
     release_date: 2014/03/04
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://roaringbitmap.org/

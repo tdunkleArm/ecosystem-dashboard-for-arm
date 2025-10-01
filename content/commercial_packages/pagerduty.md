@@ -7,6 +7,8 @@ product_url: https://www.pagerduty.com/platform/operations-cloud/
 works_on_arm: true
 release_date_on_arm: 2024/03/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.pagerduty.com/

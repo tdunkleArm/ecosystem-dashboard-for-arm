@@ -7,6 +7,10 @@ product_url: https://konghq.com/products/kong-gateway
 works_on_arm: true
 release_date_on_arm: 2019/11/05
 
+platforms:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
     homepage_url: https://konghq.com/products/kong-gateway
     support_caveats:

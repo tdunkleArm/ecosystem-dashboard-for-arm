@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.27
     release_date: 2013/09/02
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/e7e5/ipvsadm

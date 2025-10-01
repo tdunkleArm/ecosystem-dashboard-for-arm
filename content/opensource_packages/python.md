@@ -7,6 +7,11 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 2.7.3
   release_date: 2012/04/09
+
+platform:
+  - linux-server
+  - windows-on-arm
+
 optional_info:
   homepage_url: https://www.python.org/
   support_caveats: null

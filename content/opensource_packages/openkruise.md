@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 0.10.0
   release_date: 2021/12/14
+
+platform:
+  - linux-server
+
 optional_info:
   homepage_url: https://openkruise.io/en-us/
   support_caveats: null

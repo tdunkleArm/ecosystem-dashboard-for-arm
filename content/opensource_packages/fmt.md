@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 0.8.0
     release_date: 2015/02/07
 
+platforms:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://fmt.dev/11.0/

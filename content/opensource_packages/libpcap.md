@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.6.2
     release_date: 2014/09/02
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.tcpdump.org/

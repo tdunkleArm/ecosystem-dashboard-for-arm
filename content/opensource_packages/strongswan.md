@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 5.8.3
     release_date: 2020/03/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://strongswan.org/

@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.45.0
     release_date: 2022/08/03
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/google/cadvisor

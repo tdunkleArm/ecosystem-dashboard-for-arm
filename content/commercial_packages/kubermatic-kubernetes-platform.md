@@ -7,6 +7,9 @@ product_url: https://www.kubermatic.com/products/kubermatic-kubernetes-platform/
 works_on_arm: false
 release_date_on_arm: 
 
+platforms:
+  - linux-server
+
 optional_info:
     homepage_url: https://www.kubermatic.com/
     support_caveats:

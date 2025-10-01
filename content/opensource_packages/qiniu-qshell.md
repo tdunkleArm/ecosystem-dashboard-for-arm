@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v2.4.3 
     release_date: 2021/02/24
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://developer.qiniu.com/

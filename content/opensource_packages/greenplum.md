@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.0.0-beta
     release_date: 2020/08/31
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://greenplum.org/

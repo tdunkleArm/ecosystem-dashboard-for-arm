@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 0.273
     release_date: 2022/05/20
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: http://prestodb.io/

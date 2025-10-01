@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 3.3 (Beta)
     release_date: 2021/9/19
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.mezmo.com/

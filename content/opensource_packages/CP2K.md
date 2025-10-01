@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 8.2.0
     release_date: 2021/05/28
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://www.cp2k.org/

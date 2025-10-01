@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: 1.5.0
     release_date: 2016/12/13	
 
+platform:
+  - linux-server
+
 optional_info:
     homepage_url: https://kubernetes.io/
     support_caveats:

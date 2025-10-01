@@ -8,6 +8,9 @@ supported_minimum_version:
     version_number: stable-7287-1
     release_date: 2022/06/10
 
+platform:
+  - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://jitsi.org/

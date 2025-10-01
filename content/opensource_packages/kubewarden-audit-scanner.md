@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 1.7.0
     release_date: 2023/09/20
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/kubewarden/audit-scanner

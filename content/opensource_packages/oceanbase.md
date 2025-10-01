@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: v3.1.3_CE
     release_date: 2022/03/30
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/oceanbase/oceanbase

@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 5.3.0
     release_date: 2024/02/01
- 
+
+platform:
+  - linux-server 
  
 optional_info:
     homepage_url: https://open-docs.neuvector.com/

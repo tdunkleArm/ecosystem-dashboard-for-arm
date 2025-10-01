@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: master branch
     release_date: 2019/08/21
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://github.com/fanagislab/kmerfreq

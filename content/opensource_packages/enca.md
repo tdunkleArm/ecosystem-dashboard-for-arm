@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.16
     release_date: 2014/10/20
 
+platforms:
+  - linux-server
 
 optional_info:
     homepage_url: https://cihar.com/software/enca/

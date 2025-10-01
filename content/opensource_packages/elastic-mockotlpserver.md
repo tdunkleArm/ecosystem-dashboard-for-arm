@@ -7,7 +7,9 @@ works_on_arm: true
 supported_minimum_version:
     version_number: 0.6.2
     release_date: 2024/12/18
- 
+
+platforms:
+  - linux-server 
  
 optional_info:
     homepage_url: https://github.com/elastic/elastic-otel-node/tree/main/packages/mockotlpserver

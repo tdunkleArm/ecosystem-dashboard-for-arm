@@ -7,6 +7,10 @@ works_on_arm: true
 supported_minimum_version:
   version_number: 8.0.412+8
   release_date: 2024/04/18
+
+platforms:
+  - linux-server
+
 optional_info:
   homepage_url: https://projects.eclipse.org/projects/adoptium
   support_caveats: null

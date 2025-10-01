@@ -8,6 +8,8 @@ supported_minimum_version:
     version_number: 1.8_as_released
     release_date: 2015/03/23
 
+platform:
+  - linux-server
 
 optional_info:
     homepage_url: https://3-manifolds.github.io/PLink/
