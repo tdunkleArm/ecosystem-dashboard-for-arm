@@ -17,6 +17,11 @@
                             {{partial "eco-dashboard/github-links.html" .metadata  }}
                         </div>
                     </div>
+                    <div class="c-row" style="margin-bottom:8px;">
+                        <div class="c-col c-col-12 sm:c-col-7 md:c-col-8" style="margin: 0px; padding: 0px;">
+                            <b>Platforms:</b> {{.metadata.Params.platforms}}
+                        </div>
+                    </div>
                     
                     {{.metadata.Params.description }}
                 </div>
