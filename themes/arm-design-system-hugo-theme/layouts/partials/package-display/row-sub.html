@@ -19,7 +19,16 @@
                     </div>
                     <div class="c-row" style="margin-bottom:8px;">
                         <div class="c-col c-col-12 sm:c-col-7 md:c-col-8" style="margin: 0px; padding: 0px;">
-                            <b>Platforms:</b> {{.metadata.Params.platforms}}
+                            <b>Platforms:</b>
+                            {{ $platforms := .metadata.Params.platforms }}
+                            {{ $labels := dict
+                                "linux-server" "Linux Server"
+                                "windows-on-arm" "Windows on Arm"
+                            }}
+                            {{- range $i, $p := $platforms }}
+                                {{- with index $labels $p }}{{ . }}{{ else }}{{ $p }}{{ end -}}
+                                {{- if lt (add $i 1) (len $platforms) }}, {{ end -}}
+                            {{ end -}}
                         </div>
                     </div>
                     
