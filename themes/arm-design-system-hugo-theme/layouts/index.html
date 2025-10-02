@@ -32,6 +32,7 @@
 
 <!-- Define opensource vs commercial filter -->
 {{ $filter_licenses := slice "All" "Open source" "Commercial" }}
+{{ $filter_platforms := slice "All" "Linux Server" "Windows on Arm" }}
 {{ $filter_categories := (slice "All")  | append .Site.Data.category_data.groups}}
 {{/*******************************************************
 *******************************************************/}}
@@ -53,6 +54,7 @@
                 <div id="desktop-filters">
                     <div id="filters-movable">
                         {{ partial "eco-dashboard/filter-box.html" (dict "context" . "title" "License" "items" $filter_licenses)}}
+                        {{ partial "eco-dashboard/filter-box.html" (dict "context" . "title" "Platform" "items" $filter_platforms)}}
                         {{ partial "eco-dashboard/filter-box.html" (dict "context" . "title" "Category" "items" $filter_categories "items_descs" .Site.Data.category_data.groups_and_descriptions )}}
                     </div>
                 </div>
