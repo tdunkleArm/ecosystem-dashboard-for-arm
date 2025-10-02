@@ -43,6 +43,7 @@
     data-title="{{.metadata.Params.name}}"
     data-title-urlized='{{partial "eco-dashboard/urlize_custom.html" (.metadata.Params.name | lower)}}'
     data-woa="{{if .metadata.Params.works_on_arm}}true{{else}}false{{end}}"
+    data-platforms="{{.metadata.Params.Platforms}}"
     onclick="rowClickHandler(this);">                              
     
     <td class="col-1-icon">

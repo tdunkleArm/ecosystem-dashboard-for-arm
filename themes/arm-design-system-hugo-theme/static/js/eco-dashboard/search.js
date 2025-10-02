@@ -314,8 +314,16 @@ function filter_card(card) {
             continue
         }
         else {
-            // Card should be hidden, so just return true now.
-            return true 
+            if (filter_facet_organized.includes('platform-linux')) {
+                return !(card.dataset.platforms.includes('linux-server'))
+            }
+            else if (filter_facet_organized.includes('platform-windows')) {
+                return !(card.dataset.platforms.includes('windows-on-arm'))
+            }
+            else {
+                // Card should be hidden, so just return true now.
+                return true
+            }            
         }
     }
         // If Card was never proven to be hidden through all filter groups, then it is shown. Return to_hide = False
