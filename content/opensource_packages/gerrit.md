@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.4.8
     release_date: 2022/11/08
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

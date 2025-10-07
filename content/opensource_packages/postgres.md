@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 9.6.9
   release_date: 2018/05/07
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

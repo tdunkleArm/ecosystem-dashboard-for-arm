@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v4.9.0
     release_date: 2018/09/13
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

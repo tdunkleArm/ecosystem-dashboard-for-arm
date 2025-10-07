@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 5.1.1
     release_date: 2013/02/12
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

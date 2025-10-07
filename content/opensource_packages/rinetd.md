@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 0.62.0sam
     release_date: 2016/01/11
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

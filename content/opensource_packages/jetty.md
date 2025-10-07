@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: jetty-9.4.36.v20210114
     release_date: 2021/01/20
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

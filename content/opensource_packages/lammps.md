@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: r13475
   release_date: 2015/08/15
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

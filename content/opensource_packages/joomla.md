@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 3.8.10
   release_date: 2018/06/26
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

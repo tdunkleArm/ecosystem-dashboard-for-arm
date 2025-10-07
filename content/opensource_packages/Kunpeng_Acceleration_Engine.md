@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v1.3.6
     release_date: 2020/07/31
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

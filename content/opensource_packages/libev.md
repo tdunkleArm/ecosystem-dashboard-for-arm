@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 4.15
     release_date: 2013/03/01
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

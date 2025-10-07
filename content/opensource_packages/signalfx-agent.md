@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v5.4.3
     release_date: 2020/08/26
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

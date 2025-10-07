@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 22.0.4
     release_date: 2022/07/08
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

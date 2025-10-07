@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 4.2.2
     release_date: 2024/05/21
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

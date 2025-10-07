@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 8.0.33-25.1-multi
   release_date: 2023/08/02
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

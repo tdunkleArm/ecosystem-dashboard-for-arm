@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v3.1.3_CE
     release_date: 2022/03/30
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.27.3+rke2r1
     release_date: 2023/06/27
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

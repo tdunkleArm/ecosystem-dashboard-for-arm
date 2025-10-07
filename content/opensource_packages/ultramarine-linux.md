@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 39
     release_date: 2023/11/24
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 10.0.5
     release_date: 2018/04/15
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

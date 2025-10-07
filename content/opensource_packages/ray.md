@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 2.3.0
     release_date: 2023/03/01
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 1.3.0
   release_date: 2024/03/15
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

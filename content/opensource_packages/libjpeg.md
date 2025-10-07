@@ -8,8 +8,9 @@ supported_minimum_version:
     version_number: 1.3.0
     release_date: 2015/07/28
 
-platform:
+platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://libjpeg-turbo.org/

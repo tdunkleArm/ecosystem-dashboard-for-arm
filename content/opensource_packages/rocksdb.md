@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.15.2
     release_date: 2020/12/30
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

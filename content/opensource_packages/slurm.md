@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 18.08.4
     release_date: 2018/12/11
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

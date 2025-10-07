@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 0.24.0
     release_date: 2020/12/22
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

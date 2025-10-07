@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: edge-20.8.1
   release_date: 2020/08/12
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

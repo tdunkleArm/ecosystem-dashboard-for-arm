@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v1.38.1
     release_date: 2021/06/22
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
  

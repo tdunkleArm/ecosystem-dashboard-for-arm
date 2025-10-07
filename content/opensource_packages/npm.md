@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.10.0
     release_date: 2019/07/03
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

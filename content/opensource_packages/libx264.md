@@ -8,8 +8,9 @@ supported_minimum_version:
   version_number: r2971
   release_date: 2019/07/16
 
-platform:
+platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
   homepage_url: https://www.videolan.org/developers/x264.html

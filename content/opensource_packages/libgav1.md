@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 0.16.0
     release_date: 2020/07/16
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

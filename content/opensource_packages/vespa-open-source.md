@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 8.37.26
     release_date: 2022/08/18
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

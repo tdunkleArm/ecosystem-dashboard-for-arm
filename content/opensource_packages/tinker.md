@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 8.1.2
     release_date: 2017/02/17
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

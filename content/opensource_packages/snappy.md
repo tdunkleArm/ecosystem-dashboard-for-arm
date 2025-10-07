@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.1.5
     release_date: 2017/06/29
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

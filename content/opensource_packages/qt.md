@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.7.0
     release_date: 2024/04/02
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
  

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 16.04
   release_date: 2015/10/21
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

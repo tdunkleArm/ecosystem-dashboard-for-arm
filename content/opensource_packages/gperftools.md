@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 2.1.90
     release_date: 2015/08/16
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

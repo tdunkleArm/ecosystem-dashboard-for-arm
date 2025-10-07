@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v3.0.0-beta.3
     release_date: 2023/11/1
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

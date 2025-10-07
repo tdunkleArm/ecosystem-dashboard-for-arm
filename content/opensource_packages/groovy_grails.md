@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.0.4
     release_date: 2015/07/29
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

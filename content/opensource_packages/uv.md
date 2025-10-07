@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v0.0.5
     release_date: 2024/02/15
 
-platform:
+platforms:
   - linux-server
 
 optional_info:    

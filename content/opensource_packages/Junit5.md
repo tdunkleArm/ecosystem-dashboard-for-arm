@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 5.9.0
     release_date: 2022/07/26
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

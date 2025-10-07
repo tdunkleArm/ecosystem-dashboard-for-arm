@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 2.19
   release_date: 2014/02/07
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

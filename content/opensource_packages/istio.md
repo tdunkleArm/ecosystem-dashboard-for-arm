@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 1.6.0-alpha.1
   release_date: 2020/04/10
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

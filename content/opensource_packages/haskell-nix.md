@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: nix-tools-0.1.6
     release_date: 2024/03/25
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

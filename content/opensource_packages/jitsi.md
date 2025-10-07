@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: stable-7287-1
     release_date: 2022/06/10
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 7.1.0
     release_date: 2019/05/11
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

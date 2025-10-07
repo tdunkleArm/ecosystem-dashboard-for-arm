@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 1.5
   release_date: 2015/08/19
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

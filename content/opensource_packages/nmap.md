@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.40
     release_date: 2013/07/28
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

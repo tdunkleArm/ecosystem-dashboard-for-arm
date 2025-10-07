@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: mariadb-10.3.7
   release_date: 2018/05/24
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

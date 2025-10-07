@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 330
     release_date: 2020/02/18
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

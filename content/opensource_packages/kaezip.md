@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.2.10
     release_date: 2020/02/05
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

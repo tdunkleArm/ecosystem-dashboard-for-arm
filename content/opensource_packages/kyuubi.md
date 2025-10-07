@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.5.0-incubating
     release_date: 2022/03/16
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

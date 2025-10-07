@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 4.4
     release_date: 2016/09/15
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

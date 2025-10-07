@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 4.11
   release_date: 2022/08/08
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

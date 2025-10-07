@@ -8,8 +8,9 @@ supported_minimum_version:
     version_number: v1.15.0
     release_date: 2017/10/03
 
-platform:
+platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://libuv.org/

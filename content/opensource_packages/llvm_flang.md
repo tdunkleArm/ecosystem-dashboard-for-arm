@@ -8,8 +8,9 @@ supported_minimum_version:
     version_number: LLVM 11.0.0
     release_date: 2020/10/12
 
-platform:
+platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://flang.llvm.org/docs/

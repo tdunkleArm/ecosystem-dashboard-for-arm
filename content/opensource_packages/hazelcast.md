@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 5.3.0
     release_date: 2023/05/19
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

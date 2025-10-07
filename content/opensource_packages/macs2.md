@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 2.0.10.07022012
     release_date: 2012/07/03
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

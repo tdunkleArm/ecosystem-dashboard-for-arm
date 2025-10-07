@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.4.4
     release_date: 2020/06/20
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

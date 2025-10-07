@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 23.07.0-edge
     release_date: 2023/07/22
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

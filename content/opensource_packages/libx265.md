@@ -8,8 +8,9 @@ supported_minimum_version:
   version_number: 3.4
   release_date: 2020/05/29
 
-platform:
+platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
   homepage_url: https://www.videolan.org/developers/x265.html

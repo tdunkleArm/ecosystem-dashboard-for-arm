@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: RELEASE.2017-01-25T03-14-52Z
     release_date: 2017/01/25
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

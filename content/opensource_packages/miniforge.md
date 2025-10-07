@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 4.8.2-0
   release_date: 2020/02/02
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 4.18
     release_date: 2018/08/12
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

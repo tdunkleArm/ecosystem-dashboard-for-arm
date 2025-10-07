@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 2.3
     release_date: 2021/03/07
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

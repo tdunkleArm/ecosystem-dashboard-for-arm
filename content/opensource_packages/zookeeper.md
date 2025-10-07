@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.7.0
     release_date: 2021/03/27
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 4.0.0-alpha-2
   release_date: 2022/11/16
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

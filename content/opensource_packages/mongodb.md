@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 3.4.24
   release_date: 2016/11/29
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

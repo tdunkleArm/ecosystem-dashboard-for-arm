@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 20.03 LTS
   release_date: 2020/03/01
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

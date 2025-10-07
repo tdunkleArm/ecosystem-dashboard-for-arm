@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v1.7.17
     release_date: 2023/06/21
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

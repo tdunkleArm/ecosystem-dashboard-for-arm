@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: v1.2
   release_date: 2016/11/12
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

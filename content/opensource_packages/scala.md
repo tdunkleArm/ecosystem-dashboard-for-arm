@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.5.0-RC2
     release_date: 2024/06/28
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

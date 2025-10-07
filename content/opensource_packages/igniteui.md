@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 16.2 RTM
     release_date: 2016/10/19
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.4.10
     release_date: 2020/04/04
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

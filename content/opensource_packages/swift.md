@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: Swift 4.2.3 RELEASE
     release_date: 2019/04/07
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

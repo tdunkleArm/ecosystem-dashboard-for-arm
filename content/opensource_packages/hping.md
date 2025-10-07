@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.a2.ds2-6
     release_date: 2013/10/31
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

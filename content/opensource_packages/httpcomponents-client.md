@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: rel/v5.2
     release_date: 2022/11/10
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

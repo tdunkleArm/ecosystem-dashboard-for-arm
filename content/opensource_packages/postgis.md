@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.3.3
     release_date: 2023/05/29
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

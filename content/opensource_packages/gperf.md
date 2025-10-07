@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: gperf-3.1 
     release_date: 2017/01/05
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

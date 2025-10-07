@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.6+r27746-2
     release_date: 2016/02/15
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

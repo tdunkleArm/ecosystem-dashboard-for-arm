@@ -9,7 +9,7 @@ supported_minimum_version:
     version_number: 2.12
     release_date: 2018/08/06
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

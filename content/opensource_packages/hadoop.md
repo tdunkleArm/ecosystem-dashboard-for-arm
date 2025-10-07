@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 3.3.0
   release_date: 2020/07/14
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

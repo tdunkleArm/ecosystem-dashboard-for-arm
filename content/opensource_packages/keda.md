@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 2.7.0
   release_date: 2022/05/05
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

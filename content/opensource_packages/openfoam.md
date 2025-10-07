@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v8
     release_date: 2020/07/22
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 6.0
     release_date: 2024/02/07
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

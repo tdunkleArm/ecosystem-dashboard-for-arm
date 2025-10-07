@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v2.0.0.M1
     release_date: 2018/02/27
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

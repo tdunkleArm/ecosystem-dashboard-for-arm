@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: v1.8.0-rc1
     release_date: 2022/06/01
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

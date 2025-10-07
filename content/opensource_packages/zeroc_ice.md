@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.7.2
     release_date: 2019/02/08
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

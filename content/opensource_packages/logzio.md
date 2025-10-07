@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.1.25
     release_date: 2024/01/07
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 15.3
     release_date: 2022/03/05
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

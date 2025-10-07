@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 3.25.23
     release_date: 2014/03/24
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

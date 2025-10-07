@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: spark-sql-kinesis_2.13-1.2.3_spark-3.2
     release_date: 2022/10/02
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

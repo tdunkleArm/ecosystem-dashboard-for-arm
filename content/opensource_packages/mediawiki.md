@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.39.7
     release_date: 2022/11/30
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 2.7.3
   release_date: 2012/04/09
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

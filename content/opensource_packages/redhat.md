@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 7.5
   release_date: 2018/04/10
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

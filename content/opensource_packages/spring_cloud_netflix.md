@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.2.5.RELEASE
     release_date: 2017/02/03
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 2.4.32
   release_date: 2018/03/14
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

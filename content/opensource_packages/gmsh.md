@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 
     release_date:
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

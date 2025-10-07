@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 8.0.0
   release_date: 2020/11/26
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

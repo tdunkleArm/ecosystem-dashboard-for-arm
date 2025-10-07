@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 2.8.0
     release_date: 2012/05/23
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

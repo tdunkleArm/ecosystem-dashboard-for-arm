@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 8.9.2
     release_date: 2024/06/04
 
-platform:
+platforms:
   - linux-server
  
 optional_info:

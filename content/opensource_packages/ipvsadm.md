@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.27
     release_date: 2013/09/02
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

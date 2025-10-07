@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: OPENLDAP_REL_ENG_2_4_50
     release_date: 2020/04/28
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

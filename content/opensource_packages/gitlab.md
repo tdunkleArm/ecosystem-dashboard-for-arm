@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 13.4.0
   release_date: 2020/09/22
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

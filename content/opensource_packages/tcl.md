@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 8.5.12
     release_date: 2012/07/25
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: 202006-20200712
   release_date: 2020/07/12
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

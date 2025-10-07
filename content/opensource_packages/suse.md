@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 12 SP2
     release_date: 2016/11/08
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: r116
     release_date: 2014/04/10
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: v4.0.0
   release_date: 2015/09/08
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
 

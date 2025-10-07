@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 4.1.0
     release_date: 2019/10/30
 
-platform:
+platforms:
   - linux-server 
  
 optional_info:

@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.3.14
     release_date: 2024/04/18
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

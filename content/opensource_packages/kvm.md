@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: Linux_3.9
     release_date: 2013/04/28
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

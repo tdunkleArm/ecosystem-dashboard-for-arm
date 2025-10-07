@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 
     release_date: Master branch (2023/07/28)
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

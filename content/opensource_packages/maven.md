@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: maven-3.6.0
   release_date: 2018/10/25
 
-platform:
+platforms:
   - linux-server
 
 optional_info:

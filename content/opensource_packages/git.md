@@ -8,7 +8,7 @@ supported_minimum_version:
     version_number: 1.9.1
     release_date: 2014/03/19
 
-platform:
+platforms:
   - linux-server
   - windows-on-arm
  

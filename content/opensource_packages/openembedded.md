@@ -8,7 +8,7 @@ supported_minimum_version:
   version_number: v4.0 (kirkstone)
   release_date: 2022/04/01
 
-platform:
+platforms:
   - linux-server
 
 optional_info:
