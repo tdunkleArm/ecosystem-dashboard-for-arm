@@ -9,7 +9,8 @@ supported_minimum_version:
     release_date: 2017/02/03
 
 platforms:
-  - linux-server 
+  - linux-server
+  - windows-on-arm
  
 optional_info:
     homepage_url: https://github.com/minio/mc

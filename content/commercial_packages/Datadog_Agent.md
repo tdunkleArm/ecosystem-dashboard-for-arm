@@ -9,7 +9,6 @@ release_date_on_arm: 2019/12/03
 
 platforms:
   - linux-server
-  - windows-on-arm
 
 optional_info:
     homepage_url: https://docs.datadoghq.com/agent/?tab=Linux

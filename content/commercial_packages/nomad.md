@@ -9,6 +9,7 @@ release_date_on_arm: 2018/09/26
 
 platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://developer.hashicorp.com/

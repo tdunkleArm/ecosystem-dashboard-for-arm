@@ -9,6 +9,7 @@ release_date_on_arm: 2021/12/01
 
 platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://www.netdata.cloud/

@@ -9,7 +9,6 @@ release_date_on_arm: 2020/12/11
 
 platforms:
   - linux-server
-  - windows-on-arm
 
 optional_info:
     homepage_url: https://buildkite.com/

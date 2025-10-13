@@ -10,6 +10,7 @@ supported_minimum_version:
 
 platforms:
   - linux-server
+  - windows-on-arm
 
 optional_info:
     homepage_url: https://pyinstaller.org/en/stable/
