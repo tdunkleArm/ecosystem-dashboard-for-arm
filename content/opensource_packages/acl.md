@@ -4,26 +4,28 @@ category: Networking
 description: The ACL library offers efficient network communication, asynchronous I/O, and event-driven programming, supporting protocols like TCP, UDP, and HTTP, along with threading and message queues, optimized for scalability.
 download_url: https://sourceforge.net/projects/acl/files/acl/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.0.21
-    release_date: 2014/10/30
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.0.21
+      release_date: 2014/10/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/acl-dev/acl/tree/master?tab=readme-ov-file#31-compiling-acl-on-different-platforms
 
 optional_info:
     homepage_url: https://acl-dev.cn/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/acl-dev/acl/tree/master?tab=readme-ov-file#31-compiling-acl-on-different-platforms
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 

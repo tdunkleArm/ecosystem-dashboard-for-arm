@@ -4,26 +4,28 @@ category: Databases - noSQL
 description: Couchbase is a full-featured, multimodel distributed NoSQL database.
 download_url: https://www.couchbase.com/downloads/?family=couchbase-server
 works_on_arm: true
-supported_minimum_version:
-    version_number: 7.1
-    release_date: 2022/05/31
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 7.1
+      release_date: 2022/05/31
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.couchbase.com/server/current/install/ubuntu-debian-install.html
 
 optional_info:
     homepage_url: https://www.couchbase.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.couchbase.com/server/current/install/ubuntu-debian-install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum: https://www.couchbase.com/blog/arm-cpu-support-for-couchbase-server-71/

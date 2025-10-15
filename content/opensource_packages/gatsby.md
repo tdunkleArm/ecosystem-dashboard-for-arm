@@ -4,26 +4,28 @@ category: Languages and Frameworks
 description: Gatsby is a React-based open-source framework for creating websites and provides scalability and built-in security.
 download_url: https://github.com/gatsbyjs/gatsby/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2017/07/06
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2017/07/06
+
+    arm_recommended_minimum_version:
+      version_number: 5.0.0
+      release_date: 2022/11/01
+      reference_content: https://www.gatsbyjs.com/docs/reference/release-notes/v5.0/
+      rationale: Version 5.0.0 introduced significant performance improvements, including reducing build duration up to 90%, which benefits all architectures including ARM-based systems.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide
 
 optional_info:
     homepage_url: https://www.gatsbyjs.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide
-    arm_recommended_minimum_version:
-        version_number: 5.0.0
-        release_date: 2022/11/01
-        reference_content: https://www.gatsbyjs.com/docs/reference/release-notes/v5.0/
-        rationale: Version 5.0.0 introduced significant performance improvements, including reducing build duration up to 90%, which benefits all architectures including ARM-based systems.
 
 optional_hidden_info:
     release_notes__supported_minimum:

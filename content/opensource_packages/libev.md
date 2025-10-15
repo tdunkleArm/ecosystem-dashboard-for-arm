@@ -4,26 +4,28 @@ category: Languages and Frameworks
 description: Libev is a fast, efficient library for managing asynchronous I/O and timers. It helps applications handle multiple events and callbacks smoothly, enhancing responsiveness.
 download_url: http://dist.schmorp.de/libev/Attic/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 4.15
-    release_date: 2013/03/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 4.15
+      release_date: 2013/03/01
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: http://cvs.schmorp.de/libev/README
 
 optional_info:
     homepage_url: http://software.schmorp.de/pkg/libev.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: http://cvs.schmorp.de/libev/README
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

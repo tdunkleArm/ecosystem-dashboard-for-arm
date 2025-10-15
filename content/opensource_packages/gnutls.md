@@ -4,27 +4,44 @@ category: Security applications
 description: GnuTLS is an open-source library offering cryptographic protocols like TLS and SSL, facilitating secure communication and authentication for online services and applications.
 download_url: https://www.gnupg.org/ftp/gcrypt/gnutls/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.2.0
-    release_date: 2013/05/10
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 3.2.0
+      release_date: 2013/05/10
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/gnutls/gnutls?tab=readme-ov-file#gnutls----information-for-developers
+
+  - platforms: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs:
 
 optional_info:
     homepage_url: https://www.gnutls.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/gnutls/gnutls?tab=readme-ov-file#gnutls----information-for-developers
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 

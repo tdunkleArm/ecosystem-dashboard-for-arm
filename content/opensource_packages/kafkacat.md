@@ -4,27 +4,28 @@ category: Messaging/Comms
 description: Kafkacat (Kcat) is a CLI utility for Apache Kafka that enables users to publish, retrieve, and inspect messages from Kafka topics. It's designed for easy interaction with Kafka clusters for testing and monitoring.
 download_url: https://github.com/edenhill/kcat/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.6.0
-    release_date: 2020/06/21
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.6.0
+      release_date: 2020/06/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/edenhill/kcat#install
 
 optional_info:
     homepage_url: https://github.com/edenhill/kcat
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/edenhill/kcat#install
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

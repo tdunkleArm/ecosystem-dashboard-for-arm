@@ -4,26 +4,28 @@ category: Messaging/Comms
 description: The Java SDK for CloudEvents is a collection of Java libraries to adopt CloudEvents in your Java application.Using the Java SDK we can access, create and manipulate CloudEvent inside our application.
 download_url: https://github.com/cloudevents/sdk-java/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v0.3.1
-    release_date: 2019/09/30
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v0.3.1
+      release_date: 2019/09/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://cloudevents.github.io/sdk-java/
 
 optional_info:
     homepage_url: https://cloudevents.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://cloudevents.github.io/sdk-java/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum: 

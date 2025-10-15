@@ -4,26 +4,28 @@ category: Content mgmt platforms
 description: Elastic Open Web Crawler is an open-source, configuration-driven crawler that extracts web content and ingests it into Elasticsearch for easy searchability.
 download_url: https://www.elastic.co/downloads/crawler
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.1.0
-    release_date: 2024/06/04
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.0
+      release_date: 2024/06/04
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/elastic/crawler#quickstart
+
 optional_info:
     homepage_url: https://www.elastic.co/web-crawler
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/elastic/crawler#quickstart
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

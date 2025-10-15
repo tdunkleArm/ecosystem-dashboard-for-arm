@@ -8,22 +8,27 @@ supported_minimum_version:
     version_number: 0.1.5
     release_date: 2022/10/05
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.5
+      release_date: 2022/10/05
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/FyraLabs/anda?tab=readme-ov-file#installation
 
 optional_info:
     homepage_url: https://crates.io/crates/anda
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/FyraLabs/anda?tab=readme-ov-file#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

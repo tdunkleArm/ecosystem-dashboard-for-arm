@@ -4,27 +4,28 @@ category: Storage
 description: GlusterFS is an open-source, scalable distributed file system designed to handle large amounts of data across multiple servers.
 download_url: https://github.com/gluster/glusterfs/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 9.0
-    release_date: 2021/01/19
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 9.0
+      release_date: 2021/01/19
+
+    arm_recommended_minimum_version:
+      version_number: 11.0
+      release_date: 2023/02/14
+      reference_content: https://docs.gluster.org/en/main/release-notes/11.0/
+      rationale: This release includes 36% performance boost for rmdir operations, expanded ZFS snapshot support, namespace-based quota implementation, and significant cleanups with improved readdir/readdirp efficiency. Many other major bugs have been resolved, for example, Geo-replication gsyncd at 100% CPU.
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://docs.gluster.org/en/latest/Install-Guide/Install/
 
 optional_info:
     homepage_url: https://www.gluster.org/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://docs.gluster.org/en/latest/Install-Guide/Install/
-    arm_recommended_minimum_version:
-        version_number: 11.0
-        release_date: 2023/02/14
-        reference_content: https://docs.gluster.org/en/main/release-notes/11.0/
-        rationale: This release includes 36% performance boost for rmdir operations, expanded ZFS snapshot support, namespace-based quota implementation, and significant cleanups with improved readdir/readdirp efficiency. Many other major bugs have been resolved, for example, Geo-replication gsyncd at 100% CPU.
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

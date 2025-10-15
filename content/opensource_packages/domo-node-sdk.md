@@ -4,27 +4,28 @@ category: Languages and Frameworks
 description: The Domo Node.js SDK facilitates seamless integration with Domo's platform, enabling developers to efficiently interact with Domo's APIs for data management, visualization, and business intelligence solutions.
 download_url: https://github.com/domoinc/domo-node-sdk/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v2.0.0
-    release_date: 2017/08/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v2.0.0
+      release_date: 2017/08/01
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/domoinc/domo-node-sdk?tab=readme-ov-file#setup
 
 optional_info:
     homepage_url: https://developer.domo.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/domoinc/domo-node-sdk?tab=readme-ov-file#setup
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

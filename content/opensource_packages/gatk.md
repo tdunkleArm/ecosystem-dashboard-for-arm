@@ -4,27 +4,28 @@ category: Miscellaneous
 description: GATK (Genome Analysis Toolkit) is a robust software application designed for analyzing genomic data. It includes a variety of tools to assist in discovering genetic variations and conducting genotyping in extensive sequencing studies.
 download_url: https://github.com/broadinstitute/gatk/releases
 works_on_arm: FALSE
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4
 
 optional_info:
     homepage_url: https://gatk.broadinstitute.org/hc/en-us
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

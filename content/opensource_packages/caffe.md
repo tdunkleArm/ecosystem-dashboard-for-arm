@@ -4,27 +4,28 @@ category: Languages and Frameworks
 description: Caffe is a high-performance, open-source tool for deep learning, specializing in visual recognition tasks. It allows users to construct and train neural networks efficiently.
 download_url: https://launchpad.net/ubuntu/+source/caffe/1.0.0-6
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2018/01/29
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2018/01/29
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: http://caffe.berkeleyvision.org/install_apt.html
 
 optional_info:
     homepage_url: http://caffe.berkeleyvision.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: http://caffe.berkeleyvision.org/install_apt.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

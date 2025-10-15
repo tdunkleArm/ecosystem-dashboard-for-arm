@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Fio is a flexible I/O tester tool, and is used to save the hassle of writing special test case programs.
 download_url: https://brick.kernel.dk/snaps/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.28
-    release_date: 2021/09/08
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.28
+      release_date: 2021/09/08
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://fio.readthedocs.io/en/master/fio_doc.html#building
 
 optional_info:
     homepage_url: https://github.com/axboe/fio
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://fio.readthedocs.io/en/master/fio_doc.html#building
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

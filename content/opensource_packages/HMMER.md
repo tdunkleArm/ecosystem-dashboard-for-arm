@@ -4,26 +4,28 @@ category: HPC
 description: HMMER is a bioinformatics toolset for identifying homologous sequences in sequence databases and making sequence alignments using Hidden Markov Models (HMMs).
 download_url: http://hmmer.org/download.html
 works_on_arm: true
-supported_minimum_version:
-    version_number: hmmer-3.4
-    release_date: 2023/08/15
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: hmmer-3.4
+      release_date: 2023/08/15
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: http://hmmer.org/documentation.html
 
 optional_info:
     homepage_url: http://hmmer.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: http://hmmer.org/documentation.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

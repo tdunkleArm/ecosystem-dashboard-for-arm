@@ -4,26 +4,28 @@ category: AI/ML
 description: JAX is a Python library for program transformation and accelerator-oriented array computation. It is designed for large-scale machine learning and high-performance numerical computing.
 download_url: https://pypi.org/project/jax/#history
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.0
-    release_date: 2018/12/8
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.0
+      release_date: 2018/12/8
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content:
+      official_docs: https://jax.readthedocs.io/en/latest/installation.html
 
 optional_info:
     homepage_url: https://jax.readthedocs.io/en/latest/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content:
-        official_docs: https://jax.readthedocs.io/en/latest/installation.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

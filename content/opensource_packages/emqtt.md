@@ -4,26 +4,28 @@ category: Messaging/Comms
 description: EMQTT is an open-source, highly scalable, distributed MQTT message broker designed for the Internet of Things (IoT).  It implements the MQTT protocol, which is a lightweight messaging protocol.
 download_url: https://github.com/emqx/emqtt/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.4.4
-    release_date: 2021/10/21
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.4.4
+      release_date: 2021/10/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://emqtt.io/docs/v2/getstarted.html
 
 optional_info:
     homepage_url: https://emqtt.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://emqtt.io/docs/v2/getstarted.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

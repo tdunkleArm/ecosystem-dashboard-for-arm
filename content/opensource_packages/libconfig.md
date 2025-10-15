@@ -4,27 +4,28 @@ category: Languages and Frameworks
 description: Libconfig is a lightweight library for managing configuration files, particularly designed for applications requiring flexible and efficient configuration data handling.
 download_url: https://hyperrealm.github.io/libconfig/
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 1.7.3
-    release_date: 2021/06/21
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 1.7.3
+      release_date: 2021/06/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/hyperrealm/libconfig/blob/master/INSTALL
 
 optional_info:
     homepage_url: https://hyperrealm.github.io/libconfig/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/hyperrealm/libconfig/blob/master/INSTALL
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

@@ -4,26 +4,28 @@ category: Monitoring/Observability
 description: Ganglia is a free software tool that monitors the performance and health of computer clusters, helping users understand how well their systems are working.
 download_url: https://github.com/ganglia/monitor-core/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.6.0
-    release_date: 2013/04/30
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 3.6.0
+      release_date: 2013/04/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/ganglia/monitor-core/wiki/Ganglia-Quick-Start
 
 optional_info:
     homepage_url: http://ganglia.info
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/ganglia/monitor-core/wiki/Ganglia-Quick-Start
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

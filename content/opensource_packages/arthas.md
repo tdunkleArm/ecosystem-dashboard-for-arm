@@ -4,27 +4,44 @@ category: Miscellaneous
 description: Arthas provides troubleshooting for the production issues in the Java applications without modifying code or restarting servers.
 download_url: https://github.com/alibaba/arthas/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.0.5
-    release_date: 2018/11/28
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.0.5
+      release_date: 2018/11/28
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://arthas.aliyun.com/en/doc/install-detail.html
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://arthas.aliyun.com/en/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://arthas.aliyun.com/en/doc/install-detail.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

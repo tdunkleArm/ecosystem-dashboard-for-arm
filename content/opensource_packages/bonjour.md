@@ -4,26 +4,28 @@ category: Networking
 description: Bonjour also known as zero-configuration networking, enables automatic discovery of devices and services on a local network using industry standard IP protocols.
 download_url:
 works_on_arm: false
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://developer.apple.com/bonjour/
     support_caveats:
     alternative_options: Avahi
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs:
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

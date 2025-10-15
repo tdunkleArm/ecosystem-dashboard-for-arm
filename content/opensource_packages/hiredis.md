@@ -4,27 +4,28 @@ category: Database
 description: Hiredis is a library designed for easy interaction with Redis, a powerful database that stores data in memory for fast access. It helps developers efficiently send commands and retrieve responses from Redis within their applications.
 download_url: https://pypi.org/project/hiredis/#files
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.1.0
-    release_date: 2022/12/14
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.1.0
+      release_date: 2022/12/14
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/redis/hiredis-py#install
 
 optional_info:
     homepage_url: https://redis.io/lp/hiredis/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/redis/hiredis-py#install
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -4,26 +4,28 @@ category: DevOps
 description: Kubermatics manages the automation of thousands of Kubernetes clusters across multicloud, on-prem and edge.
 download_url:
 works_on_arm: false
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.kubermatic.com/
     support_caveats:
     alternative_options: Amazon Elastic Kubernetes Service (Amazon EKS)
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs:
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

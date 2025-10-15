@@ -4,28 +4,44 @@ category: DevOps
 description: CircleCI-CLI is a command-line interface (CLI) tool that allows developers to interact with CircleCI's CI/CD platform from the terminal.
 download_url: https://github.com/CircleCI-Public/circleci-cli/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.1.17554
-    release_date: 2022/05/05
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.17554
+      release_date: 2022/05/05
+
+    arm_recommended_minimum_version:
+      version_number: 0.1.26786
+      release_date: 2023/05/16
+      reference_content: https://github.com/CircleCI-Public/circleci-cli/releases/tag/v0.1.26786
+      rationale: In this version, the CircleCI CLI installer has been updated to support downloading and installing prebuilt Arm64 binaries of the CLI.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/CircleCI-Public/circleci-cli#getting-started
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: 0.1.26786
+      release_date: 2023/05/16
+      reference_content: https://github.com/CircleCI-Public/circleci-cli/releases/tag/v0.1.26786
+      rationale: In this version, the CircleCI CLI installer has been updated to support downloading and installing prebuilt Arm64 binaries of the CLI.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://circleci.com/docs/local-cli/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/CircleCI-Public/circleci-cli#getting-started
-    arm_recommended_minimum_version:
-        version_number: 0.1.26786
-        release_date: 2023/05/16
-        reference_content: https://github.com/CircleCI-Public/circleci-cli/releases/tag/v0.1.26786
-        rationale: In this version, the CircleCI CLI installer has been updated to support downloading and installing prebuilt Arm64 binaries of the CLI.
-
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/CircleCI-Public/circleci-cli/releases/tag/v0.1.17554

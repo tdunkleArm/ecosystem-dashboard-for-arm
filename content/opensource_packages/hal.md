@@ -4,26 +4,28 @@ category: Operating System
 description: HAL (Hardware Abstraction Layer) is a software layer that allows applications to communicate with hardware devices without needing to know the specifics of how those devices work.
 download_url: https://github.com/emsec/hal/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 4.2.0
-    release_date: 2023/05/24
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 4.2.0
+      release_date: 2023/05/24
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/emsec/hal/wiki/Building-HAL
 
 optional_info:
     homepage_url: https://source.android.com/docs/core/architecture/hal
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/emsec/hal/wiki/Building-HAL
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

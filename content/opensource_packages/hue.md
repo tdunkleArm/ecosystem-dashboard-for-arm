@@ -4,27 +4,28 @@ category: Content mgmt platforms
 description: Hue is an open-source web interface that simplifies the use of Apache Hadoop and other big data platforms. 
 download_url: https://github.com/cloudera/hue/releases
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 4.10
-    release_date: 2021/06/11
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 4.10
+      release_date: 2021/06/11
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/cloudera/hue/blob/master/README.md
 
 optional_info:
     homepage_url: https://gethue.com/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/cloudera/hue/blob/master/README.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

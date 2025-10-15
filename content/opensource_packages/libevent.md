@@ -4,27 +4,44 @@ category: Networking
 description: Libevent is a library designed for managing asynchronous input/output operations, event handling, and network communications.
 download_url: https://github.com/libevent/libevent/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.0.21
-    release_date: 2012/11/18
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.0.21
+      release_date: 2012/11/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/libevent/libevent?tab=readme-ov-file#1-building-and-installation
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number: 2.0.21
+      release_date: 2012/11/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://libevent.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/libevent/libevent?tab=readme-ov-file#1-building-and-installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -4,27 +4,28 @@ category: Monitoring/Observability
 description: Terraform-provider-chaossearch is a plugin for ChaosSearch empowers users to efficiently handle ChaosSearch resources within Terraform's framework.
 download_url: https://github.com/ChaosSearch/terraform-provider-chaossearch/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.7
-    release_date: 2022/05/13
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.7
+      release_date: 2022/05/13
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.chaossearch.io/docs/getting-started-with-the-chaossearch-terraform-provider#install-terraform
 
 optional_info:
     homepage_url: https://docs.chaossearch.io/docs/chaossearch-terraform-provider-for-resources
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.chaossearch.io/docs/getting-started-with-the-chaossearch-terraform-provider#install-terraform
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

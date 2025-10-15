@@ -4,26 +4,28 @@ category: AI/ML
 description: Keras is a deep learning framework, with support for TensorFlow, JAX, and PyTorch. Keras effortlessly build and train models for computer vision, audio processing, natural language processing, recommender systems, timeseries forecasting, etc.
 download_url: https://pypi.org/project/keras/#history
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.0.8
-    release_date: 2017/8/26
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.0.8
+      release_date: 2017/8/26
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/keras-core/
+      partner_content:
+      official_docs: https://keras.io/getting_started/
 
 optional_info:
     homepage_url: https://keras.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/keras-core/
-        partner_content:
-        official_docs: https://keras.io/getting_started/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

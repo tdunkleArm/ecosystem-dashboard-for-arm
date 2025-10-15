@@ -4,26 +4,28 @@ category: Miscellaneous
 description: The harness CLI allow users to manage Harness entities through the use of resource YAML files for creating, deleting, and modifying them.
 download_url: https://github.com/harness/harness-cli/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.0.2
-    release_date: 2023/06/30
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.0.2
+      release_date: 2023/06/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://developer.harness.io/docs/platform/automation/cli/install/
 
 optional_info:
     homepage_url: https://github.com/harness/harness-cli?tab=readme-ov-file#harness-cli
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://developer.harness.io/docs/platform/automation/cli/install/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

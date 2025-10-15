@@ -4,26 +4,28 @@ category: Containers and Orchestration
 description: Kubewarden-Controller, developed by Rancher (now part of SUSE), is a Kubernetes controller that dynamically manages and reconciles Kubewarden admission policies with cluster webhooks. Kubewarden, originally created by SUSE Rancher, is a Kubernetes Policy Engine.
 download_url: https://github.com/kubewarden/kubewarden-controller/pkgs/container/kubewarden-controller/versions
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.3.1
-    release_date: 2021/06/18
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.3.1
+      release_date: 2021/06/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/kubewarden/kubewarden-controller#installation
+
 optional_info:
     homepage_url: https://github.com/kubewarden/kubewarden-controller
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/kubewarden/kubewarden-controller#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/kubewarden/kubewarden-controller/releases/tag/v0.3.1

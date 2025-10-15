@@ -4,26 +4,28 @@ category: Data-format
 description: Pentaho data integration aka kettle, a java-based data extraction, transformation and loading (ETL) application with optional GUI.
 download_url: https://github.com/pentaho/pentaho-kettle/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.04.17
-    release_date: 2013/11/21
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.04.17
+      release_date: 2013/11/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/pentaho/pentaho-kettle?tab=readme-ov-file#how-to-build
 
 optional_info:
     homepage_url: https://github.com/pentaho
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/pentaho/pentaho-kettle?tab=readme-ov-file#how-to-build
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

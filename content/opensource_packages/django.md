@@ -4,27 +4,44 @@ category: Languages and Frameworks
 description: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 download_url: https://github.com/django/django/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.2.6
-    release_date: 2012/05/08
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.2.6
+      release_date: 2012/05/08
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/ 
+      partner_content: 
+      official_docs: https://docs.djangoproject.com/en/5.0/intro/install/
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content: 
+      official_docs:
 
 optional_info:
     homepage_url: https://www.djangoproject.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/ 
-        partner_content: 
-        official_docs: https://docs.djangoproject.com/en/5.0/intro/install/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

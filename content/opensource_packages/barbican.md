@@ -4,26 +4,28 @@ category: DevOps
 description: Barbican is a REST API, used for the secure storage, provisioning, and management of secrets.
 download_url: https://github.com/openstack/barbican/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.0.0
-    release_date: 2016/04/07
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.0.0
+      release_date: 2016/04/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.openstack.org/barbican/latest/install/install-ubuntu.html#install-and-configure-components
 
 optional_info:
     homepage_url: https://opendev.org/openstack/barbican
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.openstack.org/barbican/latest/install/install-ubuntu.html#install-and-configure-components
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -4,26 +4,28 @@ category: Crypto
 description: OpenStack Keystone provides authorization, authentication, and service discovery mechanisms via HTTP primarily for OpenStack projects.
 download_url: https://github.com/openstack/keystone/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 9.0.0
-    release_date: 2016/04/07
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 9.0.0
+      release_date: 2016/04/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.openstack.org/keystone/latest/install/keystone-install-ubuntu.html
 
 optional_info:
     homepage_url: https://docs.openstack.org/keystone/latest/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.openstack.org/keystone/latest/install/keystone-install-ubuntu.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

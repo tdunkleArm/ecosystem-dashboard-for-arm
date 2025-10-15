@@ -4,29 +4,46 @@ category: Compression
 description: Brotli compresses data using a combination of LZ77 algorithm, second-order context modeling, and Huffman coding.
 download_url: https://pypi.org/project/Brotli/#history
 works_on_arm: true
-supported_minimum_version:
-  version_number: 0.5.2
-  release_date: 2016/10/12
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.5.2
+      release_date: 2016/10/12
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+        - display_name: Amazon AWS
+          url: https://blog.cloudflare.com/arms-race-ampere-altra-takes-on-aws-graviton2/
+      official_docs: https://github.com/google/brotli?tab=readme-ov-file#python
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+      official_docs:
 
 optional_info:
   homepage_url: https://github.com/google/brotli?tab=readme-ov-file#introduction
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://blog.cloudflare.com/arms-race-ampere-altra-takes-on-aws-graviton2/
-    official_docs: https://github.com/google/brotli?tab=readme-ov-file#python
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: null
   release_notes__recommended_minimum: null

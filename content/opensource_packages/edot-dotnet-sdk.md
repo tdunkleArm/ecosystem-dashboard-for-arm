@@ -4,26 +4,28 @@ category: Monitoring/Observability
 description: Elastic Distribution of OpenTelemetry (EDOT) .NET SDK, a component of EDOT, is Elastic’s enhanced distribution of the OpenTelemetry .NET SDK, preconfigured for seamless integration with Elastic Observability. It enables .NET applications to automatically capture and export traces, metrics, and logs using OTLP, while including Elastic-specific optimizations and early bug fixes for improved compatibility and performance.
 download_url: https://github.com/elastic/elastic-otel-dotnet/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2025/04/02
 
-platforms:
-  - linux-server 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2025/04/02
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet/setup/aspnet
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet
     support_caveats: EDOT SDKs are available in multiple languages (Java, Node.js, PHP, etc.). See https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/#supported-languages for details.
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet/setup/aspnet
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

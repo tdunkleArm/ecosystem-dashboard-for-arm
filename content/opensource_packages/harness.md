@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Harness Open Source is an end-to-end software delivery platform. It enhances productivity and accelerates software development cycles, eliminates the need to juggle disjointed software development tools.
 download_url: https://github.com/harness/harness/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: v3.0.0-beta.8
-    release_date: 2024/08/15
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v3.0.0-beta.8
+      release_date: 2024/08/15
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/harness/harness?tab=readme-ov-file#running-harness-locally
 
 optional_info:
     homepage_url: https://www.harness.io/open-source
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/harness/harness?tab=readme-ov-file#running-harness-locally
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

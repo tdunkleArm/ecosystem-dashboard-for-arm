@@ -4,26 +4,28 @@ category: Containers and Orchestration
 description: An open source trusted cloud native registry project that stores, signs, and scans content.
 download_url: https://github.com/goharbor/harbor/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.7.1
-    release_date: 2023/04/17
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.7.1
+      release_date: 2023/04/17
+
+    arm_recommended_minimum_version:
+      version_number: 2.9.0
+      release_date: 2023/08/29
+      reference_content: https://goharbor.io/blog/harbor-2.9/
+      rationale: Harbor v2.9.0 introduced enhanced support for multi-architecture images and image manifests through OCI v1.1.0-rc2, facilitating better management and deployment of images across different architectures. Additionally, this version improved the garbage collection process, leading to more efficient storage management.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://goharbor.io/docs/2.10.0/install-config/
 
 optional_info:
     homepage_url: https://goharbor.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://goharbor.io/docs/2.10.0/install-config/
-    arm_recommended_minimum_version:
-        version_number: 2.9.0
-        release_date: 2023/08/29
-        reference_content: https://goharbor.io/blog/harbor-2.9/
-        rationale: Harbor v2.9.0 introduced enhanced support for multi-architecture images and image manifests through OCI v1.1.0-rc2, facilitating better management and deployment of images across different architectures. Additionally, this version improved the garbage collection process, leading to more efficient storage management.
 
 optional_hidden_info:
     release_notes__supported_minimum:

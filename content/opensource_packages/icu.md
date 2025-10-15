@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Unicode icu is the repository for the International Components for Unicode.
 download_url: https://github.com/microsoft/icu/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 68.2.0.6
-    release_date: 2021/4/16
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 68.2.0.6
+      release_date: 2021/4/16
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://unicode-org.github.io/icu/userguide/
 
 optional_info:
     homepage_url: https://unicode-org.github.io/icu/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://unicode-org.github.io/icu/userguide/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/microsoft/icu/releases/tag/v68.2.0.6

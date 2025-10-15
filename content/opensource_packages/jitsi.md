@@ -4,27 +4,44 @@ category: Messaging/Comms
 description: Jitsi Meet is a fully encrypted, 100% open source video conferencing solution.
 download_url: https://desktop.jitsi.org/Main/Download.html 
 works_on_arm: true
-supported_minimum_version:
-    version_number: stable-7287-1
-    release_date: 2022/06/10
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: stable-7287-1
+      release_date: 2022/06/10
+
+    arm_recommended_minimum_version:
+      version_number: stable-7830
+      release_date: 2022/09/08
+      reference_content: https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830
+      rationale: This release introduced fixes in the Dockerfile to ensure successful builds for Arm64.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/#quick-start
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: stable-7830
+      release_date: 2022/09/08
+      reference_content: https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830
+      rationale: This release introduced fixes in the Dockerfile to ensure successful builds for Arm64.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://jitsi.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/#quick-start
-    arm_recommended_minimum_version:
-        version_number: stable-7830
-        release_date: 2022/09/08
-        reference_content: https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830
-        rationale: This release introduced fixes in the Dockerfile to ensure successful builds for Arm64.
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-7287-1

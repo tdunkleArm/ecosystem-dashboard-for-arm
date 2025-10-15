@@ -4,26 +4,28 @@ category: Miscellaneous
 description: GEOS is a C++ library that provides spatial object models and fundamental geometric operations, implementing the OpenGIS Simple Features Specification for processing complex geospatial data efficiently.
 download_url: https://download.osgeo.org/geos/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.3.2
-    release_date: 2012/01/05
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 3.3.2
+      release_date: 2012/01/05
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://libgeos.org/usage/download/#build
 
 optional_info:
     homepage_url: https://libgeos.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://libgeos.org/usage/download/#build
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 

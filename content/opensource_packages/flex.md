@@ -4,26 +4,28 @@ category: Compilers/Tools
 description: Flex is a tool used to create lexical analyzers, which identify patterns in text. It processes specified rules and generates C and C++ code to handle lexical analysis tasks.
 download_url: https://github.com/westes/flex/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.6.1
-    release_date: 2016/03/02
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.6.1
+      release_date: 2016/03/02
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/westes/flex/blob/master/INSTALL.md
 
 optional_info:
     homepage_url: https://github.com/westes/flex
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/westes/flex/blob/master/INSTALL.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 

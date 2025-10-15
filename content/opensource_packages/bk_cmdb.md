@@ -4,26 +4,28 @@ category: DevOps
 description: Bk-cmdb is a configuration management platform for managing assets and applications with custom models and data snapshots.
 download_url: https://github.com/TencentBlueKing/bk-cmdb/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v3.10.41
-    release_date: 2023/07/31
 
-platforms:
-  - linux-server 
- 
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v3.10.41
+      release_date: 2023/07/31
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/TencentBlueKing/bk-cmdb/blob/master/docs/overview/source_compile.md
+
 optional_info:
     homepage_url: https://github.com/TencentBlueKing/bk-cmdb
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/TencentBlueKing/bk-cmdb/blob/master/docs/overview/source_compile.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

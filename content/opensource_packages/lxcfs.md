@@ -4,26 +4,28 @@ category: Containers and Orchestration
 description: LXCFS (Linux Container Filesystem) is a FUSE-based filesystem that virtualizes /proc files and manages cgroup filesystems to improve container performance and isolation.
 download_url: https://linuxcontainers.org/lxcfs/downloads/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.12
-    release_date: 2015/11/18
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.12
+      release_date: 2015/11/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://linuxcontainers.org/lxcfs/getting-started/
+
 optional_info:
     homepage_url: https://linuxcontainers.org/lxcfs/introduction/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://linuxcontainers.org/lxcfs/getting-started/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

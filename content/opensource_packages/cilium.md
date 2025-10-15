@@ -4,28 +4,30 @@ category: Containers and Orchestration
 description: Cilium is a networking, observability, and security solution with an eBPF-based dataplane.
 download_url: https://github.com/cilium/cilium/releases
 works_on_arm: true
-supported_minimum_version:
-  version_number: 1.8.0
-  release_date: 2020/06/22
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.8.0
+      release_date: 2020/06/22
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+        - display_name: Oracle OCI
+          url: https://docs.oracle.com/en/learn/oke-flannel-to-cilium-cni-plugin/index.html#introduction
+      official_docs: https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/#install-cilium
 
 optional_info:
   homepage_url: https://cilium.io/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-      - display_name: Oracle OCI
-        url: https://docs.oracle.com/en/learn/oke-flannel-to-cilium-cni-plugin/index.html#introduction
-    official_docs: https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/#install-cilium
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: https://github.com/cilium/cilium/releases/tag/v1.8.0
   release_notes__recommended_minimum: null

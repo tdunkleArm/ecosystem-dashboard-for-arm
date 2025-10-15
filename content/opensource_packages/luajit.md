@@ -4,26 +4,28 @@ category: Compilers/Tools
 description: LuaJIT is a high-performance Just-In-Time compiler designed to execute Lua code with near-native speed. It provides a lightweight runtime ideal for embedded systems, games, and scripting in performance-critical scripting applications.
 download_url: https://github.com/LuaJIT/LuaJIT/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.1.0-beta3
-    release_date: 2017/05/02
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.1.0-beta3
+      release_date: 2017/05/02
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://luajit.org/install.html
 
 optional_info:
     homepage_url: http://luajit.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://luajit.org/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

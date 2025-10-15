@@ -4,27 +4,44 @@ category: Miscellaneous
 description: LibreOffice is a flexible, open-source office suite that provides tools for word processing, spreadsheets, presentations, and other document creation tasks, making it a multipurpose application.
 download_url: https://downloadarchive.documentfoundation.org/libreoffice/old/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 4.2.8
-    release_date: 2014/12/08
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 4.2.8
+      release_date: 2014/12/08
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://wiki.documentfoundation.org/Documentation/Install/Linux
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number: 4.2.8
+      release_date: 2014/12/08
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.libreoffice.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://wiki.documentfoundation.org/Documentation/Install/Linux
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

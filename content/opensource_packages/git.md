@@ -4,27 +4,44 @@ category: DevOps
 description: Git is a distributed version control system that enables developers to track code changes, collaborate effectively, and manage project history.
 download_url: https://git-scm.com/downloads/linux
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.9.1
-    release_date: 2014/03/19
 
-platforms:
-  - linux-server
-  - windows-on-arm
- 
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 1.9.1
+      release_date: 2014/03/19
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://git-scm.com/docs
+
+  - platforms: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
+
 optional_info:
     homepage_url: https://git-scm.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://git-scm.com/docs
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

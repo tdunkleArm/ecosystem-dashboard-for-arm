@@ -4,26 +4,28 @@ category: Containers and Orchestration
 description: K3s is a lightweight, fully compliant Kubernetes distribution packaged as a single binary, designed for resource-constrained and edge environments with simplified operations and minimal dependencies.
 download_url: https://github.com/k3s-io/k3s/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.1.0
-    release_date: 2019/02/26
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.0
+      release_date: 2019/02/26
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.k3s.io/quick-start
+
 optional_info:
     homepage_url: https://k3s.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.k3s.io/quick-start
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: 

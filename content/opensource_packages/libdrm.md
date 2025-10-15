@@ -4,27 +4,28 @@ category: Operating System
 description: Libdrm is a userspace library that provides an interface for interacting with the Direct Rendering Manager (DRM) kernel subsystem in Linux. It facilitates efficient communication between applications and the graphics hardware, enabling high-performance rendering and display management.
 download_url: https://gitlab.freedesktop.org/mesa/drm/-/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.4.67
-    release_date: 2016/02/16
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.4.67
+      release_date: 2016/02/16
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/robherring/libdrm/blob/master/README
 
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/mesa/drm
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/robherring/libdrm/blob/master/README
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

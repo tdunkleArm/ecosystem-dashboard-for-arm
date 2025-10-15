@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Libxml2 is an XML library used for parsing, validating, and manipulating XML documents efficiently in various software applications.
 download_url: https://gitlab.gnome.org/GNOME/libxml2/-/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.8.0
-    release_date: 2012/05/23
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.8.0
+      release_date: 2012/05/23
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://gitlab.gnome.org/GNOME/libxml2/-/blob/master/README.md?ref_type=heads
+
 optional_info:
     homepage_url: https://gitlab.gnome.org/GNOME/libxml2
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://gitlab.gnome.org/GNOME/libxml2/-/blob/master/README.md?ref_type=heads
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: 

@@ -4,26 +4,28 @@ category: Monitoring/Observability
 description: Elastic APM Server (Application Performance Monitoring) is a core component of Elastic Observability that ingests performance metrics, traces, and errors from APM agents and stores them in Elasticsearch for real-time monitoring and analysis in Kibana.
 download_url: https://www.elastic.co/downloads/past-releases/#apm-server
 works_on_arm: true
-supported_minimum_version:
-    version_number: 7.12.0
-    release_date: 2021/03/23
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 7.12.0
+      release_date: 2021/03/23
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://www.elastic.co/docs/solutions/observability/apm/get-started
+
 optional_info:
     homepage_url: https://www.elastic.co/docs/solutions/observability/apm
     support_caveats: Linux/Arm64 binaries are available from version 7.12.0. Official Docker images for Arm are only available starting from version 7.17.11.
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.elastic.co/docs/solutions/observability/apm/get-started
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

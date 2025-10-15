@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Google Logging is a C++14 library that implements application-level logging, and it provides various helper macros and logging APIs based on C++-style streams.
 download_url: https://github.com/google/glog/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.4.0
-    release_date: 2019/03/22
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: 0.4.0
+      release_date: 2019/03/22
+
+    arm_recommended_minimum_version:
+      version_number: 0.7.0
+      release_date: 2024/02/17
+      reference_content: https://github.com/google/glog/releases/tag/v0.7.0
+      rationale: This version fixes empty stack trace issue when using bazel on aarch64. Other highlights include C++ 14 support, Emscripten support, and many other fixes and enhancements.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://google.github.io/glog/stable/build/#cmake
 
 optional_info:
     homepage_url: https://google.github.io/glog/stable/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://google.github.io/glog/stable/build/#cmake
-    arm_recommended_minimum_version:
-        version_number: 0.7.0
-        release_date: 2024/02/17
-        reference_content: https://github.com/google/glog/releases/tag/v0.7.0
-        rationale: This version fixes empty stack trace issue when using bazel on aarch64. Other highlights include C++ 14 support, Emscripten support, and many other fixes and enhancements.
 
 optional_hidden_info:
     release_notes__supported_minimum:

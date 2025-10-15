@@ -4,26 +4,28 @@ category: Crypto
 description: BoringSSL is a custom version of OpenSSL that was created and maintained by Google.
 download_url: https://github.com/google/boringssl/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: fips-20220613
-    release_date: 2022/12/07
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: fips-20220613
+      release_date: 2022/12/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/google/boringssl/blob/fips-20220613/BUILDING.md#building
 
 optional_info:
     homepage_url: https://boringssl.googlesource.com/boringssl
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/google/boringssl/blob/fips-20220613/BUILDING.md#building
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

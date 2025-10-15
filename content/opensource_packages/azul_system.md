@@ -4,12 +4,16 @@ category: Runtimes
 description: Azul Zulu is a free and open-source build of OpenJDK that is TCK-tested and certified to be fully compliant with the Java SE standard. It's developed and maintained by Azul Systems, a company that specializes in Java runtimes and support.
 download_url: https://www.azul.com/downloads/
 works_on_arm: true
-supported_minimum_version:
-  version_number: zulu8.31.1.122-ca-jdk1.8.0.181
-  release_date: 2014/04/08
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: zulu8.31.1.122-ca-jdk1.8.0.181
+      release_date: 2014/04/08
+
+    getting_started_resources:
+      - display_name: Official documents
+        url: https://docs.azul.com/core/
 
 optional_info:
   homepage_url: https://www.azul.com/
@@ -18,7 +22,6 @@ optional_info:
   getting_started_resources:
     arm_content: null
     partner_content:
-    official_docs: https://docs.azul.com/core/
   arm_recommended_minimum_version:
     version_number: 17
     release_date: 2025/07/15

@@ -4,26 +4,28 @@ category: Miscellaneous
 description: FigTree is a program for producing publication-ready figures, and is designed as a graphical viewer of phylogenetic trees.
 download_url: https://github.com/rambaut/figtree/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.4.3
-    release_date: 2016/10/04
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.4.3
+      release_date: 2016/10/04
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://github.com/rambaut/figtree
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs:
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

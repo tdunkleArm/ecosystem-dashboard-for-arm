@@ -4,26 +4,28 @@ category: HPC
 description: CANU is widely used in bioinformatics for de novo genome assembly and is optimized for parallel processing, making it well-suited for use in high-performance computing (HPC) environments.
 download_url:
 works_on_arm: FALSE
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/marbl/canu?tab=readme-ov-file#install
 
 optional_info:
     homepage_url: https://github.com/marbl/canu
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/marbl/canu?tab=readme-ov-file#install
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

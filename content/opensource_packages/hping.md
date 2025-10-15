@@ -4,26 +4,28 @@ category: Networking
 description: Hping3 is a command-line tool for generating custom TCP/IP packets, widely used for network testing, firewall auditing, and security assessments.
 download_url: https://launchpad.net/ubuntu/+source/hping3
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.a2.ds2-6
-    release_date: 2013/10/31
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.a2.ds2-6
+      release_date: 2013/10/31
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://git.launchpad.net/ubuntu/+source/hping3/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs:
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

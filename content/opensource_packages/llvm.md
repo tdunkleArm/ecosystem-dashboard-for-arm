@@ -4,27 +4,44 @@ category: Compilers/Tools
 description: LLVM is a set of compiler and toolchain technologies. It is broadly capable as a frontend for any programming language and a backend for any ISA.
 download_url: https://github.com/llvm/llvm-project/releases/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 7.1.0
-    release_date: 2019/05/11
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 7.1.0
+      release_date: 2019/05/11
+
+    arm_recommended_minimum_version:
+      version_number: 19.1.0
+      release_date: 2024/10/07
+      reference_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/what-is-new-in-llvm-19
+      rationale: LLVM 19.1.0 introduced significant performance improvements and new features tailored for Arm architectures. Notably, Arm contributed nearly 1,000 commits to this release, focusing on enhancements that optimize performance on Arm-based systems.
+
+    getting_started_resources:
+      arm_content: https://developer.arm.com/Tools%20and%20Software/LLVM%20Toolchain#Technical-Specifications
+      partner_content:
+      official_docs: https://llvm.org/docs/GettingStarted.html
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: 19.1.0
+      release_date: 2024/10/07
+      reference_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/what-is-new-in-llvm-19
+      rationale: LLVM 19.1.0 introduced significant performance improvements and new features tailored for Arm architectures. Notably, Arm contributed nearly 1,000 commits to this release, focusing on enhancements that optimize performance on Arm-based systems.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.linaro.org/downloads/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://developer.arm.com/Tools%20and%20Software/LLVM%20Toolchain#Technical-Specifications
-        partner_content:
-        official_docs: https://llvm.org/docs/GettingStarted.html
-    arm_recommended_minimum_version:
-        version_number: 19.1.0
-        release_date: 2024/10/07
-        reference_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/what-is-new-in-llvm-19
-        rationale: LLVM 19.1.0 introduced significant performance improvements and new features tailored for Arm architectures. Notably, Arm contributed nearly 1,000 commits to this release, focusing on enhancements that optimize performance on Arm-based systems.
 
 optional_hidden_info:
     release_notes__supported_minimum:

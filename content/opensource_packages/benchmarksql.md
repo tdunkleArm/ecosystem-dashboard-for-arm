@@ -4,27 +4,28 @@ category: Database
 description: BenchmarkSQL is a powerful and flexible tool for benchmarking the performance of relational databases. Implementing the TPC-C benchmark provides standardized and reliable metrics for evaluating transaction processing capabilities.
 download_url: https://github.com/pgsql-io/benchmarksql/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: REL6_0_RC2
-    release_date: 2024/01/13
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: REL6_0_RC2
+      release_date: 2024/01/13
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/pgsql-io/benchmarksql/blob/master/docs/BUILDING.md
 
 optional_info:
     homepage_url: https://benchmarksql.readthedocs.io/en/latest/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/pgsql-io/benchmarksql/blob/master/docs/BUILDING.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

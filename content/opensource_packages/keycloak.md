@@ -4,26 +4,28 @@ category: Security applications
 description: Keycloak is an open-source identity and access management solution for modern applications and services, built on top of industry security standard protocols.
 download_url: https://github.com/keycloak/keycloak/releases/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 12.0.0
-    release_date: 2020/12/17
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 12.0.0
+      release_date: 2020/12/17
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://www.keycloak.org/getting-started/getting-started-zip
 
 optional_info:
     homepage_url: https://www.keycloak.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.keycloak.org/getting-started/getting-started-zip
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

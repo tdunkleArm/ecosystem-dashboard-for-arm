@@ -4,26 +4,28 @@ category: Storage
 description: LINSTOR is open-source software that manages replicated volumes across a group of machines, and it natively integrates with Kubernetes and other platforms, making the build, run, and controlling block storage simple.
 download_url: https://github.com/LINBIT/linstor-server/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: Master branch
-    release_date: 2024/11/18
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: Master branch
+      release_date: 2024/11/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/LINBIT/linstor-server?tab=readme-ov-file#building
 
 optional_info:
     homepage_url: https://github.com/LINBIT/linstor-server
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/LINBIT/linstor-server?tab=readme-ov-file#building
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

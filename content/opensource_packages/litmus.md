@@ -4,26 +4,28 @@ category: Monitoring/Observability
 description: Litmus is a toolset to do cloud-native chaos engineering, and provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments.
 download_url: https://hub.docker.com/r/litmuschaos/chaos-operator/tags
 works_on_arm: true
-supported_minimum_version:
-  version_number: 1.9.0
-  release_date: 2020/10/15
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.9.0
+      release_date: 2020/10/15
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+      official_docs: https://docs.litmuschaos.io/docs/getting-started/installation#install-litmus-using-kubectl
 
 optional_info:
   homepage_url: https://litmuschaos.io/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-    official_docs: https://docs.litmuschaos.io/docs/getting-started/installation#install-litmus-using-kubectl
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: https://github.com/litmuschaos/litmus/releases/tag/1.9.0
   release_notes__recommended_minimum: null

@@ -4,26 +4,28 @@ category: Databases - Big-data
 description: Apache Thrift is a cross-language framework for building scalable services, enabling efficient communication through serialization and remote procedure calls.
 download_url: https://thrift.apache.org/download
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.10.0
-    release_date: 2017/01/06
 
-platforms:
-  - linux-server 
- 
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.10.0
+      release_date: 2017/01/06
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://thrift.apache.org/docs/BuildingFromSource
+
 optional_info:
     homepage_url: https://thrift.apache.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://thrift.apache.org/docs/BuildingFromSource
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

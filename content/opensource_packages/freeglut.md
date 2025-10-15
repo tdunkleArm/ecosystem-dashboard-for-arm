@@ -4,27 +4,44 @@ category: Miscellaneous
 description: FreeGLUT is an open-source alternative to OpenGL Utility Toolkit (GLUT) library, which is widely available, simple, and highly portable. FreeGLUT manages all the system-specific chores required for initializing OpenGL contexts, creating windows, and handling input events, to allow for truly portable OpenGL programs.
 download_url: https://freeglut.sourceforge.net/index.php#download
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.0.0
-    release_date: 2015/03/07
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.0.0
+      release_date: 2015/03/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://freeglut.sourceforge.net/docs/install.php
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://freeglut.sourceforge.net/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://freeglut.sourceforge.net/docs/install.php
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

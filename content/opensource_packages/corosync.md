@@ -4,27 +4,28 @@ category: Networking
 description: Corosync is an open-source project that provides a reliable group communication system that can be used primarily in high-availability (HA) and clustering environments.
 download_url: https://github.com/corosync/corosync/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v2.4.2
-    release_date: 2016/11/07
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v2.4.2
+      release_date: 2016/11/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/corosync/corosync/wiki#welcome-to-the-corosync-wiki
 
 optional_info:
     homepage_url: https://corosync.github.io/corosync/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/corosync/corosync/wiki#welcome-to-the-corosync-wiki
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

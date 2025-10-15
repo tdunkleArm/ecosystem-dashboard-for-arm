@@ -4,27 +4,28 @@ category: Databases - noSQL
 description: Dgraph is a horizontally scalable and distributed GraphQL database, which has a graph backend, and provides ACID transactions, linearizable reads, and consistent replication. 
 download_url: https://github.com/dgraph-io/dgraph/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v22.0.2
-    release_date: 2022/12/17
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v22.0.2
+      release_date: 2022/12/17
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://dgraph.io/docs/dgraph-overview/
 
 optional_info:
     homepage_url: https://dgraph.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://dgraph.io/docs/dgraph-overview/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
-
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/dgraph-io/dgraph/releases/tag/v22.0.2

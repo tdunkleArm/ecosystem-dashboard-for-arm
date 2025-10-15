@@ -4,26 +4,28 @@ category: HPC
 description: Hyperscan is a fast and efficient library for searching through large datasets using regular expressions. It's built for real-time text processing, handling complex pattern matching quickly.
 download_url:
 works_on_arm: FALSE
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
+
 optional_info:
     homepage_url: https://www.hyperscan.io/
     support_caveats:
     alternative_options: Vectorscan
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs:
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

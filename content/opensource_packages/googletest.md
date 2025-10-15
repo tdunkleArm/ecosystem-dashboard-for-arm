@@ -4,27 +4,28 @@ category: Compilers/Tools
 description: GoogleTest is widely used to develop C++ applications, from small projects to large-scale systems. 
 download_url: https://github.com/google/googletest/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v1.11.0
-    release_date: 2021/06/12
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platforms: Linux
+    supported_minimum_version:
+      version_number: v1.11.0
+      release_date: 2021/06/12
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/learning-paths/cross-platform/matrix/
+      partner_content:
+      official_docs: https://google.github.io/googletest/quickstart-cmake.html
 
 optional_info:
     homepage_url: https://github.com/google/googletest
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://learn.arm.com/learning-paths/cross-platform/matrix/
-        partner_content:
-        official_docs: https://google.github.io/googletest/quickstart-cmake.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

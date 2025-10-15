@@ -4,26 +4,28 @@ category: Containers and Orchestration
 description: Apache Airflow is an open-source platform for orchestrating complex workflows and data pipelines. 
 download_url: https://github.com/apache/airflow/tags
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 2.3.0
-    release_date: 2022/05/01
 
-platforms:
-  - linux-server
+platforms_supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 2.3.0
+      release_date: 2022/05/01
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://airflow.apache.org/docs/apache-airflow/stable/installation/
 
 optional_info:
     homepage_url: https://airflow.apache.org/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://airflow.apache.org/docs/apache-airflow/stable/installation/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 
 optional_hidden_info:

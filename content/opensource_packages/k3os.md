@@ -4,26 +4,28 @@ category: Operating System
 description: K3OS is a Linux distribution, specifically designed to only have what is needed to run k3s. K3OS removes as much OS maintenance as possible in a Kubernetes cluster.
 download_url: https://github.com/rancher/k3os/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.1.0
-    release_date: 2019/04/16
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.0
+      release_date: 2019/04/16
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/rancher/k3os?tab=readme-ov-file#installation
 
 optional_info:
     homepage_url: https://github.com/rancher/k3os
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/rancher/k3os?tab=readme-ov-file#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:
