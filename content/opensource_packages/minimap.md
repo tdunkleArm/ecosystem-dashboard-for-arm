@@ -5,27 +5,28 @@ category: HPC
 description: Minimap2 is an open-source sequence alignment tool designed to align DNA or RNA sequences against large reference databases or long-read sequencing data.
 download_url: https://github.com/lh3/minimap2/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.12
-    release_date: 2018/08/06
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.12
+      release_date: 2018/08/06
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/aws-graviton3-reduces-time-and-cost-for-genomics
+      partner_content:
+      official_docs: https://github.com/lh3/minimap2#started
 
 optional_info:
     homepage_url: https://github.com/lh3/minimap2
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/aws-graviton3-reduces-time-and-cost-for-genomics
-        partner_content:
-        official_docs: https://github.com/lh3/minimap2#started
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

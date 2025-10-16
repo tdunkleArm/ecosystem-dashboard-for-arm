@@ -4,27 +4,28 @@ category: Runtimes
 description: Musl is a lightweight and efficient C standard library implementation designed for performance and simplicity, supporting static linking and various architectures.
 download_url: https://github.com/kraj/musl/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.1.7
-    release_date: 2015/03/19
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.1.7
+      release_date: 2015/03/19
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://www.musl-libc.org/how.html
 
 optional_info:
     homepage_url: https://www.musl-libc.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.musl-libc.org/how.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

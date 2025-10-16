@@ -4,27 +4,44 @@ category: Storage
 description: Minio-mc is a command-line tool for managing MinIO and Amazon S3 compatible cloud storage services, enabling users to perform tasks like file uploads, downloads, and bucket management efficiently.
 download_url: https://dl.min.io/client/mc/release/linux-arm64/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2017-02-02T22:38:48Z
-    release_date: 2017/02/03
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2017-02-02T22:38:48Z
+      release_date: 2017/02/03
+
+    arm_recommended_minimum_version:
+      version_number: 
+      release_date: 
+      reference_content: 
+      rationale: 
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://min.io/docs/minio/linux/reference/minio-mc.html
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: 
+      release_date: 
+      reference_content: 
+      rationale: 
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
  
 optional_info:
     homepage_url: https://github.com/minio/mc
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://min.io/docs/minio/linux/reference/minio-mc.html
-    arm_recommended_minimum_version:
-        version_number: 
-        release_date: 
-        reference_content: 
-        rationale: 
  
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -4,27 +4,28 @@ category: Messaging/Comms
 description: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 download_url: https://github.com/mattermost/mattermost/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v8.1.0
-    release_date: 2023/08/24
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v8.1.0
+      release_date: 2023/08/24
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.mattermost.com/overview/index.html
 
 optional_info:
     homepage_url: https://mattermost.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.mattermost.com/overview/index.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

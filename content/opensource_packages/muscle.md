@@ -4,26 +4,28 @@ category: Miscellaneous
 description: MUSCLE is an advanced multiple sequence alignment tool designed for high accuracy and speed in aligning nucleotide or protein sequences, widely used in bioinformatics for evolutionary and structural analysis.
 download_url: https://github.com/rcedgar/muscle/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v5.2
-    release_date: 2024/08/22
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v5.2
+      release_date: 2024/08/22
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://drive5.com/muscle5/manual/install.html
 
 optional_info:
     homepage_url: https://drive5.com/muscle/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://drive5.com/muscle5/manual/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 
