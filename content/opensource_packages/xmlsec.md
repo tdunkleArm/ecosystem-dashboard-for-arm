@@ -4,26 +4,28 @@ category: Crypto
 description: XmlSec is a C library used to sign, verify, encrypt, and decrypt XML documents using XML Digital Signature and XML Encryption standards.
 download_url: https://www.aleksey.com/xmlsec/download.html
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.2.18
-    release_date: 2014/01/19
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.2.18
+      release_date: 2014/01/19
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/lsh123/xmlsec#building-and-installing-xmlsec
+
 optional_info:
     homepage_url: https://www.aleksey.com/xmlsec/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/lsh123/xmlsec#building-and-installing-xmlsec
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

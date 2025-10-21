@@ -4,26 +4,28 @@ category: AI/ML
 description: Saspy is an open-source Python library developed by SAS that bridges Python and SAS software. It enables users to execute SAS programs, access SAS datasets, and leverage SAS's analytical capabilities from Python.
 download_url: https://github.com/sassoftware/saspy/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v2.1.0
-    release_date: 2017/03/20
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v2.1.0
+      release_date: 2017/03/20
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://sassoftware.github.io/saspy/getting-started.html
 
 optional_info:
     homepage_url: https://support.sas.com/en/software/saspy.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://sassoftware.github.io/saspy/getting-started.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

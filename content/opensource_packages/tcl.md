@@ -4,26 +4,28 @@ category: Languages and Frameworks
 description: Tcl is a versatile programming language and framework that enables the development of custom software applications by integrating diverse applications, protocols, devices, and frameworks.
 download_url: https://github.com/tcltk/tcl/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 8.5.12
-    release_date: 2012/07/25
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 8.5.12
+      release_date: 2012/07/25
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/tcltk/tcl/tree/main/unix#readme
 
 optional_info:
     homepage_url: https://www.tcl-lang.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/tcltk/tcl/tree/main/unix#readme
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

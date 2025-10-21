@@ -4,26 +4,28 @@ category: Database
 description: SpiceDB is an open-source, fine-grained authorization database inspired by Google's Zanzibar system for managing complex access control.
 download_url: https://github.com/authzed/spicedb/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2021/09/30
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2021/09/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://authzed.com/docs/spicedb/getting-started/install/debian
+
 optional_info:
     homepage_url: https://authzed.com/docs/spicedb/getting-started/discovering-spicedb#what-is-spicedb
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://authzed.com/docs/spicedb/getting-started/install/debian
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

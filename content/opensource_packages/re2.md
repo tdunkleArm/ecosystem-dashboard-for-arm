@@ -4,26 +4,28 @@ category: Miscellaneous
 description: RE2 is a high-performance regular expression engine created by Google. It is designed for speed and safety, processing large-scale patterns without risking stack overflows. Unlike backtracking engines, RE2 uses a finite state machine approach, making it ideal for performance-critical environments.
 download_url: https://github.com/google/re2/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2017-05-01
-    release_date: 2017/05/29
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2017-05-01
+      release_date: 2017/05/29
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale: 
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/google/re2/blob/main/README
 
 optional_info:
     homepage_url: https://github.com/google/re2
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/google/re2/blob/main/README
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale: 
 
 optional_hidden_info:
     release_notes__supported_minimum: 

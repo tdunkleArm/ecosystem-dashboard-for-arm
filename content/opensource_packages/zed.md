@@ -4,27 +4,44 @@ category: Miscellaneous
 description: Zed is a command-line tool for interacting with SpiceDB, useful for development, testing, and managing permissions.
 download_url: https://github.com/authzed/zed/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.1.0
-    release_date: 2021/09/30
 
-platforms:
-  - linux-server
-  - windows-on-arm
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.1.0
+      release_date: 2021/09/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/authzed/zed#getting-started
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number: 0.1.0
+      release_date: 2021/09/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/authzed/zed#getting-started
+
 optional_info:
     homepage_url: https://github.com/authzed/zed
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/authzed/zed#getting-started
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

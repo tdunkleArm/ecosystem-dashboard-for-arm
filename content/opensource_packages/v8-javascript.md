@@ -4,26 +4,28 @@ category: Runtimes
 description: V8 is a high-performance WebAssembly and JavaScript engine that implements ECMAScript and WebAssembly, and can be embedded into any C++ application.
 download_url: https://github.com/v8/v8/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.25.23
-    release_date: 2014/03/24
 
 platforms:
-  - linux-server 
- 
+  - linux-server
+    supported_minimum_version:
+      version_number: 3.25.23
+      release_date: 2014/03/24
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://v8.dev/docs/compile-arm64
+
 optional_info:
     homepage_url: https://v8.dev/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://v8.dev/docs/compile-arm64
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: https://chromium.googlesource.com/v8/v8/+/4.3.61/ChangeLog#3147

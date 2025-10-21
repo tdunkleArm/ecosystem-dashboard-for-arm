@@ -4,26 +4,28 @@ category: Databases - Big-data
 description: ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 download_url: https://github.com/apache/zookeeper/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.7.0
-    release_date: 2021/03/27
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.7.0
+      release_date: 2021/03/27
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/zookeeper_cluster/
+      partner_content: 
+      official_docs: https://github.com/apache/zookeeper/blob/master/README.md
 
 optional_info:
     homepage_url: https://zookeeper.apache.org/
     support_caveats: As a Java-based platform, this package will run on top of an Arm compatible JVM.
     alternative_options:
-    getting_started_resources:
-        arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/zookeeper_cluster/
-        partner_content: 
-        official_docs: https://github.com/apache/zookeeper/blob/master/README.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum: 

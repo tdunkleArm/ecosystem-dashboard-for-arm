@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Apache Tez is a data-processing pipeline engine, where one can plug-in input, processing, and output implementations to perform arbitrary data-processing. It is envisioned as a low-level engine for higher abstractions such as Apache Hadoop Map-Reduce, Apache Pig, Apache Hive etc.
 download_url: https://dlcdn.apache.org/tez/
 works_on_arm: FALSE
-supported_minimum_version:
-    version_number:
-    release_date:
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://tez.apache.org/install.html
 
 optional_info:
     homepage_url: https://tez.apache.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://tez.apache.org/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -4,26 +4,28 @@ category: Database
 description: RocksDB JNI provides Java bindings to the RocksDB C++ library, enabling Java applications to use its high-performance, embeddable key-value store.
 download_url: https://mvnrepository.com/artifact/org.rocksdb/rocksdbjni
 works_on_arm: true
-supported_minimum_version:
-    version_number: 6.2.2
-    release_date: 2019/08/05
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 6.2.2
+      release_date: 2019/08/05
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/facebook/rocksdb/wiki/rocksjava-basics
 
 optional_info:
     homepage_url: https://github.com/facebook/rocksdb/tree/main/java
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/facebook/rocksdb/wiki/rocksjava-basics
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

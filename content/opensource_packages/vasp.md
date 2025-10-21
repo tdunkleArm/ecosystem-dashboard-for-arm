@@ -4,26 +4,28 @@ category: Miscellaneous
 description: The Vascular Fluid Structure Interaction Simulation Pipeline (VaSP) is a toolkit for simulating fluid-structure interactions (FSI) in vascular systems.
 download_url:
 works_on_arm: FALSE
-supported_minimum_version:
-    version_number:
-    release_date:
 
 platforms:
   - linux-server
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://kvslab.github.io/VaSP/installation.html
 
 optional_info:
     homepage_url: https://kvslab.github.io/VaSP/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://kvslab.github.io/VaSP/installation.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

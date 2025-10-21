@@ -4,28 +4,30 @@ category: Databases - noSQL
 description: Redis is an open-source, in-memory data structure store used as a database, cache, message broker, and streaming engine.
 download_url: https://redis.io/download/
 works_on_arm: true
-supported_minimum_version:
-  version_number: 4.0.0
-  release_date: 2017/07/14
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 4.0.0
+      release_date: 2017/07/14
+
+    arm_recommended_minimum_version:
+      version_number: 6.0.9
+      release_date: 2022/12/07
+      reference_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-redis-performance-by-deploying-on-alibaba-cloud-yitian-710-instances
+      rationale: Benchmarking is done on Redis 6.0.9.
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/redis/
+      partner_content:
+        - display_name: Amazon AWS
+          url: https://aws.amazon.com/elasticache/redis/
+      official_docs: https://github.com/redis/redis/#readme
 
 optional_info:
   homepage_url: https://redis.io/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/redis/
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://aws.amazon.com/elasticache/redis/
-    official_docs: https://github.com/redis/redis/#readme
-  arm_recommended_minimum_version:
-    version_number: 6.0.9
-    release_date: 2022/12/07
-    reference_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-redis-performance-by-deploying-on-alibaba-cloud-yitian-710-instances
-    rationale: Benchmarking is done on Redis 6.0.9.
 optional_hidden_info:
   release_notes__supported_minimum: null
   release_notes__recommended_minimum: null

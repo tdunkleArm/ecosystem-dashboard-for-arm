@@ -4,13 +4,17 @@ category: AI/ML
 description: Scikit-learn is a Python-based machine learning library that offers a comprehensive set of tools for building and training predictive models.
 download_url: https://pypi.org/project/scikit-learn/#files
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.24.0
-    release_date: 2020/12/22
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.24.0
+      release_date: 2020/12/22
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
 
 optional_info:
     homepage_url: https://scikit-learn.org/1.5/index.html

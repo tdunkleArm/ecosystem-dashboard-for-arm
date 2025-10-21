@@ -4,26 +4,28 @@ category: DevOps
 description: Unleash is an open-source feature flag platform. It helps an enterprise to increase it's software release velocity without compromising on security, compliance, or data governance and also helps a developer by providing tools to be efficient.
 download_url: https://hub.docker.com/r/unleashorg/unleash-server
 works_on_arm: true
-supported_minimum_version:
-    version_number: 4.9
-    release_date: 2022/04/07
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 4.9
+      release_date: 2022/04/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.getunleash.io/quickstart
 
 optional_info:
     homepage_url: https://getunleash.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.getunleash.io/quickstart
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum: https://hub.docker.com/r/unleashorg/unleash-server/tags?page=24

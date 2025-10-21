@@ -4,26 +4,28 @@ category: Compression
 description: Snappy is a compression/decompression library.
 download_url: https://github.com/google/snappy/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.1.5
-    release_date: 2017/06/29
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.1.5
+      release_date: 2017/06/29
+
+    arm_recommended_minimum_version:
+      version_number: 1.2.0
+      release_date: 2024/04/05
+      reference_content: https://github.com/google/snappy/releases/tag/1.2.0
+      rationale: This release added Level API with level 2 support, that can compress 5-10% denser and can decompress 5-10% faster. The compression speed drop is about 20-30%.
+
+    getting_started_resources:
+      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/comparing-data-compression-algorithm-performance-on-aws-graviton2-342166113
+      partner_content:
+      official_docs: https://github.com/google/snappy/blob/main/docs/README.md
 
 optional_info:
     homepage_url: https://github.com/google/snappy
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/comparing-data-compression-algorithm-performance-on-aws-graviton2-342166113
-        partner_content:
-        official_docs: https://github.com/google/snappy/blob/main/docs/README.md
-    arm_recommended_minimum_version:
-        version_number: 1.2.0
-        release_date: 2024/04/05
-        reference_content: https://github.com/google/snappy/releases/tag/1.2.0
-        rationale: This release added Level API with level 2 support, that can compress 5-10% denser and can decompress 5-10% faster. The compression speed drop is about 20-30%.
 
 optional_hidden_info:
     release_notes__supported_minimum: 

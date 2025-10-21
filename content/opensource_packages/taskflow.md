@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Taskflow helps make task execution easy, consistent, scalable, and reliable by creating lightweight task objects and functions that are combined into workflows in a declarative manner.
 download_url: https://pypi.org/project/taskflow/#history
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.22.0
-    release_date: 2015/10/06
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.22.0
+      release_date: 2015/10/06
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://docs.openstack.org/taskflow/latest/user/index.html#user-guide
 
 optional_info:
     homepage_url: https://docs.openstack.org/taskflow/latest/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.openstack.org/taskflow/latest/user/index.html#user-guide
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

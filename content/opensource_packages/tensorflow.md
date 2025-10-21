@@ -4,28 +4,30 @@ category: AI/ML
 description: TensorFlow is an end-to-end open-source platform for machine learning.
 download_url: https://pypi.org/project/tensorflow/2.15.0/#files
 works_on_arm: true
-supported_minimum_version:
-  version_number: 2.10.0
-  release_date: 2022/09/07
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.10.0
+      release_date: 2022/09/07
+
+    arm_recommended_minimum_version:
+      version_number: 2.18.0
+      release_date: 2024/10/28
+      reference_content: https://blog.tensorflow.org/2024/10/whats-new-in-tensorflow-218.html
+      rationale: This version integrated support for NumPy 2.0, which brought improved type promotion rules and computational precision.
+
+    getting_started_resources:
+      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch
+      partner_content:
+        - display_name: Amazon AWS
+          url: https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/
+      official_docs: https://www.tensorflow.org/lite/guide/build_arm
 
 optional_info:
   homepage_url: https://www.tensorflow.org/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/
-    official_docs: https://www.tensorflow.org/lite/guide/build_arm
-  arm_recommended_minimum_version:
-    version_number: 2.18.0
-    release_date: 2024/10/28
-    reference_content: https://blog.tensorflow.org/2024/10/whats-new-in-tensorflow-218.html
-    rationale: This version integrated support for NumPy 2.0, which brought improved type promotion rules and computational precision.
 optional_hidden_info:
   release_notes__supported_minimum: https://www.tensorflow.org/install/pip#linux
   release_notes__recommended_minimum: null

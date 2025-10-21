@@ -4,27 +4,28 @@ category: Miscellaneous
 description: Wget is a command-line utility for downloading files from the web.
 download_url: https://ftp.gnu.org/gnu/wget/
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 1.15
-    release_date: 2014/01/19
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 1.15
+      release_date: 2014/01/19
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/mirror/wget/blob/master/README.checkout
 
 optional_info:
     homepage_url: https://github.com/mirror/wget
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/mirror/wget/blob/master/README.checkout
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

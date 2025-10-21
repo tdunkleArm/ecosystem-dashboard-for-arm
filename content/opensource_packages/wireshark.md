@@ -4,27 +4,28 @@ category: Networking
 description: Wireshark is a widely-used, open-source network protocol analyzer that enables users to capture and inspect network traffic in real-time.
 download_url: https://github.com/wireshark/wireshark/tags
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 3.2.0
-    release_date: 2019/12/18
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 3.2.0
+      release_date: 2019/12/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://www.wireshark.org/docs/wsdg_html_chunked/
 
 optional_info:
     homepage_url: https://www.wireshark.org/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://www.wireshark.org/docs/wsdg_html_chunked/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

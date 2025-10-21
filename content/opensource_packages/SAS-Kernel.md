@@ -4,26 +4,28 @@ category: Operating System
 description: SAS-Kernel is a kernel for Jupyter Notebooks, and is capable of running programs in a variety of programming languages.
 download_url: https://pypi.org/project/SAS-kernel/#history
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1
-    release_date: 2016/04/02
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1
+      release_date: 2016/04/02
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://sassoftware.github.io/sas_kernel/install.html
 
 optional_info:
     homepage_url: https://sassoftware.github.io/sas_kernel/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://sassoftware.github.io/sas_kernel/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

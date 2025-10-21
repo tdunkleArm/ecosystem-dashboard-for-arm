@@ -4,26 +4,28 @@ category: Web Server
 description: Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
 download_url: https://github.com/tinyproxy/tinyproxy/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.10.0
-    release_date: 2018/09/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.10.0
+      release_date: 2018/09/01
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/tinyproxy/tinyproxy#installation
 
 optional_info:
     homepage_url: https://tinyproxy.github.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/tinyproxy/tinyproxy#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

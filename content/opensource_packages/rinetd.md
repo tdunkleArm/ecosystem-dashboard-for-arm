@@ -4,27 +4,28 @@ category: Networking
 description: Rinetd is a lightweight, open-source TCP port redirection server.
 download_url: https://github.com/samhocevar/rinetd/tags
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 0.62.0sam
-    release_date: 2016/01/11
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 0.62.0sam
+      release_date: 2016/01/11
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: https://github.com/samhocevar/rinetd/blob/main/README.md
 
 optional_info:
     homepage_url: https://github.com/samhocevar/rinetd
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://github.com/samhocevar/rinetd/blob/main/README.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

@@ -4,25 +4,27 @@ category: DevOps
 description: Split-Evaluator is a wrapper around the Node.js SDK that exposes feature evaluations as a microservice.
 download_url: https://github.com/splitio/split-evaluator/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2017/07/29
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2017/07/29
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator#docker-recommended
 
 optional_info:
     homepage_url: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator
     support_caveats: Earlier versions require manual npm setup on Arm. Official Arm64 Docker images are available starting from version 2.7.0, simplifying deployment.
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator#docker-recommended
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
 
 optional_hidden_info:
     release_notes__supported_minimum:

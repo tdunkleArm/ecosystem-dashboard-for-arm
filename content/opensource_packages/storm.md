@@ -4,28 +4,30 @@ category: Databases - Big-data
 description: Apache Storm is a free and open source distributed realtime computation system.
 download_url: https://github.com/apache/storm/tags
 works_on_arm: true
-supported_minimum_version:
-  version_number: 2.2.0
-  release_date: 2020/06/18
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.2.0
+      release_date: 2020/06/18
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+        - display_name: Amazon AWS
+          url: https://gallery.ecr.aws/docker/library/storm
+      official_docs: https://github.com/apache/storm/blob/master/DEVELOPER.md
 
 optional_info:
   homepage_url: https://storm.apache.org/
   support_caveats: openjdk-11-jdk
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://gallery.ecr.aws/docker/library/storm
-    official_docs: https://github.com/apache/storm/blob/master/DEVELOPER.md
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: null
   release_notes__recommended_minimum: null

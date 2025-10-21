@@ -4,26 +4,28 @@ category: E-commerce platforms
 description: Shopify is a complete commerce platform that lets anyone start, manage, and grow a business. One can use Shopify to build an online store, manage sales, market to customers, and accept payments in digital and physical locations.
 download_url: https://github.com/Shopify/cli/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.7.1
-    release_date: 2022/08/15
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.7.1
+      release_date: 2022/08/15
+
+    arm_recommended_minimum_version:
+      version_number: 3.66.0
+      release_date: 2024/08/21
+      reference_content: https://github.com/Shopify/cli/releases/tag/3.66.0
+      rationale: In this release, the Shopify CLI has been updated to use the Arm64-optimized version of cloudflared (version 2024.8.2), instead of a generic or x86-only binary.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://shopify.dev/docs/api/shopify-cli
 
 optional_info:
     homepage_url: https://www.shopify.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://shopify.dev/docs/api/shopify-cli
-    arm_recommended_minimum_version:
-        version_number: 3.66.0
-        release_date: 2024/08/21
-        reference_content: https://github.com/Shopify/cli/releases/tag/3.66.0
-        rationale: In this release, the Shopify CLI has been updated to use the Arm64-optimized version of cloudflared (version 2024.8.2), instead of a generic or x86-only binary.
 
 optional_hidden_info:
     release_notes__supported_minimum:

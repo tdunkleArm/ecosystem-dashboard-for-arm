@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Xalan-c is a robust implementation of the W3C Recommendations for XSL Transformations and the XML Path Language, which works with the Xerces-C++ XML parser.
 download_url: https://github.com/apache/xalan-c/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.12
-    release_date: 2020/06/07
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.12
+      release_date: 2020/06/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://apache.github.io/xalan-c/build.html
 
 optional_info:
     homepage_url: https://apache.github.io/xalan-c/introduction.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://apache.github.io/xalan-c/build.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

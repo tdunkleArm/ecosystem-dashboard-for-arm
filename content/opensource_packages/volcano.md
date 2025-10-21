@@ -4,28 +4,30 @@ category: Containers and Orchestration
 description: Volcano is a Cloud Native Batch System. It provides a suite of mechanisms that are commonly required by many classes of batch & elastic workload including machine learning/deep learning, bioinformatics/genomics and other "big data" applications.
 download_url: https://hub.docker.com/u/volcanosh
 works_on_arm: true
-supported_minimum_version:
-  version_number: 1.1.0
-  release_date: 2020/10/30
 
 platforms:
   - linux-server
+    supported_minimum_version:
+      version_number: 1.1.0
+      release_date: 2020/10/30
+
+    arm_recommended_minimum_version:
+      version_number: 1.7.0
+      release_date: 2023/01/08
+      reference_content: https://github.com/volcano-sh/volcano/releases/tag/v1.7.0
+      rationale: This release starts supporting multi-arch docker images for Volcano.
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+        - display_name: Amazon AWS
+          url: https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/tutorial-volcano.html
+      official_docs: https://volcano.sh/en/docs/installation/#install-with-yaml-files
 
 optional_info:
   homepage_url: https://volcano.sh/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/tutorial-volcano.html
-    official_docs: https://volcano.sh/en/docs/installation/#install-with-yaml-files
-  arm_recommended_minimum_version:
-    version_number: 1.7.0
-    release_date: 2023/01/08
-    reference_content: https://github.com/volcano-sh/volcano/releases/tag/v1.7.0
-    rationale: This release starts supporting multi-arch docker images for Volcano.
 optional_hidden_info:
   release_notes__supported_minimum: https://github.com/volcano-sh/volcano/releases/tag/v1.1.0
   release_notes__recommended_minimum: null

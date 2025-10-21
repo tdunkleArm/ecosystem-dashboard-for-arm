@@ -4,26 +4,28 @@ category: HPC
 description: Tinker is a molecular modeling software package for performing molecular mechanics and dynamics simulations using force field methods.
 download_url: https://dasher.wustl.edu/tinker/downloads/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 8.1.2
-    release_date: 2017/02/17
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 8.1.2
+      release_date: 2017/02/17
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://dasher.wustl.edu/tinker/distribution/doc/sphinx/tinker/_build/html/text/installation.html#building-your-own-executables
+
 optional_info:
     homepage_url: https://dasher.wustl.edu/tinker/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://dasher.wustl.edu/tinker/distribution/doc/sphinx/tinker/_build/html/text/installation.html#building-your-own-executables
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

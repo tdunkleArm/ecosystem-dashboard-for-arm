@@ -4,27 +4,28 @@ category: Monitoring/Observability
 description: Telegraf is an open-source, lightweight tool used to gather, process, and transmit metrics and event data from multiple sources.
 download_url: https://github.com/influxdata/telegraf/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.3.1
-    release_date: 2017/06/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.3.1
+      release_date: 2017/06/01
+
+    arm_recommended_minimum_version:
+      version_number: 1.26.0
+      release_date: 2023/03/16
+      reference_content: https://www.influxdata.com/blog/release-announcement-telegraf-oss-1-26-0/
+      rationale: Linux builds are now statically built from this version.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://github.com/influxdata/telegraf/blob/master/docs/INSTALL_GUIDE.md
 
 optional_info:
     homepage_url: https://www.influxdata.com/time-series-platform/telegraf/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/influxdata/telegraf/blob/master/docs/INSTALL_GUIDE.md
-    arm_recommended_minimum_version:
-        version_number: 1.26.0
-        release_date: 2023/03/16
-        reference_content: https://www.influxdata.com/blog/release-announcement-telegraf-oss-1-26-0/
-        rationale: Linux builds are now statically built from this version.
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

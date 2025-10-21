@@ -4,28 +4,30 @@ category: DevOps
 description: Terraform is an infrastructure as code tool. It is used to automate cloud infrastructure.
 download_url: https://developer.hashicorp.com/terraform/install
 works_on_arm: true
-supported_minimum_version:
-  version_number: 0.14.0
-  release_date: 2020/12/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.14.0
+      release_date: 2020/12/01
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: https://learn.arm.com/install-guides/terraform/
+      partner_content:
+        - display_name: Microsoft Azure
+          url: https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform
+      official_docs: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 optional_info:
   homepage_url: https://www.terraform.io/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: https://learn.arm.com/install-guides/terraform/
-    partner_content:
-      - display_name: Microsoft Azure
-        url: https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform
-    official_docs: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: https://releases.hashicorp.com/terraform/0.14.0/
   release_notes__recommended_minimum: null

@@ -4,26 +4,28 @@ category: Languages and Frameworks
 description: Apache Velocity Engine is a template engine used for developing web applications by dynamically rendering content.
 download_url: https://github.com/apache/velocity-engine/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.3
-    release_date: 2021/03/07
 
 platforms:
-  - linux-server 
- 
+  - linux-server
+    supported_minimum_version:
+      version_number: 2.3
+      release_date: 2021/03/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://velocity.apache.org/engine/1.4/install.html
+
 optional_info:
     homepage_url: https://velocity.apache.org/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://velocity.apache.org/engine/1.4/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

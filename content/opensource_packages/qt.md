@@ -4,27 +4,44 @@ category: Languages and Frameworks
 description: Qt is a cross-platform application development framework primarily used with C++ (and optionally QML). It provides UI components, libraries, and tools for building GUI and embedded applications, fitting squarely under programming frameworks.
 download_url: https://download.qt.io/official_releases/online_installers/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 6.7.0
-    release_date: 2024/04/02
 
-platforms:
-  - linux-server
-  - windows-on-arm
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 6.7.0
+      release_date: 2024/04/02
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://doc.qt.io/qt-6/qt-online-installation.html
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: https://doc.qt.io/qt-6/qt-online-installation.html
+
 optional_info:
     homepage_url: https://www.qt.io/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://doc.qt.io/qt-6/qt-online-installation.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: https://www.qt.io/blog/qt-6.7-released
