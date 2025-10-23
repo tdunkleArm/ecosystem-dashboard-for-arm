@@ -67,9 +67,9 @@
         <div class="date-supported">
             {{if .metadata.Params.works_on_arm}}
                 {{if .metadata.Params.release_date_on_arm}}  
-                    {{ partial "package-display/_date-formating.html" .metadata.Params.release_date_on_arm }}
+                    {{ partial "package-display/_date-formating.html" (index (index .metadata.Params "platforms-supported") 0).release_date_on_arm }}
                 {{else}}  
-                    {{ partial "package-display/_date-formating.html" .metadata.Params.supported_minimum_version.release_date}}  
+                    {{ partial "package-display/_date-formating.html" (index (index .metadata.Params "platforms-supported") 0).supported_minimum_version.release_date}}
                 {{end}}
             {{else}}
                 Not yet supported
