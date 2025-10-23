@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2024/01/01
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/thirdai-sentiment-analysis/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/thirdai-sentiment-analysis/"
       vendor_announcement:
-      official_docs: https://thirdailabs.github.io/index.html
+      official_docs: "https://thirdailabs.github.io/index.html"
 
 optional_info:
     homepage_url: https://www.thirdai.com/

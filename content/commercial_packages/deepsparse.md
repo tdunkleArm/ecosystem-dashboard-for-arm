@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://docs.neuralmagic.com/get-started/install/deepsparse
+      official_docs: "https://docs.neuralmagic.com/get-started/install/deepsparse"
 
 optional_info:
     homepage_url: https://neuralmagic.com/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/FyraLabs/submarine/tree/v0.1.0?tab=readme-ov-file#%EF%B8%8F-building
+      official_docs: "https://github.com/FyraLabs/submarine/tree/v0.1.0?tab=readme-ov-file#%EF%B8%8F-building"
 
 optional_info:
     homepage_url: https://github.com/FyraLabs/submarine

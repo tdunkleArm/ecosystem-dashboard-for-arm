@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.crowdstrike.com/blog/join-crowdstrike-at-aws-reinvent-2019/
-      official_docs: https://www.crowdstrike.com/blog/tech-center/install-falcon-sensor-for-linux/
+      vendor_announcement: "https://www.crowdstrike.com/blog/join-crowdstrike-at-aws-reinvent-2019/"
+      official_docs: "https://www.crowdstrike.com/blog/tech-center/install-falcon-sensor-for-linux/"
 
   - platform: Windows
     release_date_on_arm:

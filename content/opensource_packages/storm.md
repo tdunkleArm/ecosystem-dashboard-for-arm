@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://gallery.ecr.aws/docker/library/storm
-      official_docs: https://github.com/apache/storm/blob/master/DEVELOPER.md
+          url: "https://gallery.ecr.aws/docker/library/storm"
+      official_docs: "https://github.com/apache/storm/blob/master/DEVELOPER.md"
 
 optional_info:
   homepage_url: https://storm.apache.org/

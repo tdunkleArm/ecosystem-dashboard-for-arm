@@ -18,9 +18,9 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/glibc-with-lse/mongo_benchmark/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/glibc-with-lse/mongo_benchmark/"
       partner_content:
-      official_docs: https://github.com/brianfrankcooper/YCSB#building-from-source
+      official_docs: "https://github.com/brianfrankcooper/YCSB#building-from-source"
 
 optional_info:
     homepage_url: https://github.com/brianfrankcooper/YCSB

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://zilliz.com/blog/whats-new-in-milvus-2-3
-      official_docs: https://docs.zilliz.com/docs/quick-start
+      vendor_announcement: "https://zilliz.com/blog/whats-new-in-milvus-2-3"
+      official_docs: "https://docs.zilliz.com/docs/quick-start"
 
 optional_info:
     homepage_url: https://zilliz.com/

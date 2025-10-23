@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:         
-      vendor_announcement: https://www.confluent.io/blog/introducing-confluent-platform-7-6/#arm64-support 
-      official_docs: https://docs.confluent.io/platform/current/installation/overview.html
+      vendor_announcement: "https://www.confluent.io/blog/introducing-confluent-platform-7-6/#arm64-support"
+      official_docs: "https://docs.confluent.io/platform/current/installation/overview.html"
 
 optional_info:
     homepage_url: https://www.confluent.io/

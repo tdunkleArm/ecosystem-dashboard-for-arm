@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://git.launchpad.net/ubuntu/+source/qperf/diff/README?h=ubuntu/bionic&id=e1b3d8ec9e9110b90f82005053f462dfd23595e7
+      official_docs: "https://git.launchpad.net/ubuntu/+source/qperf/diff/README?h=ubuntu/bionic&id=e1b3d8ec9e9110b90f82005053f462dfd23595e7"
 
 optional_info:
     homepage_url: https://git.launchpad.net/ubuntu/+source/qperf

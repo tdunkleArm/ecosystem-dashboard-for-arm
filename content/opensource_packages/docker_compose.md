@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://docs.docker.com/compose/install/
+      official_docs: "https://docs.docker.com/compose/install/"
 
   - platform: Windows
     supported_minimum_version:

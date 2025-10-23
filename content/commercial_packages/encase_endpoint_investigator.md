@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://blogs.opentext.com/whats-new-in-opentext-encase-endpoint-investigator/#:~:text=November%C2%A02021%3A%20What%E2%80%99s%20new%20in%20EnCase%C2%A0Endpoint%20Investigator%20CE%2021.4%20%C2%A0
-      official_docs: https://www.opentext.com/products/encase-endpoint-investigator
+      vendor_announcement: "https://blogs.opentext.com/whats-new-in-opentext-encase-endpoint-investigator/#:~:text=November%C2%A02021%3A%20What%E2%80%99s%20new%20in%20EnCase%C2%A0Endpoint%20Investigator%20CE%2021.4%20%C2%A0"
+      official_docs: "https://www.opentext.com/products/encase-endpoint-investigator"
 
 optional_info:
     homepage_url: https://www.opentext.com/products/encase-endpoint-investigator

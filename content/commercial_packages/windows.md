@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2018/11/15
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/announcements/posts/build-platform: Windows-developers
-      vendor_announcement: https://blogs.windows.com/windowsdeveloper/2018/11/15/official-support-for-windows-10-on-arm-development/
-      official_docs: https://learn.microsoft.com/en-us/windows/arm/overview
+      arm_content: "https://community.arm.com/arm-community-blogs/b/announcements/posts/build-platform: Windows-developers"
+      vendor_announcement: "https://blogs.windows.com/windowsdeveloper/2018/11/15/official-support-for-windows-10-on-arm-development/"
+      official_docs: "https://learn.microsoft.com/en-us/windows/arm/overview"
 
 optional_info:
     homepage_url: https://www.microsoft.com/en-in/windows

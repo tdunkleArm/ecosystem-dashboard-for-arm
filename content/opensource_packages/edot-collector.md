@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/docs/reference/opentelemetry/edot-collector/config/
+      official_docs: "https://www.elastic.co/docs/reference/opentelemetry/edot-collector/config/"
 
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/opentelemetry/edot-collector

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/libevent/libevent?tab=readme-ov-file#1-building-and-installation
+      official_docs: "https://github.com/libevent/libevent?tab=readme-ov-file#1-building-and-installation"
 
   - platform: Windows
     supported_minimum_version:

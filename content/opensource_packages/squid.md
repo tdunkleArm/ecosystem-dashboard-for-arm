@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.2.10
       release_date: 2024/12/30
-      reference_content: https://github.com/squid-cache/squid/releases/tag/SQUID_3_2_10
+      reference_content: "https://github.com/squid-cache/squid/releases/tag/SQUID_3_2_10"
       rationale: This version resolved an issue where ssl_crtd helper processes would crash during startup on ARM architectures.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://wiki.squid-cache.org/SquidFaq/InstallingSquid
+      official_docs: "https://wiki.squid-cache.org/SquidFaq/InstallingSquid"
 
 optional_info:
     homepage_url: https://www.squid-cache.org/

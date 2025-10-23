@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.starburst.io/latest/release/release-360-e.html
-      official_docs: https://docs.starburst.io/latest/installation.html
+      vendor_announcement: "https://docs.starburst.io/latest/release/release-360-e.html"
+      official_docs: "https://docs.starburst.io/latest/installation.html"
 
 optional_info:
     homepage_url: https://www.starburst.io/platform/starburst-enterprise/

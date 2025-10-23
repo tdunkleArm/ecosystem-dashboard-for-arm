@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.chef.io/docs/cheflibraries/product-and-user-guides/chef-infra-client-16_product-guide.pdf?sfvrsn=6595b433_4
-      official_docs: https://docs.chef.io/quick_start/
+      vendor_announcement: "https://www.chef.io/docs/cheflibraries/product-and-user-guides/chef-infra-client-16_product-guide.pdf?sfvrsn=6595b433_4"
+      official_docs: "https://docs.chef.io/quick_start/"
 
 optional_info:
     homepage_url: https://docs.chef.io/ctl_chef_client/

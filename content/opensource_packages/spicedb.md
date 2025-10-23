@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://authzed.com/docs/spicedb/getting-started/install/debian
+      official_docs: "https://authzed.com/docs/spicedb/getting-started/install/debian"
 
 optional_info:
     homepage_url: https://authzed.com/docs/spicedb/getting-started/discovering-spicedb#what-is-spicedb

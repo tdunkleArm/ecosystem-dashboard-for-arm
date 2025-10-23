@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://github.com/wazuh/wazuh/blob/master/CHANGELOG.md#v3130---2020-06-29
-      official_docs: https://documentation.wazuh.com/current/getting-started/index.html
+      vendor_announcement: "https://github.com/wazuh/wazuh/blob/master/CHANGELOG.md#v3130---2020-06-29"
+      official_docs: "https://documentation.wazuh.com/current/getting-started/index.html"
 
 optional_info:
     homepage_url: https://wazuh.com/

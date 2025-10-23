@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.puppet.com/docs/pe/2021.7/release_notes_pe#release_notes_pe_x-y-6
-      official_docs: https://www.puppet.com/docs/pe/2023.6/getting_started_pe_overview
+      vendor_announcement: "https://www.puppet.com/docs/pe/2021.7/release_notes_pe#release_notes_pe_x-y-6"
+      official_docs: "https://www.puppet.com/docs/pe/2023.6/getting_started_pe_overview"
 
 optional_info:
     homepage_url: https://www.puppet.com/products/puppet-enterprise

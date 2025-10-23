@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://gitlab.gnome.org/GNOME/libxml2/-/blob/master/README.md?ref_type=heads
+      official_docs: "https://gitlab.gnome.org/GNOME/libxml2/-/blob/master/README.md?ref_type=heads"
 
 optional_info:
     homepage_url: https://gitlab.gnome.org/GNOME/libxml2

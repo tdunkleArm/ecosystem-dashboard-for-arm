@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.sourcefuse.com/our-company/news-and-events/press-release/sourcefuse-joins-the-aws-graviton-delivery-program/
-      official_docs: https://www.sourcefuse.com/resources/blog/how-to-use-arc-by-sourcefuse-in-microservices-development/
+      vendor_announcement: "https://www.sourcefuse.com/our-company/news-and-events/press-release/sourcefuse-joins-the-aws-graviton-delivery-program/"
+      official_docs: "https://www.sourcefuse.com/resources/blog/how-to-use-arc-by-sourcefuse-in-microservices-development/"
 
 optional_info:
     homepage_url: https://www.sourcefuse.com/

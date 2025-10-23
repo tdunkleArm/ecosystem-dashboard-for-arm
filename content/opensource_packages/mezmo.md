@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/logdna/logdna-agent-v2/blob/master/docs/LINUX.md
+      official_docs: "https://github.com/logdna/logdna-agent-v2/blob/master/docs/LINUX.md"
 
 optional_info:
     homepage_url: https://www.mezmo.com/

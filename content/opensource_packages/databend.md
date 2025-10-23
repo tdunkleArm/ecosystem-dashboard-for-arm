@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.8.137-nightly
       release_date: 2022/12/01
-      reference_content: https://github.com/databendlabs/databend/releases/tag/v0.8.137-nightly
+      reference_content: "https://github.com/databendlabs/databend/releases/tag/v0.8.137-nightly"
       rationale: CI infrastructure now releases combined Docker images for both amd64 and arm64 architectures in this version.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://docs.databend.com/guides/cloud/
+      official_docs: "https://docs.databend.com/guides/cloud/"
 
 optional_info:
     homepage_url: https://www.databend.com/

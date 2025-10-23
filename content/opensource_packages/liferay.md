@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/liferay/liferay-cli?tab=readme-ov-file#automated-installation
+      official_docs: "https://github.com/liferay/liferay-cli?tab=readme-ov-file#automated-installation"
 
 optional_info:
     homepage_url: https://www.liferay.com/

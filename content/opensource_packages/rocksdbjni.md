@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/facebook/rocksdb/wiki/rocksjava-basics
+      official_docs: "https://github.com/facebook/rocksdb/wiki/rocksjava-basics"
 
 optional_info:
     homepage_url: https://github.com/facebook/rocksdb/tree/main/java

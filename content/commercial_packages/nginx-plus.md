@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2014/12/02
 
     getting_started_resources:
-      arm_content: https://www.arm.com/resources/white-paper/cost-optimize-nginx-with-amazon
-      vendor_announcement: https://www.nginx.com/blog/nginx-plus-r5-released/#Other-Changes-in-NGINX&nbsp;Plus-R5
-      official_docs: https://docs.nginx.com/nginx/
+      arm_content: "https://www.arm.com/resources/white-paper/cost-optimize-nginx-with-amazon"
+      vendor_announcement: "https://www.nginx.com/blog/nginx-plus-r5-released/#Other-Changes-in-NGINX&nbsp;Plus-R5"
+      official_docs: "https://docs.nginx.com/nginx/"
 
 optional_info:
     homepage_url: https://www.nginx.com/products/nginx/

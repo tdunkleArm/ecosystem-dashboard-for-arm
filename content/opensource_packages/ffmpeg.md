@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 5.2
       release_date: 2022/11/15
-      reference_content: https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/
+      reference_content: "https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/"
       rationale: This blog shows a benchmark of FFmpeg video encoding on Graviton processors, delivering around 60% performance boost vs other architectures.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/quick-tips-use-ffmpeg-to-convert-pictures-to-raw-rgb565
+      arm_content: "https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/quick-tips-use-ffmpeg-to-convert-pictures-to-raw-rgb565"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/
-      official_docs: https://ffmpeg.org/ffmpeg.html
+          url: "https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/"
+      official_docs: "https://ffmpeg.org/ffmpeg.html"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 5.2
       release_date: 2022/11/15
-      reference_content: https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/
+      reference_content: "https://aws.amazon.com/blogs/opensource/optimized-video-encoding-with-ffmpeg-on-aws-graviton-processors/"
       rationale: This blog shows a benchmark of FFmpeg video encoding on Graviton processors, delivering around 60% performance boost vs other architectures.
 
     getting_started_resources:

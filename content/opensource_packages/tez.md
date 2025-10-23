@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://tez.apache.org/install.html
+      official_docs: "https://tez.apache.org/install.html"
 
 optional_info:
     homepage_url: https://tez.apache.org/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.mediawiki.org/wiki/Local_development_quickstart
+      official_docs: "https://www.mediawiki.org/wiki/Local_development_quickstart"
 
 optional_info:
     homepage_url: https://www.mediawiki.org/wiki/MediaWiki

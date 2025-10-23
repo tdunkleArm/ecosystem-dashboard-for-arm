@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.chef.io/install_bootstrap/
+      official_docs: "https://docs.chef.io/install_bootstrap/"
 
   - platform: Windows
     supported_minimum_version:

@@ -19,7 +19,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator#docker-recommended
+      official_docs: "https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator#docker-recommended"
 
 optional_info:
     homepage_url: https://help.split.io/hc/en-us/articles/360020037072-Split-Evaluator

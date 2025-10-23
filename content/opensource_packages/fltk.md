@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/fltk/fltk/blob/master/README.CMake.txt
+      official_docs: "https://github.com/fltk/fltk/blob/master/README.CMake.txt"
 
   - platform: Windows
     supported_minimum_version:

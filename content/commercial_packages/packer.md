@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://developer.hashicorp.com/packer/install
+      official_docs: "https://developer.hashicorp.com/packer/install"
 
 optional_info:
     homepage_url: https://www.hashicorp.com/

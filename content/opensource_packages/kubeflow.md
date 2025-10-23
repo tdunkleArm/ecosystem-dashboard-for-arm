@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.9.0
       release_date: 2024/07/22
-      reference_content: https://blog.kubeflow.org/kubeflow-1.9-release/
+      reference_content: "https://blog.kubeflow.org/kubeflow-1.9-release/"
       rationale: This version introduced New Tools for Model Management and Training Optimization, including model registry, Fine-Tune APIs for LLMs, security enhancements like Oauth2-proxy and CVE scanning, improved integrations with Ray, Seldon, BentoML, and KServe for LLM GPU optimizations, etc.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.kubeflow.org/docs/started/installing-kubeflow/
+      official_docs: "https://www.kubeflow.org/docs/started/installing-kubeflow/"
 
 optional_info:
     homepage_url: https://www.kubeflow.org/

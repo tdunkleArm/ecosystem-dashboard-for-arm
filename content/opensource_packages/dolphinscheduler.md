@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://dolphinscheduler.apache.org/en-us/docs/3.2.2
+      official_docs: "https://dolphinscheduler.apache.org/en-us/docs/3.2.2"
 
 optional_info:
     homepage_url: https://dolphinscheduler.apache.org/en-us

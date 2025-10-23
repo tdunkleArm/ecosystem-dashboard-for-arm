@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://forum.bigfix.com/t/bigfix-10-0-patch-8-is-now-available/43749
-      official_docs: https://help.hcl-software.com/bigfix/landing/index.html
+      vendor_announcement: "https://forum.bigfix.com/t/bigfix-10-0-patch-8-is-now-available/43749"
+      official_docs: "https://help.hcl-software.com/bigfix/landing/index.html"
 
   - platform: Windows
     release_date_on_arm:

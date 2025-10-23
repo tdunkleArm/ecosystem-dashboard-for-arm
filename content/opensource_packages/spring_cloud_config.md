@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://docs.spring.io/spring-cloud-config/docs/current/reference/html/#_quick_start
+      official_docs: "https://docs.spring.io/spring-cloud-config/docs/current/reference/html/#_quick_start"
 
 optional_info:
     homepage_url: https://docs.spring.io/spring-cloud-config/docs/current/reference/html/

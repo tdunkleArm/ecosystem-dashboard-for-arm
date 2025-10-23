@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://freetype.org/freetype2/docs/documentation.html
+      official_docs: "https://freetype.org/freetype2/docs/documentation.html"
 
   - platform: Windows
     supported_minimum_version:

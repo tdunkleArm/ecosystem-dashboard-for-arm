@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.modular.com/blog/modular-partners-with-amazon-web-services-aws-to-bring-max-to-aws-services
-      official_docs: https://docs.modular.com/max/install
+      vendor_announcement: "https://www.modular.com/blog/modular-partners-with-amazon-web-services-aws-to-bring-max-to-aws-services"
+      official_docs: "https://docs.modular.com/max/install"
 
 optional_info:
     homepage_url: https://www.modular.com/

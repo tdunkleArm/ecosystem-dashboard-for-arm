@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/roncemer/spark-sql-kinesis?tab=readme-ov-file#spark-version-32x
+      official_docs: "https://github.com/roncemer/spark-sql-kinesis?tab=readme-ov-file#spark-version-32x"
 
 optional_info:
     homepage_url: https://github.com/roncemer/spark-sql-kinesis

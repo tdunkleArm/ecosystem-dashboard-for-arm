@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.4.0
       release_date: 2023/02/07
-      reference_content: https://github.com/apache/brpc/releases/tag/1.4.0
+      reference_content: "https://github.com/apache/brpc/releases/tag/1.4.0"
       rationale: This version fixed "sched_to itself" error when building by Clang on Linux aarch64.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://brpc.apache.org/docs/getting_started/
+      official_docs: "https://brpc.apache.org/docs/getting_started/"
 
 optional_info:
     homepage_url: https://brpc.apache.org/

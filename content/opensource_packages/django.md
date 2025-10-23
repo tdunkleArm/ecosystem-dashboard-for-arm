@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/ 
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/django/"
       partner_content: 
-      official_docs: https://docs.djangoproject.com/en/5.0/intro/install/
+      official_docs: "https://docs.djangoproject.com/en/5.0/intro/install/"
 
   - platform: Windows
     supported_minimum_version:

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.sphinx-doc.org/en/master/usage/installation.html#linux
+      official_docs: "https://www.sphinx-doc.org/en/master/usage/installation.html#linux"
 
 optional_info:
     homepage_url: https://www.sphinx-doc.org/en/master/

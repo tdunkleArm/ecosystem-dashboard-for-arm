@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2017/09/26
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/redis-on-aws-graviton2
-      vendor_announcement: https://redis.io/docs/latest/operate/oss_and_stack/reference/arm/
-      official_docs: https://redis.io/docs/latest/operate/rs/installing-upgrading/install/install-on-linux/
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/redis-on-aws-graviton2"
+      vendor_announcement: "https://redis.io/docs/latest/operate/oss_and_stack/reference/arm/"
+      official_docs: "https://redis.io/docs/latest/operate/rs/installing-upgrading/install/install-on-linux/"
 
 optional_info:
     homepage_url: https://redis.io/

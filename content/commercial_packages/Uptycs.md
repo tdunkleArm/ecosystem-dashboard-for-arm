@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.uptycs.com/blog/uptycs-now-supports-amazon-graviton
-      official_docs: https://docs.blinkops.com/docs/integrations/uptycs
+      vendor_announcement: "https://www.uptycs.com/blog/uptycs-now-supports-amazon-graviton"
+      official_docs: "https://docs.blinkops.com/docs/integrations/uptycs"
 
 optional_info:
     homepage_url: https://www.uptycs.com/

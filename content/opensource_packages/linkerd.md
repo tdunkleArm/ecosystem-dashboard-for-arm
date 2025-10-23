@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: stable-2.11.2
       release_date: 2022/04/21
-      reference_content: https://github.com/linkerd/linkerd2/releases/tag/stable-2.11.2
+      reference_content: "https://github.com/linkerd/linkerd2/releases/tag/stable-2.11.2"
       rationale: This version upgraded jaeger to v1.31 and opentelemetry-collector to v0.43 to support ARM architecture. Additionally, it fixed a configuration issue that prevented multicluster gateways from running on ARM nodes.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/service-mesh-with-linkerd-and-arm-based-k8s
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/service-mesh-with-linkerd-and-arm-based-k8s"
       partner_content:
         - display_name: Amazon AWS
-          url: https://awsgravitonweekly.com/posts/aws-graviton-weekly-33
-      official_docs: https://linkerd.io/docs/
+          url: "https://awsgravitonweekly.com/posts/aws-graviton-weekly-33"
+      official_docs: "https://linkerd.io/docs/"
 
 optional_info:
   homepage_url: https://linkerd.io/

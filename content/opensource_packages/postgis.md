@@ -4,26 +4,28 @@ category: Database
 description: PostGIS extends the capabilities of the PostgreSQL by adding support for indexing, storing, and querying geospatial data. It further provides features like Spatial Data Storage, Spatial Indexing, Spatial Functions, Geometry Processing, Raster Data Support, Geocoding and Reverse Geocoding, and Integration.
 download_url: https://download.osgeo.org/postgis/source/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 3.3.3
-    release_date: 2023/05/29
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 3.3.3
+      release_date: 2023/05/29
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://postgis.net/docs/postgis_installation.html"
 
 optional_info:
     homepage_url: https://postgis.net/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://postgis.net/docs/postgis_installation.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

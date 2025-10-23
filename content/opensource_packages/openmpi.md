@@ -4,27 +4,28 @@ category: HPC
 description: OpenMPI is a free and open-source library that supports parallel computing by enabling efficient communication between processes across different machines. It provides tools and protocols for distributed computing tasks in high-performance environments.
 download_url: https://www.open-mpi.org/software/ompi/v5.0/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.6.5
-    release_date: 2013/06/26
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.6.5
+      release_date: 2013/06/26
+
+    arm_recommended_minimum_version:
+      version_number: 5.0.4
+      release_date: 2024/07/19
+      reference_content: "https://docs.open-mpi.org/en/v5.0.x/release-notes/changelog/v5.0.x.html#open-mpi-version-v5-0-4"
+      rationale: In this version, support for Aarch64 OP component for for NEON and SVE ISA were added.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://docs.open-mpi.org/en/v5.0.x/installing-open-mpi/quickstart.html"
 
 optional_info:
     homepage_url: https://www.open-mpi.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.open-mpi.org/en/v5.0.x/installing-open-mpi/quickstart.html
-    arm_recommended_minimum_version:
-        version_number: 5.0.4
-        release_date: 2024/07/19
-        reference_content: https://docs.open-mpi.org/en/v5.0.x/release-notes/changelog/v5.0.x.html#open-mpi-version-v5-0-4
-        rationale: In this version, support for Aarch64 OP component for for NEON and SVE ISA were added.
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

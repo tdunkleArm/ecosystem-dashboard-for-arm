@@ -4,27 +4,44 @@ category: Security applications
 description: ORY CLI helps in self-hosting Ory components and local development, hence lets the user manage and configure Ory Network projects.
 download_url: https://github.com/ory/cli/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.0.77
-    release_date: 2021/11/05
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.0.77
+      release_date: 2021/11/05
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://www.ory.sh/docs/guides/cli/installation"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.ory.sh/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://www.ory.sh/docs/guides/cli/installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.31.1
       release_date: 2025/01/09
-      reference_content: https://github.com/intel/isa-l/releases/tag/v2.31.1
+      reference_content: "https://github.com/intel/isa-l/releases/tag/v2.31.1"
       rationale: This version fixed isal_deflate_icf_finish_lvl1 dispatcher, CRC compilation, and Clang compilation on igzip library on Aarch64.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/intel/isa-l/blob/master/README.md
+      official_docs: "https://github.com/intel/isa-l/blob/master/README.md"
 
 optional_info:
     homepage_url: https://www.intel.com/content/www/us/en/developer/tools/isa-l/overview.html

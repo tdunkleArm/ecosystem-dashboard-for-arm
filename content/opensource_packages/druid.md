@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 27.0.0
       release_date: 2023/08/11
-      reference_content: https://github.com/apache/druid/releases/tag/druid-27.0.0
+      reference_content: "https://github.com/apache/druid/releases/tag/druid-27.0.0"
       rationale: This version added a new OSHI system monitor (OshiSysMonitor) to replace SysMonitor. The new monitor has a wider support for different machine architectures including ARM instances.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://docs.aws.amazon.com/solutions/latest/scalable-analytics-using-apache-druid-on-aws/configure-the-solution.html
-      official_docs: https://druid.apache.org/docs/latest/tutorials/
+          url: "https://docs.aws.amazon.com/solutions/latest/scalable-analytics-using-apache-druid-on-aws/configure-the-solution.html"
+      official_docs: "https://druid.apache.org/docs/latest/tutorials/"
 
 optional_info:
   homepage_url: https://druid.apache.org/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://wallaroo.ai/wallaroo-ai-ampere-bring-low-cost-energy-efficient-ml/
-      official_docs: https://docs.wallaroo.ai/wallaroo-platform-operations/wallaroo-platform-operations-install/
+      vendor_announcement: "https://wallaroo.ai/wallaroo-ai-ampere-bring-low-cost-energy-efficient-ml/"
+      official_docs: "https://docs.wallaroo.ai/wallaroo-platform-operations/wallaroo-platform-operations-install/"
 
 optional_info:
     homepage_url: https://wallaroo.ai/

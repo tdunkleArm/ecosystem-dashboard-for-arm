@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://news.synopsys.com/2020-12-17-AWS-Deploys-Synopsys-VCS-on-Arm-based-AWS-Graviton2-to-Accelerate-SoC-Development#:~:text=VCS'%20native%20integration%20with%20Synopsys%20Verification%20IP%20and
-      official_docs: https://www.synopsys.com/support/licensing-installation-computeplatforms/installation.html#
+      vendor_announcement: "https://news.synopsys.com/2020-12-17-AWS-Deploys-Synopsys-VCS-on-Arm-based-AWS-Graviton2-to-Accelerate-SoC-Development#:~:text=VCS'%20native%20integration%20with%20Synopsys%20Verification%20IP%20and"
+      official_docs: "https://www.synopsys.com/support/licensing-installation-computeplatforms/installation.html#"
 
 optional_info:
     homepage_url: https://www.synopsys.com/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://seata.apache.org/docs/user/quickstart
+      official_docs: "https://seata.apache.org/docs/user/quickstart"
 
 optional_info:
     homepage_url: https://seata.apache.org/

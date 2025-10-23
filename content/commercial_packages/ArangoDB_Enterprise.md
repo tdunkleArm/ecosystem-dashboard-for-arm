@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://arangodb.com/news/arangodb-provides-graph-usability-at-scale-with-release-of-arangodb-3-10/
-      official_docs: https://docs.arangodb.com/3.11/operations/installation/#linux
+      vendor_announcement: "https://arangodb.com/news/arangodb-provides-graph-usability-at-scale-with-release-of-arangodb-3-10/"
+      official_docs: "https://docs.arangodb.com/3.11/operations/installation/#linux"
 
 optional_info:
     homepage_url: https://arangodb.com/

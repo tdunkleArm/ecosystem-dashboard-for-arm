@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.3.6
       release_date: 2023/06/23
-      reference_content: https://hadoop.apache.org/release/3.3.6.html
+      reference_content: "https://hadoop.apache.org/release/3.3.6.html"
       rationale: This version contains 117 bug fixes, improvements and enhancements, published Software Bill of Materials (SBOM) using CycloneDX Maven plugin, moved a number of HDFS-specific APIs to Hadoop Common to make it possible for certain applications that depend on HDFS semantics to run on other Hadoop compatible file systems. HDFS Router-Router Based Federation now supports storing delegation tokens on MySQL, which improves token operation through over the original Zookeeper-based implementation.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/tuning-guides/hadoop-tuning-guide-on-bare-metal
-      official_docs: https://hadoop.apache.org/docs/current/
+          url: "https://amperecomputing.com/tuning-guides/hadoop-tuning-guide-on-bare-metal"
+      official_docs: "https://hadoop.apache.org/docs/current/"
 
 optional_info:
   homepage_url: https://hadoop.apache.org/

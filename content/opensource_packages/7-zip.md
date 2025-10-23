@@ -22,7 +22,7 @@ platforms_supported:
 
     getting_started_resources:
       - display_name: Red Hat
-        url: https://www.redhat.com/sysadmin/encrypting-decrypting-7zip
+        url: "https://www.redhat.com/sysadmin/encrypting-decrypting-7zip"
 
     regression_tests:
       functional_test_link:

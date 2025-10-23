@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2021/06/16
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/continuous-cross-architecture-integration-with-gitlab
-      vendor_announcement: https://about.gitlab.com/blog/2020/05/15/gitlab-arm-aws-graviton2-solution/
-      official_docs: https://docs.gitlab.com/runner/install/
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/continuous-cross-architecture-integration-with-gitlab"
+      vendor_announcement: "https://about.gitlab.com/blog/2020/05/15/gitlab-arm-aws-graviton2-solution/"
+      official_docs: "https://docs.gitlab.com/runner/install/"
 
   - platform: Windows
     release_date_on_arm:

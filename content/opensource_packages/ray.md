@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://docs.ray.io/en/latest/ray-overview/installation.html
+      official_docs: "https://docs.ray.io/en/latest/ray-overview/installation.html"
 
 optional_info:
     homepage_url: https://www.anyscale.com/ray-open-source

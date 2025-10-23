@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.rke2.io/install/quickstart
+      official_docs: "https://docs.rke2.io/install/quickstart"
 
 optional_info:
     homepage_url: https://docs.rke2.io/

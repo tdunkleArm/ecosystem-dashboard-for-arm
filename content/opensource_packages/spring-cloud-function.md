@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/spring-cloud/spring-cloud-function#getting-started
+      official_docs: "https://github.com/spring-cloud/spring-cloud-function#getting-started"
 
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-function

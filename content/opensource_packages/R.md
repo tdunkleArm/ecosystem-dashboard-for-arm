@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://cran.icts.res.in/bin/linux/ubuntu/#install-r
+      official_docs: "https://cran.icts.res.in/bin/linux/ubuntu/#install-r"
 
 optional_info:
     homepage_url: https://www.r-project.org/

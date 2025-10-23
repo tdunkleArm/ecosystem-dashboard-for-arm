@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.harness.io/blog/arm-harness-ci-cloud
-      official_docs: https://developer.harness.io/docs/continuous-delivery/cd-onboarding/new-user/onboarding-path
+      vendor_announcement: "https://www.harness.io/blog/arm-harness-ci-cloud"
+      official_docs: "https://developer.harness.io/docs/continuous-delivery/cd-onboarding/new-user/onboarding-path"
 
 optional_info:
     homepage_url: https://www.harness.io/

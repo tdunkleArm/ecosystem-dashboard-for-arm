@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html
-      official_docs: https://github.com/bitnami/containers/blob/main/README.md
+      vendor_announcement: "https://blog.bitnami.com/2023/02/bitnami-arm-containers-available-at.html"
+      official_docs: "https://github.com/bitnami/containers/blob/main/README.md"
 
 optional_info:
     homepage_url: https://bitnami.com/stacks/containers

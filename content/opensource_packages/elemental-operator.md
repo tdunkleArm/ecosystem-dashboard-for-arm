@@ -20,10 +20,10 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/rancher/elemental-operator#installation
+      official_docs: "https://github.com/rancher/elemental-operator#installation"
 
 optional_info:
-    homepage_url: https://github.com/rancher/elemental-operator
+    homepage_url: "https://github.com/rancher/elemental-operator"
     support_caveats:
     alternative_options:
  

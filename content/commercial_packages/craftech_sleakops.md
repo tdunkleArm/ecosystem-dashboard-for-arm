@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://docs.sleakops.com/ 
+      official_docs: "https://docs.sleakops.com/"
 
 optional_info:
     homepage_url: https://sleakops.com/

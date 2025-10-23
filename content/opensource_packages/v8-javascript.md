@@ -20,7 +20,7 @@ platforms:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://v8.dev/docs/compile-arm64
+      official_docs: "https://v8.dev/docs/compile-arm64"
 
 optional_info:
     homepage_url: https://v8.dev/

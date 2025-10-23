@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://in-toto.readthedocs.io/en/latest/
+      official_docs: "https://in-toto.readthedocs.io/en/latest/"
 
 optional_info:
     homepage_url: https://in-toto.io

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/wg/wrk/blob/master/INSTALL
+      official_docs: "https://github.com/wg/wrk/blob/master/INSTALL"
 
 optional_info:
     homepage_url: https://github.com/wg/wrk

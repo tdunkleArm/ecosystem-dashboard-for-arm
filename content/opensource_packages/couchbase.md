@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.couchbase.com/server/current/install/ubuntu-debian-install.html
+      official_docs: "https://docs.couchbase.com/server/current/install/ubuntu-debian-install.html"
 
 optional_info:
     homepage_url: https://www.couchbase.com/

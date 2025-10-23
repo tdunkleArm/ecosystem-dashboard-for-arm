@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/SKTBrain/KoBERT?tab=readme-ov-file#how-to-install
+      official_docs: "https://github.com/SKTBrain/KoBERT?tab=readme-ov-file#how-to-install"
 
 optional_info:
     homepage_url: https://sktelecom.github.io/en/project/kobert/

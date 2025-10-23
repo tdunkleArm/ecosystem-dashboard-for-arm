@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/pgsql-io/benchmarksql/blob/master/docs/BUILDING.md
+      official_docs: "https://github.com/pgsql-io/benchmarksql/blob/master/docs/BUILDING.md"
 
 optional_info:
     homepage_url: https://benchmarksql.readthedocs.io/en/latest/

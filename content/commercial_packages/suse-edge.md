@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/c/suse-edge-3-1-scalable-secure-platform-that-supports-industry-use-cases/
-      official_docs: https://documentation.suse.com/suse-edge/3.3/html/edge/index.html
+      vendor_announcement: "https://www.suse.com/c/suse-edge-3-1-scalable-secure-platform-that-supports-industry-use-cases/"
+      official_docs: "https://documentation.suse.com/suse-edge/3.3/html/edge/index.html"
 
 optional_info:
     homepage_url: https://www.suse.com/products/edge/

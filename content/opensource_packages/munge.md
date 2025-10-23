@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/dun/munge/wiki/Installation-Guide
+      official_docs: "https://github.com/dun/munge/wiki/Installation-Guide"
 
 optional_info:
     homepage_url: https://dun.github.io/munge/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://circleci.com/blog/self-hosted-runners-add-arm-support-to-circleci/
-      official_docs: https://circleci.com/docs/runner-overview/#getting-started
+      vendor_announcement: "https://circleci.com/blog/self-hosted-runners-add-arm-support-to-circleci/"
+      official_docs: "https://circleci.com/docs/runner-overview/#getting-started"
 
 optional_info:
     homepage_url: https://circleci.com/docs/runner-overview/

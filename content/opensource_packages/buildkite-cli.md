@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://buildkite.com/docs/cli/installation
+      official_docs: "https://buildkite.com/docs/cli/installation"
 
 optional_info:
   homepage_url: https://buildkite.com/docs/cli

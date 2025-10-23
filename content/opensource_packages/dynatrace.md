@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.14.0
       release_date: 2023/10/13
-      reference_content: https://docs.dynatrace.com/docs/whats-new/release-notes/dynatrace-operator/dto-fix-0-14-0
+      reference_content: "https://docs.dynatrace.com/docs/whats-new/release-notes/dynatrace-operator/dto-fix-0-14-0"
       rationale: In this version, default tolerations were added for ActiveGate pods, allowing them to be scheduled on both Amd64 and Arm64 nodes for broader deployment compatibility.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/Dynatrace/dynatrace-operator#installation
+      official_docs: "https://github.com/Dynatrace/dynatrace-operator#installation"
 
 optional_info:
     homepage_url: https://www.dynatrace.com/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.datadoghq.com/blog/datadog-arm-agent/
-      official_docs: https://docs.datadoghq.com/getting_started/agent/
+      vendor_announcement: "https://www.datadoghq.com/blog/datadog-arm-agent/"
+      official_docs: "https://docs.datadoghq.com/getting_started/agent/"
 
 optional_info:
     homepage_url: https://docs.datadoghq.com/agent/?tab=Linux

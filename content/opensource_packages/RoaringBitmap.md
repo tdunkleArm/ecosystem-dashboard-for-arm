@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/RoaringBitmap/RoaringBitmap?tab=readme-ov-file#usage-for-roaringbitmap-developers
+      official_docs: "https://github.com/RoaringBitmap/RoaringBitmap?tab=readme-ov-file#usage-for-roaringbitmap-developers"
 
 optional_info:
     homepage_url: http://roaringbitmap.org/

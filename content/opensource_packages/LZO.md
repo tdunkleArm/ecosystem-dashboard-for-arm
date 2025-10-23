@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/nemequ/lzo/blob/master/README
+      official_docs: "https://github.com/nemequ/lzo/blob/master/README"
 
   - platform: Windows
     supported_minimum_version:

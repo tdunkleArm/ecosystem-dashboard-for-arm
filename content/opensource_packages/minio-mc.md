@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://min.io/docs/minio/linux/reference/minio-mc.html
+      official_docs: "https://min.io/docs/minio/linux/reference/minio-mc.html"
 
   - platform: Windows
     supported_minimum_version:

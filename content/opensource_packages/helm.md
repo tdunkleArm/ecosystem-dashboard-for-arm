@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/guides/dsb-sn-tuning-guide/dsb-sn-tuning-setting-up-kubernetes
-      official_docs: https://helm.sh/docs/intro/quickstart/
+          url: "https://amperecomputing.com/guides/dsb-sn-tuning-guide/dsb-sn-tuning-setting-up-kubernetes"
+      official_docs: "https://helm.sh/docs/intro/quickstart/"
 
 optional_info:
   homepage_url: https://helm.sh/

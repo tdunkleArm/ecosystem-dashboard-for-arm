@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.gitbook.com/
+      official_docs: "https://docs.gitbook.com/"
 
 optional_info:
     homepage_url: https://www.gitbook.com/

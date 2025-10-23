@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement:
-      official_docs: https://docs.chronosphere.io/pipeline-install/linux/ubuntu-server-linux
+      official_docs: "https://docs.chronosphere.io/pipeline-install/linux/ubuntu-server-linux"
 
 optional_info:
     homepage_url: https://chronosphere.io

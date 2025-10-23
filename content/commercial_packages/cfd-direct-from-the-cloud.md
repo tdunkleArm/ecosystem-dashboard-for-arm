@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://cfd.direct/cloud/cfddfc-arm-aws-c6g/
-      official_docs: https://cfd.direct/cloud/aws/
+      vendor_announcement: "https://cfd.direct/cloud/cfddfc-arm-aws-c6g/"
+      official_docs: "https://cfd.direct/cloud/aws/"
 
 optional_info:
     homepage_url: https://cfd.direct/

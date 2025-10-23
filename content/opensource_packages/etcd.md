@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.5.19
       release_date: 2025/03/05
-      reference_content: https://github.com/etcd-io/etcd/blob/main/CHANGELOG/CHANGELOG-3.5.md#v3519-2025-03-05
+      reference_content: "https://github.com/etcd-io/etcd/blob/main/CHANGELOG/CHANGELOG-3.5.md#v3519-2025-03-05"
       rationale: Version 3.5.19 addresses a performance regression related to uncertain compaction sleep intervals, which could enhance overall performance. Kindly refer [here](https://github.com/etcd-io/etcd/pull/19405).
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-etcd-performance-by-18-percent-by-deploying-on-aws-graviton2
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-etcd-performance-by-18-percent-by-deploying-on-aws-graviton2"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/blogs/ampere-computing-and-cncf-supporting-arm-native-ci-for-ncf-projects
-      official_docs: https://etcd.io/docs/latest/
+          url: "https://amperecomputing.com/blogs/ampere-computing-and-cncf-supporting-arm-native-ci-for-ncf-projects"
+      official_docs: "https://etcd.io/docs/latest/"
 
 optional_info:
   homepage_url: https://etcd.io/

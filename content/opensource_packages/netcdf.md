@@ -4,28 +4,44 @@ category: Storage
 description: NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 download_url: https://github.com/Unidata/netcdf-c/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v4.9.0
-    release_date: 2022/06/11
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v4.9.0
+      release_date: 2022/06/11
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://docs.unidata.ucar.edu/netcdf-c/current/netCDF-CMake.html"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.unidata.ucar.edu/software/netcdf/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.unidata.ucar.edu/netcdf-c/current/netCDF-CMake.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

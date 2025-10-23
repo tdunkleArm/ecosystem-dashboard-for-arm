@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://re2c.org/build/build.html
+      official_docs: "https://re2c.org/build/build.html"
 
 optional_info:
     homepage_url: https://re2c.org/index.html

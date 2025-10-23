@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/kunpengcompute/KAE?tab=readme-ov-file#%E6%BA%90%E7%A0%81%E5%AE%89%E8%A3%85
+      official_docs: "https://github.com/kunpengcompute/KAE?tab=readme-ov-file#%E6%BA%90%E7%A0%81%E5%AE%89%E8%A3%85"
 
 optional_info:
     homepage_url: https://www.hikunpeng.com/en/developer/boostkit/library

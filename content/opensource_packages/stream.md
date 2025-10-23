@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: http://www.cs.virginia.edu/stream/ref.html#start
+      official_docs: "http://www.cs.virginia.edu/stream/ref.html#start"
 
 optional_info:
     homepage_url: https://github.com/jeffhammond/STREAM

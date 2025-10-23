@@ -4,26 +4,28 @@ category: Data-format
 description: Parquet is a columnar storage format for Hadoop; it provides efficient storage and encoding of data. Parquet-java contains the java implementation of the Parquet format.
 download_url: https://github.com/apache/parquet-java/tags
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.12.0
-    release_date: 2021/03/25
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.12.0
+      release_date: 2021/03/25
+
+    arm_recommended_minimum_version:
+      version_number: 1.15.0
+      release_date: 2024/12/03
+      reference_content: "https://github.com/apache/parquet-java/releases/tag/apache-parquet-1.15.0"
+      rationale:  This version introduces major functional upgrades including the new Parquet Joiner v2, enhanced vector I/O handling, and extended support for filter predicates with contains and not() logic. It simplifies ParquetWriter logic, improves exception handling, and enables column statistics toggling for more efficient writes. Notably, support was added for writing unencrypted files without Hadoop, and enhancements were made to Avro schema conversion and column renaming. The release also delivers a large wave of dependency upgrades, including Jackson 2.18.1, Guava 33.2.1, Arrow 17.0.0, Thrift 0.21.0, Snappy, and Commons Lang3, ensuring compatibility and performance across modern platforms.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://parquet.apache.org/docs/"
 
 optional_info:
     homepage_url: https://parquet.apache.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://parquet.apache.org/docs/
-    arm_recommended_minimum_version:
-        version_number: 1.15.0
-        release_date: 2024/12/03
-        reference_content: https://github.com/apache/parquet-java/releases/tag/apache-parquet-1.15.0
-        rationale:  This version introduces major functional upgrades including the new Parquet Joiner v2, enhanced vector I/O handling, and extended support for filter predicates with contains and not() logic. It simplifies ParquetWriter logic, improves exception handling, and enables column statistics toggling for more efficient writes. Notably, support was added for writing unencrypted files without Hadoop, and enhancements were made to Avro schema conversion and column renaming. The release also delivers a large wave of dependency upgrades, including Jackson 2.18.1, Guava 33.2.1, Arrow 17.0.0, Thrift 0.21.0, Snappy, and Commons Lang3, ensuring compatibility and performance across modern platforms.
 
 optional_hidden_info:
     release_notes__supported_minimum:

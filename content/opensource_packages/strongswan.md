@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.strongswan.org/docs/5.9/install/install.html#_building_strongswan 
+      official_docs: "https://docs.strongswan.org/docs/5.9/install/install.html#_building_strongswan"
 
 optional_info:
     homepage_url: https://strongswan.org/

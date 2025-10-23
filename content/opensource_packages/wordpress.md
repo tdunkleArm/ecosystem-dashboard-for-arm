@@ -14,19 +14,19 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.8
       release_date: 2025/04/15
-      reference_content: https://wordpress.org/news/2025/04/cecil/
+      reference_content: "https://wordpress.org/news/2025/04/cecil/"
       rationale: This version refines daily workflows with a redesigned Style Book that now supports Classic themes, allowing centralized control over site styles. It introduces speculative loading for near-instant page transitions and enhances security with bcrypt password hashing. Over 100 accessibility fixes improve navigation, labeling, and editor usability. Performance gets a major lift through query caching, block editor optimizations, and a new Interactivity API aiming for sub-50ms responses. This release strengthens speed, security, and customization—without requiring user intervention.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/wordpress/wordpress/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/wordpress/wordpress/"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/tutorials/deploy-wordpress-and-mysql
+          url: "https://amperecomputing.com/tutorials/deploy-wordpress-and-mysql"
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/compute/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/
+          url: "https://aws.amazon.com/blogs/compute/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/"
         - display_name: Oracle OCI
-          url: https://docs.oracle.com/en/solutions/wordpress-arm-based-oci/index.html#GUID-4DA601F8-912D-41FE-9C92-057AF1A20E35
-      official_docs: https://developer.wordpress.org/advanced-administration/before-install/howto-install/
+          url: "https://docs.oracle.com/en/solutions/wordpress-arm-based-oci/index.html#GUID-4DA601F8-912D-41FE-9C92-057AF1A20E35"
+      official_docs: "https://developer.wordpress.org/advanced-administration/before-install/howto-install/"
 
 optional_info:
   homepage_url: https://developer.wordpress.org/

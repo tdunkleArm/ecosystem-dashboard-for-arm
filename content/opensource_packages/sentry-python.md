@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.sentry.io/platforms/python/
+      official_docs: "https://docs.sentry.io/platforms/python/"
 
 optional_info:
     homepage_url: https://sentry.io

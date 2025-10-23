@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://blake.bcm.edu/emanwiki/EMAN2/Install/BinaryInstallAnaconda/2.99
+      official_docs: "https://blake.bcm.edu/emanwiki/EMAN2/Install/BinaryInstallAnaconda/2.99"
 
 optional_info:
     homepage_url: https://blake.bcm.edu/emanwiki/EMAN2

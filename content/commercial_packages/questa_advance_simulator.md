@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://newsroom.sw.siemens.com/en-US/siemens-mentor-boosts-64-bit-arm-based-server-platform-arm-architecture-support-for-questa-simulation-tools/
+      vendor_announcement: "https://newsroom.sw.siemens.com/en-US/siemens-mentor-boosts-64-bit-arm-based-server-platform-arm-architecture-support-for-questa-simulation-tools/"
       official_docs: 
  
 optional_info:

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://github.com/hashicorp/vault/commit/7bce60290f2103365c4fedd9e28fbb28c0930fa1
-      official_docs: https://developer.hashicorp.com/vault/install#linux
+      vendor_announcement: "https://github.com/hashicorp/vault/commit/7bce60290f2103365c4fedd9e28fbb28c0930fa1"
+      official_docs: "https://developer.hashicorp.com/vault/install#linux"
 
 optional_info:
     homepage_url: https://www.vaultproject.io/

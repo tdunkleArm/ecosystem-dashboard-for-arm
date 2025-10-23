@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.keycloak.org/getting-started/getting-started-zip
+      official_docs: "https://www.keycloak.org/getting-started/getting-started-zip"
 
 optional_info:
     homepage_url: https://www.keycloak.org/

@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 14.0.0
       release_date: 2023/10/20
-      reference_content: https://github.com/bytecodealliance/wasmtime/releases/tag/v14.0.0
+      reference_content: "https://github.com/bytecodealliance/wasmtime/releases/tag/v14.0.0"
       rationale: This version introduced support for the v128 WebAssembly type on aarch64 architectures, enhancing Wasmtime's capabilities on ARM-based Linux systems.  The intention of this type is to allow platforms to perform typed between two functions that take or return v128 wasm values.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Microsoft Azure
-          url: https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/
-      official_docs: https://docs.wasmtime.dev/cli-install.html
+          url: "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
+      official_docs: "https://docs.wasmtime.dev/cli-install.html"
 
 optional_info:
   homepage_url: https://wasmtime.dev/

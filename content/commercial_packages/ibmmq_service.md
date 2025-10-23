@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.ibm.com/docs/en/ibm-mq/9.3?topic=wnim9-whats-new-in-mq-933-multiplatforms-base-advanced-entitlement
-      official_docs: https://www.ibm.com/docs/en/ibm-mq
+      vendor_announcement: "https://www.ibm.com/docs/en/ibm-mq/9.3?topic=wnim9-whats-new-in-mq-933-multiplatforms-base-advanced-entitlement"
+      official_docs: "https://www.ibm.com/docs/en/ibm-mq"
 
 optional_info:
     homepage_url: https://www.bigcommerce.com/

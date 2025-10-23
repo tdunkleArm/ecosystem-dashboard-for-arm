@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 8.0.38
       release_date: 2024/07/01
-      reference_content: https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-38.html
+      reference_content: "https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-38.html"
       rationale: From this verson onwards, Linux aarch64 platform binaries are built using patchelf --page-size=65536 for compatibility with systems using either 4k or 64k for the page size.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/mysql/install_mysql/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/mysql/install_mysql/"
       partner_content:
-      official_docs: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
+      official_docs: "https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 8.0.38
       release_date: 2024/07/01
-      reference_content: https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-38.html
+      reference_content: "https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-38.html"
       rationale: From this verson onwards, Linux aarch64 platform binaries are built using patchelf --page-size=65536 for compatibility with systems using either 4k or 64k for the page size.
 
     getting_started_resources:

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.seqera.io/platform/23.3/compute-envs/aws-batch
-      official_docs: https://docs.seqera.io/platform/24.1/getting-started/quickstart-demo/comm-showcase
+      vendor_announcement: "https://docs.seqera.io/platform/23.3/compute-envs/aws-batch"
+      official_docs: "https://docs.seqera.io/platform/24.1/getting-started/quickstart-demo/comm-showcase"
 
 optional_info:
     homepage_url: https://seqera.io/

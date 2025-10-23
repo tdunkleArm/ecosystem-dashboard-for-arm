@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.2.2
       release_date: 2024/11/20
-      reference_content: https://grails.org/blog/2024-11-20-introducing-grails-6-2-2.html
+      reference_content: "https://grails.org/blog/2024-11-20-introducing-grails-6-2-2.html"
       rationale: This version introduces key performance and stability improvements alongside community-driven feature enhancements. The release simplifies Gradle build configurations, consolidates plugin management, and makes grails-wrapper a default, fully integrated feature. Applications now default to Java 11 with optional Java 17 support, and improvements reduce build artifacts and enhance YAML configurations. Several long-standing bugs were resolved, including fixes in scaffolding, asset pipeline, and field rendering. Dependency versions across the stack—including Groovy, Hibernate, and Tomcat—have been updated to ensure modern compatibility and reliability.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://grails.org/download.html
+      official_docs: "https://grails.org/download.html"
 
   - platforms: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.2.2
       release_date: 2024/11/20
-      reference_content: https://grails.org/blog/2024-11-20-introducing-grails-6-2-2.html
+      reference_content: "https://grails.org/blog/2024-11-20-introducing-grails-6-2-2.html"
       rationale: This version introduces key performance and stability improvements alongside community-driven feature enhancements. The release simplifies Gradle build configurations, consolidates plugin management, and makes grails-wrapper a default, fully integrated feature. Applications now default to Java 11 with optional Java 17 support, and improvements reduce build artifacts and enhance YAML configurations. Several long-standing bugs were resolved, including fixes in scaffolding, asset pipeline, and field rendering. Dependency versions across the stack—including Groovy, Hibernate, and Tomcat—have been updated to ensure modern compatibility and reliability.
 
     getting_started_resources:

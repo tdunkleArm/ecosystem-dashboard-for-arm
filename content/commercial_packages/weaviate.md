@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://weaviate.io/developers/weaviate/more-resources/migration#changelog-for-version-140
-      official_docs: https://weaviate.io/developers/weaviate/installation
+      vendor_announcement: "https://weaviate.io/developers/weaviate/more-resources/migration#changelog-for-version-140"
+      official_docs: "https://weaviate.io/developers/weaviate/installation"
 
 optional_info:
     homepage_url: https://weaviate.io/developers/weaviate

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.0.0
       release_date: 2025/05/22
-      reference_content: https://github.com/kdlucas/byte-unixbench/releases/tag/v6.0.0
+      reference_content: "https://github.com/kdlucas/byte-unixbench/releases/tag/v6.0.0"
       rationale: This version introduces major upgrades with a strong focus on ARM64 support. This release enhances architecture detection across multiple ARM64 vendors (ARM, Ampere, Cavium, Apple), modernizes the build system with architecture-aware optimizations, and improves cross-platform compatibility.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/kdlucas/byte-unixbench/blob/master/UnixBench/README
+      official_docs: "https://github.com/kdlucas/byte-unixbench/blob/master/UnixBench/README"
 
 optional_info:
     homepage_url: https://code.google.com/archive/p/byte-unixbench/

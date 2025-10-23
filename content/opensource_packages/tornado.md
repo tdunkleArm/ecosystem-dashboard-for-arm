@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.tornadoweb.org/en/stable/
+      official_docs: "https://www.tornadoweb.org/en/stable/"
 
 optional_info:
     homepage_url: http://www.tornadoweb.org/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://revealjs.com/installation/#full-setup
+      official_docs: "https://revealjs.com/installation/#full-setup"
 
 optional_info:
     homepage_url: https://revealjs.com/

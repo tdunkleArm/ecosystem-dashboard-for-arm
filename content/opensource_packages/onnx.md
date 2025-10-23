@@ -4,31 +4,48 @@ category: AI/ML
 description: ONNX (Open Neural Network Exchange) is an open-source framework designed for creating, sharing, and deploying machine learning models across different platforms and tools.
 download_url: https://github.com/onnx/onnx/tags
 works_on_arm: true
-supported_minimum_version:
-  version_number: 1.13.0
-  release_date: 2022/12/10
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.13.0
+      release_date: 2022/12/10
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+        - display_name: Amazon AWS
+          url: "https://aws.amazon.com/blogs/machine-learning/accelerate-nlp-inference-with-onnx-runtime-on-aws-graviton-processors/"
+        - display_name: Microsoft Azure
+          url: "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/ml-inference-on-edge-devices-with-onnx-runtime-using-azure-devopsmlops/1737331"
+      official_docs: "https://github.com/onnx/onnx/blob/main/README.md"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: null
+      release_date: null
+      reference_content: null
+      rationale: null
+
+    getting_started_resources:
+      arm_content: null
+      partner_content:
+      official_docs:
 
 optional_info:
   homepage_url: https://onnx.ai/
   support_caveats: null
   alternative_options: null
-  getting_started_resources:
-    arm_content: null
-    partner_content:
-      - display_name: Amazon AWS
-        url: https://aws.amazon.com/blogs/machine-learning/accelerate-nlp-inference-with-onnx-runtime-on-aws-graviton-processors/
-      - display_name: Microsoft Azure
-        url: https://techcommunity.microsoft.com/blog/azuredevcommunityblog/ml-inference-on-edge-devices-with-onnx-runtime-using-azure-devopsmlops/1737331
-    official_docs: https://github.com/onnx/onnx/blob/main/README.md
-  arm_recommended_minimum_version:
-    version_number: null
-    release_date: null
-    reference_content: null
-    rationale: null
 optional_hidden_info:
   release_notes__supported_minimum: null
   release_notes__recommended_minimum: null

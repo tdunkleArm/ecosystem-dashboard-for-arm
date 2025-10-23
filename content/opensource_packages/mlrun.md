@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.mlrun.org/en/latest/install.html#install-setup-guide
+      official_docs: "https://docs.mlrun.org/en/latest/install.html#install-setup-guide"
 
 optional_info:
     homepage_url: https://www.iguazio.com/open-source/mlrun/

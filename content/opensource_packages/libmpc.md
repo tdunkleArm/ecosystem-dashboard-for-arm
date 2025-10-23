@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/nicolapiccinelli/libmpc?tab=readme-ov-file#usage
+      official_docs: "https://github.com/nicolapiccinelli/libmpc?tab=readme-ov-file#usage"
 
 optional_info:
     homepage_url: https://altairlab.gitlab.io/optcontrol/libmpc/

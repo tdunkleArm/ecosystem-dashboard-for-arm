@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/10/06
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/vmware-and-arm-at-the-edge
-      vendor_announcement: https://blogs.vmware.com/vsphere/2020/10/announcing-the-esxi-arm-fling.html
-      official_docs: https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-A71D7F56-6F47-43AB-9C4E-BAA89310F295.html
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/vmware-and-arm-at-the-edge"
+      vendor_announcement: "https://blogs.vmware.com/vsphere/2020/10/announcing-the-esxi-arm-fling.html"
+      official_docs: "https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-A71D7F56-6F47-43AB-9C4E-BAA89310F295.html"
 
 optional_info:
     homepage_url: https://www.vmware.com/

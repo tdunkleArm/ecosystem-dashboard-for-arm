@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 23.3.1-0
       release_date: 2023/08/21
-      reference_content: https://github.com/conda-forge/miniforge/releases/tag/23.3.1-0
+      reference_content: "https://github.com/conda-forge/miniforge/releases/tag/23.3.1-0"
       rationale: This release is the first to bundle conda-libmamba-solver and mamba with Miniforge, making it functionally identical to Mambaforge. The only distinction between the two is the default installation directory name. It includes conda 23.3.1, conda-libmamba-solver 23.3.0, and mamba 1.4.2, offering faster dependency resolution and improved performance.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/hpc/optimizing-compute-intensive-tasks-on-aws/
-      official_docs: https://github.com/conda-forge/miniforge?tab=readme-ov-file#install
+          url: "https://aws.amazon.com/blogs/hpc/optimizing-compute-intensive-tasks-on-aws/"
+      official_docs: "https://github.com/conda-forge/miniforge?tab=readme-ov-file#install"
 
 optional_info:
   homepage_url: https://github.com/conda-forge/miniforge

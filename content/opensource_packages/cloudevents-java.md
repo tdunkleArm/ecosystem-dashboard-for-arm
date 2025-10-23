@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://cloudevents.github.io/sdk-java/
+      official_docs: "https://cloudevents.github.io/sdk-java/"
 
 optional_info:
     homepage_url: https://cloudevents.io/

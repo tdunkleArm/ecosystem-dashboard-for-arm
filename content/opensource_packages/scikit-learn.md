@@ -11,24 +11,37 @@ platforms-supported:
       version_number: 0.24.0
       release_date: 2020/12/22
 
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://scikit-learn.org/stable/install.html"
+
   - platform: Windows
     supported_minimum_version:
       version_number:
       release_date:
 
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
+
 optional_info:
     homepage_url: https://scikit-learn.org/1.5/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://scikit-learn.org/stable/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

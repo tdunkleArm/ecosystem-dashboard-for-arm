@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/mysql_benchmark/setup_sysbench/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/mysql_benchmark/setup_sysbench/"
       partner_content:
-      official_docs: https://github.com/akopytov/sysbench#:~:text=in%20your%20script.-,Installing%20from%20Binary%20Packages,-Linux
+      official_docs: "https://github.com/akopytov/sysbench#:~:text=in%20your%20script.-,Installing%20from%20Binary%20Packages,-Linux"
 
 optional_info:
     homepage_url: https://github.com/akopytov/sysbench

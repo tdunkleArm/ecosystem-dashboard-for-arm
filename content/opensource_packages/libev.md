@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: http://cvs.schmorp.de/libev/README
+      official_docs: "http://cvs.schmorp.de/libev/README"
 
 optional_info:
     homepage_url: http://software.schmorp.de/pkg/libev.html

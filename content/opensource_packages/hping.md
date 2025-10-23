@@ -23,7 +23,7 @@ platforms-supported:
       official_docs:
 
 optional_info:
-    homepage_url: https://git.launchpad.net/ubuntu/+source/hping3/
+    homepage_url: "https://git.launchpad.net/ubuntu/+source/hping3/"
     support_caveats:
     alternative_options:
 

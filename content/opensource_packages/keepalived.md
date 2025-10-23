@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://keepalived.readthedocs.io/en/latest/installing_keepalived.html
+      official_docs: "https://keepalived.readthedocs.io/en/latest/installing_keepalived.html"
 
 optional_info:
     homepage_url: https://www.keepalived.org/index.html#

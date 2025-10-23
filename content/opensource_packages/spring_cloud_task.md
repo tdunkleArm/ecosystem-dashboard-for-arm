@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/spring-cloud/spring-cloud-task?tab=readme-ov-file#build-main-project
+      official_docs: "https://github.com/spring-cloud/spring-cloud-task?tab=readme-ov-file#build-main-project"
 
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-task

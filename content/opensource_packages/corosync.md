@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/corosync/corosync/wiki#welcome-to-the-corosync-wiki
+      official_docs: "https://github.com/corosync/corosync/wiki#welcome-to-the-corosync-wiki"
 
 optional_info:
     homepage_url: https://corosync.github.io/corosync/

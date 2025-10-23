@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 11.8.0
       release_date: 2024/12/18
-      reference_content: https://mariadb.com/kb/en/mariadb-11-8-0-release-notes/
+      reference_content: "https://mariadb.com/kb/en/mariadb-11-8-0-release-notes/"
       rationale: This release supports aarch64 SIMD instructions in mhnsw algorithm. However, version 11.8.0 is an alpha release, so consider switching to 11.8.1 for the stable functionality.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/mariadb/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/mariadb/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/database/powering-amazon-rds-with-aws-graviton3-benchmarks/
-      official_docs: https://mariadb.com/kb/en/getting-installing-and-upgrading-mariadb/
+          url: "https://aws.amazon.com/blogs/database/powering-amazon-rds-with-aws-graviton3-benchmarks/"
+      official_docs: "https://mariadb.com/kb/en/getting-installing-and-upgrading-mariadb/"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 11.8.0
       release_date: 2024/12/18
-      reference_content: https://mariadb.com/kb/en/mariadb-11-8-0-release-notes/
+      reference_content: "https://mariadb.com/kb/en/mariadb-11-8-0-release-notes/"
       rationale: This release supports aarch64 SIMD instructions in mhnsw algorithm. However, version 11.8.0 is an alpha release, so consider switching to 11.8.1 for the stable functionality.
 
     getting_started_resources:

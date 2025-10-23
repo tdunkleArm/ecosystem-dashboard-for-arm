@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://support.sentieon.com/manual/appendix/releasenotes/
+      vendor_announcement: "https://support.sentieon.com/manual/appendix/releasenotes/"
       official_docs: 
 
 optional_info:

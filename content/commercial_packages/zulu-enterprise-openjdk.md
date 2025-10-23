@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.azul.com/core/supported-platforms
-      official_docs: https://docs.azul.com/core/install/debian
+      vendor_announcement: "https://docs.azul.com/core/supported-platforms"
+      official_docs: "https://docs.azul.com/core/install/debian"
 
 optional_info:
     homepage_url: https://www.azul.com/downloads/#zulu

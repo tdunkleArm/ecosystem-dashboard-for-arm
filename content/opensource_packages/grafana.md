@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/grafana/
-      official_docs: https://grafana.com/grafana/download?platform=arm
+          url: "https://aws.amazon.com/grafana/"
+      official_docs: "https://grafana.com/grafana/download?platform=arm"
 
 optional_info:
   homepage_url: https://grafana.com/

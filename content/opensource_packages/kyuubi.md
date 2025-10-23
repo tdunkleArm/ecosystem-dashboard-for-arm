@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.10.0
       release_date: 2024/10/27
-      reference_content: https://kyuubi.apache.org/release/1.10.0.html
+      reference_content: "https://kyuubi.apache.org/release/1.10.0.html"
       rationale: This release ensures full compatibility with Java 8, 11, and 17, and Scala 2.12/2.13. It supports Apache Spark 3.2 to 3.5 (with 3.2 deprecated) and Apache Flink 1.17 to 1.20. Users can now create batch jobs by uploading extra resources via the REST API. A new server selection strategy has been added for HA mode. The Spark JVM quake plugin is introduced, along with periodic cleanup of expired temp files and logs. Performance has also been enhanced through deduplication of Ranger access requests in the AuthZ plugin.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://kyuubi.readthedocs.io/en/master/quick_start/quick_start.html#installation
+      official_docs: "https://kyuubi.readthedocs.io/en/master/quick_start/quick_start.html#installation"
 
 optional_info:
     homepage_url: https://kyuubi.readthedocs.io/en/master/index.html

@@ -4,26 +4,28 @@ category: AI/ML
 description: Python-swat is an open-source Python package developed by SAS to provide a programmatic interface to SAS Viya's Cloud Analytic Services (CAS).
 download_url: https://github.com/sassoftware/python-swat/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: v1.0.0
-    release_date: 2016/09/28
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: v1.0.0
+      release_date: 2016/09/28
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://sassoftware.github.io/python-swat/getting-started.html"
 
 optional_info:
     homepage_url: https://sassoftware.github.io/python-swat/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://sassoftware.github.io/python-swat/getting-started.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

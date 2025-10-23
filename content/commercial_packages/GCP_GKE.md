@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2022/06/01
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/gke/
-      vendor_announcement: https://cloud.google.com/kubernetes-engine/docs/concepts/arm-on-gke#arm-requirements-limitations
-      official_docs: https://cloud.google.com/kubernetes-engine/docs/concepts/arm-on-gke
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/gke/"
+      vendor_announcement: "https://cloud.google.com/kubernetes-engine/docs/concepts/arm-on-gke#arm-requirements-limitations"
+      official_docs: "https://cloud.google.com/kubernetes-engine/docs/concepts/arm-on-gke"
 
 optional_info:
     homepage_url: https://cloud.google.com/kubernetes-engine/?hl=en

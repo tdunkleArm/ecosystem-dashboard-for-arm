@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://emqtt.io/docs/v2/getstarted.html
+      official_docs: "https://emqtt.io/docs/v2/getstarted.html"
 
 optional_info:
     homepage_url: https://emqtt.io/

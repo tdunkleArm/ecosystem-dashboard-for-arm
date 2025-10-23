@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://fleet.rancher.io/quickstart
+      official_docs: "https://fleet.rancher.io/quickstart"
 
 optional_info:
     homepage_url: https://fleet.rancher.io/

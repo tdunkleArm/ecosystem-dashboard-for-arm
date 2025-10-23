@@ -11,14 +11,14 @@ platforms-supported:
     release_date_on_arm: 2020/03/13
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/optimize-elasticsearch-deployment-arm-amazon-ec2-m6g
-      vendor_announcement: https://www.elastic.co/guide/en/elasticsearch/reference/7.7/release-notes-7.7.0.html
-      official_docs: https://www.elastic.co/docs/solutions/search/get-started
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/optimize-elasticsearch-deployment-arm-amazon-ec2-m6g"
+      vendor_announcement: "https://www.elastic.co/guide/en/elasticsearch/reference/7.7/release-notes-7.7.0.html"
+      official_docs: "https://www.elastic.co/docs/solutions/search/get-started"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/big-data/increase-amazon-elasticsearch-service-performance-by-upgrading-to-graviton2
+          url: "https://aws.amazon.com/blogs/big-data/increase-amazon-elasticsearch-service-performance-by-upgrading-to-graviton2"
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/cloud-infrastructure/post/elasticsearch-oci-ampere-a1-throughput
+          url: "https://blogs.oracle.com/cloud-infrastructure/post/elasticsearch-oci-ampere-a1-throughput"
 
 optional_info:
   homepage_url: https://www.elastic.co/elasticsearch

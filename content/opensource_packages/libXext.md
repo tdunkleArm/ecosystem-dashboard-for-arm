@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://packages.debian.org/sid/libxext-doc
+      official_docs: "https://packages.debian.org/sid/libxext-doc"
 
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/xorg/lib/libxext

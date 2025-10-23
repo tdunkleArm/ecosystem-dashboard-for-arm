@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 46.0
       release_date: 2025/05/24
-      reference_content: https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v46.0
+      reference_content: "https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v46.0"
       rationale: This release contains experimental AArch64 support for MSHV hypervisor. It is now possible to start VMs on AArch64 platforms when using MSHV hypervisor.
 
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://www.cloudhypervisor.org/docs/prologue/quick-start/
+      official_docs: "https://www.cloudhypervisor.org/docs/prologue/quick-start/"
 
 optional_info:
   homepage_url: https://www.cloudhypervisor.org/

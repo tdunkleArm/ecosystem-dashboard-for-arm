@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Microsoft Azure
-          url: https://techcommunity.microsoft.com/blog/educatordeveloperblog/onnx-and-npu-acceleration-for-speech-on-arm/4278969
-      official_docs: https://github.com/openai/whisper?tab=readme-ov-file#setup
+          url: "https://techcommunity.microsoft.com/blog/educatordeveloperblog/onnx-and-npu-acceleration-for-speech-on-arm/4278969"
+      official_docs: "https://github.com/openai/whisper?tab=readme-ov-file#setup"
 
 optional_info:
   homepage_url: https://github.com/openai/whisper

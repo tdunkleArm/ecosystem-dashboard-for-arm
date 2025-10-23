@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.18.0
       release_date: 2024/10/28
-      reference_content: https://blog.tensorflow.org/2024/10/whats-new-in-tensorflow-218.html
+      reference_content: "https://blog.tensorflow.org/2024/10/whats-new-in-tensorflow-218.html"
       rationale: This version integrated support for NumPy 2.0, which brought improved type promotion rules and computational precision.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/
-      official_docs: https://www.tensorflow.org/lite/guide/build_arm
+          url: "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/"
+      official_docs: "https://www.tensorflow.org/lite/guide/build_arm"
 
 optional_info:
   homepage_url: https://www.tensorflow.org/

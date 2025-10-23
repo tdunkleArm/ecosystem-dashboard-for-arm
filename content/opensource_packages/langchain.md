@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/ai-and-datascience/post/inference-rag-cpus-efficient-generative-ai
-      official_docs: https://python.langchain.com/v0.2/docs/tutorials/llm_chain/#installation
+          url: "https://blogs.oracle.com/ai-and-datascience/post/inference-rag-cpus-efficient-generative-ai"
+      official_docs: "https://python.langchain.com/v0.2/docs/tutorials/llm_chain/#installation"
 
 optional_info:
   homepage_url: https://www.langchain.com/langchain

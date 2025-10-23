@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/containers/recent-changes-to-the-coredns-add-on/
-      official_docs: https://coredns.io/manual/toc/#installation
+          url: "https://aws.amazon.com/blogs/containers/recent-changes-to-the-coredns-add-on/"
+      official_docs: "https://coredns.io/manual/toc/#installation"
 
 optional_info:
   homepage_url: https://coredns.io/

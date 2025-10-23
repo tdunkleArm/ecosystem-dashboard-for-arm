@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.gnu.org/software/gperf/manual/gperf.html
+      official_docs: "https://www.gnu.org/software/gperf/manual/gperf.html"
 
 optional_info:
     homepage_url: https://www.gnu.org/software/gperf/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/c/simple-vm-management-on-ampere-infrastructure/
-      official_docs: https://docs.apps.rancher.io/
+      vendor_announcement: "https://www.suse.com/c/simple-vm-management-on-ampere-infrastructure/"
+      official_docs: "https://docs.apps.rancher.io/"
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/application-collection/

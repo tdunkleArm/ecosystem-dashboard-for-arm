@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.55.1
       release_date: 2023/05/09
-      reference_content: https://github.com/grpc/grpc-java/releases/tag/v1.55.1
+      reference_content: "https://github.com/grpc/grpc-java/releases/tag/v1.55.1"
       rationale: Protoc-gen-grpc-java binaries for Linux ARM and PPC are now built using Ubuntu 18.04. They will no longer work on Ubuntu 16.04 and Debian 9. This change ensures better compatibility and performance on modern ARM64 systems. The release also stabilized frequently used compression APIs, which can lead to improved performance and reliability in ARM64 environments.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://grpc.io/docs/languages/java/quickstart/
+      official_docs: "https://grpc.io/docs/languages/java/quickstart/"
 
 optional_info:
     homepage_url: https://grpc.io/docs/languages/java/

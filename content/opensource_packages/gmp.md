@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.3.0
       release_date: 2023/07/30
-      reference_content: https://gmplib.org/gmp6.3
+      reference_content: "https://gmplib.org/gmp6.3"
       rationale: This version improved the assembly for 64-bit Arm.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://gmplib.org/manual/Installing-GMP
+      official_docs: "https://gmplib.org/manual/Installing-GMP"
 
   - platforms: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.3.0
       release_date: 2023/07/30
-      reference_content: https://gmplib.org/gmp6.3
+      reference_content: "https://gmplib.org/gmp6.3"
       rationale: This version improved the assembly for 64-bit Arm.
 
     getting_started_resources:

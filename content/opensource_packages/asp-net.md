@@ -14,15 +14,15 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 8.0.0
       release_date: 2023/10/03
-      reference_content: https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/
+      reference_content: "https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/"
       rationale: Added various conditional instruction processing optimizations, including conditional comparison, conditional increment, negation, and inversion, vector table lookup APIs, peephole optimizations, and more. Shows performance improvements of up to 50% in select cases.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/dotnet/net-workflows-for-arm64-with-codecatalyst-part-1/
-      official_docs: https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-8.0
+          url: "https://aws.amazon.com/blogs/dotnet/net-workflows-for-arm64-with-codecatalyst-part-1/"
+      official_docs: "https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-8.0"
 
 optional_info:
   homepage_url: https://dotnet.microsoft.com/en-us/apps/aspnet

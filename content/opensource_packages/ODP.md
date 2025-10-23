@@ -4,26 +4,28 @@ category: Networking
 description: The ODP project defines APIs for portable high performance data plane applications. The APIs enable various implementation strategies without letting the application know about the implementation details.
 download_url: https://opendataplane.org/index.php/services/download/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.28.0.0
-    release_date: 2021/04/01
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.28.0.0
+      release_date: 2021/04/01
+
+    arm_recommended_minimum_version:
+      version_number: 1.42.1.0
+      release_date: 2023/10/23
+      reference_content: "https://github.com/OpenDataPlane/odp/releases/tag/v1.42.1.0"
+      rationale: In this version, the odp_cpu_cycles() function was optimized specifically for Arm’s AArch64 architecture by replacing the generic implementation with a direct read from the cntvct_el0 virtual counter register. This change significantly reduces the overhead of retrieving CPU cycle counts, delivering faster and more efficient timing operations on Arm servers.
+
+    getting_started_resources:
+      arm_content: "https://community.arm.com/cfs-file/__key/telligent-evolution-components-attachments/01-1996-00-00-00-00-62-45/ODP-White-Paper_5F00_Final.pdf"
+      partner_content:
+      official_docs: "https://opendataplane.org/index.php/services/get-started/"
 
 optional_info:
     homepage_url: https://opendataplane.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/cfs-file/__key/telligent-evolution-components-attachments/01-1996-00-00-00-00-62-45/ODP-White-Paper_5F00_Final.pdf
-        partner_content:
-        official_docs: https://opendataplane.org/index.php/services/get-started/
-    arm_recommended_minimum_version:
-        version_number: 1.42.1.0
-        release_date: 2023/10/23
-        reference_content: https://github.com/OpenDataPlane/odp/releases/tag/v1.42.1.0
-        rationale: In this version, the odp_cpu_cycles() function was optimized specifically for Arm’s AArch64 architecture by replacing the generic implementation with a direct read from the cntvct_el0 virtual counter register. This change significantly reduces the overhead of retrieving CPU cycle counts, delivering faster and more efficient timing operations on Arm servers.
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/OpenDataPlane/odp/releases/tag/v1.28.0.0

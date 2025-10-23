@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.openstack.org/cinder/latest/install/cinder-controller-install-ubuntu.html#install-and-configure-components
+      official_docs: "https://docs.openstack.org/cinder/latest/install/cinder-controller-install-ubuntu.html#install-and-configure-components"
 
 optional_info:
     homepage_url: https://docs.openstack.org/cinder/latest/

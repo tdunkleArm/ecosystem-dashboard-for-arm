@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/introducing-arm-ran-acceleration-library
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/introducing-arm-ran-acceleration-library"
       partner_content:
-      official_docs: https://developer.arm.com/documentation/102249/2410/Tutorials/Use-Arm-RAN-Acceleration-Library?lang=en
+      official_docs: "https://developer.arm.com/documentation/102249/2410/Tutorials/Use-Arm-RAN-Acceleration-Library?lang=en"
 optional_info:
     homepage_url: https://developer.arm.com/documentation/102249/2410/Tutorials/Get-started-with-Arm-RAN-Acceleration-Library?lang=en
     support_caveats:

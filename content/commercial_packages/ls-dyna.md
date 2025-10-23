@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.ansys.com/content/dam/it-solutions/platform-support/2024-r1/arm-processor-support-announcement-february-2024.pdf
-      official_docs: https://lsdyna.ansys.com/download-install-overview/
+      vendor_announcement: "https://www.ansys.com/content/dam/it-solutions/platform-support/2024-r1/arm-processor-support-announcement-february-2024.pdf"
+      official_docs: "https://lsdyna.ansys.com/download-install-overview/"
 
 optional_info:
     homepage_url: https://www.ansys.com/products/structures/ansys-ls-dyna

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 5.0.0
       release_date: 2022/11/01
-      reference_content: https://www.gatsbyjs.com/docs/reference/release-notes/v5.0/
+      reference_content: "https://www.gatsbyjs.com/docs/reference/release-notes/v5.0/"
       rationale: Version 5.0.0 introduced significant performance improvements, including reducing build duration up to 90%, which benefits all architectures including ARM-based systems.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide
+      official_docs: "https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide"
 
 optional_info:
     homepage_url: https://www.gatsbyjs.com/

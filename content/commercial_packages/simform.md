@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.simform.com/blog/aws-graviton-service-delivery/
+      vendor_announcement: "https://www.simform.com/blog/aws-graviton-service-delivery/"
       official_docs: 
 
 optional_info:

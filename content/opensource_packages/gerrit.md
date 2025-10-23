@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.8.0
       release_date: 2023/05/19
-      reference_content: https://www.gerritcodereview.com/3.8.html#native-packaging
+      reference_content: "https://www.gerritcodereview.com/3.8.html#native-packaging"
       rationale: OS base images for Gerrit's AlmaLinux and Ubuntu Docker images have been upgraded to version 9.1 ans 22 respectively in Gerrit version 3.8.0. This ensures compatibility with the newer software stack.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/GerritCodeReview/gerrit#build
+      official_docs: "https://github.com/GerritCodeReview/gerrit#build"
 
 optional_info:
     homepage_url: https://gerrit.googlesource.com/gerrit

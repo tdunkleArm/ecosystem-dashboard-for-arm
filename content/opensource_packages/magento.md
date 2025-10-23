@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/composer.html
+      official_docs: "https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/composer.html"
 
 optional_info:
     homepage_url: https://business.adobe.com/products/magento/open-source.html

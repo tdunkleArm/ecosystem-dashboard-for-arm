@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.lacework.com/blog/lacework-security-for-aws-graviton2-arm-based-infrastructure-why-it-matters/
-      official_docs: https://docs.lacework.net/onboarding/agent-installation-prerequisites
+      vendor_announcement: "https://www.lacework.com/blog/lacework-security-for-aws-graviton2-arm-based-infrastructure-why-it-matters/"
+      official_docs: "https://docs.lacework.net/onboarding/agent-installation-prerequisites"
 
 optional_info:
     homepage_url: https://www.lacework.com/

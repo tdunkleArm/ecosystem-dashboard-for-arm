@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.llamaindex.ai/en/stable/getting_started/installation/
+      official_docs: "https://docs.llamaindex.ai/en/stable/getting_started/installation/"
 
 optional_info:
     homepage_url: https://docs.llamaindex.ai/en/stable/

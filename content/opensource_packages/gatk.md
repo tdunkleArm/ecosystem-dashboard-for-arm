@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4
+      official_docs: "https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4"
 
 optional_info:
     homepage_url: https://gatk.broadinstitute.org/hc/en-us

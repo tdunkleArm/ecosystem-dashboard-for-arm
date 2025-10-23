@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/pytorch-llama/pytorch-llama#install-pytorch-and-optimized-libraries
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/pytorch-llama/pytorch-llama#install-pytorch-and-optimized-libraries"
       partner_content: 
-      official_docs: https://pytorch.org/torchtune/stable/index.html
+      official_docs: "https://pytorch.org/torchtune/stable/index.html"
 
 optional_info:
     homepage_url: https://pytorch.org/torchtune/stable/overview.html

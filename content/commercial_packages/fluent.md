@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.ansys.com/content/dam/it-solutions/platform-support/2024-r1/arm-processor-support-announcement-february-2024.pdf
-      official_docs: https://www.ansys.com/training-center/course-catalog/fluids/ansys-fluent-getting-started-basics
+      vendor_announcement: "https://www.ansys.com/content/dam/it-solutions/platform-support/2024-r1/arm-processor-support-announcement-february-2024.pdf"
+      official_docs: "https://www.ansys.com/training-center/course-catalog/fluids/ansys-fluent-getting-started-basics"
 
   - platform: Windows
     release_date_on_arm:

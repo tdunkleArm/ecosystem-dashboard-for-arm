@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.4.0
       release_date: 2024/12/25
-      reference_content: https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/
+      reference_content: "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/"
       rationale: This version introduced significant performance enhancements, notably improvements to YJIT (Yet Another Ruby JIT), which is a Just-In-Time compiler for Ruby. These enhancements are particularly beneficial for Arm architectures, as YJIT has been optimized to deliver better performance on such platforms. Upgrading to Ruby 3.4.0 or later is recommended to leverage these improvements.
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/Additional%20Resources/Video%20Tutorials/Arm%20Socrates%20-%20Managing%20Projects%20-%20Generating%20and%20Running%20IP%20Configuration%20Scripts%20and%20Ruby%20API
+      arm_content: "https://developer.arm.com/Additional%20Resources/Video%20Tutorials/Arm%20Socrates%20-%20Managing%20Projects%20-%20Generating%20and%20Running%20IP%20Configuration%20Scripts%20and%20Ruby%20API"
       partner_content:
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/developers/post/getting-started-with-ruby-and-ruby-on-rails-on-oci
-      official_docs: https://www.ruby-lang.org/en/documentation/installation/
+          url: "https://blogs.oracle.com/developers/post/getting-started-with-ruby-and-ruby-on-rails-on-oci"
+      official_docs: "https://www.ruby-lang.org/en/documentation/installation/"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.4.0
       release_date: 2024/12/25
-      reference_content: https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/
+      reference_content: "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/"
       rationale: This version introduced significant performance enhancements, notably improvements to YJIT (Yet Another Ruby JIT), which is a Just-In-Time compiler for Ruby. These enhancements are particularly beneficial for Arm architectures, as YJIT has been optimized to deliver better performance on such platforms. Upgrading to Ruby 3.4.0 or later is recommended to leverage these improvements.
 
     getting_started_resources:

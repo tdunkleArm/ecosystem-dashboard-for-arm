@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/nuclio/nuclio#quick-start-steps
+      official_docs: "https://github.com/nuclio/nuclio#quick-start-steps"
 
 optional_info:
     homepage_url: https://www.iguazio.com/open-source/nuclio/

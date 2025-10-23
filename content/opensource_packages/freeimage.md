@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/danoli3/FreeImage#building-this-fork
+      official_docs: "https://github.com/danoli3/FreeImage#building-this-fork"
 
 optional_info:
     homepage_url: https://freeimage.sourceforge.io/

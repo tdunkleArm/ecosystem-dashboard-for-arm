@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/arm-performance-libraries-24-10
+      arm_content: "https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/arm-performance-libraries-24-10"
       partner_content:
-      official_docs: https://www.fftw.org/fftw3_doc/Installation-on-Unix.html
+      official_docs: "https://www.fftw.org/fftw3_doc/Installation-on-Unix.html"
 
 optional_info:
     homepage_url: https://www.fftw.org/index.html

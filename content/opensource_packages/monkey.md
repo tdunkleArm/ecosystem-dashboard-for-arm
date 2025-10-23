@@ -19,7 +19,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs:  https://github.com/monkey/monkey#requirements
+      official_docs: "https://github.com/monkey/monkey#requirements"
 
 optional_info:
     homepage_url: https://github.com/monkey/monkey/blob/master/README.md

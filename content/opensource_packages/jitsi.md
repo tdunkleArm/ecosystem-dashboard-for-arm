@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: stable-7830
       release_date: 2022/09/08
-      reference_content: https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830
+      reference_content: "https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830"
       rationale: This release introduced fixes in the Dockerfile to ensure successful builds for Arm64.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/#quick-start
+      official_docs: "https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/#quick-start"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: stable-7830
       release_date: 2022/09/08
-      reference_content: https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830
+      reference_content: "https://github.com/jitsi/docker-jitsi-meet/blob/stable-10431/CHANGELOG.md#stable-7830"
       rationale: This release introduced fixes in the Dockerfile to ensure successful builds for Arm64.
 
     getting_started_resources:

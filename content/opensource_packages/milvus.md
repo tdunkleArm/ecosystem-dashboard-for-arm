@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.3.12
       release_date: 2024/03/15
-      reference_content: https://github.com/milvus-io/milvus/releases/tag/v2.3.12
+      reference_content: "https://github.com/milvus-io/milvus/releases/tag/v2.3.12"
       rationale: In this version, jemalloc, a high-performance memory allocator, has been optimized to better support 64KB memory pages on AArch64 (ARM64) systems. This results in faster allocations, better cache performance, and less waste on servers using 64KB pages.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://milvus.io/docs/quickstart.md#Install-Milvus
+      official_docs: "https://milvus.io/docs/quickstart.md#Install-Milvus"
 
 optional_info:
     homepage_url: https://milvus.io/

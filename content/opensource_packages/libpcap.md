@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/the-tcpdump-group/libpcap/blob/master/INSTALL.md
+      official_docs: "https://github.com/the-tcpdump-group/libpcap/blob/master/INSTALL.md"
 
   - platform: Windows
     supported_minimum_version:

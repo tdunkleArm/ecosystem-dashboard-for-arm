@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.schedmd.com/slurm/installation-tutorial/#building-installing-slurm
+      official_docs: "https://www.schedmd.com/slurm/installation-tutorial/#building-installing-slurm"
 
 optional_info:
     homepage_url: slurm.schedmd.com/

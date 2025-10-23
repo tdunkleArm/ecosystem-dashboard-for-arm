@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet/setup/aspnet
+      official_docs: "https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet/setup/aspnet"
  
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/opentelemetry/edot-sdks/dotnet

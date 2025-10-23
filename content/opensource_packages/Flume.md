@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://flume.apache.org/releases/content/1.10.0/FlumeUserGuide.html
+      official_docs: "https://flume.apache.org/releases/content/1.10.0/FlumeUserGuide.html"
 
 optional_info:
     homepage_url: https://flume.apache.org/

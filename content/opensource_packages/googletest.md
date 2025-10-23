@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/cross-platform/matrix/
+      arm_content: "https://learn.arm.com/learning-paths/cross-platform/matrix/"
       partner_content:
-      official_docs: https://google.github.io/googletest/quickstart-cmake.html
+      official_docs: "https://google.github.io/googletest/quickstart-cmake.html"
 
 optional_info:
     homepage_url: https://github.com/google/googletest

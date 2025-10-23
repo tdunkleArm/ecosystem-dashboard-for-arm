@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+      official_docs: "https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html"
 
 optional_info:
     homepage_url: https://shiny.posit.co/

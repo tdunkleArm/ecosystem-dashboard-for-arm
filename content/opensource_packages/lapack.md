@@ -18,9 +18,9 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/documentation/101004/2404/LAPACK-Linear-Algebra-Package/Reference-sources-for-LAPACK
+      arm_content: "https://developer.arm.com/documentation/101004/2404/LAPACK-Linear-Algebra-Package/Reference-sources-for-LAPACK"
       partner_content: 
-      official_docs: https://github.com/Reference-LAPACK/lapack?tab=readme-ov-file#installation
+      official_docs: "https://github.com/Reference-LAPACK/lapack?tab=readme-ov-file#installation"
 
 optional_info:
     homepage_url: https://www.netlib.org/lapack/

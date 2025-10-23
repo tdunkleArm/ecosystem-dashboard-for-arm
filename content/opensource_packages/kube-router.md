@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.kube-router.io/docs/
+      official_docs: "https://www.kube-router.io/docs/"
 
 optional_info:
     homepage_url: https://www.kube-router.io/

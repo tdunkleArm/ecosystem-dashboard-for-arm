@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/terraform/
+      arm_content: "https://learn.arm.com/install-guides/terraform/"
       partner_content:
         - display_name: Microsoft Azure
-          url: https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform
-      official_docs: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+          url: "https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform"
+      official_docs: "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli"
 
 optional_info:
   homepage_url: https://www.terraform.io/

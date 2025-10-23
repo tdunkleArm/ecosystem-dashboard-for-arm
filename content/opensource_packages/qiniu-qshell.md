@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/qiniu/qshell?tab=readme-ov-file#%E5%AE%89%E8%A3%85
+      official_docs: "https://github.com/qiniu/qshell?tab=readme-ov-file#%E5%AE%89%E8%A3%85"
 
 optional_info:
     homepage_url: https://developer.qiniu.com/

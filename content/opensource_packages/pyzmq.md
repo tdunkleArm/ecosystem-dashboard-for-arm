@@ -4,27 +4,44 @@ category: Messaging/Comms
 description: PyZMQ is a python wrapper for the ZeroMQ library, which provides a high-performance asynchronous messaging framework.
 download_url: https://pypi.org/project/pyzmq/#files
 works_on_arm: true
-supported_minimum_version:
-    version_number: 21.0.0
-    release_date: 2021/01/14
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 21.0.0
+      release_date: 2021/01/14
+
+    arm_recommended_minimum_version:
+      version_number: 23.2.1
+      release_date: 2022/08/12
+      reference_content: "https://pyzmq.readthedocs.io/en/latest/changelog.html#id22"
+      rationale: This release introduces Python 3.11 wheel support, improving compatibility with the latest Python versions. Additionally, Linux AArch64 wheels now include the same libzmq (v4.3.4) as other platforms. This consistency was achieved by switching to native ARM builds using CircleCI, enhancing reliability and alignment across architectures.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://pyzmq.readthedocs.io/en/latest/howto/build.html"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number: 23.2.1
+      release_date: 2022/08/12
+      reference_content: "https://pyzmq.readthedocs.io/en/latest/changelog.html#id22"
+      rationale: This release introduces Python 3.11 wheel support, improving compatibility with the latest Python versions. Additionally, Linux AArch64 wheels now include the same libzmq (v4.3.4) as other platforms. This consistency was achieved by switching to native ARM builds using CircleCI, enhancing reliability and alignment across architectures.
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://pyzmq.readthedocs.io/en/latest/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://pyzmq.readthedocs.io/en/latest/howto/build.html
-    arm_recommended_minimum_version:
-        version_number: 23.2.1
-        release_date: 2022/08/12
-        reference_content: https://pyzmq.readthedocs.io/en/latest/changelog.html#id22
-        rationale: This release introduces Python 3.11 wheel support, improving compatibility with the latest Python versions. Additionally, Linux AArch64 wheels now include the same libzmq (v4.3.4) as other platforms. This consistency was achieved by switching to native ARM builds using CircleCI, enhancing reliability and alignment across architectures.
 
 optional_hidden_info:
     release_notes__supported_minimum: https://pyzmq.readthedocs.io/en/latest/changelog.html#id31

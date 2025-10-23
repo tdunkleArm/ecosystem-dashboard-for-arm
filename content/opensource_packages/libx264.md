@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/oracle-cloud-infrastructure-arm-based-a1
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/oracle-cloud-infrastructure-arm-based-a1"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/
-      official_docs: https://artifacts.videolan.org/x264/release-debian-aarch64/
+          url: "https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/"
+      official_docs: "https://artifacts.videolan.org/x264/release-debian-aarch64/"
 
   - platform: Windows
     supported_minimum_version:

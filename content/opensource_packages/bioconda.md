@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 2.7.0
       release_date: 2023/10/14
-      reference_content: https://github.com/bioconda/bioconda-utils/blob/master/CHANGELOG.md#270-2023-10-14
+      reference_content: "https://github.com/bioconda/bioconda-utils/blob/master/CHANGELOG.md#270-2023-10-14"
       rationale: This version adds support to run build for recipes with linux-aarch64 additional-platforms.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://bioconda.github.io/developer/aarch64.html
+      official_docs: "https://bioconda.github.io/developer/aarch64.html"
 
 optional_info:
     homepage_url: https://bioconda.github.io/

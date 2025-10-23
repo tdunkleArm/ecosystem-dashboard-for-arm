@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.saltproject.io/salt/install-guide/en/latest/topics/other-install-types/platform-agnostic.html
+      official_docs: "https://docs.saltproject.io/salt/install-guide/en/latest/topics/other-install-types/platform-agnostic.html"
 
 optional_info:
     homepage_url: https://saltproject.io/

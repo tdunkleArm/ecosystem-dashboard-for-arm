@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://ignite.readthedocs.io/en/stable/arm/
+      official_docs: "https://ignite.readthedocs.io/en/stable/arm/"
 
 optional_info:
     homepage_url: https://ignite.readthedocs.io/en/stable/

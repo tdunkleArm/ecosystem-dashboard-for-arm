@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2021/05/14
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/anaconda/
-      vendor_announcement: https://www.anaconda.com/blog/anaconda-aws-graviton2
-      official_docs: https://docs.anaconda.com/free/anaconda/install/index.html
+      arm_content: "https://learn.arm.com/install-guides/anaconda/"
+      vendor_announcement: "https://www.anaconda.com/blog/anaconda-aws-graviton2"
+      official_docs: "https://docs.anaconda.com/free/anaconda/install/index.html"
 
 optional_info:
     homepage_url: https://www.anaconda.com/

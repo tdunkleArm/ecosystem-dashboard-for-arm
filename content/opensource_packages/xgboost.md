@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.6.2
       release_date: 2022/10/21
-      reference_content: https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/xgboost-lightgbm-aws-graviton3
+      reference_content: "https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/xgboost-lightgbm-aws-graviton3"
       rationale: Benchmarks demonstrated that AWS Graviton3 instances outperformed both Graviton2 and x86 counterparts in XGBoost tasks, with performance gains of up to 50% on selected datasets.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/xgboost-lightgbm-aws-graviton3
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/xgboost-lightgbm-aws-graviton3"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/
-      official_docs: https://xgboost.readthedocs.io/en/stable/
+          url: "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/"
+      official_docs: "https://xgboost.readthedocs.io/en/stable/"
 
 optional_info:
   homepage_url: https://xgboost.ai/

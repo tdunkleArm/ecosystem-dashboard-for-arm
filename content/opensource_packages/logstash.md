@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/guide/en/logstash/current/installing-logstash.html
+      official_docs: "https://www.elastic.co/guide/en/logstash/current/installing-logstash.html"
 
 optional_info:
     homepage_url: https://www.elastic.co/logstash

@@ -4,28 +4,44 @@ category: Languages and Frameworks
 description: PCRE (Perl Compatible Regular Expressions) is a library that provides a set of functions to implement regular expression pattern matching using the same syntax and semantics as Perl.
 download_url: https://sourceforge.net/projects/pcre/files/pcre/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 8.36
-    release_date: 2015/04/28
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 8.36
+      release_date: 2015/04/28
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: "https://community.arm.com/support-forums/f/architectures-and-processors-forum/8510/accelerating-pcre-regex-matching-with-data-prefetch-on-arm-cortex-a7"
+      partner_content:
+      official_docs: "https://www.pcre.org/original/doc/html/pcrebuild.html#TOC1"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://www.pcre.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/support-forums/f/architectures-and-processors-forum/8510/accelerating-pcre-regex-matching-with-data-prefetch-on-arm-cortex-a7
-        partner_content:
-        official_docs: https://www.pcre.org/original/doc/html/pcrebuild.html#TOC1
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum:

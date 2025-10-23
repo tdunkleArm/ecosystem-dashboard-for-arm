@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/embedded-and-microcontrollers/cloud-native-deployment-on-hybrid-edge-systems/k3s/
+      arm_content: "https://learn.arm.com/learning-paths/embedded-and-microcontrollers/cloud-native-deployment-on-hybrid-edge-systems/k3s/"
       partner_content: 
-      official_docs: https://minikube.sigs.k8s.io/docs/start/
+      official_docs: "https://minikube.sigs.k8s.io/docs/start/"
 
 optional_info:
     homepage_url: https://minikube.sigs.k8s.io/docs/

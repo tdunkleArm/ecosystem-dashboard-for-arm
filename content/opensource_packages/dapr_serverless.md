@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.dapr.io/operations/hosting/serverless/
+      official_docs: "https://docs.dapr.io/operations/hosting/serverless/"
 
 optional_info:
     homepage_url: https://dapr.io

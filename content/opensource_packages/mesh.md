@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/weaveworks/mesh?tab=readme-ov-file#developing
+      official_docs: "https://github.com/weaveworks/mesh?tab=readme-ov-file#developing"
 
 optional_info:
     homepage_url: https://github.com/weaveworks/mesh

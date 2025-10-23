@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://dubbo.apache.org/en/docs3-v2/java-sdk/quick-start/
+      official_docs: "https://dubbo.apache.org/en/docs3-v2/java-sdk/quick-start/"
 
 optional_info:
     homepage_url: https://dubbo.apache.org/en/docs3-v2/java-sdk/

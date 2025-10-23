@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.alluxio.io/os/user/stable/en/overview/Getting-Started.html
+      official_docs: "https://docs.alluxio.io/os/user/stable/en/overview/Getting-Started.html"
 
 optional_info:
     homepage_url: https://www.alluxio.io/

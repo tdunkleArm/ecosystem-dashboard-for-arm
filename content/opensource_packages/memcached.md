@@ -14,7 +14,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.6.28
       release_date: 2024/05/31
-      reference_content: https://github.com/memcached/memcached/wiki/ReleaseNotes1628
+      reference_content: "https://github.com/memcached/memcached/wiki/ReleaseNotes1628"
       rationale: This version fixes unfortunate potentially critical use-after-free bug in the proxy mode that was introduced in 1.6.27. Also adds experimental support for TLS to proxy backends.
 
     getting_started_resources:

@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/scalable-hyperparameter-tuning-for-automl
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/scalable-hyperparameter-tuning-for-automl"
       partner_content:  
-      official_docs: https://docs.celeryq.dev/en/stable/getting-started/index.html
+      official_docs: "https://docs.celeryq.dev/en/stable/getting-started/index.html"
 
 optional_info:
     homepage_url: https://docs.celeryq.dev/en/stable/

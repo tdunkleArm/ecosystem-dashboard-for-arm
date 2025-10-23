@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://tailscale.com/changelog#2021-11-19
-      official_docs: https://tailscale.com/kb/1017/install
+      vendor_announcement: "https://tailscale.com/changelog#2021-11-19"
+      official_docs: "https://tailscale.com/kb/1017/install"
 
 optional_info:
     homepage_url: https://tailscale.com/

@@ -11,8 +11,8 @@ platforms-supported:
     release_date_on_arm: 2021/01/01
 
     getting_started_resources:
-      arm_content: https://www.arm.com/partners/catalog/altair
-      vendor_announcement: https://2021.help.altair.com/2021/hwdesktop/altair_help/topics/release_notes/rn_2021_radioss_r.htm
+      arm_content: "https://www.arm.com/partners/catalog/altair"
+      vendor_announcement: "https://2021.help.altair.com/2021/hwdesktop/altair_help/topics/release_notes/rn_2021_radioss_r.htm"
       official_docs: 
 
 optional_info:

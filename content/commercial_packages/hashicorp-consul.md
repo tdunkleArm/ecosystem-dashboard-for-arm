@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://github.com/hashicorp/consul/blob/v0.8.4/CHANGELOG.md#084-june-9-2017
-      official_docs: https://developer.hashicorp.com/consul/docs
+      vendor_announcement: "https://github.com/hashicorp/consul/blob/v0.8.4/CHANGELOG.md#084-june-9-2017"
+      official_docs: "https://developer.hashicorp.com/consul/docs"
 
   - platform: Windows
     release_date_on_arm:

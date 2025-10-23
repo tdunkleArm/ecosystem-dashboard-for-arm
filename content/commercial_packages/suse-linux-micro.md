@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/releasenotes/aarch64/SL-Micro/6.0/index.html#v60-supported-architectures
-      official_docs: https://documentation.suse.com/sle-micro/6.1/
+      vendor_announcement: "https://www.suse.com/releasenotes/aarch64/SL-Micro/6.0/index.html#v60-supported-architectures"
+      official_docs: "https://documentation.suse.com/sle-micro/6.1/"
 
 optional_info:
     homepage_url: https://www.suse.com/products/micro/

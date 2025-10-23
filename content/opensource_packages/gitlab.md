@@ -14,17 +14,17 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 18.2
       release_date: 2025/07/07
-      reference_content: https://gitlab.com/gitlab-org/gitlab/-/releases/v18.2.0-ee
+      reference_content: "https://gitlab.com/gitlab-org/gitlab/-/releases/v18.2.0-ee"
       rationale: In this version, container scanning introduces native support for Linux Arm64 container image variants. This removes the need for emulation when running on Arm64 runners, resulting in significantly faster analysis. Additionally, users can now scan multi-architecture images by setting the TRIVY_PLATFORM environment variable, improving both speed and compatibility for Software Composition Analysis workflows on Arm.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/devops/unlock-the-power-of-ec2-graviton-with-gitlab-ci-cd-and-eks-runners/
+          url: "https://aws.amazon.com/blogs/devops/unlock-the-power-of-ec2-graviton-with-gitlab-ci-cd-and-eks-runners/"
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/cloud-infrastructure/post/announcing-gitlab-arm-runner-support-for-the-arm-compute-platform-on-oracle-cloud-infrastructure
-      official_docs: https://about.gitlab.com/blog/2021/08/05/achieving-23-cost-savings-and-36-performance-gain-using-gitlab-and-gitlab-runner-on-arm-neoverse-based-aws-graviton2-processor/
+          url: "https://blogs.oracle.com/cloud-infrastructure/post/announcing-gitlab-arm-runner-support-for-the-arm-compute-platform-on-oracle-cloud-infrastructure"
+      official_docs: "https://about.gitlab.com/blog/2021/08/05/achieving-23-cost-savings-and-36-performance-gain-using-gitlab-and-gitlab-runner-on-arm-neoverse-based-aws-graviton2-processor/"
 
 optional_info:
   homepage_url: https://about.gitlab.com/

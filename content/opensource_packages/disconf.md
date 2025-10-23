@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://disconf.readthedocs.io/zh-cn/latest/install/index.html
+      official_docs: "https://disconf.readthedocs.io/zh-cn/latest/install/index.html"
 
 optional_info:
     homepage_url: https://github.com/knightliao/disconf

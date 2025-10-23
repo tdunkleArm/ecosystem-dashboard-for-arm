@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.haystack.deepset.ai/docs/installation
+      official_docs: "https://docs.haystack.deepset.ai/docs/installation"
 
 optional_info:
     homepage_url: https://haystack.deepset.ai/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://rethinkdb.com/docs/build/
+      official_docs: "https://rethinkdb.com/docs/build/"
 
 optional_info:
     homepage_url: https://rethinkdb.com/

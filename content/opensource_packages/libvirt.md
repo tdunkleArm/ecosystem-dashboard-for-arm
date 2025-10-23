@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 11.1.0
       release_date: 2025/03/03
-      reference_content: https://libvirt.org/news.html#v11-1-0-2025-03-03
+      reference_content: "https://libvirt.org/news.html#v11-1-0-2025-03-03"
       rationale: This version introduced a bug fix which addresses a crash in virtqemud when starting a domain with a custom CPU model on hosts where the CPU model is undetectable — an issue primarily affecting AArch64 (ARM64) hosts. The problem, introduced in libvirt 10.9.0, caused qemu to fail initialization on such systems due to the missing CPU model information.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://libvirt.org/compiling.html
+      official_docs: "https://libvirt.org/compiling.html"
 
 optional_info:
     homepage_url: https://libvirt.org/index.html

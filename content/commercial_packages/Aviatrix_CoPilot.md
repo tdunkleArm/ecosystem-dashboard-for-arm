@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.aviatrix.com/documentation/latest/release-notes/copilot-image-release-notes/copilot-image-release-notes.html#copilot-image-version-2-0-4-06-july-2022-aws-arm
-      official_docs: https://docs.aviatrix.com/documentation/latest/index.html
+      vendor_announcement: "https://docs.aviatrix.com/documentation/latest/release-notes/copilot-image-release-notes/copilot-image-release-notes.html#copilot-image-version-2-0-4-06-july-2022-aws-arm"
+      official_docs: "https://docs.aviatrix.com/documentation/latest/index.html"
 
 optional_info:
     homepage_url: https://community.aviatrix.com/

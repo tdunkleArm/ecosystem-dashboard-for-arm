@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://blogs.oracle.com/opal/post/oracle-instant-client-for-linux-arm-aarch64
-      official_docs: https://docs.oracle.com/en/database/oracle/oracle-database/19/lacli/installing-ic-arm.html#GUID-09538EE8-5EE8-4319-9B17-DCE0EF0154A0
+      vendor_announcement: "https://blogs.oracle.com/opal/post/oracle-instant-client-for-linux-arm-aarch64"
+      official_docs: "https://docs.oracle.com/en/database/oracle/oracle-database/19/lacli/installing-ic-arm.html#GUID-09538EE8-5EE8-4319-9B17-DCE0EF0154A0"
 
 optional_info:
     homepage_url: https://www.oracle.com/in/database/technologies/instant-client.html

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.openstack.org/kolla/latest/support_matrix.html#aarch64-images
+      official_docs: "https://docs.openstack.org/kolla/latest/support_matrix.html#aarch64-images"
 
 optional_info:
     homepage_url: https://docs.openstack.org/kolla/latest/

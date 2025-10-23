@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://deeptools.readthedocs.io/en/latest/content/installation.html
+      official_docs: "https://deeptools.readthedocs.io/en/latest/content/installation.html"
 
 optional_info:
     homepage_url: https://github.com/deeptools/deepTools

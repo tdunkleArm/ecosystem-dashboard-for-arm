@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://dasher.wustl.edu/tinker/distribution/doc/sphinx/tinker/_build/html/text/installation.html#building-your-own-executables
+      official_docs: "https://dasher.wustl.edu/tinker/distribution/doc/sphinx/tinker/_build/html/text/installation.html#building-your-own-executables"
 
 optional_info:
     homepage_url: https://dasher.wustl.edu/tinker/

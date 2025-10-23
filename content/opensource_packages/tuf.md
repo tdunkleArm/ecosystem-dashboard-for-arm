@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://tuf-sechkova.readthedocs.io/en/latest/INSTALLATION.html
+      official_docs: "https://tuf-sechkova.readthedocs.io/en/latest/INSTALLATION.html"
 
 optional_info:
     homepage_url: https://theupdateframework.com/

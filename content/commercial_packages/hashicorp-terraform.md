@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/10/15
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/terraform/
-      vendor_announcement: https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-14-beta
-      official_docs: https://developer.hashicorp.com/terraform/tutorials#get-started
+      arm_content: "https://learn.arm.com/install-guides/terraform/"
+      vendor_announcement: "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-14-beta"
+      official_docs: "https://developer.hashicorp.com/terraform/tutorials#get-started"
 
 optional_info:
     homepage_url: https://developer.hashicorp.com/terraform

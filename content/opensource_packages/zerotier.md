@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/zerotier/ZeroTierOne#getting-started
+      official_docs: "https://github.com/zerotier/ZeroTierOne#getting-started"
 
 optional_info:
     homepage_url: https://zerotier.com/

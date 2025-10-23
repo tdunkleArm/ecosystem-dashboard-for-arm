@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: http://hmmer.org/documentation.html
+      official_docs: "http://hmmer.org/documentation.html"
 
 optional_info:
     homepage_url: http://hmmer.org/

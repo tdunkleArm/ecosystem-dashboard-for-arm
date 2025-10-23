@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-hana-cloud-in-september-2022/ba-p/13531811
-      official_docs: https://help.sap.com/docs/SAP_HANA_PLATFORM/2c1988d620e04368aa4103bf26f17727/8cd2fc57041f437e9dc95f07a5e48e4d.html
+      vendor_announcement: "https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-hana-cloud-in-september-2022/ba-p/13531811"
+      official_docs: "https://help.sap.com/docs/SAP_HANA_PLATFORM/2c1988d620e04368aa4103bf26f17727/8cd2fc57041f437e9dc95f07a5e48e4d.html"
 
 optional_info:
     homepage_url: https://www.sap.com

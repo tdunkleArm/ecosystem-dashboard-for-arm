@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://knox.apache.org/books/knox-2-1-0/user-guide.html#Quick+Start
+      official_docs: "https://knox.apache.org/books/knox-2-1-0/user-guide.html#Quick+Start"
 
 optional_info:
     homepage_url: https://knox.apache.org/

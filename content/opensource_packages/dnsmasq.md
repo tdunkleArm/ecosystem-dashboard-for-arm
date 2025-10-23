@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://thekelleys.org.uk/dnsmasq/docs/setup.html
+      official_docs: "https://thekelleys.org.uk/dnsmasq/docs/setup.html"
 
 optional_info:
     homepage_url: https://thekelleys.org.uk/dnsmasq/doc.html

@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/linux/post/tuning-glibc-malloc-on-arm-a-case-study
-      official_docs: https://sourceware.org/glibc/started.html
+          url: "https://blogs.oracle.com/linux/post/tuning-glibc-malloc-on-arm-a-case-study"
+      official_docs: "https://sourceware.org/glibc/started.html"
 
 optional_info:
   homepage_url: https://sourceware.org/glibc/

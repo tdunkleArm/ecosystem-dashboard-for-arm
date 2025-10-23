@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/junit-team/junit5?tab=readme-ov-file#building-from-source
+      official_docs: "https://github.com/junit-team/junit5?tab=readme-ov-file#building-from-source"
 
   - platform: Windows
     supported_minimum_version:

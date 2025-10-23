@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://salmon.readthedocs.io/en/latest/building.html#installation
+      official_docs: "https://salmon.readthedocs.io/en/latest/building.html#installation"
 
 optional_info:
     homepage_url: https://combine-lab.github.io/salmon/

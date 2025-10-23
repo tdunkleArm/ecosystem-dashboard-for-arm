@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://github.com/infracost/infracost/releases/tag/v0.9.18
-      official_docs: https://www.infracost.io/docs/#1-install-infracost
+      vendor_announcement: "https://github.com/infracost/infracost/releases/tag/v0.9.18"
+      official_docs: "https://www.infracost.io/docs/#1-install-infracost"
 
   - platform: Windows
     release_date_on_arm:

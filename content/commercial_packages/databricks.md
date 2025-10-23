@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.anaconda.com/blog/anaconda-aws-graviton2
-      official_docs: https://docs.anaconda.com/free/anaconda/install/index.html
+      vendor_announcement: "https://www.anaconda.com/blog/anaconda-aws-graviton2"
+      official_docs: "https://docs.anaconda.com/free/anaconda/install/index.html"
 
 optional_info:
     homepage_url: https://www.databricks.com/

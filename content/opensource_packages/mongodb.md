@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/mongodb/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/mongodb/"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/tuning-guides/mongoDB-tuning-guide
-      official_docs: https://www.mongodb.com/docs/manual/tutorial/install-mongodb-enterprise-on-ubuntu/
+          url: "https://amperecomputing.com/tuning-guides/mongoDB-tuning-guide"
+      official_docs: "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-enterprise-on-ubuntu/"
 
 optional_info:
   homepage_url: https://www.mongodb.com/

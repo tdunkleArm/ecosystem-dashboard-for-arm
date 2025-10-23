@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.appdynamics.com/appd/22.x/22.2/en/infrastructure-visibility/machine-agent/machine-agent-requirements-and-supported-environments
-      official_docs: https://docs.appdynamics.com/appd/22.x/22.2/en/infrastructure-visibility/machine-agent/install-the-machine-agent
+      vendor_announcement: "https://docs.appdynamics.com/appd/22.x/22.2/en/infrastructure-visibility/machine-agent/machine-agent-requirements-and-supported-environments"
+      official_docs: "https://docs.appdynamics.com/appd/22.x/22.2/en/infrastructure-visibility/machine-agent/install-the-machine-agent"
 
 optional_info:
     homepage_url: https://docs.appdynamics.com/appd/22.x/22.12/en/infrastructure-visibility/machine-agent

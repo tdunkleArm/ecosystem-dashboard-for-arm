@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://wiki.documentfoundation.org/Documentation/Install/Linux
+      official_docs: "https://wiki.documentfoundation.org/Documentation/Install/Linux"
 
   - platform: Windows
     supported_minimum_version:

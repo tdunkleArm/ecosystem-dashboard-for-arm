@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.7.0
       release_date: 2022/04/21
-      reference_content: https://docs.sensu.io/sensu-go/latest/release-notes/#670-release-notes
+      reference_content: "https://docs.sensu.io/sensu-go/latest/release-notes/#670-release-notes"
       rationale: This version fixed a bug that prevented accurate ARM version detection for sensu-agent.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.sensu.io/sensu-go/latest/operations/deploy-sensu/install-sensu/#install-sensuctl
+      official_docs: "https://docs.sensu.io/sensu-go/latest/operations/deploy-sensu/install-sensu/#install-sensuctl"
 
 optional_info:
     homepage_url: https://sensu.io/

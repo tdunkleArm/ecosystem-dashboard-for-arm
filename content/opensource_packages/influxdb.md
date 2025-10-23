@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.0.0
       release_date: 2024/09/04
-      reference_content: https://www.influxdata.com/blog/power-massive-time-series-workloads-with-influxdb-3.0/
+      reference_content: "https://www.influxdata.com/blog/power-massive-time-series-workloads-with-influxdb-3.0/"
       rationale: InfluxDB 3.0 introduces significant performance enhancements, including unlimited cardinality, high-speed data ingestion, real-time querying, and improved data compression.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/
-      official_docs: https://docs.influxdata.com/influxdb/v2/install/?t=Linux
+          url: "https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/"
+      official_docs: "https://docs.influxdata.com/influxdb/v2/install/?t=Linux"
 
 optional_info:
   homepage_url: https://docs.influxdata.com/influxdb/v2/

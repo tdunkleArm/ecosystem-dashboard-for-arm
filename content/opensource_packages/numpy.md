@@ -4,27 +4,44 @@ category: AI/ML
 description: NumPy is the fundamental package for array computing with Python.
 download_url: https://pypi.org/project/numpy/#files
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.19.0
-    release_date: 2020/06/21
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.19.0
+      release_date: 2020/06/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: "https://learn.arm.com/learning-paths/laptops-and-desktops/win_python/how-to-1/"
+      partner_content:
+      official_docs: "https://numpy.org/doc/stable/"
+
+  - platform: Windows
+    supported_minimum_version:
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs:
 
 optional_info:
     homepage_url: https://numpy.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/win_python/how-to-1/
-        partner_content:
-        official_docs: https://numpy.org/doc/stable/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

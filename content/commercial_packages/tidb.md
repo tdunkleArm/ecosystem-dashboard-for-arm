@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.pingcap.com/tidb/stable/release-3.0.1
-      official_docs: https://docs.pingcap.com/tidb-in-kubernetes/stable/deploy-cluster-on-arm64
+      vendor_announcement: "https://docs.pingcap.com/tidb/stable/release-3.0.1"
+      official_docs: "https://docs.pingcap.com/tidb-in-kubernetes/stable/deploy-cluster-on-arm64"
 
 optional_info:
     homepage_url: https://www.pingcap.com/

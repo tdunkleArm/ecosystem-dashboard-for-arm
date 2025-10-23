@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.18
       release_date: 2022/05/31
-      reference_content: https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/
+      reference_content: "https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/"
       rationale: These enhancements resulted in up to a 20% increase in performance for Go workloads on Arm-based servers.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/golang/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/golang/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://github.com/aws/aws-graviton-getting-started/blob/main/golang.md
-      official_docs: https://go.dev/blog/ports
+          url: "https://github.com/aws/aws-graviton-getting-started/blob/main/golang.md"
+      official_docs: "https://go.dev/blog/ports"
 
   - platforms: Windows
     supported_minimum_version:
@@ -32,15 +32,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.18
       release_date: 2022/05/31
-      reference_content: https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/
+      reference_content: "https://aws.amazon.com/blogs/compute/making-your-go-workloads-up-to-20-faster-with-go-1-18-and-aws-graviton/"
       rationale: These enhancements resulted in up to a 20% increase in performance for Go workloads on Arm-based servers.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/golang/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/golang/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://github.com/aws/aws-graviton-getting-started/blob/main/golang.md
-      official_docs: https://go.dev/blog/ports
+          url: "https://github.com/aws/aws-graviton-getting-started/blob/main/golang.md"
+      official_docs: "https://go.dev/blog/ports"
 
 optional_info:
   homepage_url: https://github.com/golang/go

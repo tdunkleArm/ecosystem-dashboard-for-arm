@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/c/introducing-suse-manager-5-0/
-      official_docs: https://documentation.suse.com/multi-linux-manager
+      vendor_announcement: "https://www.suse.com/c/introducing-suse-manager-5-0/"
+      official_docs: "https://documentation.suse.com/multi-linux-manager"
 
 optional_info:
     homepage_url: https://www.suse.com/products/multi-linux-manager/

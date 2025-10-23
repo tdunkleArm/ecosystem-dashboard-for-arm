@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.haproxy.com/documentation/haproxy-enterprise/release-notes/#version-2.4r1
-      official_docs: https://www.haproxy.com/documentation/haproxy-enterprise/getting-started/installation/linux/
+      vendor_announcement: "https://www.haproxy.com/documentation/haproxy-enterprise/release-notes/#version-2.4r1"
+      official_docs: "https://www.haproxy.com/documentation/haproxy-enterprise/getting-started/installation/linux/"
 
 optional_info:
     homepage_url: https://www.haproxy.com/

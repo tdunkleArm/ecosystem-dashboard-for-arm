@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/beanstalkd/beanstalkd#quick-start
+      official_docs: "https://github.com/beanstalkd/beanstalkd#quick-start"
 
 optional_info:
     homepage_url: https://beanstalkd.github.io/

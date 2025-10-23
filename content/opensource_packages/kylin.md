@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: hhttps://kylin.apache.org/docs/overview
+      official_docs: "https://kylin.apache.org/docs/overview"
 
 optional_info:
     homepage_url: https://kylin.apache.org/

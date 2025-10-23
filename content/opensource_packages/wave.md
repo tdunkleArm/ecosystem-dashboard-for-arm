@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.seqera.io/wave/get-started
+      official_docs: "https://docs.seqera.io/wave/get-started"
 
 optional_info:
     homepage_url: https://seqera.io/wave/

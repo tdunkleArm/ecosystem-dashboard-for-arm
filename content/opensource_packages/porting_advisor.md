@@ -4,29 +4,30 @@ category: HPC
 description: Porting Advisor is a tool or service designed to assist in adapting software applications for compatibility with different platforms or environments.
 download_url: https://github.com/arm-hpc/porting-advisor/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0
-    release_date: 2018/02/22
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0
+      release_date: 2018/02/22
+
+    arm_recommended_minimum_version:
+      version_number: 
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: "https://learn.arm.com/install-guides/porting-advisor/"
+      partner_content:
+        - display_name: Amazon AWS
+          url: "https://aws.amazon.com/blogs/compute/using-porting-advisor-for-graviton/"
+      official_docs: "https://github.com/arm-hpc/porting-advisor/blob/master/README.md"
 
 optional_info:
     homepage_url: https://github.com/arm-hpc/porting-advisor/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: https://learn.arm.com/install-guides/porting-advisor/
-        partner_content:
-          - display_name: Amazon AWS
-            url: https://aws.amazon.com/blogs/compute/using-porting-advisor-for-graviton/
-        official_docs: https://github.com/arm-hpc/porting-advisor/blob/master/README.md
-    arm_recommended_minimum_version:
-        version_number: 
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

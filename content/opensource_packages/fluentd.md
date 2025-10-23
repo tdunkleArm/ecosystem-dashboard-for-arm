@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/enabling-cloud-native-experience-across-a-diverse-and-secure-edge-ecosystem
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/enabling-cloud-native-experience-across-a-diverse-and-secure-edge-ecosystem"
       partner_content:
         - display_name: Amazon AWS
-          url: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-logs.html
-      official_docs: https://docs.fluentd.org/installation/install-by-gem
+          url: "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-logs.html"
+      official_docs: "https://docs.fluentd.org/installation/install-by-gem"
 
 optional_info:
   homepage_url: https://www.fluentd.org/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://redmine.lighttpd.net/projects/lighttpd/wiki/InstallFromSource
+      official_docs: "https://redmine.lighttpd.net/projects/lighttpd/wiki/InstallFromSource"
 
 optional_info:
     homepage_url: https://www.lighttpd.net/

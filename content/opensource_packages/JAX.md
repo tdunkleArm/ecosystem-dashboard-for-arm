@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content:
-      official_docs: https://jax.readthedocs.io/en/latest/installation.html
+      official_docs: "https://jax.readthedocs.io/en/latest/installation.html"
 
 optional_info:
     homepage_url: https://jax.readthedocs.io/en/latest/index.html

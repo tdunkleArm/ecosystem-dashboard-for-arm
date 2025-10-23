@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 5.3.0
       release_date: 2022/05/07
-      reference_content: https://github.com/jemalloc/jemalloc/releases/tag/5.3.0
+      reference_content: "https://github.com/jemalloc/jemalloc/releases/tag/5.3.0"
       rationale: This version improved CPU_SPINWAIT specifically on ARM systems.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-clickhouse-performance-up-to-26-by-using-aws-graviton3
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-clickhouse-performance-up-to-26-by-using-aws-graviton3"
       partner_content: 
-      official_docs: https://github.com/jemalloc/jemalloc/blob/dev/INSTALL.md
+      official_docs: "https://github.com/jemalloc/jemalloc/blob/dev/INSTALL.md"
 
 optional_info:
     homepage_url: https://jemalloc.net/

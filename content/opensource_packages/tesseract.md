@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/tesseract-ocr/tesseract/blob/main/INSTALL.GIT.md
+      official_docs: "https://github.com/tesseract-ocr/tesseract/blob/main/INSTALL.GIT.md"
 
 optional_info:
     homepage_url: https://tesseract-ocr.github.io/

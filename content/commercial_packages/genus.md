@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://www.cadence.com/en_US/home/resources/datasheets/genus-synthesis-solution-ds.html
+      official_docs: "https://www.cadence.com/en_US/home/resources/datasheets/genus-synthesis-solution-ds.html"
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/synthesis/genus-synthesis-solution.html

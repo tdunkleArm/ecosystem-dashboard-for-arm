@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 5.0
       release_date: 2022/03/29
-      reference_content: https://zulip.readthedocs.io/en/latest/overview/changelog.html#zulip-server-5-0
+      reference_content: "https://zulip.readthedocs.io/en/latest/overview/changelog.html#zulip-server-5-0"
       rationale: This version introduced comprehensive support for ARM architectures, added support for installation on ARM platforms (including Mac M1). The highlights include the removing support for Ubuntu 18.04, which no longer receives upstream security support for key Zulip dependencies, added web-public streams, new formatting buttons and improved UI. Kindly refer [here](https://blog.desdelinux.net/en/zulip-5-arrives-with-support-for-arm-redesign-improvements-and-more/) for more.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://zulip.readthedocs.io/en/latest/overview/readme.html
+      official_docs: "https://zulip.readthedocs.io/en/latest/overview/readme.html"
 
 optional_info:
     homepage_url: https://zulip.com/

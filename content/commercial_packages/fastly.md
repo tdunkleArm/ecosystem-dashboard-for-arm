@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.fastly.com/en/ngwaf/agent-release-notes#4300-2022-06-21
-      official_docs: https://docs.fastly.com/en/ngwaf/installing-the-agent-on-ubuntu
+      vendor_announcement: "https://docs.fastly.com/en/ngwaf/agent-release-notes#4300-2022-06-21"
+      official_docs: "https://docs.fastly.com/en/ngwaf/installing-the-agent-on-ubuntu"
 
   - platform: Windows
     release_date_on_arm:

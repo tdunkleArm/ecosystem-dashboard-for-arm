@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.0.0
       release_date: 2024/01/02
-      reference_content: https://www.dragonflydb.io/blog/2023-recap
+      reference_content: "https://www.dragonflydb.io/blog/2023-recap"
       rationale: Version v1.0.0 marked DragonflyDB's transition to a production-ready state, introducing replication support for high availability and enhancing performance across all supported architectures.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/dragonflydb/dragonfly/tree/main/docs/quick-start
+      official_docs: "https://github.com/dragonflydb/dragonfly/tree/main/docs/quick-start"
 
 optional_info:
     homepage_url: https://www.dragonflydb.io/

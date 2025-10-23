@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2021/05/25
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/oci-cli/
-      vendor_announcement: https://blogs.oracle.com/cloud-infrastructure/post/arm-based-cloud-computing-is-the-next-big-thing-introducing-arm-on-oracle-cloud-infrastructure 
-      official_docs: https://docs.oracle.com/en-us/iaas/Content/home.htm
+      arm_content: "https://learn.arm.com/install-guides/oci-cli/"
+      vendor_announcement: "https://blogs.oracle.com/cloud-infrastructure/post/arm-based-cloud-computing-is-the-next-big-thing-introducing-arm-on-oracle-cloud-infrastructure"
+      official_docs: "https://docs.oracle.com/en-us/iaas/Content/home.htm"
 
 optional_info:
     homepage_url: https://www.oracle.com/

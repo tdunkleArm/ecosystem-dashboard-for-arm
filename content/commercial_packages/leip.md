@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://latentai.com/blog/leip-optimize/
-      official_docs: https://leipdocs.latentai.io/home/content/guides/getting-started-with-leip-ami/
+      vendor_announcement: "https://latentai.com/blog/leip-optimize/"
+      official_docs: "https://leipdocs.latentai.io/home/content/guides/getting-started-with-leip-ami/"
 
 optional_info:
     homepage_url: https://latentai.com/products/

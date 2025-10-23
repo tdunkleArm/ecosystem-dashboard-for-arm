@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/google/re2/blob/main/README
+      official_docs: "https://github.com/google/re2/blob/main/README"
 
 optional_info:
     homepage_url: https://github.com/google/re2

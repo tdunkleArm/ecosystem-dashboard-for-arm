@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/suse-longhorn/support-matrix/all-supported-versions/longhorn-v1-4-x/
-      official_docs: https://documentation.suse.com/en-us/cloudnative/storage/
+      vendor_announcement: "https://www.suse.com/suse-longhorn/support-matrix/all-supported-versions/longhorn-v1-4-x/"
+      official_docs: "https://documentation.suse.com/en-us/cloudnative/storage/"
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/storage/

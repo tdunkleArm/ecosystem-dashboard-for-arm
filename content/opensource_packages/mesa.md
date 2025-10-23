@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://mesa.readthedocs.io/en/stable/#using-mesa
+      official_docs: "https://mesa.readthedocs.io/en/stable/#using-mesa"
 
   - platform: Windows
     supported_minimum_version:

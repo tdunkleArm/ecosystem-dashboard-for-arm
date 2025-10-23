@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.tenable.com/PDFs/EOL/Tenable_EOL_Release_Notes.pdf
-      official_docs: https://docs.tenable.com/Nessus.htm
+      vendor_announcement: "https://docs.tenable.com/PDFs/EOL/Tenable_EOL_Release_Notes.pdf"
+      official_docs: "https://docs.tenable.com/Nessus.htm"
 
 optional_info:
     homepage_url: https://www.tenable.com/products/nessus

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/elastic/connectors/blob/main/scripts/stack/README.md
+      official_docs: "https://github.com/elastic/connectors/blob/main/scripts/stack/README.md"
 
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/search-connectors

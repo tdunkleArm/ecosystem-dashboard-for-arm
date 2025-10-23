@@ -18,10 +18,10 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/zlib
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/zlib"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/opensource/improving-zlib-cloudflare-and-comparing-performance-with-other-zlib-forks/
+          url: "https://aws.amazon.com/blogs/opensource/improving-zlib-cloudflare-and-comparing-performance-with-other-zlib-forks/"
       official_docs: null
 
 optional_info:

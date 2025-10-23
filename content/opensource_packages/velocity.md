@@ -20,7 +20,7 @@ platforms:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://velocity.apache.org/engine/1.4/install.html
+      official_docs: "https://velocity.apache.org/engine/1.4/install.html"
 
 optional_info:
     homepage_url: https://velocity.apache.org/index.html

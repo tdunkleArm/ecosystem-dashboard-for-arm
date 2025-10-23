@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.erlang.org/doc/system/install.html
+      official_docs: "https://www.erlang.org/doc/system/install.html"
 
 optional_info:
     homepage_url: https://www.erlang.org/

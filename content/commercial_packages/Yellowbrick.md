@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://yellowbrick.com/blog/yellowbrick-engineering/introduction-to-our-engineering-blog/
-      official_docs: https://docs.yellowbrick.com/6.9.3/getting_started/getting_started_home.html
+      vendor_announcement: "https://yellowbrick.com/blog/yellowbrick-engineering/introduction-to-our-engineering-blog/"
+      official_docs: "https://docs.yellowbrick.com/6.9.3/getting_started/getting_started_home.html"
 
 optional_info:
     homepage_url: https://yellowbrick.com/

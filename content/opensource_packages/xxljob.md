@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.xuxueli.com/xxl-job/#2.2%20%E7%BC%96%E8%AF%91%E6%BA%90%E7%A0%81
+      official_docs: "https://www.xuxueli.com/xxl-job/#2.2%20%E7%BC%96%E8%AF%91%E6%BA%90%E7%A0%81"
 
 optional_info:
     homepage_url: https://www.xuxueli.com/xxl-job/

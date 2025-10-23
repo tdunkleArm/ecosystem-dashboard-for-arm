@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.epinio.io/installation/install_epinio
+      official_docs: "https://docs.epinio.io/installation/install_epinio"
 
 optional_info:
     homepage_url: https://epinio.io/

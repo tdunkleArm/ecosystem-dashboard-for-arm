@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://vector.dev/highlights/2019-11-19-arm-support-on-linux/
-      official_docs: https://vector.dev/docs/setup/installation/manual/from-source/
+      vendor_announcement: "https://vector.dev/highlights/2019-11-19-arm-support-on-linux/"
+      official_docs: "https://vector.dev/docs/setup/installation/manual/from-source/"
 
 optional_info:
     homepage_url: https://vector.dev/

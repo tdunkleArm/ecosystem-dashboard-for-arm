@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://docs.modular.com/mojo/manual/get-started
+      official_docs: "https://docs.modular.com/mojo/manual/get-started"
 
 optional_info:
     homepage_url: 

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://access.redhat.com/documentation/en-us/red_hat_jboss_web_server/6.0/html/installation_guide/assembly_installing-jws-on-rhel-from-archive-files_jboss_web_server_installation_guide
+      official_docs: "https://access.redhat.com/documentation/en-us/red_hat_jboss_web_server/6.0/html/installation_guide/assembly_installing-jws-on-rhel-from-archive-files_jboss_web_server_installation_guide"
 
 optional_info:
     homepage_url: https://access.redhat.com/products/red-hat-jboss-web-server

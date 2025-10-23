@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.litespeedtech.com/products/litespeed-web-server/download
-      official_docs: https://www.litespeedtech.com/docs/webserver/install
+      vendor_announcement: "https://www.litespeedtech.com/products/litespeed-web-server/download"
+      official_docs: "https://www.litespeedtech.com/docs/webserver/install"
 
 optional_info:
     homepage_url: https://www.litespeedtech.com/products/litespeed-web-server

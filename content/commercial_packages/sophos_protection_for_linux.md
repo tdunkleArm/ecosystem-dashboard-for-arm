@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.sophos.com/releasenotes/index.html?productGroupID=esg&productID=linux_protection&versionID=Agent
-      official_docs: https://docs.sophos.com/central/Customer/help/en-us/PeopleAndDevices/ProtectDevices/ServerProtection/SophosProtectionLinux/index.html
+      vendor_announcement: "https://docs.sophos.com/releasenotes/index.html?productGroupID=esg&productID=linux_protection&versionID=Agent"
+      official_docs: "https://docs.sophos.com/central/Customer/help/en-us/PeopleAndDevices/ProtectDevices/ServerProtection/SophosProtectionLinux/index.html"
 
 optional_info:
     homepage_url: https://www.sophos.com/en-us

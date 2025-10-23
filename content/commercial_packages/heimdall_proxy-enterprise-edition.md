@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.heimdalldata.com/release-notes
-      official_docs: https://demoa.heimdalldata.com/docs/basics/install.html
+      vendor_announcement: "https://www.heimdalldata.com/release-notes"
+      official_docs: "https://demoa.heimdalldata.com/docs/basics/install.html"
 
 optional_info:
     homepage_url: https://www.heimdalldata.com/

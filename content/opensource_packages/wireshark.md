@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://www.wireshark.org/docs/wsdg_html_chunked/
+      official_docs: "https://www.wireshark.org/docs/wsdg_html_chunked/"
 
 optional_info:
     homepage_url: https://www.wireshark.org/

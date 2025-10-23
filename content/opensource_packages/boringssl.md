@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/google/boringssl/blob/fips-20220613/BUILDING.md#building
+      official_docs: "https://github.com/google/boringssl/blob/fips-20220613/BUILDING.md#building"
 
 optional_info:
     homepage_url: https://boringssl.googlesource.com/boringssl

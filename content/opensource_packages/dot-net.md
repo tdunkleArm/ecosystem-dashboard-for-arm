@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 8.0
       release_date: 2023/10/03
-      reference_content: https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/
+      reference_content: "https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/"
       rationale: This version adds various conditional instruction processing optimizations, including conditional comparison, conditional increment, negation, and inversion, vector table lookup APIs, peephole optimizations, and more. Shows performance improvements of up to 50% in select cases.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/dotnet/
+      arm_content: "https://learn.arm.com/install-guides/dotnet/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/dotnet/powering-net-8-with-aws-graviton3-benchmarks/
-      official_docs: https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
+          url: "https://aws.amazon.com/blogs/dotnet/powering-net-8-with-aws-graviton3-benchmarks/"
+      official_docs: "https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 8.0
       release_date: 2023/10/03
-      reference_content: https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/
+      reference_content: "https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/"
       rationale: This version adds various conditional instruction processing optimizations, including conditional comparison, conditional increment, negation, and inversion, vector table lookup APIs, peephole optimizations, and more. Shows performance improvements of up to 50% in select cases.
 
     getting_started_resources:

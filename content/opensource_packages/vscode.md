@@ -20,7 +20,7 @@ platforms:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://code.visualstudio.com/docs/setup/linux
+      official_docs: "https://code.visualstudio.com/docs/setup/linux"
 
 optional_info:
     homepage_url: https://code.visualstudio.com/

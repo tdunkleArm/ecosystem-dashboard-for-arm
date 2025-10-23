@@ -14,17 +14,17 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 24.0.3
       release_date: 2023/07/06
-      reference_content: https://docs.docker.com/engine/release-notes/24.0/#2403
+      reference_content: "https://docs.docker.com/engine/release-notes/24.0/#2403"
       rationale: This release significantly reduces CPU and memory usage when populating the debug section of GET/ info, improving performance during diagnostics. Packaging updates include Go 1.20.5, Docker Compose v2.19.1, and Buildx v0.11.1, ensuring runtime and build tool improvements.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/docker/
+      arm_content: "https://learn.arm.com/install-guides/docker/"
       partner_content:
         - display_name: Alibaba Cloud
-          url: https://www.alibabacloud.com/blog/arm-container-applications-accelerating-development-and-testing_595802
+          url: "https://www.alibabacloud.com/blog/arm-container-applications-accelerating-development-and-testing_595802"
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/linux/post/oracle-container-runtime-for-docker-on-oracle-linux-for-arm
-      official_docs: https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/
+          url: "https://blogs.oracle.com/linux/post/oracle-container-runtime-for-docker-on-oracle-linux-for-arm"
+      official_docs: "https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/"
 
   - platform: Windows
     supported_minimum_version:
@@ -34,7 +34,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 24.0.3
       release_date: 2023/07/06
-      reference_content: https://docs.docker.com/engine/release-notes/24.0/#2403
+      reference_content: "https://docs.docker.com/engine/release-notes/24.0/#2403"
       rationale: This release significantly reduces CPU and memory usage when populating the debug section of GET/ info, improving performance during diagnostics. Packaging updates include Go 1.20.5, Docker Compose v2.19.1, and Buildx v0.11.1, ensuring runtime and build tool improvements.
 
     getting_started_resources:

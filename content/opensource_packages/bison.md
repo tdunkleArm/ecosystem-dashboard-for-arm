@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/akimd/bison?tab=readme-ov-file#installation
+      official_docs: "https://github.com/akimd/bison?tab=readme-ov-file#installation"
 
 optional_info:
     homepage_url: https://www.gnu.org/software/bison/

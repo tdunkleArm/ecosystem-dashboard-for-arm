@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/pyca/bcrypt/blob/main/README.rst
+      official_docs: "https://github.com/pyca/bcrypt/blob/main/README.rst"
 
 optional_info:
     homepage_url: https://pypi.org/project/bcrypt/

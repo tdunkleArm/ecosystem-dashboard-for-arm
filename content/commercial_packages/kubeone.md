@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://github.com/kubermatic/kubeone/blob/release/v1.0/CHANGELOG.md
-      official_docs: https://docs.kubermatic.com/kubeone/v1.0/getting_kubeone/
+      vendor_announcement: "https://github.com/kubermatic/kubeone/blob/release/v1.0/CHANGELOG.md"
+      official_docs: "https://docs.kubermatic.com/kubeone/v1.0/getting_kubeone/"
 
 optional_info:
     homepage_url: https://docs.kubermatic.com/kubeone/main/

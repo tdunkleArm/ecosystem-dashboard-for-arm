@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64"
       partner_content:
         - display_name: Linaro
-          url: https://static.linaro.org/connect/lvc21f/presentations/LVC21F-204.pdf
-      official_docs: https://gvisor.dev/docs/user_guide/compatibility/linux/arm64/
+          url: "https://static.linaro.org/connect/lvc21f/presentations/LVC21F-204.pdf"
+      official_docs: "https://gvisor.dev/docs/user_guide/compatibility/linux/arm64/"
 
 optional_info:
   homepage_url: https://gvisor.dev/

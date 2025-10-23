@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://unicode-org.github.io/icu/userguide/
+      official_docs: "https://unicode-org.github.io/icu/userguide/"
 
 optional_info:
     homepage_url: https://unicode-org.github.io/icu/

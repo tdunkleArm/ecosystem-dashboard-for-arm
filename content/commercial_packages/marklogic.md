@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://www.progress.com/marklogic/documentation
+      official_docs: "https://www.progress.com/marklogic/documentation"
 
 optional_info:
     homepage_url: https://www.progress.com/marklogic

@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/containers/implementing-runtime-security-in-amazon-eks-using-cncf-falco/
-      official_docs: https://falco.org/docs/install-operate/installation/
+          url: "https://aws.amazon.com/blogs/containers/implementing-runtime-security-in-amazon-eks-using-cncf-falco/"
+      official_docs: "https://falco.org/docs/install-operate/installation/"
 
 optional_info:
   homepage_url: https://falco.org/

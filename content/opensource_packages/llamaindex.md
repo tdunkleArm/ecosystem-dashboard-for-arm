@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.llamaindex.ai/en/stable/
+      official_docs: "https://docs.llamaindex.ai/en/stable/"
 
 optional_info:
     homepage_url: https://www.llamaindex.ai/open-source

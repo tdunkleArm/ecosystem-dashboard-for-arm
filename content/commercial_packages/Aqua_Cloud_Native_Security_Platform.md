@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://blog.aquasec.com/aqua-support-aws-graviton
-      official_docs: https://www.aquasec.com/demo/
+      vendor_announcement: "https://blog.aquasec.com/aqua-support-aws-graviton"
+      official_docs: "https://www.aquasec.com/demo/"
 
   - platform: Windows
     release_date_on_arm:

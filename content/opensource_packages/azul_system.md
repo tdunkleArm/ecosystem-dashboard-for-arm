@@ -13,7 +13,7 @@ platforms_supported:
 
     getting_started_resources:
       - display_name: Official documents
-        url: https://docs.azul.com/core/
+        url: "https://docs.azul.com/core/"
 
 optional_info:
   homepage_url: https://www.azul.com/

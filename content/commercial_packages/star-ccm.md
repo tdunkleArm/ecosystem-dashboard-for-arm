@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://blogs.sw.siemens.com/simcenter/simcenter-star-ccm-2302-released/
+      vendor_announcement: "https://blogs.sw.siemens.com/simcenter/simcenter-star-ccm-2302-released/"
       official_docs: 
 
 optional_info:

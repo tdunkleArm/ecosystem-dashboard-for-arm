@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 8.0.35.31
       release_date: 2024/09/20
-      reference_content: https://docs.percona.com/percona-xtrabackup/8.0/release-notes/8.0/8.0.35-31.0.upd.html
+      reference_content: "https://docs.percona.com/percona-xtrabackup/8.0/release-notes/8.0/8.0.35-31.0.upd.html"
       rationale: In this version, Percona XtraBackup includes the addition of arm64.deb packages in Percona Software Downloads.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.percona.com/percona-xtrabackup/8.0/installation.html
+      official_docs: "https://docs.percona.com/percona-xtrabackup/8.0/installation.html"
 
 optional_info:
     homepage_url: https://www.percona.com/mysql/software/percona-xtrabackup

@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/openeuler-mirror/bishengjdk-8/blob/master/README-builds.md
+      official_docs: "https://github.com/openeuler-mirror/bishengjdk-8/blob/master/README-builds.md"
 
 optional_info:
     homepage_url: https://www.openeuler.org/en/other/projects/bishengjdk/

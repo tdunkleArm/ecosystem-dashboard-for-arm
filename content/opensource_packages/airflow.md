@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://airflow.apache.org/docs/apache-airflow/stable/installation/
+      official_docs: "https://airflow.apache.org/docs/apache-airflow/stable/installation/"
 
 optional_info:
     homepage_url: https://airflow.apache.org/

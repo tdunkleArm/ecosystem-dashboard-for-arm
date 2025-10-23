@@ -18,11 +18,11 @@ platforms_supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/containers/all-you-need-to-know-about-moving-to-containerd-on-amazon-eks/
-      official_docs: https://containerd.io/docs/getting-started/
+          url: "https://aws.amazon.com/blogs/containers/all-you-need-to-know-about-moving-to-containerd-on-amazon-eks/"
+      official_docs: "https://containerd.io/docs/getting-started/"
 
 optional_info:
   homepage_url: https://containerd.io/

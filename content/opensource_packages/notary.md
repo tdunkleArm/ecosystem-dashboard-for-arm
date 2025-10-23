@@ -4,26 +4,28 @@ category: Security applications
 description: Notary is a project that allows anyone to have trust over arbitrary collections of data.
 download_url: https://github.com/notaryproject/notary/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.3
-    release_date: 2016/05/12
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.3
+      release_date: 2016/05/12
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://github.com/notaryproject/notary/blob/master/docs/getting_started.md"
 
 optional_info:
     homepage_url: https://notaryproject.dev/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/notaryproject/notary/blob/master/docs/getting_started.md
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

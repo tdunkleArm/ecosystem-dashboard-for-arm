@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://clear.ml/docs/latest/docs/
+      official_docs: "https://clear.ml/docs/latest/docs/"
 
 optional_info:
     homepage_url: https://clear.ml/enterprise

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.linuxfromscratch.org/blfs/view/git/x/libxcb.html
+      official_docs: "https://www.linuxfromscratch.org/blfs/view/git/x/libxcb.html"
 
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/xorg/lib/libxcb

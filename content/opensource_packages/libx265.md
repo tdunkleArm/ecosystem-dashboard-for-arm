@@ -14,17 +14,17 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.6
       release_date: 2024/04/04
-      reference_content: https://x265.readthedocs.io/en/master/releasenotes.html#version-3-6
+      reference_content: "https://x265.readthedocs.io/en/master/releasenotes.html#version-3-6"
       rationale: This version introduced Arm64 NEON optimizations, with several performance-critical C functions rewritten for AArch64. These changes delivered ~20% overall performance improvement.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/reduce-h-265-high-res-encoding-costs-by-over-80-with-aws-graviton2-1207706725
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/reduce-h-265-high-res-encoding-costs-by-over-80-with-aws-graviton2-1207706725"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/tuning-guides/FFmpeg-Tuning-Guide
+          url: "https://amperecomputing.com/tuning-guides/FFmpeg-Tuning-Guide"
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/
-      official_docs: https://bitbucket.org/multicoreware/x265_git/wiki/Home
+          url: "https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/"
+      official_docs: "https://bitbucket.org/multicoreware/x265_git/wiki/Home"
 
   - platform: Windows
     supported_minimum_version:
@@ -34,7 +34,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.6
       release_date: 2024/04/04
-      reference_content: https://x265.readthedocs.io/en/master/releasenotes.html#version-3-6
+      reference_content: "https://x265.readthedocs.io/en/master/releasenotes.html#version-3-6"
       rationale: This version introduced Arm64 NEON optimizations, with several performance-critical C functions rewritten for AArch64. These changes delivered ~20% overall performance improvement.
 
     getting_started_resources:

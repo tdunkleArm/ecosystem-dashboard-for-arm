@@ -4,26 +4,28 @@ category: Crypto
 description: Python-Xmlsec is a python binding for the XML Security Library (Xmlsec).
 download_url: https://pypi.org/project/xmlsec/#history
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.3.14
-    release_date: 2024/04/18
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.3.14
+      release_date: 2024/04/18
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://xmlsec.readthedocs.io/en/stable/install.html#installation"
 
 optional_info:
     homepage_url: https://xmlsec.readthedocs.io/en/stable/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://xmlsec.readthedocs.io/en/stable/install.html#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

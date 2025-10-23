@@ -4,26 +4,28 @@ category: Networking
 description: Open vSwitch (OVS) is an open-source, software-based virtual switch used for network automation and management in virtualized and cloud environments.
 download_url: https://www.openvswitch.org/download/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 2.12.4
-    release_date: 2021/10/21
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 2.12.4
+      release_date: 2021/10/21
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/open-vswitch-with-dpdk-on-arm-build-and-install-from-source"
+      partner_content:
+      official_docs: "https://docs.openvswitch.org/en/latest/intro/install/general/"
 
 optional_info:
     homepage_url: https://www.openvswitch.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/open-vswitch-with-dpdk-on-arm-build-and-install-from-source
-        partner_content:
-        official_docs: https://docs.openvswitch.org/en/latest/intro/install/general/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/Dfam-consortium/RepeatAfterMe#repeatafterme
+      official_docs: "https://github.com/Dfam-consortium/RepeatAfterMe#repeatafterme"
 
 optional_info:
     homepage_url: https://github.com/Dfam-consortium/RepeatAfterMe

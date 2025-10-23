@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://cribl.io/news/cribl-achieves-aws-graviton-ready-designation/
-      official_docs: https://cribl.io/blog/comparing-intel-amd-and-graviton2/
+      vendor_announcement: "https://cribl.io/news/cribl-achieves-aws-graviton-ready-designation/"
+      official_docs: "https://cribl.io/blog/comparing-intel-amd-and-graviton2/"
 
 optional_info:
     homepage_url: https://cribl.io/stream/

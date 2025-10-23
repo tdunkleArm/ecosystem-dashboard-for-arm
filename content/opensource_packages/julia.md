@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.11.0
       release_date: 2024/10/08
-      reference_content: https://julialang.org/blog/2024/10/julia-1.11-highlights/
+      reference_content: "https://julialang.org/blog/2024/10/julia-1.11-highlights/"
       rationale: Julia version 1.11.0 introduced several improvements, including adding a lower level Memory type and a new public keyword to signal safe public APIs.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://docs.julialang.org/en/v1/
+      official_docs: "https://docs.julialang.org/en/v1/"
 
 optional_info:
     homepage_url: https://julialang.org/

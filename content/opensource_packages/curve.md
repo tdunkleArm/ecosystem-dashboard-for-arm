@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://gist.github.com/h0hmj/f8764c082c9ecd03c074efe557cf3048
+      official_docs: "https://gist.github.com/h0hmj/f8764c082c9ecd03c074efe557cf3048"
 
 optional_info:
     homepage_url: https://www.opencurve.io/Curve/HOME

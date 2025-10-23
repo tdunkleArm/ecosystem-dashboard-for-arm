@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://git-scm.com/docs
+      official_docs: "https://git-scm.com/docs"
 
   - platforms: Windows
     supported_minimum_version:

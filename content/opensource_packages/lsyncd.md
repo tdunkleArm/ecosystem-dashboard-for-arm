@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.3.0
       release_date: 2022/06/08
-      reference_content: http://github.com/lsyncd/lsyncd/releases/tag/v2.3.0
+      reference_content: "http://github.com/lsyncd/lsyncd/releases/tag/v2.3.0"
       rationale: This release introduces several new features including nix flake support, crontab integration, relative executable paths, and support for tunnel commands and batchSizeLimit. A new -onepass option allows Lsyncd to exit after an initial sync, useful for one-time operations. Important fixes include resolving a filesystem injection vulnerability in direct mode, enhanced SSH argument handling, and improved Lua version compatibility in CMake. Other improvements include better support for AWS S3 syncing, rsync exclusions, and copy_unsafe_links exposure.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/lsyncd/lsyncd/blob/master/INSTALL
+      official_docs: "https://github.com/lsyncd/lsyncd/blob/master/INSTALL"
 
 optional_info:
     homepage_url: https://github.com/lsyncd/lsyncd

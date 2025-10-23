@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.jetbrains.com/help/teamcity/2021.1/teamcity-2021-1-release-notes.html
-      official_docs: https://www.jetbrains.com/help/teamcity/quick-setup-guide.html#TeamCity+First+Start
+      vendor_announcement: "https://www.jetbrains.com/help/teamcity/2021.1/teamcity-2021-1-release-notes.html"
+      official_docs: "https://www.jetbrains.com/help/teamcity/quick-setup-guide.html#TeamCity+First+Start"
 
 optional_info:
     homepage_url: https://www.jetbrains.com/teamcity/

@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/electron/how-to-1/
+      arm_content: "https://learn.arm.com/learning-paths/laptops-and-desktops/electron/how-to-1/"
       partner_content: 
-      official_docs: https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
+      official_docs: "https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app"
 
   - platform: Windows
     supported_minimum_version:
@@ -34,7 +34,7 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/electron/how-to-1/
+      arm_content: "https://learn.arm.com/learning-paths/laptops-and-desktops/electron/how-to-1/"
       partner_content: 
       official_docs:
 

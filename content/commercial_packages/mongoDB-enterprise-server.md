@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2016/11/29
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/mongodb-performance-on-aws-with-the-arm-graviton2
-      vendor_announcement: https://www.mongodb.com/docs/v5.2/release-notes/3.4/
-      official_docs: https://www.mongodb.com/docs/
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/mongodb-performance-on-aws-with-the-arm-graviton2"
+      vendor_announcement: "https://www.mongodb.com/docs/v5.2/release-notes/3.4/"
+      official_docs: "https://www.mongodb.com/docs/"
 
 optional_info:
     homepage_url: https://www.mongodb.com/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.flatcar.org/releases#release-3033.2.0
-      official_docs: https://www.flatcar.org/docs/latest/installing/cloud/aws-ec2/
+      vendor_announcement: "https://www.flatcar.org/releases#release-3033.2.0"
+      official_docs: "https://www.flatcar.org/docs/latest/installing/cloud/aws-ec2/"
 
 optional_info:
     homepage_url: https://www.flatcar.org/

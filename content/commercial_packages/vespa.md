@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://blog.vespa.ai/preview-of-vespa-on-arm64/
-      official_docs: https://cloud.vespa.ai/en/getting-started
+      vendor_announcement: "https://blog.vespa.ai/preview-of-vespa-on-arm64/"
+      official_docs: "https://cloud.vespa.ai/en/getting-started"
 
 optional_info:
     homepage_url: https://vespa.ai/

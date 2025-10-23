@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://pyropus.ca./software/memtester/
+      official_docs: "https://pyropus.ca./software/memtester/"
 
 optional_info:
     homepage_url: https://pyropus.ca./software/memtester/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.azul.com/newsroom/azul-platform-prime-now-supports-64-bit-arm-including-aws-graviton-processors/
-      official_docs: https://docs.azul.com/prime/prime-quick-start-apt
+      vendor_announcement: "https://www.azul.com/newsroom/azul-platform-prime-now-supports-64-bit-arm-including-aws-graviton-processors/"
+      official_docs: "https://docs.azul.com/prime/prime-quick-start-apt"
 
 optional_info:
     homepage_url: https://www.azul.com/downloads/#prime

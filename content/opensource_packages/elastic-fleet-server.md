@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/docs/reference/fleet/add-fleet-server-cloud
+      official_docs: "https://www.elastic.co/docs/reference/fleet/add-fleet-server-cloud"
 
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/fleet/fleet-server

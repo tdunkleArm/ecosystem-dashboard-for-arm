@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.sentinelone.com/press/sentinelone-announces-service-ready-designation-for-aws-graviton/
-      official_docs: https://www.sentinelone.com/platform/how-singularity-xdr-works/
+      vendor_announcement: "https://www.sentinelone.com/press/sentinelone-announces-service-ready-designation-for-aws-graviton/"
+      official_docs: "https://www.sentinelone.com/platform/how-singularity-xdr-works/"
 
 optional_info:
     homepage_url: https://www.sentinelone.com/resources/singularity-xdr/

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: Linux_5.17
       release_date: 2022/03/20
-      reference_content: https://kernelnewbies.org/Linux_5.17
+      reference_content: "https://kernelnewbies.org/Linux_5.17"
       rationale: In this release, NV trap forwarding infrastructure was added to handle non-virtual exceptions in Arm64 virtualization.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.kernel.org/virt/kvm/arm/index.html
+      official_docs: "https://docs.kernel.org/virt/kvm/arm/index.html"
 
 optional_info:
     homepage_url: https://docs.kernel.org/virt/kvm/index.html

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.profiling.ydata.ai/latest/getting-started/installation/
+      official_docs: "https://docs.profiling.ydata.ai/latest/getting-started/installation/"
 
 optional_info:
     homepage_url: https://docs.profiling.ydata.ai/latest/

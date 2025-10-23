@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/popgenmethods/smcpp#build-instructions
+      official_docs: "https://github.com/popgenmethods/smcpp#build-instructions"
 
 optional_info:
     homepage_url: https://github.com/popgenmethods/smcpp

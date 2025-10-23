@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/emsec/hal/wiki/Building-HAL
+      official_docs: "https://github.com/emsec/hal/wiki/Building-HAL"
 
 optional_info:
     homepage_url: https://source.android.com/docs/core/architecture/hal

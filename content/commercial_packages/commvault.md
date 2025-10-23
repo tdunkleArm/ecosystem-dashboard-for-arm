@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://documentation.commvault.com/2023e/essential/quick_start_guide.html
+      official_docs: "https://documentation.commvault.com/2023e/essential/quick_start_guide.html"
 
 optional_info:
     homepage_url: https://www.commvault.com/

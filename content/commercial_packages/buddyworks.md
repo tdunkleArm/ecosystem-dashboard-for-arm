@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://buddy.works/blog/introducing-arm-runners
-      official_docs: https://buddy.works/docs/pipelines/introduction/creating-pipeline/pipeline-ui
+      vendor_announcement: "https://buddy.works/blog/introducing-arm-runners"
+      official_docs: "https://buddy.works/docs/pipelines/introduction/creating-pipeline/pipeline-ui"
 
   - platform: Windows
     release_date_on_arm:

@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/keras-core/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/keras-core/"
       partner_content:
-      official_docs: https://keras.io/getting_started/
+      official_docs: "https://keras.io/getting_started/"
 
 optional_info:
     homepage_url: https://keras.io/

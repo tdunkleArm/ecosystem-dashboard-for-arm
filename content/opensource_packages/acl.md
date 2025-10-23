@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/acl-dev/acl/tree/master?tab=readme-ov-file#31-compiling-acl-on-different-platforms
+      official_docs: "https://github.com/acl-dev/acl/tree/master?tab=readme-ov-file#31-compiling-acl-on-different-platforms"
 
 optional_info:
     homepage_url: https://acl-dev.cn/

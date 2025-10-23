@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 6.3
       release_date: 2023/03/21
-      reference_content: https://aerospike.com/blog/aerospike-database-6-3-smoother-operations-at-scale/
+      reference_content: "https://aerospike.com/blog/aerospike-database-6-3-smoother-operations-at-scale/"
       rationale: This version enhances Arm64 support with LuaJIT reintroduced, improving UDF performance on Arm servers. However, it also brings breaking changes - support for Debian 10 on Arm64 is discontinued, and Ubuntu 18.04 is removed across all platforms.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://aerospike.com/docs/server/operations/install/linux/ubuntu
+      official_docs: "https://aerospike.com/docs/server/operations/install/linux/ubuntu"
 
 optional_info:
     homepage_url: https://aerospike.com/

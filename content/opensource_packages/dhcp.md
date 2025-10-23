@@ -18,9 +18,9 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/documentation/dui0102/g/using-the-dhcp-utility
+      arm_content: "https://developer.arm.com/documentation/dui0102/g/using-the-dhcp-utility"
       partner_content: 
-      official_docs: https://gitlab.isc.org/isc-projects/dhcp/-/blob/master/README?ref_type=heads
+      official_docs: "https://gitlab.isc.org/isc-projects/dhcp/-/blob/master/README?ref_type=heads"
 
   - platform: Windows
     supported_minimum_version:

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://gitlab.freedesktop.org/freetype/freetype/-/blob/master/README.git 
+      official_docs: "https://gitlab.freedesktop.org/freetype/freetype/-/blob/master/README.git"
 
 optional_info:
     homepage_url: https://freetype.org/

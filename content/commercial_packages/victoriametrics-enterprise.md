@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.victoriametrics.com/operator/changelog/?highlight=arm#v021
-      official_docs: https://docs.victoriametrics.com/#arm-build
+      vendor_announcement: "https://docs.victoriametrics.com/operator/changelog/?highlight=arm#v021"
+      official_docs: "https://docs.victoriametrics.com/#arm-build"
 
 optional_info:
     homepage_url: https://docs.victoriametrics.com/

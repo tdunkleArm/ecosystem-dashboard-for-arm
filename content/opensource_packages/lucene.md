@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 10.2.0
       release_date: 2025/04/10
-      reference_content: https://github.com/apache/lucene/releases/tag/releases%2Flucene%2F10.2.0
+      reference_content: "https://github.com/apache/lucene/releases/tag/releases%2Flucene%2F10.2.0"
       rationale: This version delivers major search-time performance gains through enhanced BKD tree encoding, vectorized query processing, and bit set–based postings list storage. Key optimizations include merging dense clause matches via bitwise ANDs and the integration of the ACORN-1 algorithm for vector search. Benchmark tests show query speedups ranging from 38% to 5×, particularly for term and range queries. Indexing behavior was tuned by increasing the default segment floor size to improve query efficiency. New features include TopDocs RRF fusion and SeededKnnVectorQuery for better vector entry points. Additional enhancements bring support for Java 24’s vector API, Unicode improvements in RegexpQuery, and 25% faster HNSW graph indexing.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/apache/lucene#building
+      official_docs: "https://github.com/apache/lucene#building"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 10.2.0
       release_date: 2025/04/10
-      reference_content: https://github.com/apache/lucene/releases/tag/releases%2Flucene%2F10.2.0
+      reference_content: "https://github.com/apache/lucene/releases/tag/releases%2Flucene%2F10.2.0"
       rationale: This version delivers major search-time performance gains through enhanced BKD tree encoding, vectorized query processing, and bit set–based postings list storage. Key optimizations include merging dense clause matches via bitwise ANDs and the integration of the ACORN-1 algorithm for vector search. Benchmark tests show query speedups ranging from 38% to 5×, particularly for term and range queries. Indexing behavior was tuned by increasing the default segment floor size to improve query efficiency. New features include TopDocs RRF fusion and SeededKnnVectorQuery for better vector entry points. Additional enhancements bring support for Java 24’s vector API, Unicode improvements in RegexpQuery, and 25% faster HNSW graph indexing.
 
     getting_started_resources:

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 15 SP5
       release_date: 2025/07/18
-      reference_content: https://www.suse.com/c/simple-vm-management-on-ampere-infrastructure/
+      reference_content: "https://www.suse.com/c/simple-vm-management-on-ampere-infrastructure/"
       rationale: SUSE Virtualization 1.5 brings full GA support for VM management on Arm64-based Kubernetes clusters running on Ampere infrastructure. With SLES 15 SP5 as the underlying OS, users gain not only compatibility but also efficiency—thanks to its support for 64K kernel page sizes. This combination provides a high-performance foundation for virtualization on Arm64, making SUSE Virtualization 1.5 both production-ready and cloud-native friendly.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://documentation.suse.com/sles/15-SP5/
+      official_docs: "https://documentation.suse.com/sles/15-SP5/"
 
 optional_info:
     homepage_url: https://www.suse.com/

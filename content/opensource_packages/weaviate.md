@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.21.0
       release_date: 2023/08/22
-      reference_content: https://weaviate.io/blog/weaviate-1-21-release#multiprocessing-speedups-for-arm64-processors
+      reference_content: "https://weaviate.io/blog/weaviate-1-21-release#multiprocessing-speedups-for-arm64-processors"
       rationale: This version uses simd multiprocessing instructions for faster distance calculations on ARM64 processors, which results in significant performance (up to 40%) improvements, especially for large data sets and high-dimensional embeddings.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://weaviate.io/developers/weaviate/installation
+      official_docs: "https://weaviate.io/developers/weaviate/installation"
 
 optional_info:
     homepage_url: https://weaviate.io/developers/weaviate/

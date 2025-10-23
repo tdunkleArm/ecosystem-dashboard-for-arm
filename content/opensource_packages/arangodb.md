@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 3.11
       release_date: 2023/05/24
-      reference_content: https://docs.arangodb.com/3.11/release-notes/version-3.11/whats-new-in-3-11/
+      reference_content: "https://docs.arangodb.com/3.11/release-notes/version-3.11/whats-new-in-3-11/"
       rationale: This version involves improved performance and reporting for AQL queries, new caching features for indexed data, improvements to the web interface, etc.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.arangodb.com/3.11/operations/installation/#linux
+      official_docs: "https://docs.arangodb.com/3.11/operations/installation/#linux"
 
 optional_info:
     homepage_url: https://arangodb.com/

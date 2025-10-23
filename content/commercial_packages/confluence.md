@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://community.atlassian.com/t5/Data-Center-discussions/Atlassian-Data-Center-Container-Images-Now-on-ARM64/td-p/2731758
+      vendor_announcement: "https://community.atlassian.com/t5/Data-Center-discussions/Atlassian-Data-Center-Container-Images-Now-on-ARM64/td-p/2731758"
       official_docs: https://atlassian.github.io/data-center-helm-charts/containers/CONFLUENCE/
 
 optional_info:

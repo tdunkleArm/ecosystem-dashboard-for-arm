@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/tcltk/tcl/tree/main/unix#readme
+      official_docs: "https://github.com/tcltk/tcl/tree/main/unix#readme"
 
 optional_info:
     homepage_url: https://www.tcl-lang.org/

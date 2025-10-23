@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://thrift.apache.org/docs/BuildingFromSource
+      official_docs: "https://thrift.apache.org/docs/BuildingFromSource"
 
 optional_info:
     homepage_url: https://thrift.apache.org/

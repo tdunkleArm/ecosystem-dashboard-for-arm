@@ -4,26 +4,28 @@ category: Content mgmt platforms
 description: Postman is a platform for managing and building APIs. It allows users to manage different environments (e.g., development, staging, production) for their APIs.
 download_url: https://www.postman.com/downloads/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 10.24.26
-    release_date: 2024/06/03
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 10.24.26
+      release_date: 2024/06/03
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://learning.postman.com/docs/getting-started/installation/installation-and-updates/#install-postman-on-linux"
 
 optional_info:
     homepage_url: https://www.postman.com/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://learning.postman.com/docs/getting-started/installation/installation-and-updates/#install-postman-on-linux
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

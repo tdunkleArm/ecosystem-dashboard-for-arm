@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.0.0
       release_date: 2025/03/24
-      reference_content: https://flink.apache.org/2025/03/24/apache-flink-2.0.0-a-new-era-of-real-time-data-processing/
+      reference_content: "https://flink.apache.org/2025/03/24/apache-flink-2.0.0-a-new-era-of-real-time-data-processing/"
       rationale: This release introduced Disaggregated State Management architecture, which enables more efficient resource utilization in cloud-native environments, ensuring high-performance real-time processing while minimizing resource overhead.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/flink/setup_flink/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/flink/setup_flink/"
       partner_content:
-      official_docs: https://nightlies.apache.org/flink/flink-docs-stable/docs/try-flink/local_installation/
+      official_docs: "https://nightlies.apache.org/flink/flink-docs-stable/docs/try-flink/local_installation/"
 
 optional_info:
     homepage_url: https://flink.apache.org/

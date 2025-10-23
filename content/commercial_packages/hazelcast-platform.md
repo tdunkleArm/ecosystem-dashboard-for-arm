@@ -12,16 +12,16 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0
-      official_docs: https://docs.hazelcast.com/hazelcast/5.4/getting-started/install-hazelcast
+      vendor_announcement: "https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0"
+      official_docs: "https://docs.hazelcast.com/hazelcast/5.4/getting-started/install-hazelcast"
 
   - platform: Windows
     release_date_on_arm:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.hazelcast.com/hazelcast/5.3/release-notes/5-3-0
-      official_docs: https://docs.hazelcast.com/hazelcast/5.4/getting-started/install-hazelcast
+      vendor_announcement:
+      official_docs:
 
 optional_info:
     homepage_url: https://hazelcast.com

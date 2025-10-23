@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://prometheus.io/docs/alerting/latest/configuration/
+      official_docs: "https://prometheus.io/docs/alerting/latest/configuration/"
 
 optional_info:
     homepage_url: https://prometheus.io/docs/alerting/latest/alertmanager/

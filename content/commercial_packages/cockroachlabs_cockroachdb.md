@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.cockroachlabs.com/docs/releases/v22.2#v22-2-0-alpha-1-build-changes
-      official_docs: https://www.cockroachlabs.com/docs/v24.1/install-cockroachdb-linux
+      vendor_announcement: "https://www.cockroachlabs.com/docs/releases/v22.2#v22-2-0-alpha-1-build-changes"
+      official_docs: "https://www.cockroachlabs.com/docs/v24.1/install-cockroachdb-linux"
 
 optional_info:
     homepage_url: https://www.cockroachlabs.com/

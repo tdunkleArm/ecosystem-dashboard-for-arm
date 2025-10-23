@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/swig/swig/blob/master/Doc/Manual/Preface.html
+      official_docs: "https://github.com/swig/swig/blob/master/Doc/Manual/Preface.html"
 
 optional_info:
     homepage_url: https://www.swig.org/

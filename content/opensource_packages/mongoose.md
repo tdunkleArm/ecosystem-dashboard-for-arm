@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/management/archive/cn/b/blog/posts/mongoose
+      arm_content: "https://community.arm.com/management/archive/cn/b/blog/posts/mongoose"
       partner_content:
-      official_docs: https://mongoosejs.com/docs/index.html
+      official_docs: "https://mongoosejs.com/docs/index.html"
 
 optional_info:
     homepage_url: https://github.com/Automattic/mongoose

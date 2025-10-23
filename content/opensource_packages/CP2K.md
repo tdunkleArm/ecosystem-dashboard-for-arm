@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 2023.1
       release_date: 2023/01/01
-      reference_content: https://github.com/cp2k/cp2k/releases/tag/v2023.1
+      reference_content: "https://github.com/cp2k/cp2k/releases/tag/v2023.1"
       rationale: This version fixes regression test failures on the Arm (Aarch64) platform.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/cp2k/cp2k/blob/master/INSTALL.md
+      official_docs: "https://github.com/cp2k/cp2k/blob/master/INSTALL.md"
 
 optional_info:
     homepage_url: https://www.cp2k.org/

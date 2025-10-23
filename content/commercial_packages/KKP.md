@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.kubermatic.com/blog/kubermatic-kubernetes-platform-2-16-is-here/
-      official_docs: https://docs.kubermatic.com/kubermatic/v2.25/installation/
+      vendor_announcement: "https://www.kubermatic.com/blog/kubermatic-kubernetes-platform-2-16-is-here/"
+      official_docs: "https://docs.kubermatic.com/kubermatic/v2.25/installation/"
 
 optional_info:
     homepage_url: https://docs.kubermatic.com/kubermatic/v2.25/

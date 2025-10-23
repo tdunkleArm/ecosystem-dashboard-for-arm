@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/liferay/senna.js?tab=readme-ov-file#install
+      official_docs: "https://github.com/liferay/senna.js?tab=readme-ov-file#install"
 
 optional_info:
     homepage_url: https://sennajs.com/

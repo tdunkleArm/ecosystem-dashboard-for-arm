@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://spinnaker.io/docs/guides/spin/
+      official_docs: "https://spinnaker.io/docs/guides/spin/"
 
 optional_info:
   homepage_url: https://spinnaker.io/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://surfer.nmr.mgh.harvard.edu/fswiki//FS7_linux
+      official_docs: "https://surfer.nmr.mgh.harvard.edu/fswiki//FS7_linux"
 
 optional_info:
     homepage_url: https://surfer.nmr.mgh.harvard.edu/

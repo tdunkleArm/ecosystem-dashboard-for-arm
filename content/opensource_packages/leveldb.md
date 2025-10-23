@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/google/leveldb?tab=readme-ov-file#building
+      official_docs: "https://github.com/google/leveldb?tab=readme-ov-file#building"
 
 optional_info:
     homepage_url: https://dbdb.io/db/leveldb

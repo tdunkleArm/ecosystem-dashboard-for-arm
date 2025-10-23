@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/ndevilla/iniparser/tree/v4.2.2?tab=readme-ov-file#ii---building-project
+      official_docs: "https://github.com/ndevilla/iniparser/tree/v4.2.2?tab=readme-ov-file#ii---building-project"
 
   - platform: Windows
     supported_minimum_version:

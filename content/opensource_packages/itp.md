@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/paulnorthrop/itp/blob/main/README.md
+      official_docs: "https://github.com/paulnorthrop/itp/blob/main/README.md"
 
 optional_info:
     homepage_url: https://github.com/paulnorthrop/itp

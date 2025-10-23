@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.1.77.0
       release_date: 2023/12/22
-      reference_content: https://github.com/snort3/snort3/releases/tag/3.1.77.0
+      reference_content: "https://github.com/snort3/snort3/releases/tag/3.1.77.0"
       rationale: This versions officially adds the arm compilation support to the build process.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/"
       partner_content:
-      official_docs: https://docs.snort.org/start/
+      official_docs: "https://docs.snort.org/start/"
 
 optional_info:
     homepage_url: https://www.snort.org/

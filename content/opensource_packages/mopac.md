@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 23.0.0
       release_date: 2024/11/11
-      reference_content: https://github.com/openmopac/mopac/releases/tag/v23.0.0
+      reference_content: "https://github.com/openmopac/mopac/releases/tag/v23.0.0"
       rationale: In this iversion, Arm processor support was formalized by adopting OpenBLAS or vendor-provided BLAS libraries for Arm builds, delivering improved numerical performance compared to the x86-optimized Intel MKL previously used.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/openmopac/mopac#cmake
+      official_docs: "https://github.com/openmopac/mopac#cmake"
 
 optional_info:
     homepage_url: http://openmopac.net/

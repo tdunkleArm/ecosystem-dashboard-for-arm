@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/documentation/101380/2404/Compiler-options?lang=en
+      arm_content: "https://developer.arm.com/documentation/101380/2404/Compiler-options?lang=en"
       partner_content:
-      official_docs: https://github.com/llvm/llvm-project/blob/main/flang/docs/GettingStarted.md#building-flang
+      official_docs: "https://github.com/llvm/llvm-project/blob/main/flang/docs/GettingStarted.md#building-flang"
 
   - platform: Windows
     supported_minimum_version:

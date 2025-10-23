@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.getunleash.io/quickstart
+      official_docs: "https://docs.getunleash.io/quickstart"
 
 optional_info:
     homepage_url: https://getunleash.io/

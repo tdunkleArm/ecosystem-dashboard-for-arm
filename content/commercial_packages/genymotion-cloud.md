@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.genymotion.com/blog/just-launched-arm-native-android-in-the-cloud-environment-on-aws/
-      official_docs: https://docs.genymotion.com/desktop/041_Deploying_an_app/#applications-for-arm
+      vendor_announcement: "https://www.genymotion.com/blog/just-launched-arm-native-android-in-the-cloud-environment-on-aws/"
+      official_docs: "https://docs.genymotion.com/desktop/041_Deploying_an_app/#applications-for-arm"
 
 optional_info:
     homepage_url: https://www.genymotion.com/

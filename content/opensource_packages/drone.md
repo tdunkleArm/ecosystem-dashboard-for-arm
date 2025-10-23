@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/drone-io-ci-cd-tool-for-developers
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/drone-io-ci-cd-tool-for-developers"
       partner_content:
-      official_docs: https://docs.drone.io/
+      official_docs: "https://docs.drone.io/"
 
 optional_info:
     homepage_url: https://www.drone.io/

@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/zookeeper_cluster/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/zookeeper_cluster/"
       partner_content: 
-      official_docs: https://github.com/apache/zookeeper/blob/master/README.md
+      official_docs: "https://github.com/apache/zookeeper/blob/master/README.md"
 
 optional_info:
     homepage_url: https://zookeeper.apache.org/

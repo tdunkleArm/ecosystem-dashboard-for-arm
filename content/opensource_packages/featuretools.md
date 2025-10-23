@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://featuretools.alteryx.com/en/stable/install.html
+      official_docs: "https://featuretools.alteryx.com/en/stable/install.html"
 
 optional_info:
     homepage_url: https://featuretools.alteryx.com/en/stable/

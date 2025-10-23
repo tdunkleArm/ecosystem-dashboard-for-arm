@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/pentaho/pentaho-kettle?tab=readme-ov-file#how-to-build
+      official_docs: "https://github.com/pentaho/pentaho-kettle?tab=readme-ov-file#how-to-build"
 
 optional_info:
     homepage_url: https://github.com/pentaho

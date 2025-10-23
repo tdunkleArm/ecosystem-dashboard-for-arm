@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://fio.readthedocs.io/en/master/fio_doc.html#building
+      official_docs: "https://fio.readthedocs.io/en/master/fio_doc.html#building"
 
 optional_info:
     homepage_url: https://github.com/axboe/fio

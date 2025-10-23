@@ -19,7 +19,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://camel.apache.org/camel-k/latest/installation/installation.html
+      official_docs: "https://camel.apache.org/camel-k/latest/installation/installation.html"
 
   - platform: Windows
     supported_minimum_version:

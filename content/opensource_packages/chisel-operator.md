@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/FyraLabs/chisel-operator?tab=readme-ov-file#cluster-installation
+      official_docs: "https://github.com/FyraLabs/chisel-operator?tab=readme-ov-file#cluster-installation"
 
 optional_info:
     homepage_url: https://chisel.fyralabs.com/

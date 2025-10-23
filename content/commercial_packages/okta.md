@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement:
-      official_docs: https://help.okta.com/asa/en-us/content/topics/adv_server_access/docs/start-here.htm
+      official_docs: "https://help.okta.com/asa/en-us/content/topics/adv_server_access/docs/start-here.htm"
 
 optional_info:
     homepage_url: https://www.okta.com/

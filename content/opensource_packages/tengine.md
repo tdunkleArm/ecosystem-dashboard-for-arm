@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.0.0
       release_date: 2023/07/20
-      reference_content: https://github.com/alibaba/tengine/releases/tag/3.0.0
+      reference_content: "https://github.com/alibaba/tengine/releases/tag/3.0.0"
       rationale: This version added new features like dynamically reconfigure the servers, locations and upstreams without reloading or restarting worker processes, HTTP/3 support,  high-speed UDP transmission with kernel-bypass, dynamically reconfigure canary routing based on standard and custom HTTP headers, header value, and weights, and dynamically reconfigure timeout setting, SSL Redirects, CORS and enabling/disabling robots for the ingress/path.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://tengine.taobao.org/documentation.html
+      official_docs: "https://tengine.taobao.org/documentation.html"
 
 optional_info:
     homepage_url: https://tengine.taobao.org/

@@ -14,7 +14,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2021.9.0
       release_date: 2023/04/14
-      reference_content: https://github.com/uxlfoundation/oneTBB/releases/tag/v2021.9.0
+      reference_content: "https://github.com/uxlfoundation/oneTBB/releases/tag/v2021.9.0"
       rationale: Hybrid CPU support is a fully supported feature in this release.
 
     getting_started_resources:

@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/bcgsc/abyss/blob/master/README.md
+      official_docs: "https://github.com/bcgsc/abyss/blob/master/README.md"
 
 optional_info:
     homepage_url: https://www.bcgsc.ca/resources/software/abyss

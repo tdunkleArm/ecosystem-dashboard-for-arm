@@ -18,9 +18,9 @@ platforms:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vllm/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/vllm/"
       partner_content:
-      official_docs: https://github.com/vllm-project/vllm/
+      official_docs: "https://github.com/vllm-project/vllm/"
 
 optional_info:
     homepage_url: https://github.com/vllm-project/vllm/

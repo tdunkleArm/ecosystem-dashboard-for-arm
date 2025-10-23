@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://docs.alfresco.com/content-services/latest/
+      official_docs: "https://docs.alfresco.com/content-services/latest/"
 
 optional_info:
     homepage_url: https://www.hyland.com/en/solutions/products/alfresco-platform

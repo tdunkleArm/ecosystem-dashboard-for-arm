@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://betterstack.com/docs/logs/aws-lambda/
+      official_docs: "https://betterstack.com/docs/logs/aws-lambda/"
 
 optional_info:
     homepage_url: https://betterstack.com/

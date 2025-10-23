@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.harness.io/blog/arm-harness-ci-cloud
-      official_docs: https://developer.harness.io/docs/continuous-integration/get-started/tutorials
+      vendor_announcement: "https://www.harness.io/blog/arm-harness-ci-cloud"
+      official_docs: "https://developer.harness.io/docs/continuous-integration/get-started/tutorials"
 
 optional_info:
     homepage_url: https://www.harness.io/

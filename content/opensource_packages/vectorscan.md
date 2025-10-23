@@ -14,11 +14,11 @@ platforms:
     arm_recommended_minimum_version:
       version_number: 5.4.8
       release_date: 2022/09/13
-      reference_content: https://github.com/VectorCamp/vectorscan/releases/tag/vectorscan%2F5.4.8
+      reference_content: "https://github.com/VectorCamp/vectorscan/releases/tag/vectorscan%2F5.4.8"
       rationale: This version delivers a notable performance boost on Arm, achieving 5–10% faster execution compared to version 5.4.7, and 10–20% gains on Power architectures. Key updates include NEON-based optimizations for Aarch64, improved shift/align primitives, use of efficient instructions like shrn, and various build and compatibility fixes such as improved CMake configuration and proper handling of PCRE downloads.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/install/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/install/"
       partner_content:
       official_docs:
 

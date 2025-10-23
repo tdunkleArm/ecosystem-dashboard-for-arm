@@ -18,9 +18,9 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/"
       partner_content: 
-      official_docs: https://github.com/google/flatbuffers#quick-start
+      official_docs: "https://github.com/google/flatbuffers#quick-start"
 
   - platform: Windows
     supported_minimum_version:
@@ -34,7 +34,7 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/vectorscan/snort/"
       partner_content: 
       official_docs:
 

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.5
       release_date: 2024/09/11
-      reference_content: https://github.com/xiph/opus/releases/tag/v1.5
+      reference_content: "https://github.com/xiph/opus/releases/tag/v1.5"
       rationale: This version marks a major leap with machine learning–driven enhancements in both encoder and decoder. It introduces Deep Redundancy (DRED) for significantly better packet loss robustness and Deep PLC for improved concealment. Low-bitrate speech quality is enhanced down to 6 kb/s wideband, while Neon (ARM) optimizations boost performance. The release also adds support for 4th and 5th order ambisonics, expanding its spatial audio capabilities.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/xiph/opus/blob/main/README
+      official_docs: "https://github.com/xiph/opus/blob/main/README"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.5
       release_date: 2024/09/11
-      reference_content: https://github.com/xiph/opus/releases/tag/v1.5
+      reference_content: "https://github.com/xiph/opus/releases/tag/v1.5"
       rationale: This version marks a major leap with machine learning–driven enhancements in both encoder and decoder. It introduces Deep Redundancy (DRED) for significantly better packet loss robustness and Deep PLC for improved concealment. Low-bitrate speech quality is enhanced down to 6 kb/s wideband, while Neon (ARM) optimizations boost performance. The release also adds support for 4th and 5th order ambisonics, expanding its spatial audio capabilities.
 
     getting_started_resources:

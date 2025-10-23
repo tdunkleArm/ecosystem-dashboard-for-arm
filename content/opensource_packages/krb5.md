@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://web.mit.edu/kerberos/krb5-latest/doc/build/doing_build.html
+      official_docs: "https://web.mit.edu/kerberos/krb5-latest/doc/build/doing_build.html"
 
 optional_info:
     homepage_url: https://kerberos.org/

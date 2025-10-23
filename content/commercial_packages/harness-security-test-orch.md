@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.harness.io/blog/arm-harness-ci-cloud
-      official_docs: https://developer.harness.io/docs/security-testing-orchestration/get-started/your-first-sto-pipeline
+      vendor_announcement: "https://www.harness.io/blog/arm-harness-ci-cloud"
+      official_docs: "https://developer.harness.io/docs/security-testing-orchestration/get-started/your-first-sto-pipeline"
 
 optional_info:
     homepage_url: https://www.harness.io/

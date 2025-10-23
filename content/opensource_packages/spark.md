@@ -18,13 +18,13 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/spark/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/spark/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/big-data/achieve-up-to-27-better-price-performance-for-spark-workloads-with-aws-graviton2-on-amazon-emr-serverless/
+          url: "https://aws.amazon.com/blogs/big-data/achieve-up-to-27-better-price-performance-for-spark-workloads-with-aws-graviton2-on-amazon-emr-serverless/"
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/cloud-infrastructure/post/price-performance-big-data-workloads-ampere-a1
-      official_docs: https://spark.apache.org/docs/latest/
+          url: "https://blogs.oracle.com/cloud-infrastructure/post/price-performance-big-data-workloads-ampere-a1"
+      official_docs: "https://spark.apache.org/docs/latest/"
 
 optional_info:
   homepage_url: https://spark.apache.org/

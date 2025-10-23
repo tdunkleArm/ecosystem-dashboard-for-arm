@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.paloaltonetworks.com/blog/prisma-cloud/aws-graviton/
+      vendor_announcement: "https://www.paloaltonetworks.com/blog/prisma-cloud/aws-graviton/"
       official_docs:
 
 optional_info:

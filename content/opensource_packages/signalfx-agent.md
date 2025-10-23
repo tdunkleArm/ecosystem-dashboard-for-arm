@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://docs.splunk.com/observability/en/gdi/smart-agent/smart-agent-resources.html
+      official_docs: "https://docs.splunk.com/observability/en/gdi/smart-agent/smart-agent-resources.html"
 
 optional_info:
     homepage_url: https://signalfx.com/

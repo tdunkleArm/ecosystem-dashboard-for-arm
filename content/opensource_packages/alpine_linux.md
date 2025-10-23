@@ -18,9 +18,9 @@ platforms_supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/laptops-and-desktops/wsl2/import/
+      arm_content: "https://learn.arm.com/learning-paths/laptops-and-desktops/wsl2/import/"
       partner_content:
-      official_docs: https://docs.alpinelinux.org/user-handbook/0.1a/index.html
+      official_docs: "https://docs.alpinelinux.org/user-handbook/0.1a/index.html"
 
 optional_info:
   homepage_url: https://alpinelinux.org/

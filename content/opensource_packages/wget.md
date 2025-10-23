@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/mirror/wget/blob/master/README.checkout
+      official_docs: "https://github.com/mirror/wget/blob/master/README.checkout"
 
 optional_info:
     homepage_url: https://github.com/mirror/wget

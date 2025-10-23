@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://ant.apache.org/manual/index.html
+      official_docs: "https://ant.apache.org/manual/index.html"
 
 optional_info:
     homepage_url: https://ant.apache.org/

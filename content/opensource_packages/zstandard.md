@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.22.0
       release_date: 2023/11/01
-      reference_content: https://github.com/indygreg/python-zstandard/releases/tag/0.22.0
+      reference_content: "https://github.com/indygreg/python-zstandard/releases/tag/0.22.0"
       rationale: Binary wheels for musllinux_1_1 x86_64 and Aarch64 are being built and published from this version. That means, Arm64 users on musl-based Linux distros (like Alpine) will now have much easier and faster installs of this Python package.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/comparing-data-compression-algorithm-performance-on-aws-graviton2-342166113
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/comparing-data-compression-algorithm-performance-on-aws-graviton2-342166113"
       partner_content:
-      official_docs: https://python-zstandard.readthedocs.io/en/latest/
+      official_docs: "https://python-zstandard.readthedocs.io/en/latest/"
 
 optional_info:
     homepage_url: https://github.com/indygreg/python-zstandard

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/elastic/crawler#quickstart
+      official_docs: "https://github.com/elastic/crawler#quickstart"
 
 optional_info:
     homepage_url: https://www.elastic.co/web-crawler

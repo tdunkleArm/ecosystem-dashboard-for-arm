@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.21.2
       release_date: 2024/06/23
-      reference_content: https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12313820&version=12353550
+      reference_content: "https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12313820&version=12353550"
       rationale: This version includes critical security and stability updates, including upgrades to Avro (1.11.3), ZooKeeper (3.5.10), and Curator (5.5.0) to address CVEs and improve dependency hygiene. Numerous memory leak fixes were implemented in join operations, batch processing, and error handling paths. Enhancements were made to better handle XML files and root attributes, with added support to disable SSL verification in the Elasticsearch plugin. Additional improvements include upgraded libraries like Jackson, POI, Bouncy Castle, and Logback, as well as fixes for UI styling, caching, and complex vector handling.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://drill.apache.org/docs/starting-drill-on-linux-and-mac-os-x/
+      official_docs: "https://drill.apache.org/docs/starting-drill-on-linux-and-mac-os-x/"
  
 optional_info:
     homepage_url: https://drill.apache.org/

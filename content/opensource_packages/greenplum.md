@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/greenplum-db/GreenplumPython-archive#installation
+      official_docs: "https://github.com/greenplum-db/GreenplumPython-archive#installation"
 
 optional_info:
     homepage_url: https://greenplum.org/

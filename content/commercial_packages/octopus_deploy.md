@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://octopus.com/blog/tentacle-on-arm
-      official_docs: https://octopus.com/downloads/tentacle#linux
+      vendor_announcement: "https://octopus.com/blog/tentacle-on-arm"
+      official_docs: "https://octopus.com/downloads/tentacle#linux"
 
 optional_info:
     homepage_url: https://octopus.com/ 

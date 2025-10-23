@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/nigels-com/glew?tab=readme-ov-file#downloads
+      official_docs: "https://github.com/nigels-com/glew?tab=readme-ov-file#downloads"
 
 optional_info:
     homepage_url: https://glew.sourceforge.net/

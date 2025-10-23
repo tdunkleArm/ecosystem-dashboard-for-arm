@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/westes/flex/blob/master/INSTALL.md
+      official_docs: "https://github.com/westes/flex/blob/master/INSTALL.md"
 
 optional_info:
     homepage_url: https://github.com/westes/flex

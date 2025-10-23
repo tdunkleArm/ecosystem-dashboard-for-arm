@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://jetty.org/docs/jetty/12/operations-guide/begin/index.html
+      official_docs: "https://jetty.org/docs/jetty/12/operations-guide/begin/index.html"
 
   - platform: Windows
     supported_minimum_version:

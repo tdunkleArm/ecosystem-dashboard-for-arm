@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.f5.com/company/news/press-releases/arm-support-release
-      official_docs: https://clouddocs.f5.com/training/community/threat-stack/html/class1/Threat_Stack_Linux_Agent.html
+      vendor_announcement: "https://www.f5.com/company/news/press-releases/arm-support-release"
+      official_docs: "https://clouddocs.f5.com/training/community/threat-stack/html/class1/Threat_Stack_Linux_Agent.html"
 
 optional_info:
     homepage_url: https://www.f5.com/

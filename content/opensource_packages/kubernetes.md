@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.32.0
       release_date: 2024/12/11
-      reference_content: https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/
+      reference_content: "https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/"
       rationale: This version enhanced the Dynamic Resource Allocation, with performance improvements for ML/AI applications.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/kubectl/
+      arm_content: "https://learn.arm.com/install-guides/kubectl/"
       partner_content:
         - display_name: Oracle OCI
-          url: https://docs.oracle.com/en/learn/arm_oke_cluster_oci/index.html
-      official_docs: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+          url: "https://docs.oracle.com/en/learn/arm_oke_cluster_oci/index.html"
+      official_docs: "https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/"
 
 optional_info:
     homepage_url: https://kubernetes.io/

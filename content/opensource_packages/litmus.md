@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://docs.litmuschaos.io/docs/getting-started/installation#install-litmus-using-kubectl
+      official_docs: "https://docs.litmuschaos.io/docs/getting-started/installation#install-litmus-using-kubectl"
 
 optional_info:
   homepage_url: https://litmuschaos.io/

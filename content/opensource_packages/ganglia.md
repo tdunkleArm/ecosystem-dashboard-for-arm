@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/ganglia/monitor-core/wiki/Ganglia-Quick-Start
+      official_docs: "https://github.com/ganglia/monitor-core/wiki/Ganglia-Quick-Start"
 
 optional_info:
     homepage_url: http://ganglia.info

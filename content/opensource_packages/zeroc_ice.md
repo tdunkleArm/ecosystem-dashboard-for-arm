@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.7.10
       release_date: 2023/11/07
-      reference_content: https://doc.zeroc.com/ice/3.7/release-notes/new-features-in-ice-3-7
+      reference_content: "https://doc.zeroc.com/ice/3.7/release-notes/new-features-in-ice-3-7"
       rationale: This version included the support for a new operating system - Red Hat Enterprise Linux 9 (aarch64).
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://doc.zeroc.com/ice/latest
+      official_docs: "https://doc.zeroc.com/ice/latest"
 
 optional_info:
     homepage_url: https://zeroc.com/ice

@@ -14,13 +14,13 @@ platforms:
     arm_recommended_minimum_version:
       version_number: 1.90.0
       release_date: 2023/06/04
-      reference_content: https://docs.victoriametrics.com/victoriametrics/changelog/changelog_2023/#v1900
+      reference_content: "https://docs.victoriametrics.com/victoriametrics/changelog/changelog_2023/#v1900"
       rationale: In this version, the vmagent component of VictoriaMetrics officially supports running Kafka producer and consumer clients on the Arm64 architecture.
 
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://docs.victoriametrics.com/victoriametrics/quick-start/
+      official_docs: "https://docs.victoriametrics.com/victoriametrics/quick-start/"
 
 optional_info:
     homepage_url: https://victoriametrics.com/

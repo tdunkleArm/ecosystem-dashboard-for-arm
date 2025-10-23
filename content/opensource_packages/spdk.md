@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://spdk.io/doc/getting_started.html
+      official_docs: "https://spdk.io/doc/getting_started.html"
 
 optional_info:
     homepage_url: https://spdk.io/

@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version: 
       version_number: 0.36.1
       release_date: 2024/12/17
-      reference_content: https://github.com/buildpacks/pack/releases/tag/v0.36.1
+      reference_content: "https://github.com/buildpacks/pack/releases/tag/v0.36.1"
       rationale: In this version, all the acceptance tests pass for Arm64.
 
     getting_started_resources: 
       arm_content:
       partner_content:
-      official_docs: https://buildpacks.io/docs/app-developer-guide/build-an-arm-app/
+      official_docs: "https://buildpacks.io/docs/app-developer-guide/build-an-arm-app/"
 
 optional_info:
     homepage_url: https://buildpacks.io/

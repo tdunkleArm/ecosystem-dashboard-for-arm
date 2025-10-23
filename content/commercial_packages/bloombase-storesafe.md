@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.bloombase.com/interoperability/arm.html
-      official_docs: https://supportal.bloombase.com
+      vendor_announcement: "https://www.bloombase.com/interoperability/arm.html"
+      official_docs: "https://supportal.bloombase.com"
 
   - platform: Windows
     release_date_on_arm:

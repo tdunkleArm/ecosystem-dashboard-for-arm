@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.checkov.io/1.Welcome/Quick%20Start.html#install-checkov-from-pypi
+      official_docs: "https://www.checkov.io/1.Welcome/Quick%20Start.html#install-checkov-from-pypi"
 
   - platform: Windows
     supported_minimum_version:

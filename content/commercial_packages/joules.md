@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://www.cadence.com/en_US/home/resources/datasheets/cadence-joules-rtl-design-studio-ds.html
+      official_docs: "https://www.cadence.com/en_US/home/resources/datasheets/cadence-joules-rtl-design-studio-ds.html"
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/rtl-analysis/joules-rtl-design-studio.html

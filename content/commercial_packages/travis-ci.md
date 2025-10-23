@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2019/10/07
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/travis-ci-partner-queue-solution-for-open-source-projects
-      vendor_announcement: https://www.travis-ci.com/blog/2019-10-07-multi-cpu-architecture-support/
-      official_docs: https://docs.travis-ci.com/user/multi-cpu-architectures/
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/travis-ci-partner-queue-solution-for-open-source-projects"
+      vendor_announcement: "https://www.travis-ci.com/blog/2019-10-07-multi-cpu-architecture-support/"
+      official_docs: "https://docs.travis-ci.com/user/multi-cpu-architectures/"
 
 optional_info:
     homepage_url: https://www.travis-ci.com/

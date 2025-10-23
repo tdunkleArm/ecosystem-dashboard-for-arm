@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.0.0
       release_date: 2025/04/04
-      reference_content: https://www.trychroma.com/project/1.0.0
+      reference_content: "https://www.trychroma.com/project/1.0.0"
       rationale: This version introduced new core written in rust, that made the local Chroma 4× faster for common write and query workflows. This isn't Arm-specific, but surely going to benefit all platforms, including Linux/ARM64.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.trychroma.com/
+      official_docs: "https://docs.trychroma.com/"
 
 optional_info:
     homepage_url: https://www.trychroma.com/

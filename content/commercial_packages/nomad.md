@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://developer.hashicorp.com/nomad/tutorials/enterprise/hashicorp-enterprise-license?ajs_aid=897c4292-0b49-4743-bdb8-3ac2d5db38df&product_intent=nomad
+      official_docs: "https://developer.hashicorp.com/nomad/tutorials/enterprise/hashicorp-enterprise-license?ajs_aid=897c4292-0b49-4743-bdb8-3ac2d5db38df&product_intent=nomad"
 
   - platform: Windows
     release_date_on_arm:

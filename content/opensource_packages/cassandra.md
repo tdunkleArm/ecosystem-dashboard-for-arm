@@ -14,17 +14,17 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 5.0.0
       release_date: 2024/09/05
-      reference_content: https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Announcement.html
+      reference_content: "https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Announcement.html"
       rationale: Apache Cassandra 5.0 is a major release introducing significant performance, usability, and scalability enhancements. Key features include Storage Attached Indexes (SAI) for flexible querying, Trie-based memtables/SSTables for better efficiency, and the Unified Compaction Strategy (UCS) for automated data management. It also supports JDK 17 for up to 20% performance gains and adds vector search for AI applications. The release marks the end-of-life for the 3.x series, urging users to upgrade for continued support.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/increase-price_2d00_performance-by-deploying-cassandra-on-aws-graviton2
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/increase-price_2d00_performance-by-deploying-cassandra-on-aws-graviton2"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/solution/cassandra
+          url: "https://amperecomputing.com/solution/cassandra"
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/cloud-infrastructure/post/30-better-tco-cassandra-oci-ampere-a1-compute
-      official_docs: https://cassandra.apache.org/doc/latest/cassandra/getting-started/index.html
+          url: "https://blogs.oracle.com/cloud-infrastructure/post/30-better-tco-cassandra-oci-ampere-a1-compute"
+      official_docs: "https://cassandra.apache.org/doc/latest/cassandra/getting-started/index.html"
 
 optional_info:
   homepage_url: https://cassandra.apache.org/_/index.html

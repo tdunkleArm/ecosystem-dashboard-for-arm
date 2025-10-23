@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.21.0
       release_date: 2024/07/12
-      reference_content: https://www.daytona.io/changelog/major-update-with-performance-boost
+      reference_content: "https://www.daytona.io/changelog/major-update-with-performance-boost"
       rationale: From this version onwards, the workspace creation process now runs directly on the target machine (local or remote) instead of inside a container. This change results in a significant performance boost, especially for subsequent builds, as it leverages the host's Docker registry for caching.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Daytona
-          url: https://www.daytona.io/dotfiles/daytona-goes-open-source
-      official_docs: https://github.com/daytonaio/daytona/blob/main/README.md
+          url: "https://www.daytona.io/dotfiles/daytona-goes-open-source"
+      official_docs: "https://github.com/daytonaio/daytona/blob/main/README.md"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.21.0
       release_date: 2024/07/12
-      reference_content: https://www.daytona.io/changelog/major-update-with-performance-boost
+      reference_content: "https://www.daytona.io/changelog/major-update-with-performance-boost"
       rationale: From this version onwards, the workspace creation process now runs directly on the target machine (local or remote) instead of inside a container. This change results in a significant performance boost, especially for subsequent builds, as it leverages the host's Docker registry for caching.
 
     getting_started_resources:

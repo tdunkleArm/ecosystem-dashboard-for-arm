@@ -18,11 +18,11 @@ platforms_supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/cmake/
+      arm_content: "https://learn.arm.com/install-guides/cmake/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://docs.aws.amazon.com/ja_jp/sdk-for-cpp/v1/developer-guide/cmake-params.html
-      official_docs: https://cmake.org/getting-started/
+          url: "https://docs.aws.amazon.com/ja_jp/sdk-for-cpp/v1/developer-guide/cmake-params.html"
+      official_docs: "https://cmake.org/getting-started/"
 
   - platform: Windows
     supported_minimum_version:
@@ -36,9 +36,9 @@ platforms_supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/cmake/
+      arm_content: "https://learn.arm.com/install-guides/cmake/"
       partner_content:
-      official_docs: https://cmake.org/getting-started/
+      official_docs: "https://cmake.org/getting-started/"
 
 optional_info:
   homepage_url: https://cmake.org/

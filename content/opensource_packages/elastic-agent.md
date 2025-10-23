@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 9.1.0
       release_date: 2025/07/19
-      reference_content: https://www.elastic.co/docs/release-notes/fleet#fleet-elastic-agent-9.1.0-fixes
+      reference_content: "https://www.elastic.co/docs/release-notes/fleet#fleet-elastic-agent-9.1.0-fixes"
       rationale: In this version, Elastic Agent’s Linux/Arm64 build process was updated to use Debian 11 - matching the Linux/Amd64 build. Also, the statically linked glibc was upgraded from 2.28 to 2.31, improving compatibility and consistency across architectures.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/guide/en/fleet/8.14/elastic-agent-installation.html
+      official_docs: "https://www.elastic.co/guide/en/fleet/8.14/elastic-agent-installation.html"
 
 optional_info:
     homepage_url: https://www.elastic.co/elastic-agent

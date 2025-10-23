@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://wiki.ultramarine-linux.org/en/installation/getting/
+      official_docs: "https://wiki.ultramarine-linux.org/en/installation/getting/"
 
 optional_info:
     homepage_url: https://wiki.ultramarine-linux.org/en/welcome/

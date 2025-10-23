@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://deepstreamio.github.io/docs/tutorials/install/linux
+      official_docs: "https://deepstreamio.github.io/docs/tutorials/install/linux"
 
 optional_info:
     homepage_url: https://deepstreamio.github.io/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://api.tej.com.tw/document_python.html
+      official_docs: "https://api.tej.com.tw/document_python.html"
 
 optional_info:
     homepage_url: https://api.tej.com.tw/

@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://apbs.readthedocs.io/en/latest/getting/source.html#get-source-directly-from-github
+      official_docs: "https://apbs.readthedocs.io/en/latest/getting/source.html#get-source-directly-from-github"
 
 optional_info:
     homepage_url: https://www.poissonboltzmann.org/

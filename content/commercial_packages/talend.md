@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://help.qlik.com/talend/en-US/patch-notes/8.0/r2022-11
-      official_docs: https://help.qlik.com/talend/en-US/patch-notes/8.0/r2022-11#anchor-3
+      vendor_announcement: "https://help.qlik.com/talend/en-US/patch-notes/8.0/r2022-11"
+      official_docs: "https://help.qlik.com/talend/en-US/patch-notes/8.0/r2022-11#anchor-3"
 
 optional_info:
     homepage_url: https://www.qlik.com/us/products/qlik-talend-data-integration-and-quality

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.5.1
       release_date: 2025/05/06
-      reference_content: https://github.com/kubevirt/kubevirt/releases/tag/v1.5.1
+      reference_content: "https://github.com/kubevirt/kubevirt/releases/tag/v1.5.1"
       rationale: This release enables the node-labeller for ARM64 clusters by introducing an architecture abstraction layer (archLabeller interface and implementations). Direct architecture checks (runtime.GOARCH) are replaced by calls to this interface, allowing architecture-specific logic (like handling host features, CPU models, and vendor names) to be encapsulated. The label preparation logic is refactored to use this abstraction, ensuring appropriate labels (including machine types) are applied based on the detected architecture's capabilities. The startup check restricting the labeller to specific architectures is removed.
 
     getting_started_resources:
-      arm_content:  https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/empowering-software-development-with-works-on-arm-initiative
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/empowering-software-development-with-works-on-arm-initiative"
       partner_content:
-      official_docs: https://kubevirt.io/user-guide/operations/installation/#arm64-developer-builds
+      official_docs: "https://kubevirt.io/user-guide/operations/installation/#arm64-developer-builds"
 
 optional_info:
     homepage_url: https://kubevirt.io/

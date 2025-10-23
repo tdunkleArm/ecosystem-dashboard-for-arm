@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/Benson-Genomics-Lab/TRF?tab=readme-ov-file#instructions-for-compiling
+      official_docs: "https://github.com/Benson-Genomics-Lab/TRF?tab=readme-ov-file#instructions-for-compiling"
 
 optional_info:
     homepage_url: https://tandem.bu.edu/trf/trf.html

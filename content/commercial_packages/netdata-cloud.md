@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://learn.netdata.cloud/
+      official_docs: "https://learn.netdata.cloud/"
 
   - platform: Windows
     release_date_on_arm:

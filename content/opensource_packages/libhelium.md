@@ -19,7 +19,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/tau-OS/libhelium#readme
+      official_docs: "https://github.com/tau-OS/libhelium#readme"
 
 optional_info:
     homepage_url: https://docs.developers.tauos.co/libhelium/libhelium-1/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/leethomason/tinyxml2?tab=readme-ov-file#using-and-installing
+      official_docs: "https://github.com/leethomason/tinyxml2?tab=readme-ov-file#using-and-installing"
 
 optional_info:
     homepage_url: https://leethomason.github.io/tinyxml2/index.html

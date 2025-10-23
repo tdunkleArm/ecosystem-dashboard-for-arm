@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/lavabit/robox?tab=readme-ov-file#building-a-box
+      official_docs: "https://github.com/lavabit/robox?tab=readme-ov-file#building-a-box"
 
 optional_info:
     homepage_url: https://roboxes.org/

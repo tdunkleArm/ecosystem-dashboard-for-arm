@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2021/07/19
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring
-      vendor_announcement: https://docs.influxdata.com/enterprise_influxdb/v1/about-the-project/release-notes/#v193
-      official_docs: https://docs.influxdata.com/enterprise_influxdb/v1/introduction/installation/
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring"
+      vendor_announcement: "https://docs.influxdata.com/enterprise_influxdb/v1/about-the-project/release-notes/#v193"
+      official_docs: "https://docs.influxdata.com/enterprise_influxdb/v1/introduction/installation/"
 
 optional_info:
     homepage_url: https://www.influxdata.com/

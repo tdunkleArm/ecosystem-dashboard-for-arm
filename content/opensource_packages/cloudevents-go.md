@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://cloudevents.github.io/sdk-go/
+      official_docs: "https://cloudevents.github.io/sdk-go/"
 
   - platform: Windows
     supported_minimum_version:

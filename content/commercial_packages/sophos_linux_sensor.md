@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://docs.sophos.com/esg/sls/help/en-us/gettingStarted/installSensor/index.html
+      official_docs: "https://docs.sophos.com/esg/sls/help/en-us/gettingStarted/installSensor/index.html"
 
 optional_info:
     homepage_url: https://www.sophos.com/en-us

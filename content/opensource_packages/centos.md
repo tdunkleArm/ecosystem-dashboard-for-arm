@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.centos.org/
+      official_docs: "https://docs.centos.org/"
 
 optional_info:
     homepage_url: https://www.centos.org/

@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.4.0
       release_date: 2024/11/21
-      reference_content: https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.4-Release-Notes
+      reference_content: "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.4-Release-Notes"
       rationale: Spring Boot 3.4.0 introduced the capability to create multi-architecture OCI images, facilitating deployments across different platforms, including ARM architectures.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/containers/optimize-your-spring-boot-application-for-aws-fargate/
-      official_docs: https://spring.io/quickstart
+          url: "https://aws.amazon.com/blogs/containers/optimize-your-spring-boot-application-for-aws-fargate/"
+      official_docs: "https://spring.io/quickstart"
 
 optional_info:
   homepage_url: https://spring.io/projects/spring-boot

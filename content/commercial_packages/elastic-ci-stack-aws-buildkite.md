@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://buildkite.com/changelog/115-aws-elastic-stack-support-for-arm-instances-rocket
-      official_docs: https://buildkite.com/docs/agent/v3/elastic-ci-aws
+      vendor_announcement: "https://buildkite.com/changelog/115-aws-elastic-stack-support-for-arm-instances-rocket"
+      official_docs: "https://buildkite.com/docs/agent/v3/elastic-ci-aws"
 
 optional_info:
     homepage_url: https://buildkite.com/

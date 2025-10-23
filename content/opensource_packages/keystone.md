@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.openstack.org/keystone/latest/install/keystone-install-ubuntu.html
+      official_docs: "https://docs.openstack.org/keystone/latest/install/keystone-install-ubuntu.html"
 
 optional_info:
     homepage_url: https://docs.openstack.org/keystone/latest/

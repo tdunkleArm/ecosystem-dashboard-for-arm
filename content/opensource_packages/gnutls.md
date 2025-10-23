@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/gnutls/gnutls?tab=readme-ov-file#gnutls----information-for-developers
+      official_docs: "https://github.com/gnutls/gnutls?tab=readme-ov-file#gnutls----information-for-developers"
 
   - platforms: Windows
     supported_minimum_version:

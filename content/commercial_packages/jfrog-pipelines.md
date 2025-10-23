@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://jfrog.com/help/r/jfrog-installation-setup-documentation/requirements-matrix
+      official_docs: "https://jfrog.com/help/r/jfrog-installation-setup-documentation/requirements-matrix"
 
 optional_info:
     homepage_url: https://jfrog.com/

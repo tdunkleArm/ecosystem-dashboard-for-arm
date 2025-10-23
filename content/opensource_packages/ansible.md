@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/ansible/
+      arm_content: "https://learn.arm.com/install-guides/ansible/"
       partner_content: 
-      official_docs: https://www.redhat.com/fr/blog/red-hat-enterprise-linux-arm-now-supported-aws?source=author&term=25831
+      official_docs: "https://www.redhat.com/fr/blog/red-hat-enterprise-linux-arm-now-supported-aws?source=author&term=25831"
 
   - platform: Windows
     supported_minimum_version:

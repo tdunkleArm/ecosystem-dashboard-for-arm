@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/dentproject/dentOS/wiki/Building
+      official_docs: "https://github.com/dentproject/dentOS/wiki/Building"
 
 optional_info:
     homepage_url: https://dent.dev/

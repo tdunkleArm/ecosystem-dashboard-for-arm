@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/refinfra-quick-start/build-2/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/refinfra-quick-start/build-2/"
       partner_content:
-      official_docs: https://www.busybox.net/FAQ.html#getting_started
+      official_docs: "https://www.busybox.net/FAQ.html#getting_started"
 
   - platform: Windows
     supported_minimum_version:
@@ -34,9 +34,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/refinfra-quick-start/build-2/
+      arm_content:
       partner_content:
-      official_docs: https://www.busybox.net/FAQ.html#getting_started
+      official_docs:
 
 optional_info: 
     homepage_url: https://www.busybox.net/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.tensorflow.org/tfx/serving/setup
+      official_docs: "https://www.tensorflow.org/tfx/serving/setup"
 
 optional_info:
     homepage_url: https://www.tensorflow.org/tfx/guide/serving

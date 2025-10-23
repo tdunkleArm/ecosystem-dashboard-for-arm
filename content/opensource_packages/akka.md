@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://doc.akka.io/docs/akka/current/typed/guide/index.html
+      official_docs: "https://doc.akka.io/docs/akka/current/typed/guide/index.html"
 
 optional_info:
     homepage_url: https://www.lightbend.com/akka

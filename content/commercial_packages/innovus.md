@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement:
-      official_docs: https://www.cadence.com/en_US/home/resources/datasheets/innovus-implementation-system-ds.html
+      official_docs: "https://www.cadence.com/en_US/home/resources/datasheets/innovus-implementation-system-ds.html"
 
 optional_info:
     homepage_url: https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html

@@ -19,9 +19,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/aws-graviton3-reduces-time-and-cost-for-genomics
+      arm_content: "https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/aws-graviton3-reduces-time-and-cost-for-genomics"
       partner_content:
-      official_docs: https://github.com/lh3/minimap2#started
+      official_docs: "https://github.com/lh3/minimap2#started"
 
 optional_info:
     homepage_url: https://github.com/lh3/minimap2

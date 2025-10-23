@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/jenkins-community-support-for-arm-architecture
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/jenkins-community-support-for-arm-architecture"
       partner_content:
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/cloud-infrastructure/post/announcing-jenkins-support-for-the-arm-compute-platform-on-oracle-cloud-infrastructure
-      official_docs: https://www.jenkins.io/doc/book/
+          url: "https://blogs.oracle.com/cloud-infrastructure/post/announcing-jenkins-support-for-the-arm-compute-platform-on-oracle-cloud-infrastructure"
+      official_docs: "https://www.jenkins.io/doc/book/"
 
 optional_info:
   homepage_url: https://www.jenkins.io/

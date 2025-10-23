@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://apr.apache.org/compiling_unix.html
+      official_docs: "https://apr.apache.org/compiling_unix.html"
 
 optional_info:
     homepage_url: https://apr.apache.org/

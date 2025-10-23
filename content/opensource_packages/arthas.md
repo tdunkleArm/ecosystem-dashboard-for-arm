@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://arthas.aliyun.com/en/doc/install-detail.html
+      official_docs: "https://arthas.aliyun.com/en/doc/install-detail.html"
 
   - platform: Windows
     supported_minimum_version:

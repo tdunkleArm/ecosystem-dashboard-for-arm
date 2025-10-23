@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 4.0.0
       release_date: 2023/07/14
-      reference_content: https://github.com/microsoft/LightGBM/releases/tag/v4.0.0
+      reference_content: "https://github.com/microsoft/LightGBM/releases/tag/v4.0.0"
       rationale: This release contains all previously-unreleased changes since v3.3.1 over 1.5 years ago, including support for C++17, added quantized training, fixed DEBUG-mode GPU builds, etc.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/xgboost-lightgbm-aws-graviton3
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/xgboost-lightgbm-aws-graviton3"
       partner_content:
-      official_docs: https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
+      official_docs: "https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html"
 
 optional_info:
     homepage_url: https://lightgbm.readthedocs.io/en/latest/

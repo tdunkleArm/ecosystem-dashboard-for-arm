@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/01/15
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/internet-of-things-blog/posts/integrating-iot-edge-devices-with-cloud-native-analytics
-      vendor_announcement: https://grafana.com/grafana/download/6.5.3?edition=enterprise&platform=arm
-      official_docs: https://grafana.com/docs/grafana-cloud/quickstart/
+      arm_content: "https://community.arm.com/arm-community-blogs/b/internet-of-things-blog/posts/integrating-iot-edge-devices-with-cloud-native-analytics"
+      vendor_announcement: "https://grafana.com/grafana/download/6.5.3?edition=enterprise&platform=arm"
+      official_docs: "https://grafana.com/docs/grafana-cloud/quickstart/"
 
 optional_info:
     homepage_url: https://grafana.com/grafana/

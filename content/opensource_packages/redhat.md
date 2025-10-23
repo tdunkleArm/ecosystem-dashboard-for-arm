@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 9.4
       release_date: 2024/04/30
-      reference_content: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html-single/9.4_release_notes/index#new-features-virtualization
+      reference_content: "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html-single/9.4_release_notes/index#new-features-virtualization"
       rationale: This version introduces support for creating KVM virtual machines on systems that use Arm64/Aarch64 CPUs.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/software-innovations-with-red-hat-and-arm
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/software-innovations-with-red-hat-and-arm"
       partner_content:
-      official_docs: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/performing_a_standard_rhel_9_installation/assembly_installing-on-amd64-intel-64-and-64-bit-arm_installing-rhel
+      official_docs: "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/performing_a_standard_rhel_9_installation/assembly_installing-on-amd64-intel-64-and-64-bit-arm_installing-rhel"
 
 optional_info:
   homepage_url: https://www.redhat.com/en

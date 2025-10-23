@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://katsu.readthedocs.io/en/latest/notebooks/Installation.html
+      official_docs: "https://katsu.readthedocs.io/en/latest/notebooks/Installation.html"
 
 optional_info:
     homepage_url: https://katsu.readthedocs.io/en/latest/

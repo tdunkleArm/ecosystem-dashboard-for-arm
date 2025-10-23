@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://xerces.apache.org/xerces-c/build-3.html#CMake
+      official_docs: "https://xerces.apache.org/xerces-c/build-3.html#CMake"
 
 optional_info:
     homepage_url: https://xerces.apache.org/xerces-c/index.html

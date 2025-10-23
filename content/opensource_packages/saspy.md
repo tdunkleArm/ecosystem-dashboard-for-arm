@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://sassoftware.github.io/saspy/getting-started.html
+      official_docs: "https://sassoftware.github.io/saspy/getting-started.html"
 
 optional_info:
     homepage_url: https://support.sas.com/en/software/saspy.html

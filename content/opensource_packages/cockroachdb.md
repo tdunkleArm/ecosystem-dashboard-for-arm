@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 25.1
       release_date: 2025/02/18
-      reference_content: https://www.cockroachlabs.com/blog/cockroachdb-25-1-enhanced-resilience-and-performance/
+      reference_content: "https://www.cockroachlabs.com/blog/cockroachdb-25-1-enhanced-resilience-and-performance/"
       rationale: CockroachDB v25.1.0 introduced a nearly 20% performance improvement, which can benefit all architectures, including Linux/ARM64.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.cockroachlabs.com/docs/v24.1/install-cockroachdb-linux
+      official_docs: "https://www.cockroachlabs.com/docs/v24.1/install-cockroachdb-linux"
 
 optional_info:
     homepage_url: https://www.cockroachlabs.com/

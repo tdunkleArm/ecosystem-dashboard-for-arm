@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content:
-      official_docs: https://github.com/Tomas-M/iotop?tab=readme-ov-file#how-to-build-from-source
+      official_docs: "https://github.com/Tomas-M/iotop?tab=readme-ov-file#how-to-build-from-source"
 
 optional_info:
     homepage_url: https://github.com/Tomas-M/iotop/

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.cisecurity.org/insights/blog/new-hardened-vms-from-cis-graviton2-windows-2019-stig
-      official_docs: https://www.cisecurity.org/cis-hardened-images
+      vendor_announcement: "https://www.cisecurity.org/insights/blog/new-hardened-vms-from-cis-graviton2-windows-2019-stig"
+      official_docs: "https://www.cisecurity.org/cis-hardened-images"
 
 optional_info:
     homepage_url: https://www.cisecurity.org/

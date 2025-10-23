@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 2.8.0
       release_date: 2024/05/31
-      reference_content: https://news.tuxmachines.org/n/2024/05/31/Caddy_2_8_Web_Server_Is_Here_with_Many_Improvements.shtml
+      reference_content: "https://news.tuxmachines.org/n/2024/05/31/Caddy_2_8_Web_Server_Is_Here_with_Many_Improvements.shtml"
       rationale: Caddy 2.8.0 introduced numerous enhancements, including support for ACME Renewal Information (ARI) and proxying to backends over HTTP/3. While these improvements are not exclusively targeted at Arm architectures, they contribute to overall performance and feature set enhancements that benefit deployments on Arm-based servers.
 
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://caddyserver.com/docs/install
+      official_docs: "https://caddyserver.com/docs/install"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 2.8.0
       release_date: 2024/05/31
-      reference_content: https://news.tuxmachines.org/n/2024/05/31/Caddy_2_8_Web_Server_Is_Here_with_Many_Improvements.shtml
+      reference_content: "https://news.tuxmachines.org/n/2024/05/31/Caddy_2_8_Web_Server_Is_Here_with_Many_Improvements.shtml"
       rationale: Caddy 2.8.0 introduced numerous enhancements, including support for ACME Renewal Information (ARI) and proxying to backends over HTTP/3. While these improvements are not exclusively targeted at Arm architectures, they contribute to overall performance and feature set enhancements that benefit deployments on Arm-based servers.
 
     getting_started_resources:

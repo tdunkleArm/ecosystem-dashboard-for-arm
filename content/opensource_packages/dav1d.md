@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.5.1
       release_date: 2025/01/20
-      reference_content: https://github.com/videolan/dav1d/blob/master/NEWS
+      reference_content: "https://github.com/videolan/dav1d/blob/master/NEWS"
       rationale: This version delivers performance and stability improvements with a focus on stack reduction and Arm optimizations. The loop restoration filters (SGR and Wiener) have been rewritten to significantly lower stack usage, reducing it to 58 KB on Arm and Aarch64. Key enhancements include improved loop restoration performance on Arm32 and Arm64, a new NEON-based implementation of load_tmvs for Aarch64, and overall efficiency gains. Additionally, the release addresses a rare potential deadlock issue in flush() to improve stability.
 
     getting_started_resources:
       arm_content:  
       partner_content: 
-      official_docs: https://github.com/videolan/dav1d/blob/master/README.md
+      official_docs: "https://github.com/videolan/dav1d/blob/master/README.md"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.5.1
       release_date: 2025/01/20
-      reference_content: https://github.com/videolan/dav1d/blob/master/NEWS
+      reference_content: "https://github.com/videolan/dav1d/blob/master/NEWS"
       rationale: This version delivers performance and stability improvements with a focus on stack reduction and Arm optimizations. The loop restoration filters (SGR and Wiener) have been rewritten to significantly lower stack usage, reducing it to 58 KB on Arm and Aarch64. Key enhancements include improved loop restoration performance on Arm32 and Arm64, a new NEON-based implementation of load_tmvs for Aarch64, and overall efficiency gains. Additionally, the release addresses a rare potential deadlock issue in flush() to improve stability.
 
     getting_started_resources:

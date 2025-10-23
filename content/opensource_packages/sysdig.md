@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/draios/sysdig/#getting-started
+      official_docs: "https://github.com/draios/sysdig/#getting-started"
 
 optional_info:
     homepage_url: http://www.sysdig.com/

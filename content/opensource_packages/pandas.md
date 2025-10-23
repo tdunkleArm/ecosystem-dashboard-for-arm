@@ -4,28 +4,44 @@ category: Miscellaneous
 description: Pandas is a powerful open-source Python library used for data manipulation and analysis.
 download_url: https://github.com/pandas-dev/pandas/releases
 works_on_arm: true
-supported_minimum_version: 
-    version_number: 1.1.5
-    release_date: 2020/12/07
 
-platforms:
-  - linux-server
-  - windows-on-arm
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version: 
+      version_number: 1.1.5
+      release_date: 2020/12/07
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs: "https://pandas.pydata.org/docs/getting_started/install.html"
+
+  - platform: Windows
+    supported_minimum_version: 
+      version_number:
+      release_date:
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content: 
+      partner_content: 
+      official_docs:
 
 optional_info:
     homepage_url: https://pandas.pydata.org/
     support_caveats:
     alternative_options: 
-    getting_started_resources:
-        arm_content: 
-        partner_content: 
-        official_docs: https://pandas.pydata.org/docs/getting_started/install.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
-
 
 optional_hidden_info:
     release_notes__supported_minimum: 

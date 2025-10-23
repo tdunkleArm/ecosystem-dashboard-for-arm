@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Linaro
-          url: https://ecosystemdashboard.linaro.org/projects/avxtoneon
-      official_docs: https://github.com/kunpengcompute/AvxToNeon#test
+          url: "https://ecosystemdashboard.linaro.org/projects/avxtoneon"
+      official_docs: "https://github.com/kunpengcompute/AvxToNeon#test"
 
 optional_info:
   homepage_url: https://github.com/kunpengcompute/AvxToNeon

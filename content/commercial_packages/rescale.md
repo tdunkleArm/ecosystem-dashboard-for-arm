@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://rescale.com/blog/rescale-makes-the-latest-arm-based-tau-t2a-virtual-machine-instances-available-in-its-google-cloud-offering/
-      official_docs: https://rescale.com/documentation/main-2/rescale-basics/run-a-basic-job/
+      vendor_announcement: "https://rescale.com/blog/rescale-makes-the-latest-arm-based-tau-t2a-virtual-machine-instances-available-in-its-google-cloud-offering/"
+      official_docs: "https://rescale.com/documentation/main-2/rescale-basics/run-a-basic-job/"
 
 optional_info:
     homepage_url: https://rescale.com/

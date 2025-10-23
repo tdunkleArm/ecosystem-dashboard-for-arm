@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/lsh123/xmlsec#building-and-installing-xmlsec
+      official_docs: "https://github.com/lsh123/xmlsec#building-and-installing-xmlsec"
 
 optional_info:
     homepage_url: https://www.aleksey.com/xmlsec/index.html

@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://docs.oracle.com/en/learn/oke-flannel-to-cilium-cni-plugin/index.html#introduction
-      official_docs: https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/#install-cilium
+          url: "https://docs.oracle.com/en/learn/oke-flannel-to-cilium-cni-plugin/index.html#introduction"
+      official_docs: "https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/#install-cilium"
 
 optional_info:
   homepage_url: https://cilium.io/

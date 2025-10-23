@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/Gabaldonlab/redundans?tab=readme-ov-file#prerequisites
+      official_docs: "https://github.com/Gabaldonlab/redundans?tab=readme-ov-file#prerequisites"
 
 optional_info:
     homepage_url: https://github.com/Gabaldonlab/redundans

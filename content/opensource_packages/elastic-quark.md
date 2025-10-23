@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://elastic.github.io/quark/index.html#QUICKSTART
+      official_docs: "https://elastic.github.io/quark/index.html#QUICKSTART"
 
 optional_info:
     homepage_url: https://elastic.github.io/quark/index.html

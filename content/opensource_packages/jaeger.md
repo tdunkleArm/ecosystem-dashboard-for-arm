@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.0.0
       release_date: 2024/11/12
-      reference_content: https://www.cncf.io/blog/2024/11/12/jaeger-v2-released-opentelemetry-in-the-core/
+      reference_content: "https://www.cncf.io/blog/2024/11/12/jaeger-v2-released-opentelemetry-in-the-core/"
       rationale: This version introduced a new architecture that utilizes the OpenTelemetry Collector framework as its base, enhancing performance and scalability across all supported platforms.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring"
       partner_content:
-      official_docs: https://www.jaegertracing.io/docs/1.54/getting-started/
+      official_docs: "https://www.jaegertracing.io/docs/1.54/getting-started/"
 
 optional_info:
     homepage_url: https://www.jaegertracing.io/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.uyuni-project.org/uyuni-docs/en/uyuni/index.html
+      official_docs: "https://www.uyuni-project.org/uyuni-docs/en/uyuni/index.html"
 
 optional_info:
     homepage_url: https://www.uyuni-project.org/

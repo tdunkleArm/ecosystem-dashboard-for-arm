@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.82.0
       release_date: 2023/04/14
-      reference_content: https://www.boost.org/releases/1.82.0/
+      reference_content: "https://www.boost.org/releases/1.82.0/"
       rationale: This version introduces official Linux Arm64 and Apple M1 testing in the Math library, ensuring better reliability and accuracy for 128-bit long double computations. The Multiprecision library also adds Arm64 continuous integration testing, improving compatibility and stability for high-precision workloads on Arm-based systems.
 
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://github.com/boostorg/wiki/wiki/Getting-Started%3A-Overview#installing-boost
+      official_docs: "https://github.com/boostorg/wiki/wiki/Getting-Started%3A-Overview#installing-boost"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.82.0
       release_date: 2023/04/14
-      reference_content: https://www.boost.org/releases/1.82.0/
+      reference_content: "https://www.boost.org/releases/1.82.0/"
       rationale: This version introduces official Linux Arm64 and Apple M1 testing in the Math library, ensuring better reliability and accuracy for 128-bit long double computations. The Multiprecision library also adds Arm64 continuous integration testing, improving compatibility and stability for high-precision workloads on Arm-based systems.
 
     getting_started_resources:

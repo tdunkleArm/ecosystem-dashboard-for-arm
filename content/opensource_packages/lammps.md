@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/choosing-compilers-for-arm-hpc
+      arm_content: "https://community.arm.com/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/choosing-compilers-for-arm-hpc"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/hpc/best-practices-for-running-molecular-dynamics-simulations-on-aws-graviton3e/
-      official_docs: https://docs.lammps.org/Build_make.html
+          url: "https://aws.amazon.com/blogs/hpc/best-practices-for-running-molecular-dynamics-simulations-on-aws-graviton3e/"
+      official_docs: "https://docs.lammps.org/Build_make.html"
 
 optional_info:
   homepage_url: https://www.lammps.org/

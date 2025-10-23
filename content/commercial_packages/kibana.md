@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/11/11
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring
-      vendor_announcement: https://www.elastic.co/support/matrix
-      official_docs: https://www.elastic.co/guide/en/kibana/current/get-started.html
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/an-approach-to-edge-compute-observability-and-performance-monitoring"
+      vendor_announcement: "https://www.elastic.co/support/matrix"
+      official_docs: "https://www.elastic.co/guide/en/kibana/current/get-started.html"
 
 optional_info:
     homepage_url: https://www.elastic.co/kibana

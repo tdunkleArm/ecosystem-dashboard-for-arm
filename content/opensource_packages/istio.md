@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.15
       release_date: 2022/10/27
-      reference_content: https://tetrate.io/blog/the-arm64-processor-is-now-supported-in-istio-1-15/
+      reference_content: "https://tetrate.io/blog/the-arm64-processor-is-now-supported-in-istio-1-15/"
       rationale: Istio version 1.15 introduced official support for the Arm64 architecture across both its data plane and control plane components. Prior to this release, while the data plane (Envoy) had Arm64 support, the control plane did not. This version ensures comprehensive functionality on Arm-based servers without the need for manual image builds.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/deploying-tetrate-istio-distribution-for-arm-neoverse-based-aws-graviton-processors
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/deploying-tetrate-istio-distribution-for-arm-neoverse-based-aws-graviton-processors"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/opensource/getting-started-with-istio-on-amazon-eks/
-      official_docs: https://github.com/istio/istio/wiki
+          url: "https://aws.amazon.com/blogs/opensource/getting-started-with-istio-on-amazon-eks/"
+      official_docs: "https://github.com/istio/istio/wiki"
 
 optional_info:
   homepage_url: https://istio.io/

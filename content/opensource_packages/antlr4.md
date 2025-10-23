@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/antlr/antlr4/blob/master/doc/building-antlr.md
+      official_docs: "https://github.com/antlr/antlr4/blob/master/doc/building-antlr.md"
 
   - platform: Windows
     supported_minimum_version:
@@ -36,7 +36,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/antlr/antlr4/blob/master/doc/building-antlr.md
+      official_docs:
 
 optional_info:
     homepage_url: https://github.com/antlr/antlr4

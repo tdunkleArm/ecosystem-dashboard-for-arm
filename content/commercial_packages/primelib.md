@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://news.synopsys.com/2021-04-21-Synopsys-Introduces-PrimeLib-Unified-Library-Characterization-and-Validation-Solution-for-Accelerated-Access-to-Advanced-Process-Nodes
+      vendor_announcement: "https://news.synopsys.com/2021-04-21-Synopsys-Introduces-PrimeLib-Unified-Library-Characterization-and-Validation-Solution-for-Accelerated-Access-to-Advanced-Process-Nodes"
       official_docs: 
 
 optional_info:

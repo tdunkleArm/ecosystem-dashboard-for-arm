@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/logzio/logzio-agent-manifest?tab=readme-ov-file#running-the-agent-script
+      official_docs: "https://github.com/logzio/logzio-agent-manifest?tab=readme-ov-file#running-the-agent-script"
 
 optional_info:
     homepage_url: https://logz.io/

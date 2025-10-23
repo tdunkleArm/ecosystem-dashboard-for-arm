@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://apache.github.io/xalan-c/build.html
+      official_docs: "https://apache.github.io/xalan-c/build.html"
 
 optional_info:
     homepage_url: https://apache.github.io/xalan-c/introduction.html

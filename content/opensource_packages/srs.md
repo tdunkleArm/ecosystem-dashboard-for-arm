@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://ossrs.io/lts/en-us/docs/v5/doc/getting-started-build
+      official_docs: "https://ossrs.io/lts/en-us/docs/v5/doc/getting-started-build"
 
 optional_info:
     homepage_url: https://ossrs.io/lts/en-us/

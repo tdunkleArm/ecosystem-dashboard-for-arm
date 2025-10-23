@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.0.118
       release_date: 2024/08/13
-      reference_content: https://github.com/moosefs/moosefs/releases/tag/v3.0.118
+      reference_content: "https://github.com/moosefs/moosefs/releases/tag/v3.0.118"
       rationale: MooseFS is made cross-build friendly in this version. That means, we can expect MooseFS to be built on x86_64 to target ARM64, which can assist x86-host users in accessing ARM artifacts.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/moosefs/moosefs?tab=readme-ov-file#getting-started
+      official_docs: "https://github.com/moosefs/moosefs?tab=readme-ov-file#getting-started"
 
 optional_info:
     homepage_url: https://moosefs.com/

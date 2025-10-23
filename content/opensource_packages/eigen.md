@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://eigen.tuxfamily.org/dox/GettingStarted.html#title1
+      official_docs: "https://eigen.tuxfamily.org/dox/GettingStarted.html#title1"
 
   - platform: Windows
     supported_minimum_version:

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.repeatmasker.org/rmblast/
+      official_docs: "https://www.repeatmasker.org/rmblast/"
 
 optional_info:
     homepage_url: https://www.repeatmasker.org/rmblast/

@@ -12,11 +12,11 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: null
-      vendor_announcement: https://docs.oracle.com/en/learn/ol-db-arm/index.html#introduction
-      official_docs: https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/operating-system-reqs-arm.html
+      vendor_announcement: "https://docs.oracle.com/en/learn/ol-db-arm/index.html#introduction"
+      official_docs: "https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/operating-system-reqs-arm.html"
       partner_content:
         - display_name: Oracle OCI
-          url: https://docs.oracle.com/en/learn/ol-db-arm/index.html
+          url: "https://docs.oracle.com/en/learn/ol-db-arm/index.html"
 
 optional_info:
   homepage_url: https://www.oracle.com/database/

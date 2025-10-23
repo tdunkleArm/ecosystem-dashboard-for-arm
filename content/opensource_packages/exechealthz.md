@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/kubernetes-retired/contrib/tree/master/exec-healthz#how-to-release
+      official_docs: "https://github.com/kubernetes-retired/contrib/tree/master/exec-healthz#how-to-release"
 
 optional_info:
     homepage_url: https://github.com/kubernetes-retired/contrib/tree/master/exec-healthz

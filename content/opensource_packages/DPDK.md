@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 23.03
       release_date: 2023/03/31
-      reference_content: https://doc.dpdk.org/guides/rel_notes/release_23_03.html
+      reference_content: "https://doc.dpdk.org/guides/rel_notes/release_23_03.html"
       rationale: This version adds power monitor and wake up API support with WFE/SVE instructions for the Arm architecture.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/dpdk-optimization-on-arm
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/dpdk-optimization-on-arm"
       partner_content:
         - display_name: Ampere
-          url: https://amperecomputing.com/tuning-guides/DPDK-setup-and-tuning-guide
-      official_docs: https://core.dpdk.org/doc/quick-start/
+          url: "https://amperecomputing.com/tuning-guides/DPDK-setup-and-tuning-guide"
+      official_docs: "https://core.dpdk.org/doc/quick-start/"
 
   - platform: Windows
     supported_minimum_version:
@@ -32,7 +32,7 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 23.03
       release_date: 2023/03/31
-      reference_content: https://doc.dpdk.org/guides/rel_notes/release_23_03.html
+      reference_content: "https://doc.dpdk.org/guides/rel_notes/release_23_03.html"
       rationale: This version adds power monitor and wake up API support with WFE/SVE instructions for the Arm architecture.
 
     getting_started_resources:

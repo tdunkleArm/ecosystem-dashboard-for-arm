@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/apache/accumulo/tree/rel/2.1.0?tab=readme-ov-file#building
+      official_docs: "https://github.com/apache/accumulo/tree/rel/2.1.0?tab=readme-ov-file#building"
 
 optional_info:
     homepage_url: https://accumulo.apache.org/

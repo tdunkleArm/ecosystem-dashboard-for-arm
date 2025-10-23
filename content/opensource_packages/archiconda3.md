@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/Archiconda/build-tools?tab=readme-ov-file#archiconda3
+      official_docs: "https://github.com/Archiconda/build-tools?tab=readme-ov-file#archiconda3"
 
 optional_info:
     homepage_url: https://github.com/Archiconda/build-tools

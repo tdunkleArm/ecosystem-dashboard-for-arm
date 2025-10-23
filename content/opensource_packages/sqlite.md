@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/sqlite/sqlite?tab=readme-ov-file#compiling-for-unix-like-systems
+      official_docs: "https://github.com/sqlite/sqlite?tab=readme-ov-file#compiling-for-unix-like-systems"
 
   - platform: Windows
     supported_minimum_version:

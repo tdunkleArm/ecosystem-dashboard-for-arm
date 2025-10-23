@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://amperecomputing.com/blogs/how-to-migrate-to-ampere-on-oci-with-heterogeneous-kubernetes-clusters
-      official_docs: https://github.com/cri-o/cri-o/blob/main/install.md
+          url: "https://amperecomputing.com/blogs/how-to-migrate-to-ampere-on-oci-with-heterogeneous-kubernetes-clusters"
+      official_docs: "https://github.com/cri-o/cri-o/blob/main/install.md"
 
 optional_info:
   homepage_url: https://cri-o.io/

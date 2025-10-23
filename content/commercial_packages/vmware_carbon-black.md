@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.vmware.com/en/VMware-Carbon-Black-Cloud/2.14.0/rn/vmware-carbon-black-cloud-linux-sensor-2140-release-notes/index.html
-      official_docs: https://docs.vmware.com/en/VMware-Carbon-Black-Cloud/services/cbc-sensor-installation-guide/GUID-76272E42-E534-47AD-8654-B2F3B5682806.html
+      vendor_announcement: "https://docs.vmware.com/en/VMware-Carbon-Black-Cloud/2.14.0/rn/vmware-carbon-black-cloud-linux-sensor-2140-release-notes/index.html"
+      official_docs: "https://docs.vmware.com/en/VMware-Carbon-Black-Cloud/services/cbc-sensor-installation-guide/GUID-76272E42-E534-47AD-8654-B2F3B5682806.html"
 
 optional_info:
     homepage_url: https://www.vmware.com/products/security/endpoint-detection-and-response

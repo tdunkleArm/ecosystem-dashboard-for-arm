@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.76.0
       release_date: 2025/03/14
-      reference_content: https://github.com/SigNoz/signoz/releases/tag/v0.76.0
+      reference_content: "https://github.com/SigNoz/signoz/releases/tag/v0.76.0"
       rationale: This version introduced a significant architectural update by consolidating the alert-manager, query-service, and frontend components into a single binary named signoz. This change simplifies deployment and may lead to performance improvements due to reduced inter-service communication overhead.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://signoz.io/docs/install/
+      official_docs: "https://signoz.io/docs/install/"
 
 optional_info:
     homepage_url: https://signoz.io/

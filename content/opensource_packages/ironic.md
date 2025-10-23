@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content:
-      official_docs: https://docs.openstack.org/ironic/latest/contributor/arm-devstack-guide.html
+      official_docs: "https://docs.openstack.org/ironic/latest/contributor/arm-devstack-guide.html"
 
 optional_info:
     homepage_url: https://opendev.org/openstack/ironic

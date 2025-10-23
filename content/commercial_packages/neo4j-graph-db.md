@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://neo4j.com/docs/operations-manual/current/installation/requirements/
+      official_docs: "https://neo4j.com/docs/operations-manual/current/installation/requirements/"
 
 optional_info:
     homepage_url: https://neo4j.com/

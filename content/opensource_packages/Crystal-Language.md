@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.4.0
       release_date: 2022/04/06
-      reference_content: https://github.com/crystal-lang/crystal/releases/tag/1.4.0
+      reference_content: "https://github.com/crystal-lang/crystal/releases/tag/1.4.0"
       rationale: This version introduced intrinsics.pause for aarch64, which is useful for busy loops inside a spinlock or a mutex implementation, and should provide some speedup in very high contention cases. Kindly refer [here](https://github.com/crystal-lang/crystal/pull/11742) for more.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://crystal-lang.org/reference/1.12/getting_started/index.html
+      official_docs: "https://crystal-lang.org/reference/1.12/getting_started/index.html"
 
 optional_info:
     homepage_url: https://crystal-lang.org/

@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/08/17
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/eks/cluster_deployment/
-      vendor_announcement: https://aws.amazon.com/blogs/containers/eks-on-graviton-generally-available/
-      official_docs: https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/eks/cluster_deployment/"
+      vendor_announcement: "https://aws.amazon.com/blogs/containers/eks-on-graviton-generally-available/"
+      official_docs: "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html"
 
 optional_info:
     homepage_url: https://aws.amazon.com/eks/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.openstack.org/taskflow/latest/user/index.html#user-guide
+      official_docs: "https://docs.openstack.org/taskflow/latest/user/index.html#user-guide"
 
 optional_info:
     homepage_url: https://docs.openstack.org/taskflow/latest/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md
+      official_docs: "https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md"
 
 optional_info:
     homepage_url: https://firecracker-microvm.github.io/

@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/pezmaster31/bamtools/wiki/Building-and-installing
+      official_docs: "https://github.com/pezmaster31/bamtools/wiki/Building-and-installing"
 
 optional_info:
     homepage_url: https://hcc.unl.edu/docs/applications/app_specific/bioinformatics_tools/data_manipulation_tools/bamtools/

@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Alibaba Cloud
-          url: https://www.alibabacloud.com/help/en/linkvisual/link-visual-enterprise-edition/developer-reference/use-the-linkvisual-sdk
-      official_docs: https://github.com/DaveGamble/cJSON?tab=readme-ov-file#building
+          url: "https://www.alibabacloud.com/help/en/linkvisual/link-visual-enterprise-edition/developer-reference/use-the-linkvisual-sdk"
+      official_docs: "https://github.com/DaveGamble/cJSON?tab=readme-ov-file#building"
 
 optional_info:
   homepage_url: https://github.com/DaveGamble/cJSON

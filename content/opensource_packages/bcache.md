@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://bcache.evilpiepirate.org/#index3h1
+      official_docs: "https://bcache.evilpiepirate.org/#index3h1"
 
 optional_info:
     homepage_url: https://bcache.evilpiepirate.org/

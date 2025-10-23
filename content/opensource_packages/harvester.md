@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: SUSE
-          url: https://www.suse.com/c/how-to-easily-deploy-harvester-on-arm-based-servers/
-      official_docs: https://docs.harvesterhci.io/
+          url: "https://www.suse.com/c/how-to-easily-deploy-harvester-on-arm-based-servers/"
+      official_docs: "https://docs.harvesterhci.io/"
 
   - platform: Windows
     supported_minimum_version:

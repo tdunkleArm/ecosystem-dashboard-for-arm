@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.nongnu.org/lzip/manual/lzip_manual.html#Introduction
+      official_docs: "https://www.nongnu.org/lzip/manual/lzip_manual.html#Introduction"
 
 optional_info:
     homepage_url: https://www.nongnu.org/lzip/

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/robherring/libdrm/blob/master/README
+      official_docs: "https://github.com/robherring/libdrm/blob/master/README"
 
 optional_info:
     homepage_url: https://gitlab.freedesktop.org/mesa/drm

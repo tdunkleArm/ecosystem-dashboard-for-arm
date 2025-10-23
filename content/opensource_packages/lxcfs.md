@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://linuxcontainers.org/lxcfs/getting-started/
+      official_docs: "https://linuxcontainers.org/lxcfs/getting-started/"
 
 optional_info:
     homepage_url: https://linuxcontainers.org/lxcfs/introduction/

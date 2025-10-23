@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 7.2
       release_date: 2025/01/14
-      reference_content: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-7.2.rst
+      reference_content: "https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-7.2.rst"
       rationale: Robot Framework 7.2 is a feature release with JSON output support, GROUP syntax for grouping keywords and control structures, new Libdoc technology including translations, enhancements for working with bytes and binary data, and various other features and fixes.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://robotframework.org/#getting-started
+      official_docs: "https://robotframework.org/#getting-started"
 
 optional_info:
     homepage_url: https://robotframework.org/

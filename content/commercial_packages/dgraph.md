@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://discuss.dgraph.io/t/dgraph-release-v22-0-2-is-now-generally-available/18117
-      official_docs: https://dgraph.io/docs
+      vendor_announcement: "https://discuss.dgraph.io/t/dgraph-release-v22-0-2-is-now-generally-available/18117"
+      official_docs: "https://dgraph.io/docs"
 
 optional_info:
     homepage_url: https://dgraph.io/

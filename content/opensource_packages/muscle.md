@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://drive5.com/muscle5/manual/install.html
+      official_docs: "https://drive5.com/muscle5/manual/install.html"
 
 optional_info:
     homepage_url: https://drive5.com/muscle/

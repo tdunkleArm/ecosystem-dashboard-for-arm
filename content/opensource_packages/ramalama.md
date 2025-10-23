@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/containers/ramalama#install
+      official_docs: "https://github.com/containers/ramalama#install"
 
 optional_info:
     homepage_url: https://ramalama.ai/

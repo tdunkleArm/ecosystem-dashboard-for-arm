@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/TencentBlueKing/bk-cmdb/blob/master/docs/overview/source_compile.md
+      official_docs: "https://github.com/TencentBlueKing/bk-cmdb/blob/master/docs/overview/source_compile.md"
 
 optional_info:
     homepage_url: https://github.com/TencentBlueKing/bk-cmdb

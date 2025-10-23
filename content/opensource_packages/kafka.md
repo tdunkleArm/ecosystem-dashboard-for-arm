@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.5.0
       release_date: 2023/06/15
-      reference_content: https://kafka.apache.org/blog#apache_kafka_350_release_announcement
+      reference_content: "https://kafka.apache.org/blog#apache_kafka_350_release_announcement"
       rationale: Kafka 3.5.0 includes a significant number of new features and fixes, including improing Kafka Connect and MirrorMaker 2. They aren't ARM specific, but can benefit all architectures, including Linux/ARM64.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/kafka/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/developer/tuning-apache-kafka-and-confluent-platform-for-graviton2-using-amazon-corretto/
-      official_docs: https://github.com/apache/kafka?tab=readme-ov-file#apache-kafka
+          url: "https://aws.amazon.com/blogs/developer/tuning-apache-kafka-and-confluent-platform-for-graviton2-using-amazon-corretto/"
+      official_docs: "https://github.com/apache/kafka?tab=readme-ov-file#apache-kafka"
 
 optional_info:
   homepage_url: https://kafka.apache.org/

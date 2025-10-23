@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 6.29.0
       release_date: 2024/10/09
-      reference_content: https://github.com/buildkite/elastic-ci-stack-for-aws/releases/tag/v6.29.0
+      reference_content: "https://github.com/buildkite/elastic-ci-stack-for-aws/releases/tag/v6.29.0"
       rationale: This version extends full compatibility to the latest Graviton4-based m8g instances, ensuring access to the newest generation of Arm performance on AWS. This builds on a strong history of Arm support in the stack, which began with experimental Arm instance compatibility in v5.1.0 and steadily expanded to include Graviton2 (c6gn) and later Graviton3 families (c7g, m7g, r7g) as well as other specialized Arm instance types like g5g, lm4gn, lm4gen, and x2gd in the previous versions.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://buildkite.com/docs/agent/v3/elastic-ci-aws
+      official_docs: "https://buildkite.com/docs/agent/v3/elastic-ci-aws"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,7 +30,7 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 6.29.0
       release_date: 2024/10/09
-      reference_content: https://github.com/buildkite/elastic-ci-stack-for-aws/releases/tag/v6.29.0
+      reference_content: "https://github.com/buildkite/elastic-ci-stack-for-aws/releases/tag/v6.29.0"
       rationale: This version extends full compatibility to the latest Graviton4-based m8g instances, ensuring access to the newest generation of Arm performance on AWS. This builds on a strong history of Arm support in the stack, which began with experimental Arm instance compatibility in v5.1.0 and steadily expanded to include Graviton2 (c6gn) and later Graviton3 families (c7g, m7g, r7g) as well as other specialized Arm instance types like g5g, lm4gn, lm4gen, and x2gd in the previous versions.
 
     getting_started_resources:

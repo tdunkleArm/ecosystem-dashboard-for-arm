@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/heketi/heketi/tree/master/docs/
+      official_docs: "https://github.com/heketi/heketi/tree/master/docs/"
 
 optional_info:
     homepage_url: https://github.com/heketi/heketi

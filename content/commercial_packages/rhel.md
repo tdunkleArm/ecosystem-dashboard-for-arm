@@ -11,14 +11,14 @@ platforms-supported:
     release_date_on_arm: 2018/04/10
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/software-innovations-with-red-hat-and-arm
-      vendor_announcement: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.5_release_notes/chap-red_hat_enterprise_linux-7.5_release_notes-architectures
-      official_docs: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/chap-simple-install
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/software-innovations-with-red-hat-and-arm"
+      vendor_announcement: "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.5_release_notes/chap-red_hat_enterprise_linux-7.5_release_notes-architectures"
+      official_docs: "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/chap-simple-install"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/aws/now-available-bare-metal-arm-based-ec2-instances/
+          url: "https://aws.amazon.com/blogs/aws/now-available-bare-metal-arm-based-ec2-instances/"
         - display_name: Google GCP
-          url: https://cloud.google.com/compute/docs/images/os-details
+          url: "https://cloud.google.com/compute/docs/images/os-details"
 
 optional_info:
   homepage_url: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux

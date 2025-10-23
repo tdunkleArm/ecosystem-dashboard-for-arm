@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.15.0
       release_date: 2024/10/22
-      reference_content: https://github.com/webmproject/libvpx/blob/main/CHANGELOG
+      reference_content: "https://github.com/webmproject/libvpx/blob/main/CHANGELOG"
       rationale: This version introduces several performance improvements, particularly for Arm64/Aarch64 platforms. It includes new NEON optimizations delivering 1–3% speedups for real-time (RTC) encoding and up to 7% gains for high bitdepth video-on-demand (VoD) workloads. The update also resolves numerous platform-specific issues, including build failures on Aarch64.
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/documentation/102651/a/Use-case--improving-VP9-performance
+      arm_content: "https://developer.arm.com/documentation/102651/a/Use-case--improving-VP9-performance"
       partner_content:
-      official_docs: https://github.com/webmproject/libvpx/blob/main/README
+      official_docs: "https://github.com/webmproject/libvpx/blob/main/README"
 
 optional_info:
     homepage_url: https://www.webmproject.org/code/

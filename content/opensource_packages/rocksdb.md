@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.20.0
       release_date: 2022/08/08
-      reference_content: https://www.alibabacloud.com/blog/flink-state---backend-improvements-and-evolution-in-2021_599218
+      reference_content: "https://www.alibabacloud.com/blog/flink-state---backend-improvements-and-evolution-in-2021_599218"
       rationale: Version [6.20.0](https://github.com/facebook/rocksdb/releases/tag/v6.20.3) introduced performance improvements for ARM, to relax CPU for better performance. This update addressed previous limitations, enabling Flink jobs and other applications to run efficiently on Arm servers. 
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/facebook/rocksdb/blob/main/INSTALL.md
+      official_docs: "https://github.com/facebook/rocksdb/blob/main/INSTALL.md"
 
 optional_info:
     homepage_url: https://rocksdb.org/

@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content:
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch"
       partner_content:
-      official_docs:
+      official_docs: "https://scipy.org/install/"
 
   - platform: Windows
     supported_minimum_version:
@@ -42,10 +42,6 @@ optional_info:
     homepage_url: https://scipy.org/
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/aarch64-docker-images-for-tensorflow-and-pytorch
-        partner_content:
-        official_docs: https://scipy.org/install/
 
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/scipy/scipy/releases/tag/v1.5.3

@@ -18,9 +18,9 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/oss-platforms/w/docs/457/n1sdp-getting-started-guide
+      arm_content: "https://community.arm.com/oss-platforms/w/docs/457/n1sdp-getting-started-guide"
       partner_content:
-      official_docs: https://ubuntu.com/server/docs/installation
+      official_docs: "https://ubuntu.com/server/docs/installation"
 
 optional_info:
   homepage_url: https://ubuntu.com/

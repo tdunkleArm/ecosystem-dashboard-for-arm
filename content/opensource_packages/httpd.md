@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: null
       partner_content:
-      official_docs: https://httpd.apache.org/docs/
+      official_docs: "https://httpd.apache.org/docs/"
 
 optional_info:
   homepage_url: https://httpd.apache.org/

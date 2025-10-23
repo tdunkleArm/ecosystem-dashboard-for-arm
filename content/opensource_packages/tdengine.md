@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/taosdata/TDengine?tab=readme-ov-file#build-tdengine
+      official_docs: "https://github.com/taosdata/TDengine?tab=readme-ov-file#build-tdengine"
 
 optional_info:
     homepage_url: https://docs.tdengine.com

@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 6.0.9
       release_date: 2022/12/07
-      reference_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-redis-performance-by-deploying-on-alibaba-cloud-yitian-710-instances
+      reference_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/improve-redis-performance-by-deploying-on-alibaba-cloud-yitian-710-instances"
       rationale: Benchmarking is done on Redis 6.0.9.
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/learning-paths/servers-and-cloud-computing/redis/
+      arm_content: "https://learn.arm.com/learning-paths/servers-and-cloud-computing/redis/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/elasticache/redis/
-      official_docs: https://github.com/redis/redis/#readme
+          url: "https://aws.amazon.com/elasticache/redis/"
+      official_docs: "https://github.com/redis/redis/#readme"
 
 optional_info:
   homepage_url: https://redis.io/

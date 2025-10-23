@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.25.0
       release_date: 2022/02/28
-      reference_content: https://github.com/thanos-io/thanos/releases/tag/v0.25.0-rc.0
+      reference_content: "https://github.com/thanos-io/thanos/releases/tag/v0.25.0-rc.0"
       rationale: This version supported docker images for arm64.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/q-a-with-priyanka-sharma-for-arm-devsummit-2020
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/q-a-with-priyanka-sharma-for-arm-devsummit-2020"
       partner_content:
-      official_docs: https://thanos.io/tip/thanos/getting-started.md/
+      official_docs: "https://thanos.io/tip/thanos/getting-started.md/"
 
 optional_info:
     homepage_url: https://thanos.io/

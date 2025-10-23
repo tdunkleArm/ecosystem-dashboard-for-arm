@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Alibaba Cloud
-          url: https://topic.alibabacloud.com/a/installation-and-use-of-log4cplus-under-linux-__linux_1_16_20277870.html
-      official_docs: https://github.com/log4cplus/log4cplus?tab=readme-ov-file#installation-instruction
+          url: "https://topic.alibabacloud.com/a/installation-and-use-of-log4cplus-under-linux-__linux_1_16_20277870.html"
+      official_docs: "https://github.com/log4cplus/log4cplus?tab=readme-ov-file#installation-instruction"
 
 optional_info:
   homepage_url: https://github.com/log4cplus/log4cplus

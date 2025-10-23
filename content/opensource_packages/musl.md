@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.musl-libc.org/how.html
+      official_docs: "https://www.musl-libc.org/how.html"
 
 optional_info:
     homepage_url: https://www.musl-libc.org/

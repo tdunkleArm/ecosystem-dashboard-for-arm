@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 7.4.5
       release_date: 2024/09/30
-      reference_content: https://doc.beegfs.io/7.4.5/release_notes.html
+      reference_content: "https://doc.beegfs.io/7.4.5/release_notes.html"
       rationale: This version extends AArch64 architecture support to Ubuntu 24.04 by providing official beeGFS packages for AArch64. Prior supported distributions are RHEL 8 and 9 (packages can also be used on RockyLinux and Alma Linux), SLES 15, Debian 10, 11 and 12, Ubuntu 18.04, 20.04 and 22.04.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/ThinkParQ/beegfs#build-instructions
+      official_docs: "https://github.com/ThinkParQ/beegfs#build-instructions"
 
 optional_info:
     homepage_url: https://www.beegfs.io/c/

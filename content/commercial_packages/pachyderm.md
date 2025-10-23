@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.pachyderm.com/blog/pachyderm-2-3-release/
-      official_docs: https://docs.pachyderm.com/products/mldm/latest/get-started/first-time-setup/#first-time-setup-2-install-pachctl-cli
+      vendor_announcement: "https://www.pachyderm.com/blog/pachyderm-2-3-release/"
+      official_docs: "https://docs.pachyderm.com/products/mldm/latest/get-started/first-time-setup/#first-time-setup-2-install-pachctl-cli"
 
 optional_info:
     homepage_url: https://www.pachyderm.com/

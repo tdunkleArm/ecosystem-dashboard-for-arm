@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://newsroom.sw.siemens.com/en-US/siemens-solido-variation-designer-aws-gravitron-arm/
-      official_docs: https://www.eda-solutions.com/app/uploads/2021/02/Solido-Variation-Designer-FS-81748-D3.pdf
+      vendor_announcement: "https://newsroom.sw.siemens.com/en-US/siemens-solido-variation-designer-aws-gravitron-arm/"
+      official_docs: "https://www.eda-solutions.com/app/uploads/2021/02/Solido-Variation-Designer-FS-81748-D3.pdf"
 
 optional_info:
     homepage_url: https://resources.sw.siemens.com/en-US/fact-sheet-solido-variation-designer

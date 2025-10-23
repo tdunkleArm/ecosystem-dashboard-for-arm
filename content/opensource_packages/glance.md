@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.openstack.org/glance/latest/install/install-ubuntu.html#install-and-configure-components
+      official_docs: "https://docs.openstack.org/glance/latest/install/install-ubuntu.html#install-and-configure-components"
 
 optional_info:
     homepage_url: https://opendev.org/openstack/glance

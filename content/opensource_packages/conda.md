@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/anaconda/
+      arm_content: "https://learn.arm.com/install-guides/anaconda/"
       partner_content:
-      official_docs: https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
+      official_docs: "https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html"
 
 optional_info:
     homepage_url: https://docs.conda.io/projects/conda/en/stable/

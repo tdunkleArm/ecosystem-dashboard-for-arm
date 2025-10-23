@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://help.split.io/hc/en-us/articles/360020359652-Python-SDK
+      official_docs: "https://help.split.io/hc/en-us/articles/360020359652-Python-SDK"
 
 optional_info:
     homepage_url: https://github.com/splitio/python-client

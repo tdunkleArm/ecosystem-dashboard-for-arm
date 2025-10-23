@@ -14,13 +14,13 @@ platforms:
     arm_recommended_minimum_version:
       version_number: 3.23.0
       release_date: 2024/04/26
-      reference_content: https://valgrind.org/docs/manual/dist.news.html
+      reference_content: "https://valgrind.org/docs/manual/dist.news.html"
       rationale: In this version, support for FreeBSD and dotprod instructions (sdot/udot) were added for Arm64.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/valgrind-3-10-0-supports-64-bit-armv8
+      arm_content: "https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/valgrind-3-10-0-supports-64-bit-armv8"
       partner_content: 
-      official_docs: https://valgrind.org/docs/manual/manual.html
+      official_docs: "https://valgrind.org/docs/manual/manual.html"
 
 optional_info:
     homepage_url: https://valgrind.org/

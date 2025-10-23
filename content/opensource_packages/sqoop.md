@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://sqoop.apache.org/docs/1.99.7/dev/BuildingSqoop2.html
+      official_docs: "https://sqoop.apache.org/docs/1.99.7/dev/BuildingSqoop2.html"
 
 optional_info:
     homepage_url: https://sqoop.apache.org/

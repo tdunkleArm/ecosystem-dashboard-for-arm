@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.21.3
       release_date: 2024/10/03
-      reference_content: https://github.com/spack/spack/releases/tag/v0.21.3
+      reference_content: "https://github.com/spack/spack/releases/tag/v0.21.3"
       rationale: This version bumps archspec to 0.2.5-dev for better aarch64 support.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/arm-compiler-for-linux-and-arm-pl-now-available-in-spack
+      arm_content: "https://community.arm.com/arm-community-blogs/b/high-performance-computing-blog/posts/arm-compiler-for-linux-and-arm-pl-now-available-in-spack"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/hpc/introducing-the-spack-rolling-binary-cache/
-      official_docs: https://spack.readthedocs.io/en/latest/index.html
+          url: "https://aws.amazon.com/blogs/hpc/introducing-the-spack-rolling-binary-cache/"
+      official_docs: "https://spack.readthedocs.io/en/latest/index.html"
 
 optional_info:
   homepage_url: https://spack.readthedocs.io/en/latest/index.html

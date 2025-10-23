@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://blogs.oracle.com/mysql/post/deploy-wordpress-joomla-and-drupal-with-heatwave-always-free-db-system-in-oracle-cloud-infrastructure
-      official_docs: https://docs.joomla.org/J3.x:Getting_Started_with_Joomla!
+          url: "https://blogs.oracle.com/mysql/post/deploy-wordpress-joomla-and-drupal-with-heatwave-always-free-db-system-in-oracle-cloud-infrastructure"
+      official_docs: "https://docs.joomla.org/J3.x:Getting_Started_with_Joomla!"
 
 optional_info:
   homepage_url: https://www.joomla.org

@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       vendor_announcement: 
-      official_docs: https://www.comsol.com/system-requirements/
+      official_docs: "https://www.comsol.com/system-requirements/"
 
 optional_info:
     homepage_url: https://www.comsol.com/products

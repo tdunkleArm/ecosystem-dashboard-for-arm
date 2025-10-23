@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/comet-ml/kangas?tab=readme-ov-file#getting-started
+      official_docs: "https://github.com/comet-ml/kangas?tab=readme-ov-file#getting-started"
 
 optional_info:
     homepage_url: https://github.com/comet-ml/kangas/wiki

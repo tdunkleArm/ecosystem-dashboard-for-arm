@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: v2025.1.0.1 
       release_date: 2025/08/05
-      reference_content: https://docs.yugabyte.com/preview/releases/ybdb-releases/v2025.1/#v2025.1.0.1
+      reference_content: "https://docs.yugabyte.com/preview/releases/ybdb-releases/v2025.1/#v2025.1.0.1"
       rationale: In this release, OpenSSL was upgraded to version 3.0.16 which enhances AArch64 support.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/apn/yugabytedb-on-aws-graviton-the-winning-combination-for-distributed-sql-developers/
-      official_docs: https://download.yugabyte.com/#linux
+          url: "https://aws.amazon.com/blogs/apn/yugabytedb-on-aws-graviton-the-winning-combination-for-distributed-sql-developers/"
+      official_docs: "https://download.yugabyte.com/#linux"
 
 optional_info:
   homepage_url: https://docs.yugabyte.com/

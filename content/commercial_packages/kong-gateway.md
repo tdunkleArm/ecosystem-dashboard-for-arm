@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://konghq.com/blog/engineering/validated-aws-graviton3-al2023
-      official_docs: https://docs.konghq.com/gateway/3.2.x/get-started/
+      vendor_announcement: "https://konghq.com/blog/engineering/validated-aws-graviton3-al2023"
+      official_docs: "https://docs.konghq.com/gateway/3.2.x/get-started/"
 
   - platform: Windows
     release_date_on_arm:

@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://github.com/honeycombio/honeytail/releases/tag/v1.1.0
-      official_docs: https://docs.honeycomb.io/getting-data-in/logs/honeytail/#installation
+      vendor_announcement: "https://github.com/honeycombio/honeytail/releases/tag/v1.1.0"
+      official_docs: "https://docs.honeycomb.io/getting-data-in/logs/honeytail/#installation"
 
 optional_info:
     homepage_url: https://docs.honeycomb.io/getting-data-in/logs/honeytail/

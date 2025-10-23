@@ -11,9 +11,9 @@ platforms-supported:
     release_date_on_arm: 2020/10/01
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/isv-ecosystem-for-arm-neoverse
-      vendor_announcement: https://snyk.io/blog/scanning-arm-container-images-with-snyk/
-      official_docs: https://docs.snyk.io/getting-started
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/isv-ecosystem-for-arm-neoverse"
+      vendor_announcement: "https://snyk.io/blog/scanning-arm-container-images-with-snyk/"
+      official_docs: "https://docs.snyk.io/getting-started"
 
 optional_info:
     homepage_url: https://docs.snyk.io/

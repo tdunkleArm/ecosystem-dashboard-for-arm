@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 3.14.0
       release_date: 2025/02/18
-      reference_content: https://github.com/kata-containers/kata-containers/releases/tag/3.14.0
+      reference_content: "https://github.com/kata-containers/kata-containers/releases/tag/3.14.0"
       rationale: This release has various fixes to make the rootfs build on aarch64, fixed arm64 kernel build issue, and switched to GitHub Actions ARM runners.
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64"
       partner_content:
-      official_docs: https://github.com/kata-containers/kata-containers/tree/main/docs/install
+      official_docs: "https://github.com/kata-containers/kata-containers/tree/main/docs/install"
 
 optional_info:
     homepage_url: https://katacontainers.io/

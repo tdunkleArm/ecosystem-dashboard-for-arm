@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://shiro.apache.org/10-minute-tutorial.html
+      official_docs: "https://shiro.apache.org/10-minute-tutorial.html"
 
 optional_info:
     homepage_url: https://shiro.apache.org/

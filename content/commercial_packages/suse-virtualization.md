@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.suse.com/c/suse-virtualization-1-5-prime-more-value-less-lock-in/
-      official_docs: https://documentation.suse.com/cloudnative/virtualization/v1.5/en/introduction/overview.html
+      vendor_announcement: "https://www.suse.com/c/suse-virtualization-1-5-prime-more-value-less-lock-in/"
+      official_docs: "https://documentation.suse.com/cloudnative/virtualization/v1.5/en/introduction/overview.html"
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/virtualization/

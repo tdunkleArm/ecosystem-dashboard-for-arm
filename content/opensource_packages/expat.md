@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.6.2
       release_date: 2024/03/13
-      reference_content: https://github.com/libexpat/libexpat/blob/R_2_6_2/expat/Changes
+      reference_content: "https://github.com/libexpat/libexpat/blob/R_2_6_2/expat/Changes"
       rationale: This version resolved the security vulnerability, CVE-2024-28757, which prevented billion laugh attack with the isolated use of external parsers. The "Billion Laughs" attack is a denial-of-service attack targeting XML parsers, which can cause the parser to consume massive memory and CPU, ultimately crashing the application.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/libexpat/libexpat#building-from-a-git-clone
+      official_docs: "https://github.com/libexpat/libexpat#building-from-a-git-clone"
 
   - platform: Windows
     supported_minimum_version:
@@ -30,13 +30,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.6.2
       release_date: 2024/03/13
-      reference_content: https://github.com/libexpat/libexpat/blob/R_2_6_2/expat/Changes
+      reference_content: "https://github.com/libexpat/libexpat/blob/R_2_6_2/expat/Changes"
       rationale: This version resolved the security vulnerability, CVE-2024-28757, which prevented billion laugh attack with the isolated use of external parsers. The "Billion Laughs" attack is a denial-of-service attack targeting XML parsers, which can cause the parser to consume massive memory and CPU, ultimately crashing the application.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://github.com/libexpat/libexpat#building-from-a-git-clone
+      official_docs:
 
 optional_info:
     homepage_url: https://libexpat.github.io

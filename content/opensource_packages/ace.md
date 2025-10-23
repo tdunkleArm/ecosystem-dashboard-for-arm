@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/ajaxorg/ace?tab=readme-ov-file#building-ace
+      official_docs: "https://github.com/ajaxorg/ace?tab=readme-ov-file#building-ace"
 
 optional_info:
     homepage_url: https://ace.c9.io/

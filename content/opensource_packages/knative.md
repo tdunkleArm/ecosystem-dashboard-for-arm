@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64
+      arm_content: "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/serverless-on-arm64"
       partner_content: 
-      official_docs: https://knative.dev/docs/install/
+      official_docs: "https://knative.dev/docs/install/"
 
 optional_info:
     homepage_url: https://knative.dev

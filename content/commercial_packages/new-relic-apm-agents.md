@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://docs.newrelic.com/docs/release-notes/agent-release-notes/python-release-notes/python-agent-60800163/
-      official_docs: https://docs.newrelic.com/docs/apm/agents/python-agent/getting-started/introduction-new-relic-python/
+      vendor_announcement: "https://docs.newrelic.com/docs/release-notes/agent-release-notes/python-release-notes/python-agent-60800163/"
+      official_docs: "https://docs.newrelic.com/docs/apm/agents/python-agent/getting-started/introduction-new-relic-python/"
 
 optional_info:
     homepage_url: https://newrelic.com/

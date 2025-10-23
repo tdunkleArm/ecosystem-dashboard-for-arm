@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/docs/solutions/security/configure-elastic-defend/install-elastic-defend
+      official_docs: "https://www.elastic.co/docs/solutions/security/configure-elastic-defend/install-elastic-defend"
 
 optional_info:
     homepage_url: https://www.elastic.co/docs/reference/integrations/endpoint

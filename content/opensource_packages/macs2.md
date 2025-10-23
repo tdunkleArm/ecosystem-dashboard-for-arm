@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2.2.8
       release_date: 2023/05/15
-      reference_content: https://github.com/macs3-project/MACS/releases/tag/v2.2.8
+      reference_content: "https://github.com/macs3-project/MACS/releases/tag/v2.2.8"
       rationale: This version adds support for Python versions 3.6 through 3.11, along with compatibility for newer versions of NumPy and Cython. The updates have been tested on both x86 and Arm platforms, ensuring reliable performance on Linux Arm64 systems.
 
     getting_started_resources:
       arm_content: 
       partner_content:
-      official_docs: https://macs3-project.github.io/MACS/docs/INSTALL.html
+      official_docs: "https://macs3-project.github.io/MACS/docs/INSTALL.html"
 
 optional_info:
     homepage_url: https://macs3-project.github.io/MACS/

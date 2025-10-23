@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://dgraph.io/docs/dgraph-overview/
+      official_docs: "https://dgraph.io/docs/dgraph-overview/"
 
 optional_info:
     homepage_url: https://dgraph.io/

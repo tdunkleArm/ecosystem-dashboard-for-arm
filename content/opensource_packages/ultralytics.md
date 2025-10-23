@@ -18,9 +18,9 @@ platforms-supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-research/b/articles/posts/ensuring-your-ai-is-sure
+      arm_content: "https://community.arm.com/arm-research/b/articles/posts/ensuring-your-ai-is-sure"
       partner_content:
-      official_docs: https://docs.ultralytics.com/quickstart/#install-ultralytics
+      official_docs: "https://docs.ultralytics.com/quickstart/#install-ultralytics"
 
 optional_info:
     homepage_url: https://docs.ultralytics.com/

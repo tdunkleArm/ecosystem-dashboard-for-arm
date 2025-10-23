@@ -19,7 +19,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.couchdb.org/en/stable/install/unix.html
+      official_docs: "https://docs.couchdb.org/en/stable/install/unix.html"
 
 optional_info:
     homepage_url: https://docs.couchdb.org/en/stable/intro/index.html

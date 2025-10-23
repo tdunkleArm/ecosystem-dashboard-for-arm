@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://www.debian.org/releases/buster/arm64/release-notes.en.txt
+      official_docs: "https://www.debian.org/releases/buster/arm64/release-notes.en.txt"
 
 optional_info:
     homepage_url: https://www.debian.org/

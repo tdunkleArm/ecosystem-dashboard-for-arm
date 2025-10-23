@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://blog.cloudflare.com/arms-race-ampere-altra-takes-on-aws-graviton2/
-      official_docs: https://github.com/google/brotli?tab=readme-ov-file#python
+          url: "https://blog.cloudflare.com/arms-race-ampere-altra-takes-on-aws-graviton2/"
+      official_docs: "https://github.com/google/brotli?tab=readme-ov-file#python"
 
   - platform: Windows
     supported_minimum_version:

@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 2025.1
       release_date: 2025/03/11
-      reference_content: https://manual.gromacs.org/2025.1/release-notes/2025/2025.1.html
+      reference_content: "https://manual.gromacs.org/2025.1/release-notes/2025/2025.1.html"
       rationale:  This version corrects SIMD instruction guidance for Neoverse-V2 CPUs by recommending NEON over SVE where appropriate, ensuring better runtime performance. Compiler warnings related to Arm SVE have been silenced, resulting in a cleaner and more stable build experience.
 
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://manual.gromacs.org/current/install-guide/index.html
+      official_docs: "https://manual.gromacs.org/current/install-guide/index.html"
 
 optional_info:
     homepage_url: https://www.gromacs.org/

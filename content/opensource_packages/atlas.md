@@ -14,13 +14,13 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 2.4.0
       release_date: 2025/01/02
-      reference_content: https://atlas.apache.org/#/WhatsNew-2.4
+      reference_content: "https://atlas.apache.org/#/WhatsNew-2.4"
       rationale: This version introduces key features such as downloadable search results, CouchBase hook integration, audit aging, and enhanced hook notification analysis. It adds generic ignore patterns across all hooks and introduces liveness/readiness probes. Significant performance enhancements are made in export/import, relationship handling, and lineage processing. The release improves message processing in hook consumers and adds SNAPPY compression support for HBase. Chinese character support is added to search, and major dependency upgrades are applied across the stack. UI enhancements span glossary, entity views, and text editing, and logging is now handled via Logback instead of Log4j. Docker image support has also been improved.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://atlas.apache.org/#/BuildInstallation
+      official_docs: "https://atlas.apache.org/#/BuildInstallation"
 
 optional_info:
     homepage_url: https://atlas.apache.org/#/

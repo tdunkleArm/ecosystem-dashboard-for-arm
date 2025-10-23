@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://developer.arm.com/documentation/101458/2404/Supporting-reference-information/Clang-and-LLVM-documentation
+      arm_content: "https://developer.arm.com/documentation/101458/2404/Supporting-reference-information/Clang-and-LLVM-documentation"
       partner_content:
-      official_docs: https://clang.llvm.org/get_started.html
+      official_docs: "https://clang.llvm.org/get_started.html"
 
   - platform: Windows
     supported_minimum_version:

@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: http://caffe.berkeleyvision.org/install_apt.html
+      official_docs: "http://caffe.berkeleyvision.org/install_apt.html"
 
 optional_info:
     homepage_url: http://caffe.berkeleyvision.org/

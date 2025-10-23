@@ -18,9 +18,9 @@ platforms-supported:
       rationale: 
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/deploying-mesos-and-marathon-on-an-arm-cluster
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/deploying-mesos-and-marathon-on-an-arm-cluster"
       partner_content: 
-      official_docs: https://mesos.apache.org/documentation/latest/building/
+      official_docs: "https://mesos.apache.org/documentation/latest/building/"
 
 optional_info:
     homepage_url: https://mesos.apache.org/

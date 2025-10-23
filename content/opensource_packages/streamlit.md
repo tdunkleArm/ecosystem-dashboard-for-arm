@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.streamlit.io/get-started/installation
+      official_docs: "https://docs.streamlit.io/get-started/installation"
 
 optional_info:
     homepage_url: https://streamlit.io/

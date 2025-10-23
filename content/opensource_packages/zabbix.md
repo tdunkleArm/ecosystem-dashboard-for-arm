@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.zabbix.com/documentation/current/en/manual/installation/install_from_packages/debian_ubuntu
+      official_docs: "https://www.zabbix.com/documentation/current/en/manual/installation/install_from_packages/debian_ubuntu"
 
 optional_info:
     homepage_url: https://www.zabbix.com/

@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/startups/achieve-better-price-to-performance-for-tidb-graviton2-processors/
-      official_docs: https://docs.pingcap.com/tidb-in-kubernetes/stable/deploy-cluster-on-arm64
+          url: "https://aws.amazon.com/blogs/startups/achieve-better-price-to-performance-for-tidb-graviton2-processors/"
+      official_docs: "https://docs.pingcap.com/tidb-in-kubernetes/stable/deploy-cluster-on-arm64"
 
 optional_info:
   homepage_url: https://www.pingcap.com/

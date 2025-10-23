@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 1.26.0
       release_date: 2023/03/16
-      reference_content: https://www.influxdata.com/blog/release-announcement-telegraf-oss-1-26-0/
+      reference_content: "https://www.influxdata.com/blog/release-announcement-telegraf-oss-1-26-0/"
       rationale: Linux builds are now statically built from this version.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/influxdata/telegraf/blob/master/docs/INSTALL_GUIDE.md
+      official_docs: "https://github.com/influxdata/telegraf/blob/master/docs/INSTALL_GUIDE.md"
 
 optional_info:
     homepage_url: https://www.influxdata.com/time-series-platform/telegraf/

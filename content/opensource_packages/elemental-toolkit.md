@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://rancher.github.io/elemental-toolkit/docs/getting-started/install/
+      official_docs: "https://rancher.github.io/elemental-toolkit/docs/getting-started/install/"
 
 optional_info:
     homepage_url: https://rancher.github.io/elemental-toolkit/docs/

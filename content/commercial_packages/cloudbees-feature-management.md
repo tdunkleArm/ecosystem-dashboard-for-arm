@@ -13,7 +13,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       vendor_announcement: 
-      official_docs: https://docs.cloudbees.com/docs/cloudbees-feature-management/latest/
+      official_docs: "https://docs.cloudbees.com/docs/cloudbees-feature-management/latest/"
 
 optional_info:
     homepage_url: https://www.cloudbees.com/

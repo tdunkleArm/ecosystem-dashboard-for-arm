@@ -18,9 +18,9 @@ platforms_supported:
       rationale:
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/ai-and-ml-blog/posts/building-bazel-and-tensorflow-2-x-on-aarch64
+      arm_content: "https://community.arm.com/arm-community-blogs/b/ai-and-ml-blog/posts/building-bazel-and-tensorflow-2-x-on-aarch64"
       partner_content:
-      official_docs: https://bazel.build/install/ubuntu
+      official_docs: "https://bazel.build/install/ubuntu"
 
   - platform: Windows
     supported_minimum_version:

@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/apn/scylladb-on-aws-is-a-nosql-database-built-for-gigabyte-to-petabyte-scale/
-      official_docs: https://github.com/scylladb/seastar?tab=readme-ov-file#building-seastar
+          url: "https://aws.amazon.com/blogs/apn/scylladb-on-aws-is-a-nosql-database-built-for-gigabyte-to-petabyte-scale/"
+      official_docs: "https://github.com/scylladb/seastar?tab=readme-ov-file#building-seastar"
 
 optional_info:
   homepage_url: https://seastar.io/

@@ -21,8 +21,8 @@ platforms_supported:
       arm_content: null
       partner_content:
         - display_name: Alibaba Cloud
-          url: https://www.alibabacloud.com/blog/introduction-to-openanolis-and-anolis-os_600645
-      official_docs: https://openanolis.cn/sig/Cloud-Kernel/doc/721476209221304399
+          url: "https://www.alibabacloud.com/blog/introduction-to-openanolis-and-anolis-os_600645"
+      official_docs: "https://openanolis.cn/sig/Cloud-Kernel/doc/721476209221304399"
 
 optional_info:
   homepage_url: https://openanolis.cn/

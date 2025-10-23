@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://linbit.com/drbd-user-guide/drbd-guide-9_0-en/
+      official_docs: "https://linbit.com/drbd-user-guide/drbd-guide-9_0-en/"
 
 optional_info:
     homepage_url: https://linbit.com/drbd/

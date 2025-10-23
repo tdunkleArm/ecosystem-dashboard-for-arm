@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://docs.snowflake.com/en/release-notes/clients-drivers/odbc-2022#version-2-25-3-june-21-2022
-      official_docs: https://docs.snowflake.com/en/developer-guide/odbc/odbc-linux
+      vendor_announcement: "https://docs.snowflake.com/en/release-notes/clients-drivers/odbc-2022#version-2-25-3-june-21-2022"
+      official_docs: "https://docs.snowflake.com/en/developer-guide/odbc/odbc-linux"
 
 optional_info:
     homepage_url: https://www.snowflake.com/en/

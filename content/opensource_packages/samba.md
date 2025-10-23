@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://wiki.samba.org/index.php/Installing_Samba
+      official_docs: "https://wiki.samba.org/index.php/Installing_Samba"
 
 optional_info:
     homepage_url: https://www.samba.org/

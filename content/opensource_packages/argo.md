@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://argo-cd.readthedocs.io/en/stable/getting_started/
+      official_docs: "https://argo-cd.readthedocs.io/en/stable/getting_started/"
 
 optional_info:
     homepage_url: https://argoproj.github.io/

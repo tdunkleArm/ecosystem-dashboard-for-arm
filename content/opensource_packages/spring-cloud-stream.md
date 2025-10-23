@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/spring-cloud/spring-cloud-stream?tab=readme-ov-file#building
+      official_docs: "https://github.com/spring-cloud/spring-cloud-stream?tab=readme-ov-file#building"
 
 optional_info:
     homepage_url: https://spring.io/projects/spring-cloud-stream

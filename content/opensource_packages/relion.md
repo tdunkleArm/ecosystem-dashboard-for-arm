@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://relion.readthedocs.io/en/latest/Installation.html
+      official_docs: "https://relion.readthedocs.io/en/latest/Installation.html"
 
 optional_info:
     homepage_url: https://relion.readthedocs.io/en/latest/

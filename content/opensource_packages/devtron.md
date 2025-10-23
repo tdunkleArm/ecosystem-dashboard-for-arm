@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 0.6.2
       release_date: 2022/10/13
-      reference_content: https://github.com/devtron-labs/devtron/releases/tag/v0.6.2
+      reference_content: "https://github.com/devtron-labs/devtron/releases/tag/v0.6.2"
       rationale: This release enhanced Devtron to work upon ARM based Kubernetes nodes.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/apn/enhancing-devops-efficiency-on-amazon-eks-with-devtron/
-      official_docs: https://docs.devtron.ai/resources/graviton
+          url: "https://aws.amazon.com/blogs/apn/enhancing-devops-efficiency-on-amazon-eks-with-devtron/"
+      official_docs: "https://docs.devtron.ai/resources/graviton"
 
 optional_info:
   homepage_url: https://devtron.ai/

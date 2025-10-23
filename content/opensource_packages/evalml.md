@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://evalml.alteryx.com/en/stable/install.html
+      official_docs: "https://evalml.alteryx.com/en/stable/install.html"
 
 optional_info:
     homepage_url: https://evalml.alteryx.com/en/stable/

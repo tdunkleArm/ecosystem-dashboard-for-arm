@@ -18,9 +18,9 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/rancher-kubernetes-to-the-edge
+      arm_content: "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/rancher-kubernetes-to-the-edge"
       partner_content: null
-      official_docs: https://ranchermanager.docs.rancher.com/getting-started/installation-and-upgrade/installation-requirements
+      official_docs: "https://ranchermanager.docs.rancher.com/getting-started/installation-and-upgrade/installation-requirements"
 
 optional_info:
     homepage_url: https://www.rancher.com/

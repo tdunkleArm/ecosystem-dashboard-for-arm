@@ -14,15 +14,15 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 4.5.0
       release_date: 2025/05/07
-      reference_content: https://impala.apache.org/docs/changelog-4.5.0.html
+      reference_content: "https://impala.apache.org/docs/changelog-4.5.0.html"
       rationale: This version addresses several critical issues impacting ARM-based builds and tests for Impala. It resolves failures in core unit tests like TestRuntimeFilters, DataStreamTestSlowServiceQueue, and TestStatestoredHA under ARM and UBSAN environments. A hanging issue in disk-file-test and a build failure on Rocky Linux 9 ARM are also fixed.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Microsoft Azure
-          url: https://learn.microsoft.com/en-us/connectors/impala/
-      official_docs: https://cwiki.apache.org/confluence/display/IMPALA/Building+Impala
+          url: "https://learn.microsoft.com/en-us/connectors/impala/"
+      official_docs: "https://cwiki.apache.org/confluence/display/IMPALA/Building+Impala"
 
 optional_info:
   homepage_url: https://impala.apache.org/

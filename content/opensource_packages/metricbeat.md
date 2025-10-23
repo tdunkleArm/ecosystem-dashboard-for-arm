@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html
+      official_docs: "https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html"
 
 optional_info:
     homepage_url: https://www.elastic.co/beats/metricbeat

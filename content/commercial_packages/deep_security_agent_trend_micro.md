@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://help.deepsecurity.trendmicro.com/20_0/on-premise/release-notes-dsa.html
-      official_docs: https://help.deepsecurity.trendmicro.com/20_0/on-premise/agent-install.html
+      vendor_announcement: "https://help.deepsecurity.trendmicro.com/20_0/on-premise/release-notes-dsa.html"
+      official_docs: "https://help.deepsecurity.trendmicro.com/20_0/on-premise/agent-install.html"
 
 optional_info:
     homepage_url: https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html

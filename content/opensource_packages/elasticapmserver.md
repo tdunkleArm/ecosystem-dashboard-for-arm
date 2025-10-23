@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://www.elastic.co/docs/solutions/observability/apm/get-started
+      official_docs: "https://www.elastic.co/docs/solutions/observability/apm/get-started"
 
 optional_info:
     homepage_url: https://www.elastic.co/docs/solutions/observability/apm

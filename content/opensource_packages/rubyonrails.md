@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/
-      official_docs: https://github.com/rails/rails/blob/main/README.md
+          url: "https://aws.amazon.com/blogs/aws/new-t4g-instances-burstable-performance-powered-by-aws-graviton2/"
+      official_docs: "https://github.com/rails/rails/blob/main/README.md"
 
 optional_info:
   homepage_url: https://rubyonrails.org/

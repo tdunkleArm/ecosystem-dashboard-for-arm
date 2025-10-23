@@ -14,15 +14,15 @@ platforms:
     arm_recommended_minimum_version:
       version_number: 1.7.0
       release_date: 2023/01/08
-      reference_content: https://github.com/volcano-sh/volcano/releases/tag/v1.7.0
+      reference_content: "https://github.com/volcano-sh/volcano/releases/tag/v1.7.0"
       rationale: This release starts supporting multi-arch docker images for Volcano.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/tutorial-volcano.html
-      official_docs: https://volcano.sh/en/docs/installation/#install-with-yaml-files
+          url: "https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/tutorial-volcano.html"
+      official_docs: "https://volcano.sh/en/docs/installation/#install-with-yaml-files"
 
 optional_info:
   homepage_url: https://volcano.sh/

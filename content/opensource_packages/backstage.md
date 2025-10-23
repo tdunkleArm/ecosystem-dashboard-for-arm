@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://backstage.io/docs/getting-started/
+      official_docs: "https://backstage.io/docs/getting-started/"
 
 optional_info:
     homepage_url: https://backstage.io/

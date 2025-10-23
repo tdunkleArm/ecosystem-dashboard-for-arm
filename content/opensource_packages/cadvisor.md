@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/google/cadvisor/blob/master/docs/development/build.md
+      official_docs: "https://github.com/google/cadvisor/blob/master/docs/development/build.md"
 
 optional_info:
     homepage_url: https://github.com/google/cadvisor

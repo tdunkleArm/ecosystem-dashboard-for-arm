@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://goteleport.com/docs/changelog/#438
-      official_docs: https://goteleport.com/docs/installation/
+      vendor_announcement: "https://goteleport.com/docs/changelog/#438"
+      official_docs: "https://goteleport.com/docs/installation/"
 
 optional_info:
     homepage_url: https://goteleport.com/

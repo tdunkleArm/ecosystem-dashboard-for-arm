@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Marvell
-          url: https://www.marvell.com/blogs/sonic-its-not-just-for-switches-anymore.html
-      official_docs: https://github.com/sonic-net/sonic-buildimage?tab=readme-ov-file#usage-for-arm-architecture
+          url: "https://www.marvell.com/blogs/sonic-its-not-just-for-switches-anymore.html"
+      official_docs: "https://github.com/sonic-net/sonic-buildimage?tab=readme-ov-file#usage-for-arm-architecture"
 
 optional_info:
   homepage_url: https://sonicfoundation.dev/

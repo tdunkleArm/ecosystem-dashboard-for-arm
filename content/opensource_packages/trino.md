@@ -14,13 +14,13 @@ platforms-supported:
     arm_recommended_minimum_version:
       version_number: 381
       release_date: 2022/05/16
-      reference_content: https://trino.io/docs/current/release/release-381.html#docker-image
+      reference_content: "https://trino.io/docs/current/release/release-381.html#docker-image"
       rationale: This version improved Advanced Encryption Standard (AES) processing performance on ARM64 processors. This feature is useful for operations such as accessing object storage systems via TLS/SSL.
 
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://trino.io/docs/current/installation.html
+      official_docs: "https://trino.io/docs/current/installation.html"
 
 optional_info:
     homepage_url: https://trino.io/

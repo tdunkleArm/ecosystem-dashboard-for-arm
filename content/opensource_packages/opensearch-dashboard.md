@@ -4,26 +4,28 @@ category: Content mgmt platforms
 description: OpenSearch Dashboards is an open-source visualization and management tool for exploring, analyzing, and gaining insights from data stored in OpenSearch.
 download_url: https://opensearch.org/downloads/
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.0.0
-    release_date: 2021/07/12
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.0.0
+      release_date: 2021/07/12
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://docs.opensearch.org/latest/dashboards/quickstart/"
+
 optional_info:
     homepage_url: https://opensearch.org/platform/opensearch-dashboards/
     support_caveats:  OpenSearch project is a community-driven, open source fork of Elasticsearch and Kibana, which ensures that the users continue to have a secure, high-quality, fully open source search and analytics suite with a rich roadmap of new and innovative functionality.
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://docs.opensearch.org/latest/dashboards/quickstart/
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum:

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://doc-kurento.readthedocs.io/en/latest/user/installation.html#installation-guide
+      official_docs: "https://doc-kurento.readthedocs.io/en/latest/user/installation.html#installation-guide"
 
 optional_info:
     homepage_url: https://doc-kurento.readthedocs.io/en/latest/

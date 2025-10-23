@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/xerial/snappy-java#building-from-the-source-code
+      official_docs: "https://github.com/xerial/snappy-java#building-from-the-source-code"
 
 optional_info:
     homepage_url: https://github.com/xerial/snappy-java

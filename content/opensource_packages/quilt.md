@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.quilt.bio/quilt-python-sdk/installation
+      official_docs: "https://docs.quilt.bio/quilt-python-sdk/installation"
 
 optional_info:
     homepage_url: https://www.quilt.bio/

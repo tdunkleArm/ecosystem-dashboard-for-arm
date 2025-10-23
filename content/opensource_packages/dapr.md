@@ -21,8 +21,8 @@ platforms-supported:
       arm_content: null
       partner_content:
         - display_name: Microsoft Azure
-          url: https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager?tabs=bash&pivots=container-apps-arm
-      official_docs: https://docs.dapr.io/getting-started/
+          url: "https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager?tabs=bash&pivots=container-apps-arm"
+      official_docs: "https://docs.dapr.io/getting-started/"
 
 optional_info:
   homepage_url: https://dapr.io

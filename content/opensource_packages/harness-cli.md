@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://developer.harness.io/docs/platform/automation/cli/install/
+      official_docs: "https://developer.harness.io/docs/platform/automation/cli/install/"
 
 optional_info:
     homepage_url: https://github.com/harness/harness-cli?tab=readme-ov-file#harness-cli

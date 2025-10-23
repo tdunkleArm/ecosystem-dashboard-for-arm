@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://documentation.suse.com/cloudnative/suse-observability/latest/en/setup/release-notes/v2.3.6.html
-      official_docs: https://documentation.suse.com/cloudnative/rancher-manager/latest/en/integrations/suse-observability.html
+      vendor_announcement: "https://documentation.suse.com/cloudnative/suse-observability/latest/en/setup/release-notes/v2.3.6.html"
+      official_docs: "https://documentation.suse.com/cloudnative/rancher-manager/latest/en/integrations/suse-observability.html"
 
 optional_info:
     homepage_url: https://www.suse.com/products/rancher/observability/

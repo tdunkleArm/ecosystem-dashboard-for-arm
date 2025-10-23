@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement: https://www.netgate.com/blog/netgate-releases-tnsr-software-version-24.06
-      official_docs: https://docs.netgate.com/tnsr/en/latest/index.html
+      vendor_announcement: "https://www.netgate.com/blog/netgate-releases-tnsr-software-version-24.06"
+      official_docs: "https://docs.netgate.com/tnsr/en/latest/index.html"
 
 optional_info:
     homepage_url: https://www.netgate.com/tnsr

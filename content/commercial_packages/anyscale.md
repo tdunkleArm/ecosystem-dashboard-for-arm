@@ -12,7 +12,7 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.anyscale.com/blog/announcing-ray-2-3-performance-improvements-new-features-and-new-platforms#support-for-arm-and-python-3.11
+      vendor_announcement: "https://www.anyscale.com/blog/announcing-ray-2-3-performance-improvements-new-features-and-new-platforms#support-for-arm-and-python-3.11"
       official_docs: 
 
 optional_info:

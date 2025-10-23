@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content: 
-      vendor_announcement:  https://docs.projectcalico.org/archive/v3.2/releases#multiple-architectures
-      official_docs: https://docs.tigera.io/
+      vendor_announcement: "https://docs.projectcalico.org/archive/v3.2/releases#multiple-architectures"
+      official_docs: "https://docs.tigera.io/"
 
 optional_info:
     homepage_url: https://www.tigera.io/

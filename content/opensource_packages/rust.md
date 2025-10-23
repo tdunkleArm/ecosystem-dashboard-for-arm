@@ -18,11 +18,11 @@ platforms-supported:
       rationale: null
 
     getting_started_resources:
-      arm_content: https://learn.arm.com/install-guides/rust/
+      arm_content: "https://learn.arm.com/install-guides/rust/"
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/devops/building-an-arm64-rust-development-environment-using-aws-graviton2-and-aws-cdk/
-      official_docs: https://www.rust-lang.org/tools/install
+          url: "https://aws.amazon.com/blogs/devops/building-an-arm64-rust-development-environment-using-aws-graviton2-and-aws-cdk/"
+      official_docs: "https://www.rust-lang.org/tools/install"
 
   - platform: Windows
     supported_minimum_version:

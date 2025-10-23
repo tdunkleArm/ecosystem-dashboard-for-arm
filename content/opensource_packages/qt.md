@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://doc.qt.io/qt-6/qt-online-installation.html
+      official_docs: "https://doc.qt.io/qt-6/qt-online-installation.html"
 
   - platform: Windows
     supported_minimum_version:
@@ -36,7 +36,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://doc.qt.io/qt-6/qt-online-installation.html
+      official_docs:
 
 optional_info:
     homepage_url: https://www.qt.io/

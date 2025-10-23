@@ -4,26 +4,28 @@ category: HPC
 description: PopIns2 enables population-scale discovery of non-reference sequence variants using colored de Bruijn graphs.
 download_url: https://github.com/kehrlab/PopIns2/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 0.13.0
-    release_date: 2022/11/30
 
-platforms:
-  - linux-server 
- 
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 0.13.0
+      release_date: 2022/11/30
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://github.com/kehrlab/PopIns2#installation"
+
 optional_info:
     homepage_url: https://github.com/kehrlab/PopIns2
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://github.com/kehrlab/PopIns2#installation
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
  
 optional_hidden_info:
     release_notes__supported_minimum: https://github.com/kehrlab/PopIns2/releases/tag/v0.13.0

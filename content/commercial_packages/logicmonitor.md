@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.logicmonitor.com/release-notes/v-167-release-notes
-      official_docs: https://www.logicmonitor.com/support
+      vendor_announcement: "https://www.logicmonitor.com/release-notes/v-167-release-notes"
+      official_docs: "https://www.logicmonitor.com/support"
 
 optional_info:
     homepage_url: https://www.logicmonitor.com/

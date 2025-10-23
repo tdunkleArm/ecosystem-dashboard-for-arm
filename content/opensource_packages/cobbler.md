@@ -20,7 +20,7 @@ platforms_supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://cobbler.readthedocs.io/en/latest/installation-guide.html
+      official_docs: "https://cobbler.readthedocs.io/en/latest/installation-guide.html"
 
 optional_info:
     homepage_url: https://cobbler.github.io/

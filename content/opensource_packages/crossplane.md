@@ -14,15 +14,15 @@ platforms_supported:
     arm_recommended_minimum_version:
       version_number: 1.16
       release_date: 2024/05/15
-      reference_content: https://blog.crossplane.io/crossplane-v1-16/
+      reference_content: "https://blog.crossplane.io/crossplane-v1-16/"
       rationale: This version introduced enhanced observability by enabling providers to export fine-grained metrics about managed resource operations. These metrics, integrated into the Upjet framework, allow for better monitoring and performance tuning.
 
     getting_started_resources:
       arm_content: null
       partner_content:
         - display_name: Amazon AWS
-          url: https://aws.amazon.com/blogs/alps/modernizing-platform-management-hilti-groups-approach-to-improving-kubernetes-multicluster-operations/
-      official_docs: https://docs.crossplane.io/latest/
+          url: "https://aws.amazon.com/blogs/alps/modernizing-platform-management-hilti-groups-approach-to-improving-kubernetes-multicluster-operations/"
+      official_docs: "https://docs.crossplane.io/latest/"
 
 optional_info:
   homepage_url: https://crossplane.io/

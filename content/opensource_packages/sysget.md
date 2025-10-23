@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/cvengler/sysget?tab=readme-ov-file#how-to-install
+      official_docs: "https://github.com/cvengler/sysget?tab=readme-ov-file#how-to-install"
 
 optional_info:
     homepage_url: https://github.com/cvengler/sysget

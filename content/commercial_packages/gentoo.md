@@ -12,8 +12,8 @@ platforms-supported:
 
     getting_started_resources:
       arm_content:
-      vendor_announcement: https://www.gentoo.org/news/2019/08/11/arm64stable.html
-      official_docs: https://www.gentoo.org/get-started/
+      vendor_announcement: "https://www.gentoo.org/news/2019/08/11/arm64stable.html"
+      official_docs: "https://www.gentoo.org/get-started/"
 
 optional_info:
     homepage_url: https://www.gentoo.org/

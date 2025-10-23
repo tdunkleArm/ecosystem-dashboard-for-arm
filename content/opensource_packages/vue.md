@@ -21,8 +21,8 @@ platforms:
       arm_content: null
       partner_content:
         - display_name: Oracle OCI
-          url: https://docs.oracle.com/en/cloud/paas/content-cloud/oce-vue-minimal-sample
-      official_docs: https://vuejs.org/guide/quick-start.html#creating-a-vue-application
+          url: "https://docs.oracle.com/en/cloud/paas/content-cloud/oce-vue-minimal-sample"
+      official_docs: "https://vuejs.org/guide/quick-start.html#creating-a-vue-application"
 
 optional_info:
   homepage_url: https://vuejs.org

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content: 
-      official_docs: https://grpc.io/blog/grpc-on-arm64/
+      official_docs: "https://grpc.io/blog/grpc-on-arm64/"
 
   - platforms: Windows
     supported_minimum_version:

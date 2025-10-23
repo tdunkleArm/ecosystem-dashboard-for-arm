@@ -4,26 +4,28 @@ category: Miscellaneous
 description: Py3c port C extensions to Python 3.
 download_url: https://github.com/encukou/py3c/releases
 works_on_arm: true
-supported_minimum_version:
-    version_number: 1.1
-    release_date: 2019/10/04
 
-platforms:
-  - linux-server
+platforms-supported:
+  - platform: Linux
+    supported_minimum_version:
+      version_number: 1.1
+      release_date: 2019/10/04
+
+    arm_recommended_minimum_version:
+      version_number:
+      release_date:
+      reference_content:
+      rationale:
+
+    getting_started_resources:
+      arm_content:
+      partner_content:
+      official_docs: "https://py3c.readthedocs.io/en/latest/contributing.html"
 
 optional_info:
     homepage_url: https://py3c.readthedocs.io/en/latest/index.html
     support_caveats:
     alternative_options:
-    getting_started_resources:
-        arm_content:
-        partner_content:
-        official_docs: https://py3c.readthedocs.io/en/latest/contributing.html
-    arm_recommended_minimum_version:
-        version_number:
-        release_date:
-        reference_content:
-        rationale:
 
 optional_hidden_info:
     release_notes__supported_minimum:

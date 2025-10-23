@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/elastic/elastic-otel-node/tree/main/packages/mockopampserver#usage
+      official_docs: "https://github.com/elastic/elastic-otel-node/tree/main/packages/mockopampserver#usage"
 
 optional_info:
     homepage_url: https://github.com/elastic/elastic-otel-node/tree/main/packages/mockopampserver

@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content: 
       partner_content: 
-      official_docs: https://dubbo.apache.org/en/docs3-v2/golang-sdk/quickstart/
+      official_docs: "https://dubbo.apache.org/en/docs3-v2/golang-sdk/quickstart/"
 
   - platform: Windows
     supported_minimum_version:

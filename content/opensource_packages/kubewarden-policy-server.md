@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://docs.kubewarden.io/reference/policy-server-cli
+      official_docs: "https://docs.kubewarden.io/reference/policy-server-cli"
 
 optional_info:
     homepage_url: https://github.com/kubewarden/policy-server

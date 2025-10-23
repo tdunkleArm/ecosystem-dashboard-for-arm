@@ -20,7 +20,7 @@ platforms-supported:
     getting_started_resources:
       arm_content:
       partner_content:
-      official_docs: https://github.com/e7e5/ipvsadm/blob/master/README
+      official_docs: "https://github.com/e7e5/ipvsadm/blob/master/README"
 
 optional_info:
     homepage_url: https://github.com/e7e5/ipvsadm
