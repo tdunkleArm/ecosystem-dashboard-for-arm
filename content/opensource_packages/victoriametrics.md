@@ -6,7 +6,7 @@ download_url: https://github.com/VictoriaMetrics/VictoriaMetrics/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 1.54.0
       release_date: 2021/02/18

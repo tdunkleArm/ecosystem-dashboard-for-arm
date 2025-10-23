@@ -6,7 +6,7 @@ download_url: https://hub.docker.com/r/vespaengine/vespa/
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 8.37.26
       release_date: 2022/08/18

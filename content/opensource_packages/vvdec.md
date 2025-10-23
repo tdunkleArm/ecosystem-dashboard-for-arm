@@ -6,7 +6,7 @@ download_url: https://github.com/fraunhoferhhi/vvdec/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 1.4.0
       release_date: 2022/02/25

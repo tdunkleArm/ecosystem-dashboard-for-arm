@@ -6,7 +6,7 @@ download_url: https://github.com/vllm-project/vllm/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 0.6.5
       release_date: 2024/12/17

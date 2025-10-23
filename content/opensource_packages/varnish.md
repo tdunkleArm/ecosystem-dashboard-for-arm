@@ -6,7 +6,7 @@ download_url: https://github.com/varnish/varnish-modules/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 0.17.1
       release_date: 2021/03/16

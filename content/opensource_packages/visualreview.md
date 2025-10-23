@@ -6,7 +6,7 @@ download_url: https://github.com/xebia/VisualReview/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 0.1
       release_date: 2015/06/01

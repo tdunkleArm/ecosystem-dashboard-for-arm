@@ -6,7 +6,7 @@ download_url: https://github.com/contiv/vpp/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 1.3.0
       release_date: 2018/09/18

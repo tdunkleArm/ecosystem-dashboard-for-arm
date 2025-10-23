@@ -6,7 +6,7 @@ download_url: https://github.com/v8/v8/tags
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 3.25.23
       release_date: 2014/03/24

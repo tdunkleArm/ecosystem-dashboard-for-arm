@@ -6,7 +6,7 @@ download_url: https://github.com/apache/velocity-engine/tags
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 2.3
       release_date: 2021/03/07

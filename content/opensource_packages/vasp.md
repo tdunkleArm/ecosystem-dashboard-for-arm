@@ -6,7 +6,7 @@ download_url:
 works_on_arm: FALSE
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number:
       release_date:

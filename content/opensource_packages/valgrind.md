@@ -6,7 +6,7 @@ download_url: https://valgrind.org/downloads/current.html
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 3.10.0
       release_date: 2014/09/11

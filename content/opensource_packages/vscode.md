@@ -6,7 +6,7 @@ download_url: https://code.visualstudio.com/Download
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 1.50
       release_date: 2020/09/01

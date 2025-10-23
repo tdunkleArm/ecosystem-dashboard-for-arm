@@ -6,7 +6,7 @@ download_url: https://github.com/vuejs/core/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 3.0.0
       release_date: 2020/09/18

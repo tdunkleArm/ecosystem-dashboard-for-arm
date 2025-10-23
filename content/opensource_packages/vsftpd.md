@@ -6,7 +6,7 @@ download_url: https://security.appspot.com/vsftpd.html#download
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 3.0.3.1
       release_date: 2016/05/25

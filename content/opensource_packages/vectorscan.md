@@ -6,7 +6,7 @@ download_url: https://github.com/VectorCamp/vectorscan/releases
 works_on_arm: true
 
 platforms:
-  - linux-server
+  - platform: Linux
     supported_minimum_version:
       version_number: 5.4.6
       release_date: 2022/01/21

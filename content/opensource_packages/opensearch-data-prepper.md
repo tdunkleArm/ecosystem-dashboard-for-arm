@@ -9,7 +9,7 @@ platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.5.0
-     release_date: 2023/10/11
+      release_date: 2023/10/11
 
     arm_recommended_minimum_version:
       version_number:
