@@ -5,7 +5,7 @@ description: Buildkite CLI is a powerful tool for developers and DevOps teams, p
 download_url: https://github.com/buildkite/cli/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v1.2.0

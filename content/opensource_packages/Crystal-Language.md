@@ -5,7 +5,7 @@ description: Crystal is a programming language designed for efficiency and perfo
 download_url: https://github.com/crystal-lang/crystal/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.20.0

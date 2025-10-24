@@ -5,7 +5,7 @@ description: Azul Zulu is a free and open-source build of OpenJDK that is TCK-te
 download_url: https://www.azul.com/downloads/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: zulu8.31.1.122-ca-jdk1.8.0.181

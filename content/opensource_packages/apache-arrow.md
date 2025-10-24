@@ -5,7 +5,7 @@ description: Apache Arrow is a multi-language toolbox for accelerated data inter
 download_url: https://pypi.org/project/pyarrow/#files
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 4.0.0

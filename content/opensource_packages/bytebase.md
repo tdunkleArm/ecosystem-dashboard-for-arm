@@ -5,7 +5,7 @@ description: Bytebase is a web-based tool created for overseeing database schema
 download_url: https://github.com/bytebase/bytebase/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.0.3

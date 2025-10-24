@@ -5,7 +5,7 @@ description: Popular code editor from Microsoft optimized for building and debug
 download_url: https://code.visualstudio.com/Download
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.50

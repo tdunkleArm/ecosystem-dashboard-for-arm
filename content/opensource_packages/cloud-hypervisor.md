@@ -5,7 +5,7 @@ description: Cloud Hypervisor is an open-source Virtual Machine Monitor (VMM) wr
 download_url: https://github.com/cloud-hypervisor/cloud-hypervisor/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 18.0

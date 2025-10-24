@@ -5,7 +5,7 @@ description: Backstage is an open platform for building developer portals.
 download_url: https://github.com/backstage/backstage/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.2.0

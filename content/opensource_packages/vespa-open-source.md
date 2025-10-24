@@ -5,7 +5,7 @@ description: Vespa is a search and data processing engine designed for real-time
 download_url: https://hub.docker.com/r/vespaengine/vespa/
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 8.37.26

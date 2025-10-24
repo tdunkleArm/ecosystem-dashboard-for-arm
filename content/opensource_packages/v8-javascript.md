@@ -5,7 +5,7 @@ description: V8 is a high-performance WebAssembly and JavaScript engine that imp
 download_url: https://github.com/v8/v8/tags
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.25.23

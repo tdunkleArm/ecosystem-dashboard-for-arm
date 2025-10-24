@@ -5,7 +5,7 @@ description: Arthas provides troubleshooting for the production issues in the Ja
 download_url: https://github.com/alibaba/arthas/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.0.5

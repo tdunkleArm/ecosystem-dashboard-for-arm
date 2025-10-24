@@ -5,7 +5,7 @@ description: Apache Drill is an open-source SQL query engine for interactive ana
 download_url: https://github.com/apache/drill/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.19.0

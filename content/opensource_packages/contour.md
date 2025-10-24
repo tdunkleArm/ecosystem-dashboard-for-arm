@@ -5,7 +5,7 @@ description: Contour is a Kubernetes ingress controller using Envoy proxy.
 download_url: https://github.com/projectcontour/contour/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.10.0

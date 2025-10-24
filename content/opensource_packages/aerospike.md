@@ -5,7 +5,7 @@ description: Aerospike is a distributed NoSQL database that offers fast read/wri
 download_url: https://aerospike.com/download/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 6.2

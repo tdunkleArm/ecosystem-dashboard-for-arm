@@ -5,7 +5,7 @@ description: VictoriaMetrics is a cost-effective monitoring solution and time se
 download_url: https://github.com/VictoriaMetrics/VictoriaMetrics/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.54.0

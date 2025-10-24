@@ -5,7 +5,7 @@ description: Bonjour also known as zero-configuration networking, enables automa
 download_url:
 works_on_arm: false
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number:

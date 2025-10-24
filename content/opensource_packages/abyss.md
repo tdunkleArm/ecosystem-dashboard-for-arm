@@ -5,7 +5,7 @@ description: ABySS is an open-source, de novo sequence assembler designed for as
 download_url: https://github.com/bcgsc/abyss/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version: 
       version_number: 2.0.2

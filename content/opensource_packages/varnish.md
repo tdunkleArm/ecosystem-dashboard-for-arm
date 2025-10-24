@@ -5,7 +5,7 @@ description: Varnish Enterprise edge caching and content delivery software enabl
 download_url: https://github.com/varnish/varnish-modules/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.17.1

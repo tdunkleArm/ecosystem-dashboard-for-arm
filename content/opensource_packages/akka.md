@@ -5,7 +5,7 @@ description: Akka by Lightbend is an open-source solution that provides a toolki
 download_url: https://github.com/akka/akka/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.6.16

@@ -5,7 +5,7 @@ description: VisualReview is a tool to test and review visual regressions.
 download_url: https://github.com/xebia/VisualReview/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1

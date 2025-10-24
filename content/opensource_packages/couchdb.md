@@ -5,7 +5,7 @@ description: Apache CouchDB is an open-source NoSQL database that uses a documen
 download_url: https://couchdb.apache.org/#download
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.0.0

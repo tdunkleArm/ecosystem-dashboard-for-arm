@@ -5,7 +5,7 @@ description: Hyperscan and by extension Vectorscan is a high-performance multipl
 download_url: https://github.com/VectorCamp/vectorscan/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 5.4.6

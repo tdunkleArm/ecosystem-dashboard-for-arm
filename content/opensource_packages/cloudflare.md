@@ -5,7 +5,7 @@ description: Cloudflare is an international provider of content delivery network
 download_url: https://github.com/cloudflare/cloudflared/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2020.8.0

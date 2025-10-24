@@ -5,7 +5,7 @@ description: ANTLR offers Language Recognition. Antlr generates parser for readi
 download_url: https://github.com/antlr/antlr4/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 4

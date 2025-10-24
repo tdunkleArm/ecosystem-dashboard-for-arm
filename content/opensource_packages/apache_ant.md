@@ -5,7 +5,7 @@ description: Apache Ant is a Java tool for automating build processes, mainly us
 download_url: https://ant.apache.org/bindownload.cgi
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.9.2

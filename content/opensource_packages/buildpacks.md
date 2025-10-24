@@ -5,7 +5,7 @@ description: Cloud Native Buildpacks (CNBs) convert application source code into
 download_url: https://github.com/buildpacks/pack/releases/
 works_on_arm: true 
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version: 
       version_number: 0.25.0 

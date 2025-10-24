@@ -5,7 +5,7 @@ description: Bcrypt is a secure password hashing function that uses a salt to gu
 download_url: https://github.com/pyca/bcrypt/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v1.0.0

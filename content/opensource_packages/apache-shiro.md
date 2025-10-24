@@ -5,7 +5,7 @@ description: Shiro is a Java-based framework designed to secure applications by 
 download_url: https://github.com/apache/shiro/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.9.0

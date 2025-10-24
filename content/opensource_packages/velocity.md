@@ -5,7 +5,7 @@ description: Apache Velocity Engine is a template engine used for developing web
 download_url: https://github.com/apache/velocity-engine/tags
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.3

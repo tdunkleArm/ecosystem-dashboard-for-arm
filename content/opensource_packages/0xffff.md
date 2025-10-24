@@ -5,7 +5,7 @@ description: 0xFFFF (Open Free Fiasco Firmware Flasher) is an open-source tool f
 download_url: https://github.com/pali/0xFFFF/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.7

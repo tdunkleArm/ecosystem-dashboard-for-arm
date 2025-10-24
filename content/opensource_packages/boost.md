@@ -5,7 +5,7 @@ description: Boost is a set of portable, peer-reviewed C++ libraries that enhanc
 download_url: https://www.boost.org/users/download/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.74.0

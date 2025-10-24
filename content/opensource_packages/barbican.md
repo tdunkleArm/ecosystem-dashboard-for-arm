@@ -5,7 +5,7 @@ description: Barbican is a REST API, used for the secure storage, provisioning, 
 download_url: https://github.com/openstack/barbican/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.0.0

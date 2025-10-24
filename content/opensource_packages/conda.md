@@ -5,7 +5,7 @@ description: Conda is an open-source package manager and environment manager use
 download_url: https://docs.conda.io/projects/conda/en/stable/#install
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 4.3.18

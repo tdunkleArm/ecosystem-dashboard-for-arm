@@ -5,7 +5,7 @@ description: Containerd is an industry-standard container runtime with an emphas
 download_url: https://containerd.io/downloads/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.6.0

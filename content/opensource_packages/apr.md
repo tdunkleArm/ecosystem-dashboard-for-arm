@@ -5,7 +5,7 @@ description: The Apache Portable Runtime (APR) library provides a consistent API
 download_url: https://github.com/apache/apr/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.5.0

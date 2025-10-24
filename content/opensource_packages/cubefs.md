@@ -5,7 +5,7 @@ description: CubeFS is a new generation cloud-native storage that supports acces
 download_url: https://cubefs.io/download
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.2.0

@@ -5,7 +5,7 @@ description: BeeGFS which is a parallel file system, is a high-performance, scal
 download_url: https://github.com/ThinkParQ/beegfs/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.3.0

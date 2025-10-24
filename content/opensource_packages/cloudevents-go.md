@@ -5,7 +5,7 @@ description: The Golang SDK for CloudEvents is to integrate your application wit
 download_url: https://github.com/cloudevents/sdk-go/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v2.0.0

@@ -5,7 +5,7 @@ description: Vsftpd is a secure, high-performance FTP server for Unix-like syste
 download_url: https://security.appspot.com/vsftpd.html#download
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.0.3.1

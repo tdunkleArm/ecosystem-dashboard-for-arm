@@ -5,7 +5,7 @@ description: Auditbeat, developed by Elastic, is a lightweight data shipper that
 download_url: https://www.elastic.co/downloads/beats/auditbeat
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.12.0

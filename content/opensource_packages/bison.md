@@ -5,7 +5,7 @@ description: Bison converts annotated context-free grammar into a deterministic 
 download_url: https://github.com/akimd/bison/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.1.90

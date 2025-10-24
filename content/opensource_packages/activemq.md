@@ -5,7 +5,7 @@ description: ActiveMQ is an open-source message broker that facilitates multiple
 download_url: https://activemq.apache.org/components/classic/documentation/download-archives
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 5.6.0

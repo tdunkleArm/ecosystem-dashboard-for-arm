@@ -5,7 +5,7 @@ description: Bioconda lets you install thousands of software packages related to
 download_url: https://bioconda.github.io/#package-downloads
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.6.0

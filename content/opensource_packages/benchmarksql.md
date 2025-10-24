@@ -5,7 +5,7 @@ description: BenchmarkSQL is a powerful and flexible tool for benchmarking the p
 download_url: https://github.com/pgsql-io/benchmarksql/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: REL6_0_RC2

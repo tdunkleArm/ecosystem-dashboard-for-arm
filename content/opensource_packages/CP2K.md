@@ -5,7 +5,7 @@ description: CP2K is an open-source quantum chemistry and molecular dynamics sof
 download_url: https://github.com/cp2k/cp2k/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 8.2.0

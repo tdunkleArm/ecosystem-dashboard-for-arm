@@ -5,7 +5,7 @@ description: Curve is a storage project hosted by the CNCF Foundation, emphasizi
 download_url: https://github.com/opencurve/curve/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.2.5

@@ -5,7 +5,7 @@ description: Apbs software helps with solvation calculations and biomolecular el
 download_url: https://github.com/Electrostatics/apbs/releases
 works_on_arm: FALSE
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 

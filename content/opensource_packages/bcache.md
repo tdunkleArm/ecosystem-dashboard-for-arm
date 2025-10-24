@@ -5,7 +5,7 @@ description: Bcache is a block layer cache in the Linux kernel, that allows fast
 download_url: https://github.com/g2p/bcache-tools/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.0.7

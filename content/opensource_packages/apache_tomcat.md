@@ -5,7 +5,7 @@ description: Apache Tomcat is an open-source web server and servlet container fo
 download_url: https://archive.apache.org/dist/tomcat/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 6.0.35

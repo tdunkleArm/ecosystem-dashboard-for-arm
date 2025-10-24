@@ -5,7 +5,7 @@ description: Celery is a simple, flexible, and reliable distributed system to pr
 download_url: https://github.com/celery/celery/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 4.0.0rc3

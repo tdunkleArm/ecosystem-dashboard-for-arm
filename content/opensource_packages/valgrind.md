@@ -5,7 +5,7 @@ description: Valgrind is an instrumentation framework for building dynamic analy
 download_url: https://valgrind.org/downloads/current.html
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.10.0

@@ -5,7 +5,7 @@ description: BamTools is an open-source C++ library that facilitates reading, wr
 download_url: https://github.com/pezmaster31/bamtools/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.4.1

@@ -5,7 +5,7 @@ description: Ceph is an open-source, distributed storage system.
 download_url: https://download.ceph.com/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.91

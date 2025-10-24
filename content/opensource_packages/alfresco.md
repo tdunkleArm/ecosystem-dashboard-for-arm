@@ -5,7 +5,7 @@ description: Alfresco Content Services is an open-source Enterprise Content Mana
 download_url: https://hub.docker.com/r/alfresco/alfresco-content-repository-community/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.3

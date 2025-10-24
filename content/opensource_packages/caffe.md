@@ -5,7 +5,7 @@ description: Caffe is a high-performance, open-source tool for deep learning, sp
 download_url: https://launchpad.net/ubuntu/+source/caffe/1.0.0-6
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.0.0

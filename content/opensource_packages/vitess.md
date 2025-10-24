@@ -5,7 +5,7 @@ description: Vitess is a database clustering system for horizontal scaling of My
 download_url: https://github.com/vitessio/vitess/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 5.0.0

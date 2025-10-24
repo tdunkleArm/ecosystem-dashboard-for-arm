@@ -5,7 +5,7 @@ description:  Archiconda3 is a distribution of conda for 64 bit arm leveraging c
 download_url: https://github.com/Archiconda/build-tools/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1.1

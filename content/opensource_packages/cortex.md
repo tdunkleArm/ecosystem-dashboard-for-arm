@@ -5,7 +5,7 @@ description: Cortex is horizontally scalable, highly available, multi-tenant, lo
 download_url: https://github.com/cortexproject/cortex/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.10.0

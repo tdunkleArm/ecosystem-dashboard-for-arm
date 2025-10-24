@@ -5,7 +5,7 @@ description: Buildkite Agent is responsible for executing builds on our infrastr
 download_url: https://github.com/buildkite/agent/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.2-beta.2

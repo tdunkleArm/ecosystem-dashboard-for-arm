@@ -5,7 +5,7 @@ description: Rules engine for cloud security, cost optimization, and governance,
 download_url: https://github.com/cloud-custodian/cloud-custodian/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.8.2

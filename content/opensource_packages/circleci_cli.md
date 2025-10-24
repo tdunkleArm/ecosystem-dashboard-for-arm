@@ -5,7 +5,7 @@ description: CircleCI-CLI is a command-line interface (CLI) tool that allows dev
 download_url: https://github.com/CircleCI-Public/circleci-cli/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1.17554

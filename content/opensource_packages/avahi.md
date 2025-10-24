@@ -5,7 +5,7 @@ description: Avahi is a system which facilitates service discovery on a local ne
 download_url: https://avahi.org/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.6.31

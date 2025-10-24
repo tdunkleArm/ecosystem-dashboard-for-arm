@@ -5,7 +5,7 @@ description: Apache Avro is a data serialization tool that enables compact, sche
 download_url: https://github.com/apache/avro/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.7.3

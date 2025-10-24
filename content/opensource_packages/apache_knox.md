@@ -5,7 +5,7 @@ description: Apache Knox is a gateway that secures access to Hadoop services, pr
 download_url: https://cwiki.apache.org/confluence/display/KNOX/Apache+Knox+Releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v1.5.0-release

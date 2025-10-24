@@ -5,7 +5,7 @@ description: Vue is a modern JavaScript framework designed to create user interf
 download_url: https://github.com/vuejs/core/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.0.0

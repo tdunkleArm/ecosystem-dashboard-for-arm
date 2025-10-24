@@ -5,7 +5,7 @@ description: Calico is an open-source project with an active development and use
 download_url: https://github.com/projectcalico/calico/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.21.3

@@ -5,7 +5,7 @@ description: Anolis OS is an open source Linux distribution provided by the Open
 download_url: https://openanolis.cn/download
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.7

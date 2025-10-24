@@ -5,7 +5,7 @@ description: CentOS is a free, open-source Linux distribution derived from Red H
 download_url: https://www.centos.org/download/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: CentOS7(1511)

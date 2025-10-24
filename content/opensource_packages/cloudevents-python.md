@@ -5,7 +5,7 @@ description: The goal of sdk-python package is to provide support for all releas
 download_url: https://github.com/cloudevents/sdk-python/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.0.1

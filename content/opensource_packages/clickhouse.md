@@ -5,7 +5,7 @@ description: ClickHouse is a high-performance, column-oriented SQL database mana
 download_url: https://github.com/ClickHouse/ClickHouse/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 22.1

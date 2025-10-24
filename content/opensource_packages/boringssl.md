@@ -5,7 +5,7 @@ description: BoringSSL is a custom version of OpenSSL that was created and main
 download_url: https://github.com/google/boringssl/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: fips-20220613

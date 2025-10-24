@@ -5,7 +5,7 @@ description: Vector Packet Processor (VPP) is a fast, scalable layer 2-4 multi-p
 download_url: https://github.com/contiv/vpp/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.3.0

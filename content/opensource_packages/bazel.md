@@ -5,7 +5,7 @@ description: Bazel is a build and test tool. It offers support for multi-platfor
 download_url: https://github.com/bazelbuild/bazel/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.4.0

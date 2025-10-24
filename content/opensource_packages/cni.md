@@ -5,7 +5,7 @@ description: Container Network Interface is a specification to configure network
 download_url: https://github.com/containernetworking/cni/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.4.0

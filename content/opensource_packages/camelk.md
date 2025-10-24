@@ -5,7 +5,7 @@ description: Camel K is a Kubernetes operator that automates the build, deployme
 download_url: https://github.com/apache/camel-k/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.0.0

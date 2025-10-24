@@ -5,7 +5,7 @@ description: Brotli compresses data using a combination of LZ77 algorithm, secon
 download_url: https://pypi.org/project/Brotli/#history
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.5.2

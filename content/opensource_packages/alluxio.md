@@ -5,7 +5,7 @@ description: Alluxio is an open-source platform that enhances data access speeds
 download_url: https://www.alluxio.io/download/releases/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.1.2

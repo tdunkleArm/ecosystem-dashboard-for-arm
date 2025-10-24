@@ -5,7 +5,7 @@ description: Apache APISIX is an open-source, dynamic, scalable API gateway that
 download_url: https://github.com/apache/apisix/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version: 
       version_number: 0.9

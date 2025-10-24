@@ -5,7 +5,7 @@ description: Angular is a widely-used open-source web framework created by Googl
 download_url: https://www.npmjs.com/package/@angular/cli?activeTab=versions
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 6.0.8

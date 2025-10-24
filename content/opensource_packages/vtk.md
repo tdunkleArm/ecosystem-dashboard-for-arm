@@ -5,7 +5,7 @@ description: VTK (The Visualization Toolkit) is an open-source software system f
 download_url: https://github.com/Kitware/VTK/tags
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v9.0.0.rc1

@@ -5,7 +5,7 @@ description: Caddy is an open-source web server that automatically handles HTTPS
 download_url: https://github.com/caddyserver/caddy/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.8.3

@@ -5,7 +5,7 @@ description: Valkey is a high-performance, in-memory data structure server optim
 download_url: https://valkey.io/download/
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.2.5

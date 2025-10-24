@@ -5,7 +5,7 @@ description: Apache Atlas is an open-source framework for metadata management an
 download_url: https://atlas.apache.org/#/Downloads
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.3.0

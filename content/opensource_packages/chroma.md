@@ -5,7 +5,7 @@ description: Chroma is the AI-native open-source vector database. Chroma makes i
 download_url: https://github.com/chroma-core/chroma/releases 
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.3.27

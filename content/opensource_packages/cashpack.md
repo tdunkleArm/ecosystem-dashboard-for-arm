@@ -5,7 +5,7 @@ description: Cashpack is a stateless event-driven HPACK codec. It aims for embed
 download_url: https://github.com/dridi/cashpack/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.2

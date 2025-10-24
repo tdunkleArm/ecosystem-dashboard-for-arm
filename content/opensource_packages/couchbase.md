@@ -5,7 +5,7 @@ description: Couchbase is a full-featured, multimodel distributed NoSQL database
 download_url: https://www.couchbase.com/downloads/?family=couchbase-server
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.1

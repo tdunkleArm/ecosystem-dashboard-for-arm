@@ -5,7 +5,7 @@ description: Cmake is a de-facto standard for building code, especially C and C+
 download_url: https://cmake.org/download/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.19.3

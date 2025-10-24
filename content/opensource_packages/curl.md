@@ -5,7 +5,7 @@ description: Curl is a command-line utility for transporting data using various 
 download_url: https://github.com/curl/curl/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 7.43.0

@@ -5,7 +5,7 @@ description: Terraform-provider-chaossearch is a plugin for ChaosSearch empowers
 download_url: https://github.com/ChaosSearch/terraform-provider-chaossearch/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.7

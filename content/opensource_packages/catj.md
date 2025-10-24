@@ -5,7 +5,7 @@ description: Catj is a command-line tool used to format and display JSON data in
 download_url: https://github.com/mattleibow/catj/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.0.0

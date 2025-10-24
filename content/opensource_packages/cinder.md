@@ -5,7 +5,7 @@ description: Cinder is a block storage service that offers block storage devices
 download_url: https://github.com/openstack/cinder/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2014.1

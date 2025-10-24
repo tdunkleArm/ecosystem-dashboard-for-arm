@@ -5,7 +5,7 @@ description: Arm RAN Acceleration library (ArmRAL) implements common signal proc
 download_url: https://git.gitlab.arm.com/networking/ral/-/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 20.10

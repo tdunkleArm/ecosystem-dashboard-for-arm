@@ -5,7 +5,7 @@ description: CJSON is a small C library designed for working with JSON data. It 
 download_url: https://github.com/DaveGamble/cJSON/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.0.0

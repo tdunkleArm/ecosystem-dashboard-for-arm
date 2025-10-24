@@ -5,7 +5,7 @@ description: vLLM is a fast, straightforward library for LLM inference and servi
 download_url: https://github.com/vllm-project/vllm/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.6.5

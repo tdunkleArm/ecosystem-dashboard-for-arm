@@ -5,7 +5,7 @@ description: Apache Thrift is a cross-language framework for building scalable s
 download_url: https://thrift.apache.org/download
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.10.0

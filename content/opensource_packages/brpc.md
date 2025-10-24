@@ -5,7 +5,7 @@ description: BRPC is a powerful framework for Remote Procedure Calls (RPC), tail
 download_url: https://brpc.apache.org/docs/downloadbrpc/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.9.7

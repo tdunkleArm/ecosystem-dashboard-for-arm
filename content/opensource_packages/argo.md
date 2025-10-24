@@ -5,7 +5,7 @@ description: Open source tools for Kubernetes to run workflows, manage clusters,
 download_url: https://github.com/argoproj/argo-cd/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.3.0

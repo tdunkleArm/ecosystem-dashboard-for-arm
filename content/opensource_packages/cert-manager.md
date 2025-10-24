@@ -5,7 +5,7 @@ description: Cert-manager adds certificates and certificate issuers as resource 
 download_url: https://github.com/cert-manager/cert-manager/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.7.0

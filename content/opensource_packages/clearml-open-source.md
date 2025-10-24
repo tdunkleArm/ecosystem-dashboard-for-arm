@@ -5,7 +5,7 @@ description: Formally Allegro Trains, ClearML is an end-to-end MLOps and LLMOps 
 download_url: https://github.com/allegroai/clearml/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.9.0

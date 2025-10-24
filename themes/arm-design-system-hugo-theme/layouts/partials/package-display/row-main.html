@@ -66,7 +66,7 @@
     <td class="col-3-date">
         <div class="date-supported">
             {{if .metadata.Params.works_on_arm}}
-                {{if .metadata.Params.release_date_on_arm}}  
+                {{if (index (index .metadata.Params "platforms-supported") 0).release_date_on_arm}}  
                     {{ partial "package-display/_date-formating.html" (index (index .metadata.Params "platforms-supported") 0).release_date_on_arm }}
                 {{else}}  
                     {{ partial "package-display/_date-formating.html" (index (index .metadata.Params "platforms-supported") 0).supported_minimum_version.release_date}}
@@ -90,5 +90,4 @@
             <i class="fa-solid fa-download download-icon"></i>
         </a>
     </td>
-
 </tr>

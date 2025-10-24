@@ -5,7 +5,7 @@ description: VVdeC, the Fraunhofer Versatile Video Decoder, is a fast software H
 download_url: https://github.com/fraunhoferhhi/vvdec/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.4.0

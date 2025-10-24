@@ -5,7 +5,7 @@ description: Open Container Initiative-based implementation of Kubernetes Contai
 download_url: https://github.com/cri-o/cri-o/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.21.0

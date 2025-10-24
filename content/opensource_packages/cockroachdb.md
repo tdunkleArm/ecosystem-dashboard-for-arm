@@ -5,7 +5,7 @@ description: CockroachDB is a distributed SQL database used to build, scale, and
 download_url: https://www.cockroachlabs.com/docs/releases/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v22.2.0-alpha.1

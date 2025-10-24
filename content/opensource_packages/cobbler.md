@@ -5,7 +5,7 @@ description: Cobbler is a Linux provisioning server that automates network-based
 download_url: https://github.com/cobbler/cobbler/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v3.1.2

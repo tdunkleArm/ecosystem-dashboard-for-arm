@@ -5,7 +5,7 @@ description: Volcano is a Cloud Native Batch System. It provides a suite of mech
 download_url: https://hub.docker.com/u/volcanosh
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.1.0

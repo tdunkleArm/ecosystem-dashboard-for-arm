@@ -5,7 +5,7 @@ description: Checkov is a static code analysis tool, and also a software composi
 download_url: https://github.com/bridgecrewio/checkov/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.3.321

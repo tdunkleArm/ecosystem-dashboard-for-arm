@@ -5,7 +5,7 @@ description: Cuttlefish is a configurable Android Virtual Device (AVD) that runs
 download_url: https://github.com/google/android-cuttlefish/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.9.26

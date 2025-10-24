@@ -5,7 +5,7 @@ description: BusyBox is a collection of Unix utilities bundled together into one
 download_url: https://www.busybox.net/downloads/binaries/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.28.1

@@ -5,7 +5,7 @@ description: Alpine Linux is a general purpose Linux distribution designed for p
 download_url: https://www.alpinelinux.org/downloads/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 3.5

@@ -5,7 +5,7 @@ description: Bk-cmdb is a configuration management platform for managing assets 
 download_url: https://github.com/TencentBlueKing/bk-cmdb/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v3.10.41

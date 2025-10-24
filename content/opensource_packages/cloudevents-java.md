@@ -5,7 +5,7 @@ description: The Java SDK for CloudEvents is a collection of Java libraries to a
 download_url: https://github.com/cloudevents/sdk-java/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v0.3.1

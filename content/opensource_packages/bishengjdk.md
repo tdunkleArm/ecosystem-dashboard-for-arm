@@ -5,7 +5,7 @@ description: Bisheng JDK aims to enhance Java application performance and compat
 download_url: https://github.com/openeuler-mirror/bishengjdk-8/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version: 
       version_number: aarch64-shenandoah-jdk8u262-b10

@@ -5,7 +5,7 @@ description: Ace (Ajax.org Cloud9 Editor) is a code editor framework designed fo
 download_url: https://github.com/ajaxorg/ace/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.5.0

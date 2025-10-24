@@ -5,7 +5,7 @@ description: CANU is widely used in bioinformatics for de novo genome assembly a
 download_url:
 works_on_arm: FALSE
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number:

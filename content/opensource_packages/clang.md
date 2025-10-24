@@ -5,7 +5,7 @@ description: Clang is a compiler front-end for the C family of languages, which 
 download_url: https://releases.llvm.org/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 19.1.0

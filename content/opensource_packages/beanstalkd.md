@@ -5,7 +5,7 @@ description: Beanstalk is a simple, fast work queue.
 download_url: https://beanstalkd.github.io/download.html
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v1.8

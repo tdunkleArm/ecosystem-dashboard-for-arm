@@ -5,7 +5,7 @@ description: VVenC software is based on VTM 6, with optimizations including soft
 download_url: https://github.com/fraunhoferhhi/vvenc/releases
 works_on_arm: true
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.7.0-rc1

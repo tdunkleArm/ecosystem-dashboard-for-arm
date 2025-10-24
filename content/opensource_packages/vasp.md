@@ -5,7 +5,7 @@ description: The Vascular Fluid Structure Interaction Simulation Pipeline (VaSP)
 download_url:
 works_on_arm: FALSE
 
-platforms:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number:

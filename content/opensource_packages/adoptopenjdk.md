@@ -5,7 +5,7 @@ description: AdoptOpenJDK is an open-source project that provides prebuilt OpenJ
 download_url: https://adoptium.net/temurin/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version: 
       version_number: jdk8u-2021-01-31-20-36

@@ -5,7 +5,7 @@ description: Chisel-operator is a k8s operator for chisel, which allows using Ch
 download_url: https://github.com/FyraLabs/chisel-operator/tags
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1.0

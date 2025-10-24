@@ -5,7 +5,7 @@ description: Chaos Mesh is an open source cloud-native Chaos Engineering platfor
 download_url: https://github.com/chaos-mesh/chaos-mesh/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.1.2

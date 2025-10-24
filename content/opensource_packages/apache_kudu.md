@@ -5,7 +5,7 @@ description: Apache Kudu is a storage system designed for fast analytics, suppor
 download_url: https://kudu.apache.org/releases/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.13.0

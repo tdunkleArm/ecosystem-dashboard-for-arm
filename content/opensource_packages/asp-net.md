@@ -5,7 +5,7 @@ description: ASP.NET is a web application framework. It is used to build dynamic
 download_url: https://github.com/dotnet/aspnetcore/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v6.0.0

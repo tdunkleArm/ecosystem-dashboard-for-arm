@@ -5,7 +5,7 @@ description: Apache Doris is a modern data warehouse for real-time analytics. It
 download_url: https://doris.apache.org/download
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.2.1

@@ -5,7 +5,7 @@ description: ArangoDB is a scalable, flexible and user-friendly graph database t
 download_url: https://arangodb.com/download/#
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: v3.10

@@ -5,7 +5,7 @@ description: The Alertmanager manages alerts sent by applications like the Prome
 download_url: https://prometheus.io/download/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1.1

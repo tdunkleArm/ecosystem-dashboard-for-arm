@@ -5,7 +5,7 @@ description: Benchmark is a library to benchmark code snippets, similar to unit 
 download_url: https://github.com/google/benchmark/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 1.7.1

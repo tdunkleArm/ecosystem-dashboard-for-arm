@@ -6,7 +6,7 @@ homepage_url: https://www.7-zip.org/   #required
 download_url: https://github.com/ip7z/7zip/releases   #required
 official_get_started_docs: https://github.com/ip7z/7zip/tree/main/DOC#readme   #required
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 21.07   #required

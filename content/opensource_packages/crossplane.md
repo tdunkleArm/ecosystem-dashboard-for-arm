@@ -5,7 +5,7 @@ description: Crossplane is a framework for building cloud native control planes 
 download_url: https://releases.crossplane.io/stable/
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.1.0

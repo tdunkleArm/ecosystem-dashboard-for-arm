@@ -5,7 +5,7 @@ description: Cadvisor collects and exposes metrics about container resource usag
 download_url: https://github.com/google/cadvisor/releases
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 0.45.0

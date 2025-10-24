@@ -5,7 +5,7 @@ description: Clipper is an open-source, low-latency prediction serving system de
 download_url: https://github.com/ucbrise/clipper/releases
 works_on_arm: FALSE
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number:

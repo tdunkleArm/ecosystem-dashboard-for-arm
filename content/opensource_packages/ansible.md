@@ -5,7 +5,7 @@ description: Ansible is a simple IT automation platform that makes your applicat
 download_url: https://developers.redhat.com/products/ansible/download 
 works_on_arm: true
 
-platforms_supported:
+platforms-supported:
   - platform: Linux
     supported_minimum_version:
       version_number: 2.4.0
