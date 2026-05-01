@@ -5,10 +5,10 @@
     "version": "5.17.6+dfsg-1"
   },
   "run": {
-    "id": "25145024292",
+    "id": "25203891781",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25145024292/job/73702848764",
-    "timestamp": "2026-04-30T02:59:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203891781/job/73900311717",
+    "timestamp": "2026-05-01T05:38:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check activemq binary exists and is executable",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check ActiveMQ package is installed (dpkg status)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check 'activemq --help' output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-04-30T03:38:18.962365+00:00",
+    "production_refreshed_at": "2026-05-01T07:09:35.860873+00:00",
     "publish_state": "published"
   }
 }

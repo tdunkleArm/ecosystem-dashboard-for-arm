@@ -5,10 +5,10 @@
     "version": "v22.09"
   },
   "run": {
-    "id": "25145041490",
+    "id": "25203905217",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25145041490/job/73702901168",
-    "timestamp": "2026-04-30T03:00:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203905217/job/73900356125",
+    "timestamp": "2026-05-01T06:00:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 111,
+    "duration_seconds": 121,
     "details": [
       {
         "name": "Test 1 - Check SPDK binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check source tag version",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 111,
+        "duration_seconds": 120,
         "current_version": "v22.09",
         "latest_version": "v23.01",
         "next_installed_version": "v23.01",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-04-30T03:38:19.145455+00:00",
+    "production_refreshed_at": "2026-05-01T07:09:36.019014+00:00",
     "publish_state": "published"
   }
 }

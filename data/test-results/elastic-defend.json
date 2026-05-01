@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "25145034168",
+    "id": "25203899330",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25145034168/job/73702878141",
-    "timestamp": "2026-04-30T02:59:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203899330/job/73900336991",
+    "timestamp": "2026-05-01T06:06:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 40,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Component Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Carrier Help Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 15,
+        "duration_seconds": 40,
         "current_version": "9.1.0",
-        "latest_version": "9.3.3",
-        "next_installed_version": "9.3.3",
+        "latest_version": "9.3.4",
+        "next_installed_version": "9.3.4",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Elastic Defend carrier bundle version 9.1.0 passed smoke tests in this run. Regression validation downloaded Elastic Agent Arm64 bundle 9.3.3, and the candidate bundle reported version 9.3.3 while the embedded endpoint-security Arm64 component and resources validated successfully."
+        "comparison": "Current pinned Elastic Defend carrier bundle version 9.1.0 passed smoke tests in this run. Regression validation downloaded Elastic Agent Arm64 bundle 9.3.4, and the candidate bundle reported version 9.3.4 while the embedded endpoint-security Arm64 component and resources validated successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-04-30T03:38:18.999446+00:00",
+    "production_refreshed_at": "2026-05-01T07:09:35.896954+00:00",
     "publish_state": "published"
   }
 }

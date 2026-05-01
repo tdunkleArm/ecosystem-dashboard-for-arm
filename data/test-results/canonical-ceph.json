@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Canonical Ceph",
-    "version": "Jewel (10.2.x)"
+    "version": "unknown"
   },
   "run": {
-    "id": "25145029877",
+    "id": "25203896107",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25145029877/job/73702865850",
-    "timestamp": "2026-04-30T02:59:32Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203896107/job/73900326088",
+    "timestamp": "2026-05-01T05:56:53Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,46 @@
     "job_name": "test-canonical-ceph / test-canonical-ceph"
   },
   "tests": {
-    "passed": 5,
-    "failed": 0,
-    "skipped": 1,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check package-specific version and release evidence",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "skipped",
+        "status": "failed",
         "duration_seconds": 0,
-        "current_version": "Jewel (10.2.x)",
-        "latest_version": "manual_review",
-        "next_installed_version": "manual_review",
-        "decision": "manual_review_needed",
-        "regression_result": "Package-specific regression validation not yet automated",
-        "comparison": "Baseline source or artifact readiness was validated on Arm64 for this migration workflow, but package-specific next-version install/runtime validation still requires a dedicated lane design."
+        "current_version": "unknown",
+        "latest_version": "unknown",
+        "next_installed_version": "not_installed",
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "canonical-ceph",
     "dashboard_link": "/linux/opensource_packages/canonical-ceph",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 4",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "skipped",
-    "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-04-30T03:38:18.976777+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-05-01T07:09:35.875284+00:00",
     "publish_state": "published"
   }
 }
