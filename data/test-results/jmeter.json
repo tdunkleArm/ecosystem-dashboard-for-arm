@@ -5,11 +5,11 @@
     "version": "5.6.2"
   },
   "run": {
-    "id": "25203894641",
+    "id": "25244205719",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203894641/job/73900320957",
-    "timestamp": "2026-05-01T05:39:06Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244205719/job/74025365446",
+    "timestamp": "2026-05-02T04:57:40Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-jmeter / test-jmeter"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 15,
+    "passed": 5,
+    "failed": 1,
+    "skipped": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Or Configuration Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,18 +45,26 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 11,
+        "status": "skipped",
+        "duration_seconds": 0,
         "current_version": "5.6.2",
-        "latest_version": "5.6.3",
-        "next_installed_version": "5.6.3",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned JMeter version 5.6.2 passed smoke tests in this run. Regression validation downloaded candidate Apache JMeter 5.6.3 on Arm64, the candidate reported version 5.6.3, and the candidate smoke plan executed successfully."
+        "latest_version": "unknown",
+        "next_installed_version": "not_installed",
+        "decision": "baseline_failed",
+        "regression_result": "Regression validation deferred because baseline install or core smoke checks failed",
+        "comparison": "Current pinned JMeter version 5.6.2 could not complete baseline install or core smoke validation in this run, so next-version install validation on Arm64 was deferred."
+      },
+      {
+        "name": "Workflow Finalization",
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "job_failed_without_emitted_result",
+        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
+        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -64,16 +72,16 @@
     "contract_version": "2.0",
     "package_slug": "jmeter",
     "dashboard_link": "/linux/opensource_packages/jmeter",
-    "badge_status": "passing",
-    "core_failed": 0,
+    "badge_status": "failing",
+    "core_failed": 1,
     "batch_title": "Batch 3",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-01T07:09:35.925255+00:00",
+    "regression_status": "skipped",
+    "regression_decision": "baseline_failed",
+    "production_refreshed_at": "2026-05-02T06:14:48.569725+00:00",
     "publish_state": "published"
   }
 }

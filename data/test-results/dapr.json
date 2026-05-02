@@ -5,10 +5,10 @@
     "version": "1.16.2"
   },
   "run": {
-    "id": "25203914908",
+    "id": "25244221415",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203914908/job/73900388471",
-    "timestamp": "2026-05-01T06:30:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244221415/job/74025413034",
+    "timestamp": "2026-05-02T05:39:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check dapr binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check dapr version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check dapr help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-01T07:09:35.888069+00:00",
+    "production_refreshed_at": "2026-05-02T06:14:48.530828+00:00",
     "publish_state": "published"
   }
 }

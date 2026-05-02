@@ -5,10 +5,10 @@
     "version": "0.28.1"
   },
   "run": {
-    "id": "25203897669",
+    "id": "25244208260",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203897669/job/73900331696",
-    "timestamp": "2026-05-01T05:52:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244208260/job/74025373314",
+    "timestamp": "2026-05-02T05:07:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check horovodrun help",
@@ -66,7 +66,7 @@
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "passed",
-    "production_refreshed_at": "2026-05-01T07:09:35.919546+00:00",
+    "production_refreshed_at": "2026-05-02T06:14:48.564024+00:00",
     "publish_state": "published"
   }
 }

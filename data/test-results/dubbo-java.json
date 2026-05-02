@@ -5,10 +5,10 @@
     "version": "dubbo-3.2.17"
   },
   "run": {
-    "id": "25203913293",
+    "id": "25244220044",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203913293/job/73900382669",
-    "timestamp": "2026-05-01T06:39:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244220044/job/74025408887",
+    "timestamp": "2026-05-02T05:36:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check pom.xml exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check dubbo-common jar exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dubbo-common classes",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 20,
         "current_version": "dubbo-3.2.17",
         "latest_version": "dubbo-3.2.18",
         "next_installed_version": "dubbo-3.2.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-01T07:09:35.894925+00:00",
+    "production_refreshed_at": "2026-05-02T06:14:48.537959+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "25203908387",
+    "id": "25244216224",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203908387/job/73900365786",
-    "timestamp": "2026-05-01T06:10:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244216224/job/74025399081",
+    "timestamp": "2026-05-02T05:41:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 33,
+    "duration_seconds": 30,
     "details": [
       {
         "name": "Test 1 - Check Smoke Project Files",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Dependency Version",
         "status": "passed",
-        "duration_seconds": 16
+        "duration_seconds": 13
       },
       {
         "name": "Test 3 - Check Build Configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-01T07:09:36.021251+00:00",
+    "production_refreshed_at": "2026-05-02T06:14:48.697194+00:00",
     "publish_state": "published"
   }
 }

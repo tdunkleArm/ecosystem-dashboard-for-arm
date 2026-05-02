@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Ubuntu Desktop",
-    "version": "unknown"
+    "version": "23.04"
   },
   "run": {
-    "id": "25203923468",
+    "id": "25244227465",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25203923468/job/73900415452",
-    "timestamp": "2026-05-01T06:38:53Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25244227465/job/74025432921",
+    "timestamp": "2026-05-02T05:52:46Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,46 @@
     "job_name": "test-ubuntudesktop / test-ubuntudesktop"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 32,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check package-specific version and release evidence",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "current_version": "unknown",
-        "latest_version": "unknown",
-        "next_installed_version": "not_installed",
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 32,
+        "current_version": "23.04",
+        "latest_version": "26.04",
+        "next_installed_version": "26.04",
+        "decision": "validated_next_release",
+        "regression_result": "Next Ubuntu Desktop release metadata validated on Arm64",
+        "comparison": "Tests 1-5 validated the current Ubuntu Desktop release 23.04 using published release/docs evidence on Arm64. The newer stable release page 26.04 is available and passed the same bounded release-metadata validation."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "ubuntudesktop",
     "dashboard_link": "/linux/opensource_packages/ubuntudesktop",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 21",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-05-01T07:09:36.032772+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "validated_next_release",
+    "production_refreshed_at": "2026-05-02T06:14:48.708159+00:00",
     "publish_state": "published"
   }
 }
