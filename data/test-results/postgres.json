@@ -5,10 +5,10 @@
     "version": "16.13"
   },
   "run": {
-    "id": "25270857462",
+    "id": "25302716519",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25270857462/job/74092859967",
-    "timestamp": "2026-05-03T05:26:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302716519/job/74172435226",
+    "timestamp": "2026-05-04T05:30:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check client and server binaries",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional start and query",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:39:18.926910+00:00",
+    "production_refreshed_at": "2026-05-04T06:39:36.968554+00:00",
     "publish_state": "published"
   }
 }

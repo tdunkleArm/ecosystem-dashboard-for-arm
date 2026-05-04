@@ -5,10 +5,10 @@
     "version": "2.4.4"
   },
   "run": {
-    "id": "25270862493",
+    "id": "25302724430",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25270862493/job/74092874334",
-    "timestamp": "2026-05-03T05:33:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302724430/job/74172460377",
+    "timestamp": "2026-05-04T05:48:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 799,
+    "duration_seconds": 778,
     "details": [
       {
         "name": "Test 1 - Check built rethinkdb binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 798,
+        "duration_seconds": 776,
         "current_version": "2.4.4",
         "latest_version": "2.4.5",
         "next_installed_version": "2.4.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-03T06:39:18.954195+00:00",
+    "production_refreshed_at": "2026-05-04T06:39:36.977508+00:00",
     "publish_state": "published"
   }
 }

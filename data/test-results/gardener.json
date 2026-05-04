@@ -5,10 +5,10 @@
     "version": "2.9.0"
   },
   "run": {
-    "id": "25270858681",
+    "id": "25302718538",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25270858681/job/74092863637",
-    "timestamp": "2026-05-03T05:30:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302718538/job/74172441683",
+    "timestamp": "2026-05-04T05:35:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gardenctl binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check gardenctl help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check gardenctl provider-env help",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-03T06:39:18.862727+00:00",
+    "production_refreshed_at": "2026-05-04T06:39:36.900633+00:00",
     "publish_state": "published"
   }
 }

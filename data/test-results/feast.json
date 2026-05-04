@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "25270869494",
+    "id": "25302736146",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25270869494/job/74092893283",
-    "timestamp": "2026-05-03T05:53:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302736146/job/74172496902",
+    "timestamp": "2026-05-04T06:01:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 4,
         "current_version": "0.1.0",
-        "latest_version": "0.62.0",
-        "next_installed_version": "0.62.0",
+        "latest_version": "0.63.0",
+        "next_installed_version": "0.63.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.62.0 from feast-dev/feast also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.63.0 from feast-dev/feast also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-03T06:39:18.856464+00:00",
+    "production_refreshed_at": "2026-05-04T06:39:36.894095+00:00",
     "publish_state": "published"
   }
 }

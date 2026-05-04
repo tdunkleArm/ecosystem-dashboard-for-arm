@@ -5,10 +5,10 @@
     "version": "9.1.6"
   },
   "run": {
-    "id": "25270874188",
+    "id": "25302744555",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25270874188/job/74092906727",
-    "timestamp": "2026-05-03T06:00:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302744555/job/74172521114",
+    "timestamp": "2026-05-04T06:21:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Wheel install and entry points",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version metadata exact match",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Top-level package import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:39:18.876821+00:00",
+    "production_refreshed_at": "2026-05-04T06:39:36.915479+00:00",
     "publish_state": "published"
   }
 }
