@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Firecracker",
-    "version": "v1.10.0"
+    "version": "unknown"
   },
   "run": {
-    "id": "25302734252",
+    "id": "25358657313",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302734252/job/74172489337",
-    "timestamp": "2026-05-04T05:54:43Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358657313/job/74353121331",
+    "timestamp": "2026-05-05T05:23:33Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,43 @@
     "job_name": "test-firecraker / test-firecraker"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Firecracker and jailer binaries exist",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Firecracker version output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check jailer help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Release bundle validation",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 1,
-        "current_version": "v1.10.0",
-        "latest_version": "v1.10.1",
-        "next_installed_version": "v1.10.1",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Firecracker version v1.10.0 passed smoke tests in this run. Regression validation downloaded the next stable Arm64 release v1.10.1, and the candidate firecracker and jailer binaries reported version v1.10.1 with the expected release bundle files present on Arm64."
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "firecraker",
     "dashboard_link": "/linux/opensource_packages/firecraker",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 10",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:39:36.895678+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-05-05T06:15:21.764105+00:00",
     "publish_state": "published"
   }
 }

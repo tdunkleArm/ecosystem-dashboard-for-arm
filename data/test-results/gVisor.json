@@ -5,10 +5,10 @@
     "version": "release-20250127.0"
   },
   "run": {
-    "id": "25302744555",
+    "id": "25358668206",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25302744555/job/74172521097",
-    "timestamp": "2026-05-04T06:21:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358668206/job/74353156347",
+    "timestamp": "2026-05-05T05:40:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check runsc binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Validate runsc command path",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:39:36.899978+00:00",
+    "production_refreshed_at": "2026-05-05T06:15:21.768187+00:00",
     "publish_state": "published"
   }
 }
