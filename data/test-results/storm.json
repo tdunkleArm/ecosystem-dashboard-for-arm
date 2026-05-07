@@ -5,10 +5,10 @@
     "version": "2.8.2"
   },
   "run": {
-    "id": "25358663769",
+    "id": "25477748512",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358663769/job/74353142359",
-    "timestamp": "2026-05-05T05:28:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477748512/job/74754845754",
+    "timestamp": "2026-05-07T06:15:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 30,
+    "duration_seconds": 4055,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 28,
+        "duration_seconds": 4052,
         "current_version": "2.8.2",
         "latest_version": "2.8.3",
         "next_installed_version": "2.8.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:15:21.857073+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.737766+00:00",
     "publish_state": "published"
   }
 }

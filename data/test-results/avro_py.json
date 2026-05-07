@@ -5,10 +5,10 @@
     "version": "1.12.0"
   },
   "run": {
-    "id": "25358641802",
+    "id": "25477726532",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358641802/job/74353073084",
-    "timestamp": "2026-05-05T05:07:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477726532/job/74754775901",
+    "timestamp": "2026-05-07T05:49:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Parse schema",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-05T06:15:21.730397+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.555551+00:00",
     "publish_state": "published"
   }
 }

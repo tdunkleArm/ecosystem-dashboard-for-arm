@@ -5,10 +5,10 @@
     "version": "1.33.4"
   },
   "run": {
-    "id": "25358645298",
+    "id": "25477730679",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358645298/job/74353084620",
-    "timestamp": "2026-05-05T05:04:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477730679/job/74754790698",
+    "timestamp": "2026-05-07T05:51:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Envoy Config Generation (Dry Run)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-05T06:15:21.744466+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.571364+00:00",
     "publish_state": "published"
   }
 }

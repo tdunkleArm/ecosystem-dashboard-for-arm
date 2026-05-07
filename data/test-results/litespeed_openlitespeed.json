@@ -5,10 +5,10 @@
     "version": "1.7.17"
   },
   "run": {
-    "id": "25358668206",
+    "id": "25477752475",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358668206/job/74353156220",
-    "timestamp": "2026-05-05T05:38:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477752475/job/74754860143",
+    "timestamp": "2026-05-07T06:26:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check OpenLiteSpeed binaries exist",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:15:21.799839+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.653291+00:00",
     "publish_state": "published"
   }
 }

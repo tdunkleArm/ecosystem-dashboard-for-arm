@@ -5,10 +5,10 @@
     "version": "24-1.1ubuntu2"
   },
   "run": {
-    "id": "25358678147",
+    "id": "25477762395",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358678147/job/74353187725",
-    "timestamp": "2026-05-05T05:53:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477762395/job/74754893775",
+    "timestamp": "2026-05-07T06:53:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check published package metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check package-specific docs and manifests",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24-1.1ubuntu2",
         "latest_version": "26",
         "next_installed_version": "26",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-05T06:15:21.816518+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.686321+00:00",
     "publish_state": "published"
   }
 }

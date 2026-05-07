@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "25358663769",
+    "id": "25477748512",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358663769/job/74353142610",
-    "timestamp": "2026-05-05T05:37:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477748512/job/74754846400",
+    "timestamp": "2026-05-07T06:14:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24.0.3",
-        "latest_version": "29.4.2",
-        "next_installed_version": "29.4.2",
+        "latest_version": "29.4.3",
+        "next_installed_version": "29.4.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.4.2, and both the docker client and dockerd binaries reported version 29.4.2 on Arm64."
+        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.4.3, and both the docker client and dockerd binaries reported version 29.4.3 on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:15:21.752804+00:00",
+    "production_refreshed_at": "2026-05-07T09:13:46.591135+00:00",
     "publish_state": "published"
   }
 }

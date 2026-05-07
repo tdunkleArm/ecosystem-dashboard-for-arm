@@ -5,11 +5,11 @@
     "version": "1.5.1"
   },
   "run": {
-    "id": "25358661700",
+    "id": "25477746633",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25358661700/job/74353135757",
-    "timestamp": "2026-05-05T05:25:34Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477746633/job/74754839973",
+    "timestamp": "2026-05-07T06:08:04Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,15 +17,15 @@
     "job_name": "test-dav1d / test-dav1d"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check dav1d binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check dav1d version command",
@@ -49,14 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 7,
-        "current_version": "1.5.1",
-        "latest_version": "1.5.3",
-        "next_installed_version": "1.5.3",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Dav1d release 1.5.1 passed smoke tests in this run. Regression validation built the next stable source tag 1.5.3 on Arm64, and the candidate decoder reported version 1.5.3 while exposing real help output."
+        "status": "failed",
+        "duration_seconds": 0
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "dav1d",
     "dashboard_link": "/linux/opensource_packages/dav1d",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:15:21.749895+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-05-07T09:13:46.587716+00:00",
     "publish_state": "published"
   }
 }
