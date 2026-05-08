@@ -5,10 +5,10 @@
     "version": "2.16.1"
   },
   "run": {
-    "id": "25477758244",
+    "id": "25537479258",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477758244/job/74754880690",
-    "timestamp": "2026-05-07T06:43:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537479258/job/74956095678",
+    "timestamp": "2026-05-08T05:44:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check kfp CLI",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check kfp version via CLI",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Download Kubeflow Manifests (Verification)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-07T09:13:46.644745+00:00",
+    "production_refreshed_at": "2026-05-08T06:02:07.870832+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.36"
   },
   "run": {
-    "id": "25477728607",
+    "id": "25537444455",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477728607/job/74754782575",
-    "timestamp": "2026-05-07T05:30:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537444455/job/74955987747",
+    "timestamp": "2026-05-08T04:52:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check fio binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run simple read test",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Run simple write test",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-07T09:13:46.603992+00:00",
+    "production_refreshed_at": "2026-05-08T06:02:07.830632+00:00",
     "publish_state": "published"
   }
 }

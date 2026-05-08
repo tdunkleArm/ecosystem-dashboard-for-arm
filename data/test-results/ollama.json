@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "25477762395",
+    "id": "25537483680",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25477762395/job/74754893852",
-    "timestamp": "2026-05-07T06:51:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537483680/job/74956110042",
+    "timestamp": "2026-05-08T05:48:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 3,
         "current_version": "0.1.0",
-        "latest_version": "0.23.1",
-        "next_installed_version": "0.23.1",
+        "latest_version": "0.23.2",
+        "next_installed_version": "0.23.2",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.23.1 from ollama/ollama also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.23.2 from ollama/ollama also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-07T09:13:46.690421+00:00",
+    "production_refreshed_at": "2026-05-08T06:02:07.933195+00:00",
     "publish_state": "published"
   }
 }
