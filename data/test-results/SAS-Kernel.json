@@ -5,10 +5,10 @@
     "version": "2.4.13"
   },
   "run": {
-    "id": "25537479258",
+    "id": "25592719449",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537479258/job/74956095728",
-    "timestamp": "2026-05-08T05:38:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592719449/job/75133111725",
+    "timestamp": "2026-05-09T06:10:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check sas-kernel binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check sas-kernel help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-08T06:02:07.783176+00:00",
+    "production_refreshed_at": "2026-05-09T06:32:47.614217+00:00",
     "publish_state": "published"
   }
 }

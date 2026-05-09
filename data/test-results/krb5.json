@@ -5,10 +5,10 @@
     "version": "Kerberos"
   },
   "run": {
-    "id": "25537479258",
+    "id": "25592719449",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537479258/job/74956095929",
-    "timestamp": "2026-05-08T05:43:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592719449/job/75133111720",
+    "timestamp": "2026-05-09T06:12:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check klist binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-08T06:02:07.870074+00:00",
+    "production_refreshed_at": "2026-05-09T06:32:47.708881+00:00",
     "publish_state": "published"
   }
 }

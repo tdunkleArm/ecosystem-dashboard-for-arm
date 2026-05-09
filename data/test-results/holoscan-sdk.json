@@ -5,10 +5,10 @@
     "version": "0.5.0"
   },
   "run": {
-    "id": "25537474910",
+    "id": "25592716484",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25537474910/job/74956081934",
-    "timestamp": "2026-05-08T05:41:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592716484/job/75133102843",
+    "timestamp": "2026-05-09T06:16:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Arm64 support gate",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Bounded package-specific smoke",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.5.0",
-        "latest_version": "4.1.0",
-        "next_installed_version": "4.1.0",
+        "latest_version": "4.2.0",
+        "next_installed_version": "4.2.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.5.0, and the next stable source tag 4.1.0 from nvidia-holoscan/holoscan-sdk also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.5.0, and the next stable source tag 4.2.0 from nvidia-holoscan/holoscan-sdk also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-08T06:02:07.858349+00:00",
+    "production_refreshed_at": "2026-05-09T06:32:47.697837+00:00",
     "publish_state": "published"
   }
 }
