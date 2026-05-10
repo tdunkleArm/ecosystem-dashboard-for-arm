@@ -5,10 +5,10 @@
     "version": "24.03-lts-sp2"
   },
   "run": {
-    "id": "25592718058",
+    "id": "25620892569",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592718058/job/75133107282",
-    "timestamp": "2026-05-09T06:11:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620892569/job/75207163846",
+    "timestamp": "2026-05-10T06:24:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check OpenEuler image exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check OpenEuler version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check dnf help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 5,
         "current_version": "24.03-lts-sp2",
         "latest_version": "24.03-lts-sp3",
         "next_installed_version": "24.03-lts-sp3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-09T06:32:47.755762+00:00",
+    "production_refreshed_at": "2026-05-10T06:43:07.559861+00:00",
     "publish_state": "published"
   }
 }

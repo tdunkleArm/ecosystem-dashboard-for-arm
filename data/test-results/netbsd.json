@@ -5,10 +5,10 @@
     "version": "10.0"
   },
   "run": {
-    "id": "25592704919",
+    "id": "25620881927",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592704919/job/75133069153",
-    "timestamp": "2026-05-09T05:38:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620881927/job/75207131357",
+    "timestamp": "2026-05-10T05:48:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 105,
+    "duration_seconds": 106,
     "details": [
       {
         "name": "Test 1 - Check image archive exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Boot baseline image",
         "status": "passed",
-        "duration_seconds": 90
+        "duration_seconds": 91
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 155,
+        "duration_seconds": 109,
         "current_version": "10.0",
         "latest_version": "10.1",
         "next_installed_version": "10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-09T06:32:47.747178+00:00",
+    "production_refreshed_at": "2026-05-10T06:43:07.534864+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.15"
   },
   "run": {
-    "id": "25592713702",
+    "id": "25620888978",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592713702/job/75133094273",
-    "timestamp": "2026-05-09T06:01:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620888978/job/75207152833",
+    "timestamp": "2026-05-10T06:16:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check lzip binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "1.15",
         "latest_version": "1.26",
         "next_installed_version": "1.26",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-09T06:32:47.735786+00:00",
+    "production_refreshed_at": "2026-05-10T06:43:07.523746+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.5.3"
   },
   "run": {
-    "id": "25592718058",
+    "id": "25620892569",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592718058/job/75133107231",
-    "timestamp": "2026-05-09T06:10:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620892569/job/75207164478",
+    "timestamp": "2026-05-10T06:29:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check linuxkit binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 11
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.5.3",
         "latest_version": "1.6.0",
         "next_installed_version": "1.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-09T06:32:47.731912+00:00",
+    "production_refreshed_at": "2026-05-10T06:43:07.519908+00:00",
     "publish_state": "published"
   }
 }

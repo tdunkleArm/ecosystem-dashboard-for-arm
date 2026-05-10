@@ -5,10 +5,10 @@
     "version": "5.1"
   },
   "run": {
-    "id": "25592715098",
+    "id": "25620890141",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25592715098/job/75133098319",
-    "timestamp": "2026-05-09T06:00:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620890141/job/75207156257",
+    "timestamp": "2026-05-10T06:13:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Ping multiple hosts (dry run/local)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-09T06:32:47.683841+00:00",
+    "production_refreshed_at": "2026-05-10T06:43:07.468944+00:00",
     "publish_state": "published"
   }
 }
