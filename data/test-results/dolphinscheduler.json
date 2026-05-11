@@ -5,11 +5,11 @@
     "version": "3.2.1"
   },
   "run": {
-    "id": "25620886524",
+    "id": "25652937316",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620886524/job/75207144759",
-    "timestamp": "2026-05-10T06:12:52Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652937316/job/75294806467",
+    "timestamp": "2026-05-11T06:28:37Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-dolphinscheduler / test-dolphinscheduler"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 709,
+    "duration_seconds": 201,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check alert-server directory exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check alert-server config exists",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 709,
+        "status": "passed",
+        "duration_seconds": 201,
         "current_version": "3.2.1",
         "latest_version": "3.2.2",
-        "next_installed_version": "install_failed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned DolphinScheduler version 3.2.1 passed smoke tests in this run, but the candidate 3.2.2 could not be downloaded from the public binary distribution mirrors on Arm64."
+        "next_installed_version": "3.2.2",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned DolphinScheduler version 3.2.1 passed smoke tests in this run. Regression validation downloaded and extracted candidate version 3.2.2 on Arm64, and the staged distribution exposed the expected daemon scripts plus either the legacy alert-server layout or the current monolithic libs/master-server layout."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "dolphinscheduler",
     "dashboard_link": "/linux/opensource_packages/dolphinscheduler",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-05-10T06:43:07.449783+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-05-11T07:50:30.226026+00:00",
     "publish_state": "published"
   }
 }

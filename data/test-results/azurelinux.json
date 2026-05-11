@@ -5,10 +5,10 @@
     "version": "3.0"
   },
   "run": {
-    "id": "25620876607",
+    "id": "25652915348",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620876607/job/75207112855",
-    "timestamp": "2026-05-10T05:40:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652915348/job/75294740147",
+    "timestamp": "2026-05-11T05:57:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 5,
         "current_version": "3.0",
-        "latest_version": "3.0.20260506-3.0",
-        "next_installed_version": "3.0.20260506-3.0",
+        "latest_version": "3.0.20260510-3.0",
+        "next_installed_version": "3.0.20260510-3.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 3.0, and the next stable source tag 3.0.20260506-3.0 from microsoft/azurelinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 3.0, and the next stable source tag 3.0.20260510-3.0 from microsoft/azurelinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-10T06:43:07.427660+00:00",
+    "production_refreshed_at": "2026-05-11T07:50:30.195450+00:00",
     "publish_state": "published"
   }
 }

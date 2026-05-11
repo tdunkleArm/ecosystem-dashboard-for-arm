@@ -5,10 +5,10 @@
     "version": "0.9.50"
   },
   "run": {
-    "id": "25620876607",
+    "id": "25652915348",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620876607/job/75207112895",
-    "timestamp": "2026-05-10T05:34:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652915348/job/75294740332",
+    "timestamp": "2026-05-11T05:57:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Schema",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Validate Policy",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-10T06:43:07.438549+00:00",
+    "production_refreshed_at": "2026-05-11T07:50:30.214417+00:00",
     "publish_state": "published"
   }
 }

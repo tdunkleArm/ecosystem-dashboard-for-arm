@@ -5,10 +5,10 @@
     "version": "v5.2"
   },
   "run": {
-    "id": "25620890141",
+    "id": "25652944748",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620890141/job/75207156485",
-    "timestamp": "2026-05-10T06:17:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652944748/job/75294829346",
+    "timestamp": "2026-05-11T06:43:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 173,
+    "duration_seconds": 164,
     "details": [
       {
         "name": "Test 1 - Check MUSCLE binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 173,
+        "duration_seconds": 163,
         "current_version": "v5.2",
         "latest_version": "v5.3",
         "next_installed_version": "v5.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:43:07.533017+00:00",
+    "production_refreshed_at": "2026-05-11T07:50:30.286891+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2023.1"
   },
   "run": {
-    "id": "25620878753",
+    "id": "25652919727",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25620878753/job/75207119777",
-    "timestamp": "2026-05-10T05:54:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652919727/job/75294754714",
+    "timestamp": "2026-05-11T06:15:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 621,
+    "duration_seconds": 592,
     "details": [
       {
         "name": "Test 1 - Check cp2k binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check cp2k help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify binary is Arm64",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 620,
+        "duration_seconds": 592,
         "current_version": "2023.1",
         "latest_version": "2023.2",
         "next_installed_version": "2023.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:43:07.413814+00:00",
+    "production_refreshed_at": "2026-05-11T07:50:30.181039+00:00",
     "publish_state": "published"
   }
 }
