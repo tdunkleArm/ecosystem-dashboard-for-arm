@@ -5,10 +5,10 @@
     "version": "15.0"
   },
   "run": {
-    "id": "25652919727",
+    "id": "25715581687",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652919727/job/75294754325",
-    "timestamp": "2026-05-11T06:00:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715581687/job/75504642087",
+    "timestamp": "2026-05-12T05:53:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check checksum file availability",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check checksum entry for Arm64 image",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "15.0",
         "latest_version": "15.0",
         "next_installed_version": "15.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-11T07:50:30.239284+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.458280+00:00",
     "publish_state": "published"
   }
 }

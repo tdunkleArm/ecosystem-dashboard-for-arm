@@ -5,10 +5,10 @@
     "version": "v1.5.0"
   },
   "run": {
-    "id": "25652932097",
+    "id": "25715595509",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652932097/job/75294792154",
-    "timestamp": "2026-05-11T06:32:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715595509/job/75504682780",
+    "timestamp": "2026-05-12T06:05:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check repository exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check core project files",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 10
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v1.5.0",
         "latest_version": "v1.5.1",
         "next_installed_version": "v1.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T07:50:30.229012+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.446449+00:00",
     "publish_state": "published"
   }
 }

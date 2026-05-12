@@ -5,10 +5,10 @@
     "version": "v0.5.4"
   },
   "run": {
-    "id": "25652913079",
+    "id": "25715573989",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652913079/job/75294734651",
-    "timestamp": "2026-05-11T06:15:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715573989/job/75504615950",
+    "timestamp": "2026-05-12T05:43:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 194,
+    "duration_seconds": 182,
     "details": [
       {
         "name": "Test 1 - Check madoguchi binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Verify binary linkage",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check source tree contents",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 192,
+        "duration_seconds": 182,
         "current_version": "v0.5.4",
         "latest_version": "v0.6.0",
         "next_installed_version": "v0.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T07:50:30.277908+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.501499+00:00",
     "publish_state": "published"
   }
 }

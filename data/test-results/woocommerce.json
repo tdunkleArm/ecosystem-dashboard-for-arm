@@ -5,10 +5,10 @@
     "version": "9.5.1"
   },
   "run": {
-    "id": "25652944748",
+    "id": "25715608810",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652944748/job/75294829083",
-    "timestamp": "2026-05-11T06:41:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715608810/job/75504726210",
+    "timestamp": "2026-05-12T06:24:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Plugin File Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - PHP Lint And Plugin Metadata Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - WordPress And Plugin Smoke",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T07:50:30.356046+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.580270+00:00",
     "publish_state": "published"
   }
 }

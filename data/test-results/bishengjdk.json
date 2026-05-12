@@ -5,10 +5,10 @@
     "version": "21.0.6"
   },
   "run": {
-    "id": "25652939804",
+    "id": "25715603285",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652939804/job/75294815134",
-    "timestamp": "2026-05-11T06:34:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715603285/job/75504706603",
+    "timestamp": "2026-05-12T06:31:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check Java Binary",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 18,
+        "duration_seconds": 19,
         "current_version": "21.0.6",
         "latest_version": "21.0.7",
         "next_installed_version": "21.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T07:50:30.197724+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.420202+00:00",
     "publish_state": "published"
   }
 }

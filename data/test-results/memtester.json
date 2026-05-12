@@ -5,10 +5,10 @@
     "version": "4.6.0"
   },
   "run": {
-    "id": "25652947221",
+    "id": "25715611276",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652947221/job/75294837603",
-    "timestamp": "2026-05-11T06:44:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715611276/job/75504732759",
+    "timestamp": "2026-05-12T06:24:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check memtester binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run small memory test",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-11T07:50:30.280274+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.503932+00:00",
     "publish_state": "published"
   }
 }

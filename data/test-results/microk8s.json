@@ -5,10 +5,10 @@
     "version": "v1.34.6"
   },
   "run": {
-    "id": "25652926913",
+    "id": "25715590108",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25652926913/job/75294778438",
-    "timestamp": "2026-05-11T06:18:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715590108/job/75504667248",
+    "timestamp": "2026-05-12T05:52:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check microk8s binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check status command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check kubectl command",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check inspect command",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 5 - Check services and architecture",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-11T07:50:30.281530+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:17.505087+00:00",
     "publish_state": "published"
   }
 }
