@@ -5,10 +5,10 @@
     "version": "1.6.1"
   },
   "run": {
-    "id": "25715600865",
+    "id": "25780854802",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715600865/job/75504699596",
-    "timestamp": "2026-05-12T06:21:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780854802/job/75722942475",
+    "timestamp": "2026-05-13T06:23:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check binary exists",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "1.6.1",
-        "latest_version": "2.0.0",
-        "next_installed_version": "2.0.0",
+        "latest_version": "2.0.1",
+        "next_installed_version": "2.0.1",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.0 on Arm64, and the staged binary reported version 2.0.0."
+        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.1 on Arm64, and the staged binary reported version 2.0.1."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:17.516218+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.982388+00:00",
     "publish_state": "published"
   }
 }

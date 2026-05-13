@@ -5,10 +5,10 @@
     "version": "4.18.4"
   },
   "run": {
-    "id": "25715576329",
+    "id": "25780830766",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715576329/job/75504622962",
-    "timestamp": "2026-05-12T05:41:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780830766/job/75722866337",
+    "timestamp": "2026-05-13T05:46:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,17 +20,17 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check ydata-profiling import",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 2 - Check version via python",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:17.584124+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:39.059987+00:00",
     "publish_state": "published"
   }
 }

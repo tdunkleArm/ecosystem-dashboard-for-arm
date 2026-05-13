@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "25715584283",
+    "id": "25780838440",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715584283/job/75504649441",
-    "timestamp": "2026-05-12T05:46:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780838440/job/75722890406",
+    "timestamp": "2026-05-13T05:55:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,37 +20,37 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 35,
+    "duration_seconds": 14,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Fleet Server Component Existence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Carrier Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Fleet Server Help Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Embedded Fleet Server Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 14,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:17.449127+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.922713+00:00",
     "publish_state": "published"
   }
 }

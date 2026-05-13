@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "25715592817",
+    "id": "25780845957",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715592817/job/75504674640",
-    "timestamp": "2026-05-12T06:07:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780845957/job/75722914201",
+    "timestamp": "2026-05-13T06:03:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Gradle binary exists",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 9
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 3,
         "current_version": "8.11",
-        "latest_version": "9.5.0",
-        "next_installed_version": "9.5.0",
+        "latest_version": "9.5.1",
+        "next_installed_version": "9.5.1",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.5.0 on Arm64, and the candidate distribution reported version 9.5.0 and returned Gradle help output successfully."
+        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.5.1 on Arm64, and the candidate distribution reported version 9.5.1 and returned Gradle help output successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:17.467260+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.938803+00:00",
     "publish_state": "published"
   }
 }

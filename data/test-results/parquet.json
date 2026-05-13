@@ -5,10 +5,10 @@
     "version": "0.2.16"
   },
   "run": {
-    "id": "25715618847",
+    "id": "25780873957",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715618847/job/75504758218",
-    "timestamp": "2026-05-12T06:45:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780873957/job/75722998889",
+    "timestamp": "2026-05-13T06:43:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check parquet-tools binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check parquet-tools help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check python import (optional)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:17.531424+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.996382+00:00",
     "publish_state": "published"
   }
 }

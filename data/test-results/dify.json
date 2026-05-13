@@ -5,10 +5,10 @@
     "version": "0.3.13"
   },
   "run": {
-    "id": "25715598205",
+    "id": "25780851094",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715598205/job/75504690598",
-    "timestamp": "2026-05-12T06:22:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780851094/job/75722929434",
+    "timestamp": "2026-05-13T06:23:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 5,
         "current_version": "0.3.13",
-        "latest_version": "1.14.0",
-        "next_installed_version": "1.14.0",
+        "latest_version": "1.14.1",
+        "next_installed_version": "1.14.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.14.0 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.14.1 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-12T08:44:17.441596+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.916314+00:00",
     "publish_state": "published"
   }
 }

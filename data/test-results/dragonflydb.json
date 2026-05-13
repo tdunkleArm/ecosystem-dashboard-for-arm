@@ -5,10 +5,10 @@
     "version": "v1.27.3"
   },
   "run": {
-    "id": "25715595509",
+    "id": "25780848397",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715595509/job/75504681976",
-    "timestamp": "2026-05-12T06:07:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780848397/job/75722921283",
+    "timestamp": "2026-05-13T06:19:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check dragonfly binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "v1.27.3",
         "latest_version": "v1.27.4",
         "next_installed_version": "v1.27.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:17.444727+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.919146+00:00",
     "publish_state": "published"
   }
 }

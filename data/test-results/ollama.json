@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "25715621307",
+    "id": "25780876640",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715621307/job/75504766267",
-    "timestamp": "2026-05-12T06:41:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780876640/job/75723007459",
+    "timestamp": "2026-05-13T06:44:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "0.1.0",
-        "latest_version": "0.23.2",
-        "next_installed_version": "0.23.2",
+        "latest_version": "0.23.3",
+        "next_installed_version": "0.23.3",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.23.2 from ollama/ollama also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.23.3 from ollama/ollama also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-12T08:44:17.519868+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.985755+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.33.1-101-87a659de4"
   },
   "run": {
-    "id": "25715592817",
+    "id": "25780845957",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25715592817/job/75504674579",
-    "timestamp": "2026-05-12T05:59:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780845957/job/75722913617",
+    "timestamp": "2026-05-13T06:09:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 90,
+    "duration_seconds": 102,
     "details": [
       {
         "name": "Test 1 - Check recursive build artifacts",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Controller distribution help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Check Satellite distribution help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 89,
+        "duration_seconds": 101,
         "current_version": "1.33.1-101-87a659de4",
-        "latest_version": "master-687c72f27",
-        "next_installed_version": "1.33.1-182-687c72f27",
+        "latest_version": "master-ff59f6933",
+        "next_installed_version": "1.33.1-183-ff59f6933",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit 687c72f27 built successfully with controller and satellite distributions on Arm64."
+        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit ff59f6933 built successfully with controller and satellite distributions on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:17.496386+00:00",
+    "production_refreshed_at": "2026-05-13T08:27:38.963635+00:00",
     "publish_state": "published"
   }
 }
