@@ -5,10 +5,10 @@
     "version": "1.3.13"
   },
   "run": {
-    "id": "25780828385",
+    "id": "25844049841",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780828385/job/75722859074",
-    "timestamp": "2026-05-13T05:46:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25844049841/job/75935192684",
+    "timestamp": "2026-05-14T05:49:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check module import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check internal constants",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check encryption capabilities",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:27:39.003202+00:00",
+    "production_refreshed_at": "2026-05-14T07:54:38.583251+00:00",
     "publish_state": "published"
   }
 }

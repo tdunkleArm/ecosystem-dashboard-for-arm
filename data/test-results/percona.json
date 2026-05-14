@@ -5,10 +5,10 @@
     "version": "8.0.45-36"
   },
   "run": {
-    "id": "25780840955",
+    "id": "25844060410",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780840955/job/75722898761",
-    "timestamp": "2026-05-13T05:58:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25844060410/job/75935226831",
+    "timestamp": "2026-05-14T05:58:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:27:38.996891+00:00",
+    "production_refreshed_at": "2026-05-14T07:54:38.577024+00:00",
     "publish_state": "published"
   }
 }

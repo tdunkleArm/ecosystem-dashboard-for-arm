@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "PyTorch",
-    "version": "2.11.0+cu130"
+    "version": "2.12.0+cu130"
   },
   "run": {
-    "id": "25780857554",
+    "id": "25844075064",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780857554/job/75722946726",
-    "timestamp": "2026-05-13T06:31:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25844075064/job/75935273171",
+    "timestamp": "2026-05-14T06:33:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Module Help Output",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:27:39.003706+00:00",
+    "production_refreshed_at": "2026-05-14T07:54:38.583711+00:00",
     "publish_state": "published"
   }
 }

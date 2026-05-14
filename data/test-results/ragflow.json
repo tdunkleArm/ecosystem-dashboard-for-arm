@@ -5,10 +5,10 @@
     "version": "0.7.0"
   },
   "run": {
-    "id": "25780876640",
+    "id": "25844090934",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25780876640/job/75723008040",
-    "timestamp": "2026-05-13T06:47:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25844090934/job/75935325253",
+    "timestamp": "2026-05-14T07:06:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 3,
         "current_version": "0.7.0",
-        "latest_version": "0.25.2",
-        "next_installed_version": "0.25.2",
+        "latest_version": "0.25.4",
+        "next_installed_version": "0.25.4",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.7.0, and the next stable source tag 0.25.2 from infiniflow/ragflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.7.0, and the next stable source tag 0.25.4 from infiniflow/ragflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-13T08:27:39.005989+00:00",
+    "production_refreshed_at": "2026-05-14T07:54:38.585884+00:00",
     "publish_state": "published"
   }
 }
