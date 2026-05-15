@@ -5,10 +5,10 @@
     "version": "1.99.4"
   },
   "run": {
-    "id": "25844058201",
+    "id": "25902714778",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25844058201/job/75935220274",
-    "timestamp": "2026-05-14T05:54:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25902714778/job/76129316436",
+    "timestamp": "2026-05-15T06:00:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 331,
+    "duration_seconds": 122,
     "details": [
       {
         "name": "Test 1 - Check Sqoop launchers exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check show version shell command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 330,
+        "duration_seconds": 122,
         "current_version": "1.99.4",
         "latest_version": "1.99.7",
         "next_installed_version": "1.99.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-14T07:54:38.600801+00:00",
+    "production_refreshed_at": "2026-05-15T07:14:03.818064+00:00",
     "publish_state": "published"
   }
 }
