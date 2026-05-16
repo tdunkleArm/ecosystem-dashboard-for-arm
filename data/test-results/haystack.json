@@ -5,10 +5,10 @@
     "version": "2.29.0"
   },
   "run": {
-    "id": "25902737589",
+    "id": "25953799964",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25902737589/job/76129389040",
-    "timestamp": "2026-05-15T06:34:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953799964/job/76296510611",
+    "timestamp": "2026-05-16T06:06:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check Python import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check basic component import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Create a simple Pipeline",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-15T07:14:03.729212+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:02.331940+00:00",
     "publish_state": "published"
   }
 }

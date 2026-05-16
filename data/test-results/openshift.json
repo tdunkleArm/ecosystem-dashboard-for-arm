@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "25902737589",
+    "id": "25953799964",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25902737589/job/76129389433",
-    "timestamp": "2026-05-15T06:35:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953799964/job/76296510697",
+    "timestamp": "2026-05-16T06:03:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check oc binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check kubectl binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "4.14.0",
         "latest_version": "4.21.15",
         "next_installed_version": "4.21.15",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:14:03.784371+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:02.381204+00:00",
     "publish_state": "published"
   }
 }

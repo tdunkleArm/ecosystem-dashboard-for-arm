@@ -5,10 +5,10 @@
     "version": "1.24.0"
   },
   "run": {
-    "id": "25902712704",
+    "id": "25953785887",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25902712704/job/76129310363",
-    "timestamp": "2026-05-15T06:00:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953785887/job/76296466444",
+    "timestamp": "2026-05-16T05:32:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check istioctl binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Analyze configuration (empty/default)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Validate manifest (if possible)",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:14:03.735777+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:02.337904+00:00",
     "publish_state": "published"
   }
 }
