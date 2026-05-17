@@ -5,10 +5,10 @@
     "version": "7.5.233-2"
   },
   "run": {
-    "id": "25953803774",
+    "id": "25982704707",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953803774/job/76296523235",
-    "timestamp": "2026-05-16T06:17:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982704707/job/76374223639",
+    "timestamp": "2026-05-17T06:34:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "7.5.233-2",
-        "latest_version": "8.3.643",
-        "next_installed_version": "8.3.643",
+        "latest_version": "8.3.644",
+        "next_installed_version": "8.3.644",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 7.5.233-2, and the next stable source tag 8.3.643 from RTimothyEdwards/magic also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 7.5.233-2, and the next stable source tag 8.3.644 from RTimothyEdwards/magic also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-16T06:35:02.359154+00:00",
+    "production_refreshed_at": "2026-05-17T06:52:20.045768+00:00",
     "publish_state": "published"
   }
 }

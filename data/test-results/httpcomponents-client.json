@@ -5,10 +5,10 @@
     "version": "5.4"
   },
   "run": {
-    "id": "25953782568",
+    "id": "25982680433",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953782568/job/76296455087",
-    "timestamp": "2026-05-16T05:24:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982680433/job/76374158094",
+    "timestamp": "2026-05-17T05:45:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check client jars exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run loopback HTTP request",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check expected client classes",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check dependency jars and Arm64 runner",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "5.4",
         "latest_version": "5.6",
         "next_installed_version": "5.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-16T06:35:02.334505+00:00",
+    "production_refreshed_at": "2026-05-17T06:52:20.021499+00:00",
     "publish_state": "published"
   }
 }

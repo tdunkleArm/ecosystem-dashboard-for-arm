@@ -5,10 +5,10 @@
     "version": "2.4.5"
   },
   "run": {
-    "id": "25953801280",
+    "id": "25982701870",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953801280/job/76296514605",
-    "timestamp": "2026-05-16T06:04:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982701870/job/76374216246",
+    "timestamp": "2026-05-17T06:26:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Import NumPy",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check installed version",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check f2py help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify architecture",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-16T06:35:02.373317+00:00",
+    "production_refreshed_at": "2026-05-17T06:52:20.082581+00:00",
     "publish_state": "published"
   }
 }

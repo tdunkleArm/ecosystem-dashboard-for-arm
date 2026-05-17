@@ -5,11 +5,11 @@
     "version": "2.4.32"
   },
   "run": {
-    "id": "25953781367",
+    "id": "25982679134",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953781367/job/76296451480",
-    "timestamp": "2026-05-16T05:27:36Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982679134/job/76374153685",
+    "timestamp": "2026-05-17T05:44:24Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-httpd / test-httpd"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 45,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check httpd binary exists",
@@ -49,14 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 43,
-        "current_version": "2.4.32",
-        "latest_version": "2.4.67",
-        "next_installed_version": "2.4.67",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Apache httpd version 2.4.32 passed smoke tests in this run. Regression validation built candidate version 2.4.67 from the official source tarball on Arm64, and the candidate server reported version 2.4.67 while serving localhost successfully."
+        "status": "failed",
+        "duration_seconds": 40
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "httpd",
     "dashboard_link": "/linux/opensource_packages/httpd",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 1",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-16T06:35:02.334763+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-05-17T06:52:20.021746+00:00",
     "publish_state": "published"
   }
 }

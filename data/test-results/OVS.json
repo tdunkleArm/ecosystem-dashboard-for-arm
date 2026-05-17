@@ -5,10 +5,10 @@
     "version": "3.3.4"
   },
   "run": {
-    "id": "25953783740",
+    "id": "25982681667",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25953783740/job/76296458813",
-    "timestamp": "2026-05-16T05:30:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982681667/job/76374161883",
+    "timestamp": "2026-05-17T05:47:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ovs service status (smoke check only)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-16T06:35:02.270910+00:00",
+    "production_refreshed_at": "2026-05-17T06:52:19.941572+00:00",
     "publish_state": "published"
   }
 }
