@@ -5,10 +5,10 @@
     "version": "1.14.6"
   },
   "run": {
-    "id": "25982693983",
+    "id": "26016640620",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982693983/job/76374197447",
-    "timestamp": "2026-05-17T06:15:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016640620/job/76468049014",
+    "timestamp": "2026-05-18T06:46:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check flatpak binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Add Flathub remote",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check for Freedesktop SDK availability",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-17T06:52:20.007354+00:00",
+    "production_refreshed_at": "2026-05-18T08:54:58.677624+00:00",
     "publish_state": "published"
   }
 }

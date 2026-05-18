@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Qdrant",
-    "version": "unknown"
+    "version": "1.13.4"
   },
   "run": {
-    "id": "25982703210",
+    "id": "26016655401",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/25982703210/job/76374220050",
-    "timestamp": "2026-05-17T06:35:15Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016655401/job/76468093881",
+    "timestamp": "2026-05-18T07:10:56Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,40 @@
     "job_name": "test-qdrant / test-qdrant"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check Qdrant image exists",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version endpoint",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check container configuration",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 3
       },
       {
         "name": "Regression applicability - package manager installed",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 0
       }
     ]
   },
@@ -61,16 +58,14 @@
     "contract_version": "2.0",
     "package_slug": "qdrant",
     "dashboard_link": "/linux/opensource_packages/qdrant",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 18",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-05-17T06:52:20.103657+00:00",
+    "regression_applicability": "not_applicable",
+    "regression_reason": "package_manager_installed",
+    "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
+    "production_refreshed_at": "2026-05-18T08:54:58.752533+00:00",
     "publish_state": "published"
   }
 }
