@@ -5,10 +5,10 @@
     "version": "1.13.4"
   },
   "run": {
-    "id": "26016655401",
+    "id": "26079428521",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016655401/job/76468093881",
-    "timestamp": "2026-05-18T07:10:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079428521/job/76677318284",
+    "timestamp": "2026-05-19T07:34:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check Qdrant image exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check container configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-18T08:54:58.752533+00:00",
+    "production_refreshed_at": "2026-05-19T09:16:52.804046+00:00",
     "publish_state": "published"
   }
 }

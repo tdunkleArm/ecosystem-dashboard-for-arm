@@ -5,10 +5,10 @@
     "version": "9.0.0-2"
   },
   "run": {
-    "id": "26016652952",
+    "id": "26079425938",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016652952/job/76468084967",
-    "timestamp": "2026-05-18T07:03:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079425938/job/76677309588",
+    "timestamp": "2026-05-19T07:37:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Run glxinfo (might fail without display)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-18T08:54:58.719075+00:00",
+    "production_refreshed_at": "2026-05-19T09:16:52.764910+00:00",
     "publish_state": "published"
   }
 }

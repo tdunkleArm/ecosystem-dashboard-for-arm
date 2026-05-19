@@ -5,10 +5,10 @@
     "version": "v0.52.1"
   },
   "run": {
-    "id": "26016655401",
+    "id": "26079428521",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016655401/job/76468094055",
-    "timestamp": "2026-05-18T07:06:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079428521/job/76677319282",
+    "timestamp": "2026-05-19T07:30:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check cadvisor binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.52.1",
         "latest_version": "0.53.0",
         "next_installed_version": "0.53.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-18T08:54:58.644191+00:00",
+    "production_refreshed_at": "2026-05-19T09:16:52.671019+00:00",
     "publish_state": "published"
   }
 }

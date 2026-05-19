@@ -5,10 +5,10 @@
     "version": "2.16.1"
   },
   "run": {
-    "id": "26016655401",
+    "id": "26079428521",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016655401/job/76468094298",
-    "timestamp": "2026-05-18T07:15:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079428521/job/76677319530",
+    "timestamp": "2026-05-19T07:12:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check kfp import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check kfp CLI",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check kfp version via CLI",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-18T08:54:58.703334+00:00",
+    "production_refreshed_at": "2026-05-19T09:16:52.744420+00:00",
     "publish_state": "published"
   }
 }

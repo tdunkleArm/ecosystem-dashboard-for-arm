@@ -5,10 +5,10 @@
     "version": "2.0.1"
   },
   "run": {
-    "id": "26016650478",
+    "id": "26079423015",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26016650478/job/76468078187",
-    "timestamp": "2026-05-18T07:10:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079423015/job/76677301925",
+    "timestamp": "2026-05-19T06:58:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check npm package exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Basic Functional Check",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-18T08:54:58.663682+00:00",
+    "production_refreshed_at": "2026-05-19T09:16:52.703552+00:00",
     "publish_state": "published"
   }
 }
