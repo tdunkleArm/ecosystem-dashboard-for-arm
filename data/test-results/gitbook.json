@@ -5,10 +5,10 @@
     "version": "2.3.2"
   },
   "run": {
-    "id": "26079400336",
+    "id": "26144570357",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079400336/job/76677230083",
-    "timestamp": "2026-05-19T06:38:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144570357/job/76896984732",
+    "timestamp": "2026-05-20T06:22:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check gitbook binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-19T09:16:52.723083+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.751601+00:00",
     "publish_state": "published"
   }
 }

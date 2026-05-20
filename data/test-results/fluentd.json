@@ -5,10 +5,10 @@
     "version": "1.19.2"
   },
   "run": {
-    "id": "26079400336",
+    "id": "26144570357",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079400336/job/76677229989",
-    "timestamp": "2026-05-19T06:24:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144570357/job/76896984852",
+    "timestamp": "2026-05-20T06:32:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check fluentd binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check fluentd help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Dry-run configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-19T09:16:52.716398+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.744731+00:00",
     "publish_state": "published"
   }
 }

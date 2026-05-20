@@ -5,10 +5,10 @@
     "version": "3.23.0"
   },
   "run": {
-    "id": "26079411718",
+    "id": "26144582130",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079411718/job/76677267194",
-    "timestamp": "2026-05-19T06:50:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144582130/job/76897024064",
+    "timestamp": "2026-05-20T06:38:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 114,
+    "duration_seconds": 108,
     "details": [
       {
         "name": "Test 1 - Check valgrind binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 114,
+        "duration_seconds": 107,
         "current_version": "3.23.0",
         "latest_version": "3.27.0",
         "next_installed_version": "3.27.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-19T09:16:52.832714+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.854967+00:00",
     "publish_state": "published"
   }
 }

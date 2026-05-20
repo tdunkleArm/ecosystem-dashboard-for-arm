@@ -5,10 +5,10 @@
     "version": "1.13.0"
   },
   "run": {
-    "id": "26079403074",
+    "id": "26144573348",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079403074/job/76677238566",
-    "timestamp": "2026-05-19T06:31:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144573348/job/76896994251",
+    "timestamp": "2026-05-20T06:37:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "1.13.0",
-        "latest_version": "1.23.0",
-        "next_installed_version": "1.23.0",
+        "latest_version": "1.24.0",
+        "next_installed_version": "1.24.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 1.13.0, and the next stable source tag 1.23.0 from NVIDIA/cudnn-frontend also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 1.13.0, and the next stable source tag 1.24.0 from NVIDIA/cudnn-frontend also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-19T09:16:52.696051+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.724038+00:00",
     "publish_state": "published"
   }
 }

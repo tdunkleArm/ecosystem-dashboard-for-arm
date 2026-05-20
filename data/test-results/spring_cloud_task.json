@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "26079385997",
+    "id": "26144556381",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079385997/job/76677183271",
-    "timestamp": "2026-05-19T06:12:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144556381/job/76896935805",
+    "timestamp": "2026-05-20T06:04:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check jar files exist in local repo",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check dependency tree",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Build dummy project",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-19T09:16:52.820802+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.843097+00:00",
     "publish_state": "published"
   }
 }

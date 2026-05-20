@@ -5,10 +5,10 @@
     "version": "0.3.0.16"
   },
   "run": {
-    "id": "26079403074",
+    "id": "26144573348",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079403074/job/76677238333",
-    "timestamp": "2026-05-19T06:29:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144573348/job/76896994227",
+    "timestamp": "2026-05-20T06:32:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package installed",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check import",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Domo class",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-19T09:16:52.703747+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.731933+00:00",
     "publish_state": "published"
   }
 }

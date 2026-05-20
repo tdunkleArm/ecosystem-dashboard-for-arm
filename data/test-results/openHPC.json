@@ -5,10 +5,10 @@
     "version": "v3.2.1.GA"
   },
   "run": {
-    "id": "26079428521",
+    "id": "26144599464",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079428521/job/76677319217",
-    "timestamp": "2026-05-19T07:28:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144599464/job/76897078035",
+    "timestamp": "2026-05-20T07:08:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check release tag exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check OpenHPC repo file",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Validate Arm repo metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-19T09:16:52.780286+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.804132+00:00",
     "publish_state": "published"
   }
 }

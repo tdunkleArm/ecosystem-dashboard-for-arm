@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "26079433625",
+    "id": "26144605228",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26079433625/job/76677339011",
-    "timestamp": "2026-05-19T07:30:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144605228/job/76897096390",
+    "timestamp": "2026-05-20T07:07:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "0.1.0",
-        "latest_version": "0.42",
-        "next_installed_version": "0.42",
+        "latest_version": "0.43",
+        "next_installed_version": "0.43",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.42 from open-component-model/ocm also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.43 from open-component-model/ocm also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-19T09:16:52.779407+00:00",
+    "production_refreshed_at": "2026-05-20T08:05:14.803263+00:00",
     "publish_state": "published"
   }
 }
