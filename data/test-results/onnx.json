@@ -5,10 +5,10 @@
     "version": "1.21.0"
   },
   "run": {
-    "id": "26144553803",
+    "id": "26208623530",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144553803/job/76896930445",
-    "timestamp": "2026-05-20T06:09:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208623530/job/77113945067",
+    "timestamp": "2026-05-21T06:06:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Import ONNX",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Module Help Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-20T08:05:14.803804+00:00",
+    "production_refreshed_at": "2026-05-21T08:15:03.511285+00:00",
     "publish_state": "published"
   }
 }

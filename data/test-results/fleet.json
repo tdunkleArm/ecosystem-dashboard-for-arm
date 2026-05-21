@@ -5,10 +5,10 @@
     "version": "v0.13.8"
   },
   "run": {
-    "id": "26144570357",
+    "id": "26208640899",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144570357/job/76896984514",
-    "timestamp": "2026-05-20T06:25:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208640899/job/77114001300",
+    "timestamp": "2026-05-21T06:24:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check fleet binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v0.13.8",
         "latest_version": "v0.13.9",
         "next_installed_version": "v0.13.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:05:14.743879+00:00",
+    "production_refreshed_at": "2026-05-21T08:15:03.453398+00:00",
     "publish_state": "published"
   }
 }

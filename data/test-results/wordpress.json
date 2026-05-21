@@ -5,10 +5,10 @@
     "version": "6.8"
   },
   "run": {
-    "id": "26144587731",
+    "id": "26208658439",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144587731/job/76897040086",
-    "timestamp": "2026-05-20T06:46:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208658439/job/77114055675",
+    "timestamp": "2026-05-21T07:02:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -40,23 +40,23 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 3,
         "current_version": "6.8",
-        "latest_version": "6.9.4",
-        "next_installed_version": "6.9.4",
+        "latest_version": "7.0",
+        "next_installed_version": "7.0",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned WordPress version 6.8 passed source tarball validation in this run, and candidate release 6.9.4 also passed PHP lint plus installer-page smoke on Arm64 from a fresh isolated install."
+        "comparison": "Current pinned WordPress version 6.8 passed source tarball validation in this run, and candidate release 7.0 also passed PHP lint plus installer-page smoke on Arm64 from a fresh isolated install."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:05:14.860884+00:00",
+    "production_refreshed_at": "2026-05-21T08:15:03.564531+00:00",
     "publish_state": "published"
   }
 }

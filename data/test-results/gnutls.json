@@ -5,10 +5,10 @@
     "version": "3.8.3"
   },
   "run": {
-    "id": "26144599464",
+    "id": "26208669378",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26144599464/job/76897078207",
-    "timestamp": "2026-05-20T06:58:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208669378/job/77114091834",
+    "timestamp": "2026-05-21T07:11:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check gnutls headers exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Compile simple C program using GnuTLS",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-20T08:05:14.753602+00:00",
+    "production_refreshed_at": "2026-05-21T08:15:03.462434+00:00",
     "publish_state": "published"
   }
 }
