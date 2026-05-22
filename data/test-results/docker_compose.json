@@ -5,10 +5,10 @@
     "version": "2.35.1"
   },
   "run": {
-    "id": "26208672222",
+    "id": "26271335077",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208672222/job/77114099960",
-    "timestamp": "2026-05-21T07:08:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26271335077/job/77325264661",
+    "timestamp": "2026-05-22T07:03:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check docker-compose binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check docker-compose help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Functional Validation (config help)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "2.35.1",
         "latest_version": "2.36.0",
         "next_installed_version": "2.36.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:15:03.441581+00:00",
+    "production_refreshed_at": "2026-05-22T08:18:17.415229+00:00",
     "publish_state": "published"
   }
 }

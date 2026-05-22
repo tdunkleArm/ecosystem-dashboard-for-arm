@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "26208652346",
+    "id": "26271317343",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208652346/job/77114037912",
-    "timestamp": "2026-05-21T06:40:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26271317343/job/77325205188",
+    "timestamp": "2026-05-22T06:38:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check top-level import",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check exported utility helpers",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-21T08:15:03.479390+00:00",
+    "production_refreshed_at": "2026-05-22T08:18:17.459323+00:00",
     "publish_state": "published"
   }
 }

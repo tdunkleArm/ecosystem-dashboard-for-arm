@@ -5,10 +5,10 @@
     "version": "REL6_0_RC2"
   },
   "run": {
-    "id": "26208637902",
+    "id": "26271304041",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208637902/job/77113992168",
-    "timestamp": "2026-05-21T06:28:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26271304041/job/77325163920",
+    "timestamp": "2026-05-22T06:25:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check runBenchmark.sh script",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-21T08:15:03.420296+00:00",
+    "production_refreshed_at": "2026-05-22T08:18:17.390262+00:00",
     "publish_state": "published"
   }
 }

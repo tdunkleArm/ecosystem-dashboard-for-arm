@@ -5,10 +5,10 @@
     "version": "release-20250127.0"
   },
   "run": {
-    "id": "26208661177",
+    "id": "26271325249",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26208661177/job/77114064134",
-    "timestamp": "2026-05-21T06:47:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26271325249/job/77325231549",
+    "timestamp": "2026-05-22T06:50:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Validate runsc command path",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "release-20250127.0",
         "latest_version": "release-20250203.0",
         "next_installed_version": "release-20250203.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:15:03.456943+00:00",
+    "production_refreshed_at": "2026-05-22T08:18:17.433298+00:00",
     "publish_state": "published"
   }
 }
