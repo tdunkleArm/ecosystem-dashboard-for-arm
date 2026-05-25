@@ -5,10 +5,10 @@
     "version": "1.12.0"
   },
   "run": {
-    "id": "26353442175",
+    "id": "26386570397",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26353442175/job/77575642996",
-    "timestamp": "2026-05-24T06:00:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386570397/job/77666286460",
+    "timestamp": "2026-05-25T06:31:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Import Avro",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-24T07:01:58.193087+00:00",
+    "production_refreshed_at": "2026-05-25T07:44:07.211520+00:00",
     "publish_state": "published"
   }
 }

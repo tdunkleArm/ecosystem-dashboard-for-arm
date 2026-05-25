@@ -5,10 +5,10 @@
     "version": "2.7.1"
   },
   "run": {
-    "id": "26353441058",
+    "id": "26386568061",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26353441058/job/77575639590",
-    "timestamp": "2026-05-24T05:57:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386568061/job/77666278372",
+    "timestamp": "2026-05-25T06:22:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify JAR content (basic check)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Simple Classpath Check",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "2.7.1",
         "latest_version": "2.8.0",
         "next_installed_version": "2.8.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:01:58.185051+00:00",
+    "production_refreshed_at": "2026-05-25T07:44:07.202952+00:00",
     "publish_state": "published"
   }
 }

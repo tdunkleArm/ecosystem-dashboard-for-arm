@@ -5,10 +5,10 @@
     "version": "v3.17.1"
   },
   "run": {
-    "id": "26353453537",
+    "id": "26386593755",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26353453537/job/77575679618",
-    "timestamp": "2026-05-24T06:28:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386593755/job/77666360166",
+    "timestamp": "2026-05-25T07:06:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Lint the sample chart",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "v3.17.1",
         "latest_version": "3.17.2",
         "next_installed_version": "3.17.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:01:58.249078+00:00",
+    "production_refreshed_at": "2026-05-25T07:44:07.267426+00:00",
     "publish_state": "published"
   }
 }
