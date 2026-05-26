@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "26386586273",
+    "id": "26435288756",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386586273/job/77666337090",
-    "timestamp": "2026-05-25T06:50:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435288756/job/77816617084",
+    "timestamp": "2026-05-26T06:29:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check go version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check go env arm64 output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Run simple Go program",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.261703+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.330524+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.7.0"
   },
   "run": {
-    "id": "26386574956",
+    "id": "26435275522",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386574956/job/77666301364",
-    "timestamp": "2026-05-25T06:36:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435275522/job/77816574438",
+    "timestamp": "2026-05-26T06:07:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check Python-DLPy import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check distribution versions",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 26,
+        "duration_seconds": 24,
         "current_version": "0.7.0",
         "latest_version": "1.3.0",
         "next_installed_version": "1.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.331874+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.421975+00:00",
     "publish_state": "published"
   }
 }

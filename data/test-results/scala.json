@@ -5,10 +5,10 @@
     "version": "3.6.4"
   },
   "run": {
-    "id": "26386584109",
+    "id": "26435286279",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386584109/job/77666330645",
-    "timestamp": "2026-05-25T06:40:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435286279/job/77816609511",
+    "timestamp": "2026-05-26T06:33:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check scala and scalac exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 8,
         "current_version": "3.6.4",
         "latest_version": "3.7.0",
         "next_installed_version": "3.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.342027+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.432193+00:00",
     "publish_state": "published"
   }
 }

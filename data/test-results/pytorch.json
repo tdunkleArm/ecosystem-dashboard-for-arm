@@ -5,10 +5,10 @@
     "version": "2.12.0+cu130"
   },
   "run": {
-    "id": "26386596141",
+    "id": "26435299033",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386596141/job/77666369911",
-    "timestamp": "2026-05-25T07:14:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435299033/job/77816650836",
+    "timestamp": "2026-05-26T06:29:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Import PyTorch",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Module Help Output",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-25T07:44:07.332611+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.422688+00:00",
     "publish_state": "published"
   }
 }

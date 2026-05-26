@@ -5,10 +5,10 @@
     "version": "8.2.2"
   },
   "run": {
-    "id": "26386606475",
+    "id": "26435309068",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386606475/job/77666398940",
-    "timestamp": "2026-05-25T07:13:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435309068/job/77816683800",
+    "timestamp": "2026-05-26T06:45:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check QEMU binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check QEMU version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-25T07:44:07.333103+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.423184+00:00",
     "publish_state": "published"
   }
 }

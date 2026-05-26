@@ -5,10 +5,10 @@
     "version": "24.03-lts-sp2"
   },
   "run": {
-    "id": "26386606475",
+    "id": "26435309068",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386606475/job/77666398520",
-    "timestamp": "2026-05-25T07:17:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435309068/job/77816683250",
+    "timestamp": "2026-05-26T06:47:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check OpenEuler image exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check OpenEuler version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check dnf help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.314758+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.405958+00:00",
     "publish_state": "published"
   }
 }

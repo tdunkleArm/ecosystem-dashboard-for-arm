@@ -5,10 +5,10 @@
     "version": "v2.5.1"
   },
   "run": {
-    "id": "26386596141",
+    "id": "26435299033",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386596141/job/77666369950",
-    "timestamp": "2026-05-25T07:05:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435299033/job/77816650946",
+    "timestamp": "2026-05-26T06:34:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kamel binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v2.5.1",
         "latest_version": "v2.6.0",
         "next_installed_version": "v2.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.218346+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.285713+00:00",
     "publish_state": "published"
   }
 }

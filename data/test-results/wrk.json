@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "26386574956",
+    "id": "26435275522",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26386574956/job/77666301455",
-    "timestamp": "2026-05-25T06:36:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435275522/job/77816574290",
+    "timestamp": "2026-05-26T06:19:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check wrk binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check repository contents",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 5,
         "current_version": "4.1.0",
         "latest_version": "4.2.0",
         "next_installed_version": "4.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T07:44:07.371822+00:00",
+    "production_refreshed_at": "2026-05-26T07:46:54.471014+00:00",
     "publish_state": "published"
   }
 }
