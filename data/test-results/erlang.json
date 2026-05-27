@@ -5,10 +5,10 @@
     "version": "13.2.2.5"
   },
   "run": {
-    "id": "26435314392",
+    "id": "26494345617",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435314392/job/77816702451",
-    "timestamp": "2026-05-26T06:58:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494345617/job/78018860661",
+    "timestamp": "2026-05-27T07:21:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Run simple Erlang expression",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check erlc compiler existence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Compile and run Hello World",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-26T07:46:54.317519+00:00",
+    "production_refreshed_at": "2026-05-27T08:14:47.062510+00:00",
     "publish_state": "published"
   }
 }

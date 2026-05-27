@@ -5,10 +5,10 @@
     "version": "1.20.0"
   },
   "run": {
-    "id": "26435275522",
+    "id": "26494304433",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435275522/job/77816574342",
-    "timestamp": "2026-05-26T06:14:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494304433/job/78018729081",
+    "timestamp": "2026-05-27T06:25:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check keadm binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "1.20.0",
         "latest_version": "1.21.0",
         "next_installed_version": "1.21.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-26T07:46:54.357765+00:00",
+    "production_refreshed_at": "2026-05-27T08:14:47.105052+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2022.12"
   },
   "run": {
-    "id": "26435314392",
+    "id": "26494345617",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26435314392/job/77816702197",
-    "timestamp": "2026-05-26T06:48:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494345617/job/78018860966",
+    "timestamp": "2026-05-27T07:15:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Baseline version and release alignment",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Package-specific source or docs evidence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "2022.12",
-        "latest_version": "2025.12",
-        "next_installed_version": "2025.12",
+        "latest_version": "2026.04",
+        "next_installed_version": "2026.04",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2022.12, and the next stable source tag 2025.12 from enjoy-digital/litex also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2022.12, and the next stable source tag 2026.04 from enjoy-digital/litex also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-26T07:46:54.367341+00:00",
+    "production_refreshed_at": "2026-05-27T08:14:47.114953+00:00",
     "publish_state": "published"
   }
 }
