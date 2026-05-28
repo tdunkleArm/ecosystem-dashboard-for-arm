@@ -5,10 +5,10 @@
     "version": "4.1.100.Final"
   },
   "run": {
-    "id": "26494298255",
+    "id": "26557890166",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494298255/job/78018707611",
-    "timestamp": "2026-05-27T06:23:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557890166/job/78233605127",
+    "timestamp": "2026-05-28T06:10:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 23,
     "details": [
       {
         "name": "Test 1 - Check Java and Maven binaries",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional compile and run",
         "status": "passed",
-        "duration_seconds": 14
+        "duration_seconds": 22
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-27T08:14:47.131342+00:00",
+    "production_refreshed_at": "2026-05-28T07:19:46.532635+00:00",
     "publish_state": "published"
   }
 }

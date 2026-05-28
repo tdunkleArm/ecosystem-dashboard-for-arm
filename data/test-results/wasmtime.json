@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "26494340521",
+    "id": "26557928427",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494340521/job/78018843494",
-    "timestamp": "2026-05-27T07:24:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557928427/job/78233735281",
+    "timestamp": "2026-05-28T06:56:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check wasmtime binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "31.0.0",
         "latest_version": "32.0.0",
         "next_installed_version": "32.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:14:47.216271+00:00",
+    "production_refreshed_at": "2026-05-28T07:19:46.617493+00:00",
     "publish_state": "published"
   }
 }

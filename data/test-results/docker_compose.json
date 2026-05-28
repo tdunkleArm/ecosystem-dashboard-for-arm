@@ -5,10 +5,10 @@
     "version": "2.35.1"
   },
   "run": {
-    "id": "26494345617",
+    "id": "26557933771",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494345617/job/78018861021",
-    "timestamp": "2026-05-27T07:16:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557933771/job/78233753467",
+    "timestamp": "2026-05-28T06:55:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Verify Arm64 binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "2.35.1",
         "latest_version": "2.36.0",
         "next_installed_version": "2.36.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:14:47.053358+00:00",
+    "production_refreshed_at": "2026-05-28T07:19:46.470960+00:00",
     "publish_state": "published"
   }
 }

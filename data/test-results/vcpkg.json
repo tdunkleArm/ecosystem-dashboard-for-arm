@@ -5,10 +5,10 @@
     "version": "25.04.09"
   },
   "run": {
-    "id": "26494351054",
+    "id": "26557938976",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26494351054/job/78018879001",
-    "timestamp": "2026-05-27T07:20:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557938976/job/78233769413",
+    "timestamp": "2026-05-28T07:00:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "25.04.09",
-        "latest_version": "2026-04-08",
-        "next_installed_version": "2026-04-08",
+        "latest_version": "2026-05-27",
+        "next_installed_version": "2026-05-27",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 25.04.09, and the next stable source tag 2026-04-08 from microsoft/vcpkg-tool also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 25.04.09, and the next stable source tag 2026-05-27 from microsoft/vcpkg-tool also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-27T08:14:47.211820+00:00",
+    "production_refreshed_at": "2026-05-28T07:19:46.598154+00:00",
     "publish_state": "published"
   }
 }
