@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "26557900541",
+    "id": "26621267829",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557900541/job/78233639085",
-    "timestamp": "2026-05-28T06:15:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621267829/job/78447529485",
+    "timestamp": "2026-05-29T06:21:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 35,
+    "duration_seconds": 39,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Component Existence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 38,
         "current_version": "9.1.0",
-        "latest_version": "9.4.1",
-        "next_installed_version": "9.4.1",
+        "latest_version": "9.4.2",
+        "next_installed_version": "9.4.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Elastic Defend carrier bundle version 9.1.0 passed smoke tests in this run. Regression validation downloaded Elastic Agent Arm64 bundle 9.4.1, and the candidate bundle reported version 9.4.1 while the embedded endpoint-security Arm64 component and resources validated successfully."
+        "comparison": "Current pinned Elastic Defend carrier bundle version 9.1.0 passed smoke tests in this run. Regression validation downloaded Elastic Agent Arm64 bundle 9.4.2, and the candidate bundle reported version 9.4.2 while the embedded endpoint-security Arm64 component and resources validated successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:19:46.475472+00:00",
+    "production_refreshed_at": "2026-05-29T07:16:00.478975+00:00",
     "publish_state": "published"
   }
 }

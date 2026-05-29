@@ -5,10 +5,10 @@
     "version": "0.10.2"
   },
   "run": {
-    "id": "26557902809",
+    "id": "26621270486",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557902809/job/78233647477",
-    "timestamp": "2026-05-28T06:29:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621270486/job/78447537777",
+    "timestamp": "2026-05-29T06:25:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check vLLM import",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-28T07:19:46.600449+00:00",
+    "production_refreshed_at": "2026-05-29T07:16:00.638642+00:00",
     "publish_state": "published"
   }
 }

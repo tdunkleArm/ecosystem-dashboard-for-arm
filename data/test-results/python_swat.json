@@ -5,10 +5,10 @@
     "version": "1.17.1"
   },
   "run": {
-    "id": "26557909831",
+    "id": "26621278015",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26557909831/job/78233671682",
-    "timestamp": "2026-05-28T06:45:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621278015/job/78447563182",
+    "timestamp": "2026-05-29T06:37:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check module import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check API surface",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-28T07:19:46.555959+00:00",
+    "production_refreshed_at": "2026-05-29T07:16:00.594813+00:00",
     "publish_state": "published"
   }
 }
