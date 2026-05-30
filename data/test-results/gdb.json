@@ -5,10 +5,10 @@
     "version": "15.1-1ubuntu1~24.04.1)"
   },
   "run": {
-    "id": "26621283136",
+    "id": "26676027594",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621283136/job/78447579974",
-    "timestamp": "2026-05-29T06:47:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676027594/job/78627829952",
+    "timestamp": "2026-05-30T06:11:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check gdb binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Debug simple C program (batch mode)",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check gdbserver binary exists (optional)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.494600+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.197221+00:00",
     "publish_state": "published"
   }
 }

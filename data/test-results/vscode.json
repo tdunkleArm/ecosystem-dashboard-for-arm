@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Visual Studio Code (VSCode)",
-    "version": "1.122.0"
+    "version": "1.122.1"
   },
   "run": {
-    "id": "26621283136",
+    "id": "26676027594",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621283136/job/78447580215",
-    "timestamp": "2026-05-29T06:38:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676027594/job/78627830001",
+    "timestamp": "2026-05-30T06:09:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.639235+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.353979+00:00",
     "publish_state": "published"
   }
 }

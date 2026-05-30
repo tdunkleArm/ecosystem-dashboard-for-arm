@@ -5,10 +5,10 @@
     "version": "v0.2.0"
   },
   "run": {
-    "id": "26621262379",
+    "id": "26676017313",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621262379/job/78447512708",
-    "timestamp": "2026-05-29T06:21:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676017313/job/78627797684",
+    "timestamp": "2026-05-30T05:50:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check dependency resolution",
         "status": "passed",
-        "duration_seconds": 28
+        "duration_seconds": 29
       },
       {
         "name": "Test 3 - Check Maven project configuration",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.473586+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.174148+00:00",
     "publish_state": "published"
   }
 }

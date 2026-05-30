@@ -5,10 +5,10 @@
     "version": "Linux"
   },
   "run": {
-    "id": "26621254549",
+    "id": "26676012721",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621254549/job/78447485062",
-    "timestamp": "2026-05-29T06:09:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676012721/job/78627784685",
+    "timestamp": "2026-05-30T05:44:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check mysql client binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check mysqld binary",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check service status",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 7
       },
       {
         "name": "Test 5 - Simple connection check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.563071+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.270961+00:00",
     "publish_state": "published"
   }
 }

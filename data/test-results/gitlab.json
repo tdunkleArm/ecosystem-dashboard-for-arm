@@ -5,10 +5,10 @@
     "version": "18.9.2-ce.0"
   },
   "run": {
-    "id": "26621288263",
+    "id": "26676030122",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621288263/job/78447598498",
-    "timestamp": "2026-05-29T06:45:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676030122/job/78627837947",
+    "timestamp": "2026-05-30T06:20:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check gitlab-ctl binary exists",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check gitlab-rails binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check gitlab-ctl help, config file, and Arm64 runtime",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.497223+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.199380+00:00",
     "publish_state": "published"
   }
 }

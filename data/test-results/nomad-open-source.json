@@ -5,11 +5,11 @@
     "version": "1.6.1"
   },
   "run": {
-    "id": "26621283136",
+    "id": "26676027594",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621283136/job/78447580328",
-    "timestamp": "2026-05-29T06:45:34Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676027594/job/78627830043",
+    "timestamp": "2026-05-30T06:08:20Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -18,9 +18,9 @@
   },
   "tests": {
     "passed": 6,
-    "failed": 0,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check binary exists",
@@ -50,13 +50,21 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.6.1",
         "latest_version": "2.0.2",
         "next_installed_version": "2.0.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
         "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.2 on Arm64, and the staged binary reported version 2.0.2."
+      },
+      {
+        "name": "Workflow Finalization",
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "job_failed_without_emitted_result",
+        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
+        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -64,8 +72,8 @@
     "contract_version": "2.0",
     "package_slug": "nomad-open-source",
     "dashboard_link": "/linux/opensource_packages/nomad-open-source",
-    "badge_status": "passing",
-    "core_failed": 0,
+    "badge_status": "failing",
+    "core_failed": 1,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
@@ -73,7 +81,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-29T07:16:00.568963+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.275586+00:00",
     "publish_state": "published"
   }
 }

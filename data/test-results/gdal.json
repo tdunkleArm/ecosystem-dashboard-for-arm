@@ -5,10 +5,10 @@
     "version": "3.8.4"
   },
   "run": {
-    "id": "26621270486",
+    "id": "26676021444",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621270486/job/78447537496",
-    "timestamp": "2026-05-29T06:26:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676021444/job/78627810317",
+    "timestamp": "2026-05-30T05:57:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gdalinfo binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check ogr2ogr binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:16:00.494418+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.197068+00:00",
     "publish_state": "published"
   }
 }

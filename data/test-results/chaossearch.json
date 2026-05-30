@@ -5,10 +5,10 @@
     "version": "1.0.20"
   },
   "run": {
-    "id": "26621270486",
+    "id": "26676021444",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26621270486/job/78447537755",
-    "timestamp": "2026-05-29T06:30:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676021444/job/78627810327",
+    "timestamp": "2026-05-30T06:06:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check chaossearch binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Provider startup message",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.0.20",
         "latest_version": "1.0.21",
         "next_installed_version": "1.0.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-29T07:16:00.453666+00:00",
+    "production_refreshed_at": "2026-05-30T06:55:44.157242+00:00",
     "publish_state": "published"
   }
 }
