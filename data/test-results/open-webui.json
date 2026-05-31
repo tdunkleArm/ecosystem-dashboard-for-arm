@@ -5,11 +5,11 @@
     "version": "0.1.124"
   },
   "run": {
-    "id": "26676039438",
+    "id": "26705120148",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676039438/job/78627864498",
-    "timestamp": "2026-05-30T06:29:22Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705120148/job/78704784745",
+    "timestamp": "2026-05-31T07:02:09Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,15 +17,15 @@
     "job_name": "test-open-webui / test-open-webui"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 161,
+    "duration_seconds": 73,
     "details": [
       {
         "name": "Test 1 - Package installed",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Version metadata matches baseline",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 159,
+        "status": "failed",
+        "duration_seconds": 71,
         "current_version": "0.1.124",
         "latest_version": "0.1.125",
-        "next_installed_version": "0.1.125",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned package version 0.1.124 passed smoke tests in this run, and the newer stable PyPI candidate 0.1.125 installed successfully on Arm64."
+        "next_installed_version": "install_failed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned package version 0.1.124 passed smoke tests in this run, but the regression candidate 0.1.125 could not be installed on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "open-webui",
     "dashboard_link": "/linux/opensource_packages/open-webui",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 20",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:55:44.279426+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-05-31T07:17:22.290615+00:00",
     "publish_state": "published"
   }
 }

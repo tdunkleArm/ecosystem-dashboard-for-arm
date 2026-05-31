@@ -5,10 +5,10 @@
     "version": "1.33.5+rke2r1"
   },
   "run": {
-    "id": "26676020086",
+    "id": "26705101678",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676020086/job/78627806761",
-    "timestamp": "2026-05-30T06:06:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705101678/job/78704730697",
+    "timestamp": "2026-05-31T06:22:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.33.5+rke2r1",
         "latest_version": "1.33.6+rke2r1",
         "next_installed_version": "1.33.6+rke2r1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:55:44.316471+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.329373+00:00",
     "publish_state": "published"
   }
 }

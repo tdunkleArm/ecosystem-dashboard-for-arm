@@ -5,10 +5,10 @@
     "version": "2.1.7"
   },
   "run": {
-    "id": "26676025150",
+    "id": "26705107206",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676025150/job/78627821506",
-    "timestamp": "2026-05-30T06:10:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705107206/job/78704747165",
+    "timestamp": "2026-05-31T06:36:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check ClearML Import",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 2 - Check pip package info",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-30T06:55:44.159772+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.185379+00:00",
     "publish_state": "published"
   }
 }

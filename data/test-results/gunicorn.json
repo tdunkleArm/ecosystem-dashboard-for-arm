@@ -5,10 +5,10 @@
     "version": "22.0.0"
   },
   "run": {
-    "id": "26676015719",
+    "id": "26705097384",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676015719/job/78627793488",
-    "timestamp": "2026-05-30T05:44:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705097384/job/78704717750",
+    "timestamp": "2026-05-31T06:14:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check pip installation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Import Gunicorn in Python",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-30T06:55:44.203636+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.226554+00:00",
     "publish_state": "published"
   }
 }

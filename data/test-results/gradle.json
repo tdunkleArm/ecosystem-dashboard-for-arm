@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "26676024017",
+    "id": "26705105904",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676024017/job/78627818108",
-    "timestamp": "2026-05-30T06:00:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705105904/job/78704742733",
+    "timestamp": "2026-05-31T06:40:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Gradle version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Gradle help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 Java runtime",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:55:44.202150+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.225063+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "26676034120",
+    "id": "26705116473",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676034120/job/78627850063",
-    "timestamp": "2026-05-30T06:20:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705116473/job/78704772685",
+    "timestamp": "2026-05-31T06:54:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 517,
+    "duration_seconds": 109,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check library directory contains jars",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 517,
+        "duration_seconds": 109,
         "current_version": "31.0.0",
         "latest_version": "31.0.1",
         "next_installed_version": "31.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:55:44.176035+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.199466+00:00",
     "publish_state": "published"
   }
 }

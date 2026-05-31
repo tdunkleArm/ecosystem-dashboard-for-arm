@@ -5,10 +5,10 @@
     "version": "v0.2"
   },
   "run": {
-    "id": "26676015719",
+    "id": "26705097384",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26676015719/job/78627793460",
-    "timestamp": "2026-05-30T05:45:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705097384/job/78704717619",
+    "timestamp": "2026-05-31T06:18:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check miniasm binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check source tree contents",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:55:44.266405+00:00",
+    "production_refreshed_at": "2026-05-31T07:17:22.276859+00:00",
     "publish_state": "published"
   }
 }
