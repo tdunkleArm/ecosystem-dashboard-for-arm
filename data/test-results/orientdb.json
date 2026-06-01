@@ -5,10 +5,10 @@
     "version": "3.2.39"
   },
   "run": {
-    "id": "26705104516",
+    "id": "26739761779",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705104516/job/78704739130",
-    "timestamp": "2026-05-31T06:31:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739761779/job/78800746408",
+    "timestamp": "2026-06-01T07:09:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Binary Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 4,
         "current_version": "3.2.39",
-        "latest_version": "3.2.52",
-        "next_installed_version": "3.2.52",
+        "latest_version": "3.2.53",
+        "next_installed_version": "3.2.53",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OrientDB version 3.2.39 passed smoke tests in this run. Regression validation downloaded community tarball 3.2.52, and the embedded console reported version 3.2.52 while the help and in-memory database smoke checks passed on Arm64."
+        "comparison": "Current pinned OrientDB version 3.2.39 passed smoke tests in this run. Regression validation downloaded community tarball 3.2.53, and the embedded console reported version 3.2.53 while the help and in-memory database smoke checks passed on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:17:22.298749+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.599555+00:00",
     "publish_state": "published"
   }
 }

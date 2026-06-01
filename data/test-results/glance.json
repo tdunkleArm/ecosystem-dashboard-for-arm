@@ -5,10 +5,10 @@
     "version": "2:28.1.0-0ubuntu1.2"
   },
   "run": {
-    "id": "26705098778",
+    "id": "26739749908",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705098778/job/78704721308",
-    "timestamp": "2026-05-31T06:23:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739749908/job/78800707510",
+    "timestamp": "2026-06-01T06:54:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check glance-api binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check glance-api version command",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check glance-manage binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check config directory or file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check glance-scrubber binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-31T07:17:22.222571+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.497774+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.7.1"
   },
   "run": {
-    "id": "26705116473",
+    "id": "26739788630",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705116473/job/78704772701",
-    "timestamp": "2026-05-31T06:57:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739788630/job/78800829967",
+    "timestamp": "2026-06-01T07:44:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check core classes import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Create simple dashboard object",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Generate JSON from dashboard",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check pip show info",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-31T07:17:22.225422+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.500906+00:00",
     "publish_state": "published"
   }
 }

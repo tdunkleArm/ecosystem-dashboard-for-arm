@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Metricbeat",
-    "version": "9.0.4"
+    "version": "unknown"
   },
   "run": {
-    "id": "26705107206",
+    "id": "26739767493",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705107206/job/78704747076",
-    "timestamp": "2026-05-31T06:40:19Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739767493/job/78800765235",
+    "timestamp": "2026-06-01T07:34:16Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,43 @@
     "job_name": "test-metricbeat / test-metricbeat"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 4,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Metricbeat binary exists",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Metricbeat version output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Metricbeat help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Metricbeat configuration",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - List modules and verify architecture",
-        "status": "passed",
-        "duration_seconds": 1
+        "status": "skipped",
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 3,
-        "current_version": "9.0.4",
-        "latest_version": "9.0.5",
-        "next_installed_version": "9.0.5",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Metricbeat version 9.0.4 passed smoke tests in this run. Regression validation installed candidate version 9.0.5 on Arm64, and the extracted binary reported version 9.0.5 while successfully passing help, config, and modules checks."
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "metricbeat",
     "dashboard_link": "/linux/opensource_packages/metricbeat",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 10",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:17:22.275312+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-01T08:11:49.563012+00:00",
     "publish_state": "published"
   }
 }

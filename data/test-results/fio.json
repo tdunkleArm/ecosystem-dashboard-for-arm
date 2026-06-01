@@ -5,10 +5,10 @@
     "version": "3.36"
   },
   "run": {
-    "id": "26705097384",
+    "id": "26739746676",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705097384/job/78704717610",
-    "timestamp": "2026-05-31T06:15:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739746676/job/78800698830",
+    "timestamp": "2026-06-01T06:55:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check fio version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Run simple read test",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Run simple write test",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Verify output log content",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-31T07:17:22.208354+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.488230+00:00",
     "publish_state": "published"
   }
 }

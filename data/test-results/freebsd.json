@@ -5,10 +5,10 @@
     "version": "15.0"
   },
   "run": {
-    "id": "26705100299",
+    "id": "26739752933",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705100299/job/78704725459",
-    "timestamp": "2026-05-31T06:18:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739752933/job/78800717416",
+    "timestamp": "2026-06-01T07:01:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check image metadata headers",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "15.0",
         "latest_version": "15.0",
         "next_installed_version": "15.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-31T07:17:22.210930+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.491188+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.14.0"
   },
   "run": {
-    "id": "26705104516",
+    "id": "26739761779",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26705104516/job/78704738843",
-    "timestamp": "2026-05-31T06:26:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739761779/job/78800746151",
+    "timestamp": "2026-06-01T07:08:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check node_modules existence",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Require enigma.js in Node script",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Schema instantiation (basic usage)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-31T07:17:22.204852+00:00",
+    "production_refreshed_at": "2026-06-01T08:11:49.484376+00:00",
     "publish_state": "published"
   }
 }
