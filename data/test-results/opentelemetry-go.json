@@ -5,10 +5,10 @@
     "version": "v1.44.0"
   },
   "run": {
-    "id": "26739759106",
+    "id": "26803020972",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739759106/job/78800736869",
-    "timestamp": "2026-06-01T07:09:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803020972/job/79013766249",
+    "timestamp": "2026-06-02T07:13:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Go environment",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 12
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:11:49.597585+00:00",
+    "production_refreshed_at": "2026-06-02T10:54:19.279451+00:00",
     "publish_state": "published"
   }
 }

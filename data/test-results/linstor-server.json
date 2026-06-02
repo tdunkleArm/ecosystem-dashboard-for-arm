@@ -5,10 +5,10 @@
     "version": "1.33.1-101-87a659de4"
   },
   "run": {
-    "id": "26739764580",
+    "id": "26803026726",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739764580/job/78800753540",
-    "timestamp": "2026-06-01T07:09:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803026726/job/79013785240",
+    "timestamp": "2026-06-02T07:12:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 100,
+    "duration_seconds": 102,
     "details": [
       {
         "name": "Test 1 - Check recursive build artifacts",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Satellite distribution help",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 100,
+        "duration_seconds": 101,
         "current_version": "1.33.1-101-87a659de4",
-        "latest_version": "master-ca3970a6b",
-        "next_installed_version": "1.34.0-rc.1",
+        "latest_version": "master-d96227468",
+        "next_installed_version": "1.34.0-rc.1-4-d96227468",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit ca3970a6b built successfully with controller and satellite distributions on Arm64."
+        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit d96227468 built successfully with controller and satellite distributions on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:11:49.553987+00:00",
+    "production_refreshed_at": "2026-06-02T10:54:19.235606+00:00",
     "publish_state": "published"
   }
 }

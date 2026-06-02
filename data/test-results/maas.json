@@ -5,10 +5,10 @@
     "version": "0.6.8"
   },
   "run": {
-    "id": "26739779337",
+    "id": "26803040743",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739779337/job/78800801359",
-    "timestamp": "2026-06-01T07:50:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803040743/job/79013834050",
+    "timestamp": "2026-06-02T07:27:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check MAAS CLI exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check MAAS help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:11:49.559097+00:00",
+    "production_refreshed_at": "2026-06-02T10:54:19.240199+00:00",
     "publish_state": "published"
   }
 }

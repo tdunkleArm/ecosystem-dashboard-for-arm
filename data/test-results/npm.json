@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "NPM",
-    "version": "10.8.2"
+    "version": "10.9.8"
   },
   "run": {
-    "id": "26739785479",
+    "id": "26803046212",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26739785479/job/78800820387",
-    "timestamp": "2026-06-01T07:34:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803046212/job/79013854949",
+    "timestamp": "2026-06-02T07:49:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check npm binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check registry configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify architecture",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Install and execute a package",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 3
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:11:49.586151+00:00",
+    "production_refreshed_at": "2026-06-02T10:54:19.269544+00:00",
     "publish_state": "published"
   }
 }
