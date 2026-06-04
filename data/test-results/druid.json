@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
   "package": {
-    "name": "druid",
-    "version": "unknown"
+    "name": "Druid",
+    "version": "31.0.0"
   },
   "run": {
-    "id": "26803048929",
+    "id": "26935402300",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803048929/job/79013860097",
-    "timestamp": "",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935402300/job/79463839851",
+    "timestamp": "2026-06-04T07:42:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -17,10 +17,10 @@
     "job_name": "test-druid / test-druid"
   },
   "tests": {
-    "passed": 5,
+    "passed": 6,
     "failed": 0,
-    "skipped": 1,
-    "duration_seconds": 0,
+    "skipped": 0,
+    "duration_seconds": 6948,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check library directory contains jars",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation (script syntax and runtime helpers)",
@@ -49,24 +49,31 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 6948,
+        "current_version": "31.0.0",
+        "latest_version": "31.0.1",
+        "next_installed_version": "31.0.1",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Druid version 31.0.0 passed smoke tests in this run. Regression validation downloaded and extracted candidate version 31.0.1 on Arm64, and the staged distribution exposed the quickstart script, runtime helper script, configuration directory, and library layout expected by this workflow."
       }
     ]
   },
   "metadata": {
-    "contract_version": "missing",
+    "contract_version": "2.0",
     "package_slug": "druid",
     "dashboard_link": "/linux/opensource_packages/druid",
     "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 17",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "skipped",
-    "production_refreshed_at": "2026-06-02T10:54:19.175616+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-04T09:42:39.198218+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.0.1.0"
   },
   "run": {
-    "id": "26803048929",
+    "id": "26935402300",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803048929/job/79013859820",
-    "timestamp": "2026-06-02T07:48:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935402300/job/79463839821",
+    "timestamp": "2026-06-04T07:37:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check package install exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check lachesis version metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-02T10:54:19.108611+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.160046+00:00",
     "publish_state": "published"
   }
 }

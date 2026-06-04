@@ -5,10 +5,10 @@
     "version": "unknown"
   },
   "run": {
-    "id": "26803032144",
+    "id": "26935384179",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803032144/job/79013804710",
-    "timestamp": "2026-06-02T07:14:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935384179/job/79463779724",
+    "timestamp": "2026-06-04T07:15:19Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check emqtt_bench subcommands (sub)",
         "status": "skipped",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Dry run connection (expect failure but correct error)",
@@ -73,7 +73,7 @@
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-02T10:54:19.181034+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.203141+00:00",
     "publish_state": "published"
   }
 }

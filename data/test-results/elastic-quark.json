@@ -5,10 +5,10 @@
     "version": "v0.3"
   },
   "run": {
-    "id": "26803032144",
+    "id": "26935384179",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803032144/job/79013804683",
-    "timestamp": "2026-06-02T07:33:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935384179/job/79463779766",
+    "timestamp": "2026-06-04T07:19:45Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check repository exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.3",
         "latest_version": "v0.4",
         "next_installed_version": "not_installed",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "failed",
     "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-02T10:54:19.179941+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.202130+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.0.33"
   },
   "run": {
-    "id": "26803029432",
+    "id": "26935381277",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803029432/job/79013795773",
-    "timestamp": "2026-06-02T07:12:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935381277/job/79463770330",
+    "timestamp": "2026-06-04T07:13:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check layer registration on baseline",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 25,
         "current_version": "4.0.33",
-        "latest_version": "5.0.17",
-        "next_installed_version": "5.0.17",
+        "latest_version": "5.0.18",
+        "next_installed_version": "5.0.18",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenEmbedded (Yocto) version 4.0.33 passed smoke tests in this run. Regression validation cloned sibling openembedded-core and bitbake checkouts for candidate tag yocto-5.0.17, sourced oe-init-build-env successfully on Arm64, and completed a real BitBake parse for version 5.0.17."
+        "comparison": "Current pinned OpenEmbedded (Yocto) version 4.0.33 passed smoke tests in this run. Regression validation cloned sibling openembedded-core and bitbake checkouts for candidate tag yocto-5.0.18, sourced oe-init-build-env successfully on Arm64, and completed a real BitBake parse for version 5.0.18."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:54:19.274075+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.268564+00:00",
     "publish_state": "published"
   }
 }

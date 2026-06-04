@@ -5,10 +5,10 @@
     "version": "0.164.3108"
   },
   "run": {
-    "id": "26803011696",
+    "id": "26935363933",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803011696/job/79013736177",
-    "timestamp": "2026-06-02T06:49:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935363933/job/79463712202",
+    "timestamp": "2026-06-04T07:05:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check x264 binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check x264 help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-02T10:54:19.233845+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.242845+00:00",
     "publish_state": "published"
   }
 }

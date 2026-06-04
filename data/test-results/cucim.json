@@ -5,10 +5,10 @@
     "version": "23.12.00"
   },
   "run": {
-    "id": "26803020972",
+    "id": "26935372538",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803020972/job/79013766248",
-    "timestamp": "2026-06-02T06:59:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935372538/job/79463738896",
+    "timestamp": "2026-06-04T07:14:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "23.12.00",
-        "latest_version": "26.04.00",
-        "next_installed_version": "26.04.00",
+        "latest_version": "26.06.00",
+        "next_installed_version": "26.06.00",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 23.12.00, and the next stable source tag 26.04.00 from rapidsai/cucim also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 23.12.00, and the next stable source tag 26.06.00 from rapidsai/cucim also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-02T10:54:19.136844+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.188555+00:00",
     "publish_state": "published"
   }
 }

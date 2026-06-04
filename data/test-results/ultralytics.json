@@ -5,10 +5,10 @@
     "version": "8.4.60"
   },
   "run": {
-    "id": "26803011696",
+    "id": "26935363933",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26803011696/job/79013736080",
-    "timestamp": "2026-06-02T06:57:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935363933/job/79463711947",
+    "timestamp": "2026-06-04T06:41:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check ultralytics binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check ultralytics version command",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check ultralytics help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-02T10:54:19.330505+00:00",
+    "production_refreshed_at": "2026-06-04T09:42:39.334750+00:00",
     "publish_state": "published"
   }
 }
