@@ -5,10 +5,10 @@
     "version": "2.4.32"
   },
   "run": {
-    "id": "26935355264",
+    "id": "26998948674",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935355264/job/79463680850",
-    "timestamp": "2026-06-04T06:38:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998948674/job/79674718937",
+    "timestamp": "2026-06-05T06:18:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Stop server and verify Arm64 binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 42,
         "current_version": "2.4.32",
         "latest_version": "2.4.67",
         "next_installed_version": "2.4.67",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:42:39.225007+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.151283+00:00",
     "publish_state": "published"
   }
 }

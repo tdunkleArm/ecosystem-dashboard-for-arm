@@ -5,10 +5,10 @@
     "version": "3.25.0"
   },
   "run": {
-    "id": "26935402300",
+    "id": "26998989583",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935402300/job/79463839836",
-    "timestamp": "2026-06-04T07:36:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998989583/job/79674850554",
+    "timestamp": "2026-06-05T07:17:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check chaos operator runtime probe",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check chaos runner runtime probe",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:42:39.245293+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.180194+00:00",
     "publish_state": "published"
   }
 }

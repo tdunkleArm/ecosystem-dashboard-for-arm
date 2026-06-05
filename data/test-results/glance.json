@@ -5,10 +5,10 @@
     "version": "2:28.1.0-0ubuntu1.2"
   },
   "run": {
-    "id": "26935363933",
+    "id": "26998956377",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935363933/job/79463712170",
-    "timestamp": "2026-06-04T06:49:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998956377/job/79674742322",
+    "timestamp": "2026-06-05T06:25:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check glance-api binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check glance-api version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check glance-manage binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:42:39.215801+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.141802+00:00",
     "publish_state": "published"
   }
 }

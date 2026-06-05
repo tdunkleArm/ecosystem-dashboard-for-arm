@@ -5,10 +5,10 @@
     "version": "90fca00"
   },
   "run": {
-    "id": "26935402300",
+    "id": "26998989583",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935402300/job/79463839735",
-    "timestamp": "2026-06-04T07:37:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998989583/job/79674850401",
+    "timestamp": "2026-06-05T07:04:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check kmerfreq binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run on dummy data",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check output content",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "90fca00",
         "latest_version": "90fca00",
         "next_installed_version": "90fca00",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-04T09:42:39.234440+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.164821+00:00",
     "publish_state": "published"
   }
 }

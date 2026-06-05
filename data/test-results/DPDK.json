@@ -5,10 +5,10 @@
     "version": "23.11.4"
   },
   "run": {
-    "id": "26935402300",
+    "id": "26998989583",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935402300/job/79463839737",
-    "timestamp": "2026-06-04T07:35:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998989583/job/79674850395",
+    "timestamp": "2026-06-05T07:07:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check library and headers",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional compile and run",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:42:39.157823+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.079524+00:00",
     "publish_state": "published"
   }
 }

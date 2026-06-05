@@ -5,10 +5,10 @@
     "version": "0.9.0"
   },
   "run": {
-    "id": "26935384179",
+    "id": "26998974197",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26935384179/job/79463779776",
-    "timestamp": "2026-06-04T07:21:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998974197/job/79674801006",
+    "timestamp": "2026-06-05T06:47:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check Ignite binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ignited version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Validate Ignite CLI help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 3,
         "current_version": "0.9.0",
         "latest_version": "0.10.0",
         "next_installed_version": "0.10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:42:39.225902+00:00",
+    "production_refreshed_at": "2026-06-05T07:28:01.152163+00:00",
     "publish_state": "published"
   }
 }
