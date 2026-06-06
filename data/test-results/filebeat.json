@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "26998979393",
+    "id": "27054242413",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998979393/job/79674817615",
-    "timestamp": "2026-06-05T07:01:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054242413/job/79855372157",
+    "timestamp": "2026-06-06T06:22:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Filebeat configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Export template and verify architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 5,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:28:01.132423+00:00",
+    "production_refreshed_at": "2026-06-06T07:05:01.876847+00:00",
     "publish_state": "published"
   }
 }

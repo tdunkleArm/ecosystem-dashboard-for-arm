@@ -5,11 +5,11 @@
     "version": "17.0.9"
   },
   "run": {
-    "id": "26998966561",
+    "id": "27054235373",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998966561/job/79674774919",
-    "timestamp": "2026-06-05T06:36:22Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054235373/job/79855350954",
+    "timestamp": "2026-06-06T06:11:47Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-azul_system / test-azul_system"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check azul_system binary exists",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 1,
+        "status": "passed",
+        "duration_seconds": 7,
         "current_version": "17.0.9",
-        "latest_version": "unknown",
-        "next_installed_version": "not_installed",
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The Test 6 step failed in the job, but the workflow did not emit a terminal regression decision before exiting."
+        "latest_version": "17.0.10",
+        "next_installed_version": "17.0.10",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Zulu OpenJDK version 17.0.9 passed smoke tests in this run. Regression validation installed candidate version 17.0.10 on Arm64, and the downloaded JDK reported version 17.0.10."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "azul_system",
     "dashboard_link": "/linux/opensource_packages/azul_system",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 8",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-05T07:28:01.094483+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-06T07:05:01.840857+00:00",
     "publish_state": "published"
   }
 }

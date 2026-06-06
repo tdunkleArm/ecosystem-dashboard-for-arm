@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "26998961825",
+    "id": "27054232671",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998961825/job/79674760635",
-    "timestamp": "2026-06-05T06:27:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054232671/job/79855341970",
+    "timestamp": "2026-06-06T06:09:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 27,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check RepeatMasker files exist",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 27,
+        "duration_seconds": 2,
         "current_version": "4.1.0",
-        "latest_version": "4.2.3",
-        "next_installed_version": "4.2.3",
+        "latest_version": "4.2.4",
+        "next_installed_version": "4.2.4",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned RepeatMasker version 4.1.0 passed public source-bundle smoke checks in this run. Regression validation extracted candidate version 4.2.3 on Arm64 and confirmed exact version output, Perl syntax validity, and noninteractive help output. External search-engine and library configuration remain outside this public install-validation scope."
+        "comparison": "Current pinned RepeatMasker version 4.1.0 passed public source-bundle smoke checks in this run. Regression validation extracted candidate version 4.2.4 on Arm64 and confirmed exact version output, Perl syntax validity, and noninteractive help output. External search-engine and library configuration remain outside this public install-validation scope."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:28:01.243707+00:00",
+    "production_refreshed_at": "2026-06-06T07:05:01.980798+00:00",
     "publish_state": "published"
   }
 }

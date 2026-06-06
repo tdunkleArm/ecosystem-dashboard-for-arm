@@ -5,10 +5,10 @@
     "version": "9.10.1"
   },
   "run": {
-    "id": "26998956377",
+    "id": "27054229916",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/26998956377/job/79674742506",
-    "timestamp": "2026-06-05T06:24:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054229916/job/79855333343",
+    "timestamp": "2026-06-06T05:55:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 31,
+    "duration_seconds": 33,
     "details": [
       {
         "name": "Test 1 - Check solr binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 11
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 25,
+        "duration_seconds": 26,
         "current_version": "9.10.1",
         "latest_version": "10.0.0",
         "next_installed_version": "10.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:28:01.252579+00:00",
+    "production_refreshed_at": "2026-06-06T07:05:01.989007+00:00",
     "publish_state": "published"
   }
 }
