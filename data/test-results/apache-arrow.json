@@ -5,10 +5,10 @@
     "version": "14.0.1"
   },
   "run": {
-    "id": "27054225492",
+    "id": "27084752538",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054225492/job/79855320062",
-    "timestamp": "2026-06-06T05:51:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084752538/job/79936892187",
+    "timestamp": "2026-06-07T06:19:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,22 +25,22 @@
       {
         "name": "Test 1 - Check import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Create Array",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Write Parquet File",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Read Parquet File",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Build Info",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-06T07:05:01.837419+00:00",
+    "production_refreshed_at": "2026-06-07T07:25:34.316942+00:00",
     "publish_state": "published"
   }
 }

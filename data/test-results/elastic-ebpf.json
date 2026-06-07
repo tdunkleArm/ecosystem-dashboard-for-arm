@@ -5,10 +5,10 @@
     "version": "8.5.0"
   },
   "run": {
-    "id": "27054229916",
+    "id": "27084756284",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27054229916/job/79855333334",
-    "timestamp": "2026-06-06T05:59:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084756284/job/79936903735",
+    "timestamp": "2026-06-07T06:29:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 12,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check Source Tree and Version Metadata",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Build Elastic eBPF",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 27
       },
       {
         "name": "Test 3 - Build Output Validation",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Package Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-06T07:05:01.870875+00:00",
+    "production_refreshed_at": "2026-06-07T07:25:34.346886+00:00",
     "publish_state": "published"
   }
 }
