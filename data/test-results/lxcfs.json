@@ -5,10 +5,10 @@
     "version": "6.0.3"
   },
   "run": {
-    "id": "27084771754",
+    "id": "27120463107",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084771754/job/79936948789",
-    "timestamp": "2026-06-07T06:57:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120463107/job/80036170661",
+    "timestamp": "2026-06-08T07:33:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check lxcfs binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 8,
         "current_version": "6.0.3",
         "latest_version": "6.0.4",
         "next_installed_version": "6.0.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.426760+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.625031+00:00",
     "publish_state": "published"
   }
 }

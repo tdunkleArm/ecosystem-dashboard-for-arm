@@ -5,11 +5,11 @@
     "version": "5.5.0"
   },
   "run": {
-    "id": "27084758894",
+    "id": "27120436141",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084758894/job/79936912187",
-    "timestamp": "2026-06-07T06:26:20Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120436141/job/80036081703",
+    "timestamp": "2026-06-08T07:05:30Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,15 +17,15 @@
     "job_name": "test-hazelcast / test-hazelcast"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 160,
     "details": [
       {
         "name": "Test 1 - Check start script exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact core JAR version",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Run CLI help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Start Hazelcast briefly",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 33,
+        "status": "failed",
+        "duration_seconds": 158,
         "current_version": "5.5.0",
         "latest_version": "5.6.0",
-        "next_installed_version": "5.6.0",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Hazelcast version 5.5.0 passed the baseline startup smoke on Arm64. Regression validation downloaded the official Hazelcast 5.6.0 release, verified the extracted Arm64 distribution layout, confirmed the exact core JAR version, and ran hz-cli --help successfully."
+        "next_installed_version": "install_failed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Hazelcast version 5.5.0 passed the baseline startup smoke on Arm64, but the official candidate release 5.6.0 could not be downloaded."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "hazelcast",
     "dashboard_link": "/linux/opensource_packages/hazelcast",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 6",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.397077+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-06-08T09:04:11.587130+00:00",
     "publish_state": "published"
   }
 }

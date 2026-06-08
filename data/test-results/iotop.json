@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Iotop",
-    "version": "1.18"
+    "version": "unknown"
   },
   "run": {
-    "id": "27084771754",
+    "id": "27120463107",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084771754/job/79936948874",
-    "timestamp": "2026-06-07T07:04:45Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120463107/job/80036170342",
+    "timestamp": "2026-06-08T07:42:34Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,43 @@
     "job_name": "test-iotop / test-iotop"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 8,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Iotop binary exists",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 8,
-        "current_version": "1.18",
-        "latest_version": "1.31",
-        "next_installed_version": "1.31",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Iotop version 1.18 passed smoke tests in this run. Regression validation built candidate version 1.31 on Arm64, and the candidate binary reported version 1.31 and completed a real batch-mode run successfully."
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "iotop",
     "dashboard_link": "/linux/opensource_packages/iotop",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 16",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.405759+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-08T09:04:11.605040+00:00",
     "publish_state": "published"
   }
 }

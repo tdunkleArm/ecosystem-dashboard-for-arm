@@ -5,11 +5,11 @@
     "version": "1.70.0"
   },
   "run": {
-    "id": "27084758894",
+    "id": "27120436141",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084758894/job/79936912173",
-    "timestamp": "2026-06-07T06:30:07Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120436141/job/80036081041",
+    "timestamp": "2026-06-08T06:51:54Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-garden-runc-release / test-garden-runc-release"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check gdn binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check gdn server help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Verify architecture",
@@ -49,14 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 1,
-        "current_version": "1.70.0",
-        "latest_version": "1.71.0",
-        "next_installed_version": "1.71.0",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Garden-runC version 1.70.0 passed smoke tests in this run. Regression validation downloaded candidate release asset 1.71.0 for Arm64. The candidate binary only self-reported 'dev' via gdn -v, so version provenance is taken from the validated upstream release asset while help and server-help checks passed on Arm64."
+        "status": "failed",
+        "duration_seconds": 11
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "garden-runc-release",
     "dashboard_link": "/linux/opensource_packages/garden-runc-release",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 6",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.357161+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-06-08T09:04:11.577694+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.0.6"
   },
   "run": {
-    "id": "27084773012",
+    "id": "27120465874",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084773012/job/79936953198",
-    "timestamp": "2026-06-07T07:01:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120465874/job/80036179804",
+    "timestamp": "2026-06-08T07:37:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 56,
+    "duration_seconds": 58,
     "details": [
       {
         "name": "Test 1 - Check RepeatScout binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 27
+        "duration_seconds": 26
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 29,
+        "duration_seconds": 32,
         "current_version": "1.0.6",
         "latest_version": "1.0.7",
         "next_installed_version": "1.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.490766+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.680582+00:00",
     "publish_state": "published"
   }
 }

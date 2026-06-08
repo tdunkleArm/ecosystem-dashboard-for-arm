@@ -5,10 +5,10 @@
     "version": "7.94SVN"
   },
   "run": {
-    "id": "27084774271",
+    "id": "27120468653",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084774271/job/79936957459",
-    "timestamp": "2026-06-07T07:03:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120468653/job/80036187222",
+    "timestamp": "2026-06-08T07:36:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check nmap binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-07T07:25:34.448122+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.654758+00:00",
     "publish_state": "published"
   }
 }

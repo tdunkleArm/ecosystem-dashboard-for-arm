@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "MinIO Client (mc)",
-    "version": "2017-02-02T22:38:48Z"
+    "version": "unknown"
   },
   "run": {
-    "id": "27084760318",
+    "id": "27120438441",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084760318/job/79936915139",
-    "timestamp": "2026-06-07T06:31:23Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120438441/job/80036088989",
+    "timestamp": "2026-06-08T07:09:36Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,46 @@
     "job_name": "test-minio-mc / test-minio-mc"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 2,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check mc binary exists and architecture",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check mc version command",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check mc help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check mc config host add/list",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check ls help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 2,
-        "current_version": "2017-02-02T22:38:48Z",
-        "latest_version": "2017-02-06T20:16:19Z",
-        "next_installed_version": "2017-02-06T20:16:19Z",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current baseline MinIO Client 2017-02-02T22:38:48Z passed Tests 1-5. Regression validation downloaded candidate 2017-02-06T20:16:19Z and confirmed CLI help/version output on Arm64."
+        "status": "failed",
+        "duration_seconds": 0,
+        "current_version": "unknown",
+        "latest_version": "unknown",
+        "next_installed_version": "not_installed",
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "minio-mc",
     "dashboard_link": "/linux/opensource_packages/minio-mc",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 7",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.440343+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-08T09:04:11.631147+00:00",
     "publish_state": "published"
   }
 }

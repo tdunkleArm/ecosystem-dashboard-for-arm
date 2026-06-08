@@ -5,11 +5,11 @@
     "version": "0.62.0sam"
   },
   "run": {
-    "id": "27084756284",
+    "id": "27120430991",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084756284/job/79936903526",
-    "timestamp": "2026-06-07T06:27:16Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120430991/job/80036065329",
+    "timestamp": "2026-06-08T06:45:25Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-rinetd / test-rinetd"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check rinetd binary exists",
@@ -40,23 +40,17 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 4,
-        "current_version": "0.62.0sam",
-        "latest_version": "0.73",
-        "next_installed_version": "0.73",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Rinetd version 0.62.0sam passed smoke tests in this run. Regression validation built candidate version 0.73 on Arm64, the isolated candidate binary reported version 0.73, and it successfully forwarded TCP traffic."
+        "status": "failed",
+        "duration_seconds": 11
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "rinetd",
     "dashboard_link": "/linux/opensource_packages/rinetd",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 4",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.491660+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-06-08T09:04:11.681486+00:00",
     "publish_state": "published"
   }
 }

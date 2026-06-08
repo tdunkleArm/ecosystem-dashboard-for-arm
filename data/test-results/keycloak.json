@@ -5,10 +5,10 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "27084760318",
+    "id": "27120438441",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084760318/job/79936915480",
-    "timestamp": "2026-06-07T06:37:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120438441/job/80036088834",
+    "timestamp": "2026-06-08T06:59:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 27,
+    "duration_seconds": 32,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Start Keycloak in dev mode",
         "status": "passed",
-        "duration_seconds": 21
+        "duration_seconds": 20
       },
       {
         "name": "Test 5 - Check HTTP response",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 10,
         "current_version": "26.1.4",
         "latest_version": "26.1.5",
         "next_installed_version": "26.1.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.411666+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.611272+00:00",
     "publish_state": "published"
   }
 }

@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "OpenCart",
-    "version": "4.1.0.0"
+    "version": "unknown"
   },
   "run": {
-    "id": "27084761742",
+    "id": "27120441110",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084761742/job/79936919302",
-    "timestamp": "2026-06-07T06:34:13Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120441110/job/80036098012",
+    "timestamp": "2026-06-08T07:11:02Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,43 @@
     "job_name": "test-opencart / test-opencart"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 2,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check store front files",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check admin files",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check PHP syntax",
-        "status": "passed",
-        "duration_seconds": 1
+        "status": "skipped",
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 2,
-        "current_version": "4.1.0.0",
-        "latest_version": "4.1.0.1",
-        "next_installed_version": "4.1.0.1",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenCart version 4.1.0.0 passed smoke tests in this run. Regression validation downloaded candidate version 4.1.0.1 on Arm64, and the staged application files reported version 4.1.0.1."
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "opencart",
     "dashboard_link": "/linux/opensource_packages/opencart",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 8",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.452690+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-08T09:04:11.659443+00:00",
     "publish_state": "published"
   }
 }

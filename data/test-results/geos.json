@@ -5,10 +5,10 @@
     "version": "3.12.1"
   },
   "run": {
-    "id": "27084753794",
+    "id": "27120425580",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084753794/job/79936895672",
-    "timestamp": "2026-06-07T06:24:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120425580/job/80036049281",
+    "timestamp": "2026-06-08T07:08:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check geos-config binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile simple C++ program using GEOS",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 7
       },
       {
         "name": "Test 5 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-07T07:25:34.358982+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.579767+00:00",
     "publish_state": "published"
   }
 }

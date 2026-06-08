@@ -5,10 +5,10 @@
     "version": "2.1.4"
   },
   "run": {
-    "id": "27084752538",
+    "id": "27120422829",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084752538/job/79936892198",
-    "timestamp": "2026-06-07T06:18:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120422829/job/80036039190",
+    "timestamp": "2026-06-08T06:38:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 54,
     "details": [
       {
         "name": "Test 1 - Check accumulo binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check 'accumulo version' reachability",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 54,
         "current_version": "2.1.4",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.311949+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.531339+00:00",
     "publish_state": "published"
   }
 }

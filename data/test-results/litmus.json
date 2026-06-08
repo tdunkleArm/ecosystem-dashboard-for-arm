@@ -5,10 +5,10 @@
     "version": "3.25.0"
   },
   "run": {
-    "id": "27084773012",
+    "id": "27120465874",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084773012/job/79936953280",
-    "timestamp": "2026-06-07T07:05:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120465874/job/80036179810",
+    "timestamp": "2026-06-08T07:38:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check release manifest and image pulls",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check chaos operator runtime probe",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check chaos runner runtime probe",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-07T07:25:34.422196+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.622338+00:00",
     "publish_state": "published"
   }
 }

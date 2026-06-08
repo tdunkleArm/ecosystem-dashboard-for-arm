@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "kube-router",
-    "version": "2.6.0"
+    "version": "unknown"
   },
   "run": {
-    "id": "27084760318",
+    "id": "27120438441",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084760318/job/79936915404",
-    "timestamp": "2026-06-07T06:36:54Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120438441/job/80036089107",
+    "timestamp": "2026-06-08T06:52:57Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,43 @@
     "job_name": "test-kube-router / test-kube-router"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 1,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check kube-router binary exists",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check metrics flag parsing",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 2,
-        "current_version": "2.6.0",
-        "latest_version": "2.6.1",
-        "next_installed_version": "2.6.1",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned kube-router version 2.6.0 passed smoke tests in this run. Regression validation downloaded the candidate Arm64 artifact from https://github.com/cloudnativelabs/kube-router/releases/download/v2.6.1/kube-router_2.6.1_linux_arm64.tar.gz successfully, and the candidate binary reported version 2.6.1 on Arm64."
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -64,16 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "kube-router",
     "dashboard_link": "/linux/opensource_packages/kube-router",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 7",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:25:34.413411+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-08T09:04:11.613096+00:00",
     "publish_state": "published"
   }
 }

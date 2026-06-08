@@ -5,10 +5,10 @@
     "version": "v2.16.2"
   },
   "run": {
-    "id": "27084766753",
+    "id": "27120451943",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084766753/job/79936933729",
-    "timestamp": "2026-06-07T06:44:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120451943/job/80036135053",
+    "timestamp": "2026-06-08T07:15:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Create, validate, build, and run an event",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 12
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-07T07:25:34.331941+00:00",
+    "production_refreshed_at": "2026-06-08T09:04:11.551585+00:00",
     "publish_state": "published"
   }
 }

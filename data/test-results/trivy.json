@@ -5,11 +5,11 @@
     "version": "0.69.2"
   },
   "run": {
-    "id": "27084774271",
+    "id": "27120468653",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27084774271/job/79936957375",
-    "timestamp": "2026-06-07T07:10:54Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120468653/job/80036187186",
+    "timestamp": "2026-06-08T07:50:14Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-trivy / test-trivy"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check trivy binary exists",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 12,
         "current_version": "0.69.2",
         "latest_version": "0.69.3",
-        "next_installed_version": "not_installed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned Trivy version 0.69.2 passed smoke tests in this run, but the candidate artifact https://github.com/aquasecurity/trivy/releases/download/v0.69.3/trivy_0.69.3_Linux-ARM64.tar.gz could not be downloaded on Arm64."
+        "next_installed_version": "0.69.3",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Trivy version 0.69.2 passed smoke tests in this run. Regression validation executed candidate version 0.69.3 from https://github.com/aquasecurity/trivy/releases/download/v0.69.3/trivy_0.69.3_Linux-ARM64.tar.gz on Arm64 and confirmed it can still complete the sample configuration scan successfully."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "trivy",
     "dashboard_link": "/linux/opensource_packages/trivy",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 18",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-07T07:25:34.511181+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-08T09:04:11.728889+00:00",
     "publish_state": "published"
   }
 }
