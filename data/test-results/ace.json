@@ -5,11 +5,11 @@
     "version": "1.39.1"
   },
   "run": {
-    "id": "27120422829",
+    "id": "27187214675",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120422829/job/80036039757",
-    "timestamp": "2026-06-08T06:41:24Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187214675/job/80258692069",
+    "timestamp": "2026-06-09T06:05:53Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,8 +17,8 @@
     "job_name": "test-ace / test-ace"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
     "duration_seconds": 1,
     "details": [
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 1,
         "current_version": "1.39.1",
         "latest_version": "1.40.0",
-        "next_installed_version": "install_failed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned ACE version 1.39.1 passed smoke tests in this run, but the regression candidate 1.40.0 could not be downloaded on Arm64."
+        "next_installed_version": "1.40.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned ACE version 1.39.1 passed smoke tests in this run. Regression validation downloaded candidate version 1.40.0 on Arm64, and the extracted package metadata reported version 1.40.0."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "ace",
     "dashboard_link": "/linux/opensource_packages/ace",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 1",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-08T09:04:11.531524+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.744962+00:00",
     "publish_state": "published"
   }
 }

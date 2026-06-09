@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "27120428240",
+    "id": "27187221724",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120428240/job/80036057083",
-    "timestamp": "2026-06-08T06:39:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187221724/job/80258714186",
+    "timestamp": "2026-06-09T06:11:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check drill-conf command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Java Environment Check",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 27,
+        "duration_seconds": 17,
         "current_version": "1.21.2",
         "latest_version": "1.22.0",
         "next_installed_version": "1.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:04:11.536841+00:00",
+    "production_refreshed_at": "2026-06-09T08:28:09.750207+00:00",
     "publish_state": "published"
   }
 }

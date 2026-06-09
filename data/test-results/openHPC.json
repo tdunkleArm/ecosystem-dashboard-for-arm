@@ -5,11 +5,11 @@
     "version": "v3.2.1.GA"
   },
   "run": {
-    "id": "27120468653",
+    "id": "27187268133",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120468653/job/80036187193",
-    "timestamp": "2026-06-08T07:38:31Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187268133/job/80258864573",
+    "timestamp": "2026-06-09T07:12:51Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-openhpc / test-openhpc"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
-    "skipped": 1,
-    "duration_seconds": 1,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check release RPM download",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check release tag exists",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check OpenHPC repo file",
@@ -49,22 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "skipped",
-        "duration_seconds": 0,
+        "status": "passed",
+        "duration_seconds": 3,
         "current_version": "v3.2.1.GA",
-        "latest_version": "unknown",
-        "next_installed_version": "not_installed",
-        "decision": "baseline_failed",
-        "regression_result": "Regression validation skipped because one or more baseline tests (1-5) failed.",
-        "comparison": "Baseline tests failed, so next-version validation is not trustworthy for this run."
-      },
-      {
-        "name": "Workflow Finalization",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "job_failed_without_emitted_result",
-        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
-        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
+        "latest_version": "v3.3.GA",
+        "next_installed_version": "v3.3.GA",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Baseline v3.2.1.GA passed Tests 1-5, and the next newer OpenHPC release v3.3.GA published an aarch64 install guide while the matching OpenHPC repo/update channels exposed the required aarch64 package metadata."
       }
     ]
   },
@@ -72,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "openHPC",
     "dashboard_link": "/linux/opensource_packages/openHPC",
-    "badge_status": "failing",
-    "core_failed": 1,
+    "badge_status": "passing",
+    "core_failed": 0,
     "batch_title": "Batch 18",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "skipped",
-    "regression_decision": "baseline_failed",
-    "production_refreshed_at": "2026-06-08T09:04:11.659093+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.846048+00:00",
     "publish_state": "published"
   }
 }

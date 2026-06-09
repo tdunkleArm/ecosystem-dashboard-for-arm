@@ -5,11 +5,11 @@
     "version": "0.18.0"
   },
   "run": {
-    "id": "27120463107",
+    "id": "27187262111",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120463107/job/80036170526",
-    "timestamp": "2026-06-08T07:44:13Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187262111/job/80258844948",
+    "timestamp": "2026-06-09T07:13:26Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-cilium / test-cilium"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Completion",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 2,
         "current_version": "0.18.0",
         "latest_version": "0.18.1",
-        "next_installed_version": "install_failed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned Cilium CLI version 0.18.0 passed smoke tests in this run, but the regression candidate 0.18.1 could not be downloaded on Arm64."
+        "next_installed_version": "0.18.1",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Cilium CLI version 0.18.0 passed smoke tests in this run. Regression validation installed candidate version 0.18.1 on Arm64, and the candidate binary reported version 0.18.1."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "cilium",
     "dashboard_link": "/linux/opensource_packages/cilium",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 16",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-08T09:04:11.549732+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.764097+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.1"
   },
   "run": {
-    "id": "27120460396",
+    "id": "27187259435",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120460396/job/80036160510",
-    "timestamp": "2026-06-08T07:34:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187259435/job/80258833086",
+    "timestamp": "2026-06-09T07:04:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check gperf binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile generated code",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-08T09:04:11.583212+00:00",
+    "production_refreshed_at": "2026-06-09T08:28:09.798216+00:00",
     "publish_state": "published"
   }
 }

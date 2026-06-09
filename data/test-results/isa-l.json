@@ -5,11 +5,11 @@
     "version": "2.31.1"
   },
   "run": {
-    "id": "27120449150",
+    "id": "27187247071",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120449150/job/80036124863",
-    "timestamp": "2026-06-08T07:26:02Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187247071/job/80258794689",
+    "timestamp": "2026-06-09T06:43:02Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-isa-l / test-isa-l"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Header and Binary Existence",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 10,
         "current_version": "2.31.1",
         "latest_version": "2.32.0",
-        "next_installed_version": "not_installed",
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The Test 6 step failed in the job, but the workflow did not emit a terminal regression decision before exiting."
+        "next_installed_version": "2.32.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned ISA-L source release 2.31.1 built and passed its Arm64 smoke checks, and regression validation built next release 2.32.0 from the official source tarball, installed it into an isolated prefix, validated pkg-config metadata and igzip help output, and compiled and ran the CRC32 consumer program successfully."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "isa-l",
     "dashboard_link": "/linux/opensource_packages/isa-l",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 11",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-08T09:04:11.605887+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.807883+00:00",
     "publish_state": "published"
   }
 }

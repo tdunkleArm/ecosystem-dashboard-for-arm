@@ -5,10 +5,10 @@
     "version": "0.15.0"
   },
   "run": {
-    "id": "27120476855",
+    "id": "27187277572",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120476855/job/80036212618",
-    "timestamp": "2026-06-08T07:45:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187277572/job/80258888742",
+    "timestamp": "2026-06-09T07:28:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.15.0",
-        "latest_version": "2026.605.170308",
-        "next_installed_version": "2026.605.170308",
+        "latest_version": "2026.608.233907",
+        "next_installed_version": "2026.608.233907",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.605.170308 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.608.233907 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-08T09:04:11.722294+00:00",
+    "production_refreshed_at": "2026-06-09T08:28:09.910422+00:00",
     "publish_state": "published"
   }
 }

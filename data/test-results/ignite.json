@@ -5,11 +5,11 @@
     "version": "0.9.0"
   },
   "run": {
-    "id": "27120449150",
+    "id": "27187247071",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120449150/job/80036124854",
-    "timestamp": "2026-06-08T07:09:26Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187247071/job/80258794596",
+    "timestamp": "2026-06-09T06:47:49Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-ignite / test-ignite"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Ignite binaries exist",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11
+        "status": "passed",
+        "duration_seconds": 3,
+        "current_version": "0.9.0",
+        "latest_version": "0.10.0",
+        "next_installed_version": "0.10.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Ignite version 0.9.0 passed smoke tests in this run. Regression validation downloaded the next official Arm64 release 0.10.0, and both candidate binaries reported version 0.10.0 while exposing the expected CLI and daemon help output on Arm64."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "ignite",
     "dashboard_link": "/linux/opensource_packages/ignite",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 11",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-08T09:04:11.590696+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.805894+00:00",
     "publish_state": "published"
   }
 }

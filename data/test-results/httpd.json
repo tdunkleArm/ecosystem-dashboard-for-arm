@@ -5,10 +5,10 @@
     "version": "2.4.32"
   },
   "run": {
-    "id": "27120422829",
+    "id": "27187214675",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120422829/job/80036039759",
-    "timestamp": "2026-06-08T06:47:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187214675/job/80258692172",
+    "timestamp": "2026-06-09T06:06:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 71,
     "details": [
       {
         "name": "Test 1 - Check httpd binary exists",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Stop server and verify Arm64 binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 42,
+        "duration_seconds": 70,
         "current_version": "2.4.32",
-        "latest_version": "2.4.67",
-        "next_installed_version": "2.4.67",
+        "latest_version": "2.4.68",
+        "next_installed_version": "2.4.68",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Apache httpd version 2.4.32 passed smoke tests in this run. Regression validation built candidate version 2.4.67 from the official source tarball on Arm64, and the candidate server reported version 2.4.67 while serving localhost successfully."
+        "comparison": "Current pinned Apache httpd version 2.4.32 passed smoke tests in this run. Regression validation built candidate version 2.4.68 from the official source tarball on Arm64, and the candidate server reported version 2.4.68 while serving localhost successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:04:11.589828+00:00",
+    "production_refreshed_at": "2026-06-09T08:28:09.805042+00:00",
     "publish_state": "published"
   }
 }

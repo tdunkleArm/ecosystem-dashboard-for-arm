@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "CNI",
-    "version": "unknown"
+    "version": "v1.6.2"
   },
   "run": {
-    "id": "27120436141",
+    "id": "27187231762",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27120436141/job/80036081026",
-    "timestamp": "2026-06-08T06:59:58Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187231762/job/80258748747",
+    "timestamp": "2026-06-09T06:22:02Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-cni / test-cni"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Binary Existence",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Version Check",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Help Or Configuration Validation",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 3,
+        "current_version": "plugins v1.6.2 + cnitool v1.2.3",
+        "latest_version": "plugins v1.7.1 + cnitool v1.3.0",
+        "next_installed_version": "plugins v1.7.1 + cnitool v1.3.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned CNI baseline plugins v1.6.2 + cnitool v1.2.3 passed smoke tests in this run. Regression validation installed plugins v1.7.1 + cnitool v1.3.0 on Arm64, and the plugin plus cnitool probes both matched the requested upgrade target."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "cni",
     "dashboard_link": "/linux/opensource_packages/cni",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 6",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-08T09:04:11.552548+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:28:09.766969+00:00",
     "publish_state": "published"
   }
 }
