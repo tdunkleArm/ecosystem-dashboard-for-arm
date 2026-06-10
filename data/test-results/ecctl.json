@@ -5,10 +5,10 @@
     "version": "1.14.0"
   },
   "run": {
-    "id": "27187259435",
+    "id": "27257350884",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187259435/job/80258833047",
-    "timestamp": "2026-06-09T07:03:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257350884/job/80494552093",
+    "timestamp": "2026-06-10T06:57:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ecctl help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.14.0",
         "latest_version": "1.14.1",
         "next_installed_version": "1.14.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:28:09.780171+00:00",
+    "production_refreshed_at": "2026-06-10T07:31:28.792646+00:00",
     "publish_state": "published"
   }
 }

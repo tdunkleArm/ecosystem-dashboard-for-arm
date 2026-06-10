@@ -5,10 +5,10 @@
     "version": "22.0.0"
   },
   "run": {
-    "id": "27187221724",
+    "id": "27257314676",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187221724/job/80258714216",
-    "timestamp": "2026-06-09T06:09:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257314676/job/80494432178",
+    "timestamp": "2026-06-10T06:23:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check pip installation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Import Gunicorn in Python",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Functional validation with WSGI app",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Request context and architecture verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-09T08:28:09.800066+00:00",
+    "production_refreshed_at": "2026-06-10T07:31:28.813937+00:00",
     "publish_state": "published"
   }
 }

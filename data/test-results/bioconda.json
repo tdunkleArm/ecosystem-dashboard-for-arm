@@ -5,10 +5,10 @@
     "version": "24.11.3"
   },
   "run": {
-    "id": "27187247071",
+    "id": "27257338929",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187247071/job/80258794561",
-    "timestamp": "2026-06-09T06:37:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257338929/job/80494511764",
+    "timestamp": "2026-06-10T07:01:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Channels",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Install Simple Bioconda Package",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 21
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-09T08:28:09.755219+00:00",
+    "production_refreshed_at": "2026-06-10T07:31:28.761753+00:00",
     "publish_state": "published"
   }
 }

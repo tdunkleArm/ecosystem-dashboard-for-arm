@@ -5,10 +5,10 @@
     "version": "0.9"
   },
   "run": {
-    "id": "27187224990",
+    "id": "27257317654",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187224990/job/80258724121",
-    "timestamp": "2026-06-09T06:10:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257317654/job/80494443301",
+    "timestamp": "2026-06-10T06:20:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check 0xffff binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check 0xffff version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check 0xffff help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "0.9",
         "latest_version": "0.10",
         "next_installed_version": "0.10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:28:09.735137+00:00",
+    "production_refreshed_at": "2026-06-10T07:31:28.739986+00:00",
     "publish_state": "published"
   }
 }

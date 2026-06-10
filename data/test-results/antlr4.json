@@ -5,10 +5,10 @@
     "version": "4.13.1"
   },
   "run": {
-    "id": "27187214675",
+    "id": "27257308925",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27187214675/job/80258692081",
-    "timestamp": "2026-06-09T06:11:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257308925/job/80494412947",
+    "timestamp": "2026-06-10T06:23:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check JAR Execution",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Create Grammar File",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile Grammar",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Generated Files",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Compile Generated Java Code",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "4.13.1",
         "latest_version": "4.13.2",
         "next_installed_version": "4.13.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:28:09.749365+00:00",
+    "production_refreshed_at": "2026-06-10T07:31:28.756204+00:00",
     "publish_state": "published"
   }
 }
