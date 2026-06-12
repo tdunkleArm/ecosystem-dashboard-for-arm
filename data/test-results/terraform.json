@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "27257353808",
+    "id": "27398926461",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257353808/job/80494561788",
-    "timestamp": "2026-06-10T06:59:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27398926461/job/80972190938",
+    "timestamp": "2026-06-12T07:28:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.15.5",
-        "next_installed_version": "1.15.5",
+        "latest_version": "1.15.6",
+        "next_installed_version": "1.15.6",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.5/terraform_1.15.5_linux_arm64.zip and confirmed candidate version 1.15.5 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.6/terraform_1.15.6_linux_arm64.zip and confirmed candidate version 1.15.6 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:31:28.935790+00:00",
+    "production_refreshed_at": "2026-06-12T08:32:17.544911+00:00",
     "publish_state": "published"
   }
 }

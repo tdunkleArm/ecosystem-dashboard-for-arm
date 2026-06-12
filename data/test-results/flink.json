@@ -5,10 +5,10 @@
     "version": "2.1.0"
   },
   "run": {
-    "id": "27257320600",
+    "id": "27398891001",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257320600/job/80494455771",
-    "timestamp": "2026-06-10T06:29:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27398891001/job/80972080611",
+    "timestamp": "2026-06-12T06:55:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 360,
+    "duration_seconds": 2065,
     "details": [
       {
         "name": "Test 1 - Check flink binary exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Start local cluster",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 16
       },
       {
         "name": "Test 5 - Stop local cluster and verify architecture",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 10
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 331,
+        "duration_seconds": 2038,
         "current_version": "2.1.0",
         "latest_version": "2.1.1",
         "next_installed_version": "2.1.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:31:28.803517+00:00",
+    "production_refreshed_at": "2026-06-12T08:32:17.391190+00:00",
     "publish_state": "published"
   }
 }

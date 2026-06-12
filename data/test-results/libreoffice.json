@@ -5,10 +5,10 @@
     "version": "24.2.7.2"
   },
   "run": {
-    "id": "27257329858",
+    "id": "27398899777",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257329858/job/80494482194",
-    "timestamp": "2026-06-10T06:36:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27398899777/job/80972108328",
+    "timestamp": "2026-06-12T06:58:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check libreoffice version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check libreoffice help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-10T07:31:28.845870+00:00",
+    "production_refreshed_at": "2026-06-12T08:32:17.434569+00:00",
     "publish_state": "published"
   }
 }

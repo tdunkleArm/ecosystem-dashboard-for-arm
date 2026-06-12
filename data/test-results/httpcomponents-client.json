@@ -5,10 +5,10 @@
     "version": "5.4"
   },
   "run": {
-    "id": "27257311796",
+    "id": "27398882585",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257311796/job/80494423895",
-    "timestamp": "2026-06-10T06:35:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27398882585/job/80972052321",
+    "timestamp": "2026-06-12T06:31:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run loopback HTTP request",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check expected client classes",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "5.4",
         "latest_version": "5.6",
         "next_installed_version": "5.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:31:28.818396+00:00",
+    "production_refreshed_at": "2026-06-12T08:32:17.418810+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2:28.1.0-0ubuntu1.2"
   },
   "run": {
-    "id": "27257317654",
+    "id": "27398888122",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27257317654/job/80494443490",
-    "timestamp": "2026-06-10T06:22:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27398888122/job/80972071398",
+    "timestamp": "2026-06-12T06:51:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check config directory or file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check glance-scrubber binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-10T07:31:28.810272+00:00",
+    "production_refreshed_at": "2026-06-12T08:32:17.400078+00:00",
     "publish_state": "published"
   }
 }
