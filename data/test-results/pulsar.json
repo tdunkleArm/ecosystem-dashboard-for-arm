@@ -5,10 +5,10 @@
     "version": "4.0.4"
   },
   "run": {
-    "id": "27458748086",
+    "id": "27490692594",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27458748086/job/81168144642",
-    "timestamp": "2026-06-13T06:14:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490692594/job/81255071800",
+    "timestamp": "2026-06-14T06:35:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Admin API",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 9
       },
       {
         "name": "Test 3 - Produce Message",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Consume Message",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Check Topic Stats",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-13T07:16:04.750425+00:00",
+    "production_refreshed_at": "2026-06-14T07:33:57.964445+00:00",
     "publish_state": "published"
   }
 }
