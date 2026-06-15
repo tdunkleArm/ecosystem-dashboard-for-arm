@@ -5,11 +5,11 @@
     "version": "25.05.7"
   },
   "run": {
-    "id": "27490716695",
+    "id": "27530156797",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490716695/job/81255140020",
-    "timestamp": "2026-06-14T07:04:18Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530156797/job/81366048042",
+    "timestamp": "2026-06-15T08:30:12Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-slurm / test-slurm"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 168,
     "details": [
       {
         "name": "Test 1 - Check srun binary exists",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 134
+        "status": "passed",
+        "duration_seconds": 168,
+        "current_version": "25.05.7",
+        "latest_version": "25.11.4",
+        "next_installed_version": "25.11.4",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Slurm version 25.05.7 passed smoke tests in this run. Regression validation rebuilt and executed the candidate official Slurm source 25.11.4 successfully on Arm64."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "slurm",
     "dashboard_link": "/linux/opensource_packages/slurm",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 15",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-14T07:33:57.978407+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-15T12:58:44.909495+00:00",
     "publish_state": "published"
   }
 }

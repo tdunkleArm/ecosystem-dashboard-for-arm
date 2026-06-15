@@ -5,10 +5,10 @@
     "version": "5.3.0_0"
   },
   "run": {
-    "id": "27490723300",
+    "id": "27530182141",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490723300/job/81255158885",
-    "timestamp": "2026-06-14T07:20:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530182141/job/81366132914",
+    "timestamp": "2026-06-15T08:57:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check header installation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-14T07:33:57.907156+00:00",
+    "production_refreshed_at": "2026-06-15T12:58:44.836243+00:00",
     "publish_state": "published"
   }
 }

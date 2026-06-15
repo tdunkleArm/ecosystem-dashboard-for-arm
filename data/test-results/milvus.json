@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "27490721835",
+    "id": "27530178435",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490721835/job/81255153965",
-    "timestamp": "2026-06-14T07:19:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530178435/job/81366120661",
+    "timestamp": "2026-06-15T08:47:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Validate standalone compose configuration",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
         "status": "passed",
-        "duration_seconds": 22
+        "duration_seconds": 24
       },
       {
         "name": "Test 4 - Start baseline standalone stack and wait for health",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 11
       },
       {
         "name": "Test 5 - Validate running standalone container and clean up baseline",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:33:57.933115+00:00",
+    "production_refreshed_at": "2026-06-15T12:58:44.862316+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "27490700910",
+    "id": "27530126068",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490700910/job/81255096728",
-    "timestamp": "2026-06-14T06:46:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530126068/job/81365948924",
+    "timestamp": "2026-06-15T07:37:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 33,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Fleet Server Component Existence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Carrier Version Output",
@@ -35,22 +35,22 @@
       {
         "name": "Test 3 - Check Fleet Server Help Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Embedded Fleet Server Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 35,
+        "duration_seconds": 32,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:33:57.877632+00:00",
+    "production_refreshed_at": "2026-06-15T12:58:44.805833+00:00",
     "publish_state": "published"
   }
 }

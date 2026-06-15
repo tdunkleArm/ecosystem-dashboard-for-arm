@@ -5,10 +5,10 @@
     "version": "1.30.0"
   },
   "run": {
-    "id": "27490721835",
+    "id": "27530178435",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490721835/job/81255153939",
-    "timestamp": "2026-06-14T07:14:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530178435/job/81366120665",
+    "timestamp": "2026-06-15T09:12:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check spin binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "1.30.0",
         "latest_version": "2025.3.4",
         "next_installed_version": "2025.3.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-14T07:33:57.981563+00:00",
+    "production_refreshed_at": "2026-06-15T12:58:44.913083+00:00",
     "publish_state": "published"
   }
 }

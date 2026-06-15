@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
   "package": {
-    "name": "DolphinScheduler",
-    "version": "3.2.1"
+    "name": "dolphinscheduler",
+    "version": "unknown"
   },
   "run": {
-    "id": "27490710935",
+    "id": "27530147148",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27490710935/job/81255123928",
-    "timestamp": "2026-06-14T06:58:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530147148/job/81366019478",
+    "timestamp": "",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -17,20 +17,20 @@
     "job_name": "test-dolphinscheduler / test-dolphinscheduler"
   },
   "tests": {
-    "passed": 6,
+    "passed": 5,
     "failed": 0,
-    "skipped": 0,
-    "duration_seconds": 50,
+    "skipped": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check alert-server directory exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check alert-server config exists",
@@ -49,31 +49,24 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 50,
-        "current_version": "3.2.1",
-        "latest_version": "3.2.2",
-        "next_installed_version": "3.2.2",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned DolphinScheduler version 3.2.1 passed smoke tests in this run. Regression validation downloaded and extracted candidate version 3.2.2 on Arm64, and the staged distribution exposed the expected daemon scripts plus either the legacy alert-server layout or the current monolithic libs/master-server layout."
+        "status": "skipped",
+        "duration_seconds": 0
       }
     ]
   },
   "metadata": {
-    "contract_version": "2.0",
+    "contract_version": "missing",
     "package_slug": "dolphinscheduler",
     "dashboard_link": "/linux/opensource_packages/dolphinscheduler",
     "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:33:57.872110+00:00",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
+    "regression_status": "skipped",
+    "production_refreshed_at": "2026-06-15T12:58:44.799998+00:00",
     "publish_state": "published"
   }
 }
