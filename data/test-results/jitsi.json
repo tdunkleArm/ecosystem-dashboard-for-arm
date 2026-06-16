@@ -5,10 +5,10 @@
     "version": "stable-10169"
   },
   "run": {
-    "id": "27530143646",
+    "id": "27601177541",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530143646/job/81366008166",
-    "timestamp": "2026-06-15T08:18:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601177541/job/81602272631",
+    "timestamp": "2026-06-16T08:06:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Image Metadata Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - JVB Script Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-15T12:58:44.836802+00:00",
+    "production_refreshed_at": "2026-06-16T11:23:52.364186+00:00",
     "publish_state": "published"
   }
 }

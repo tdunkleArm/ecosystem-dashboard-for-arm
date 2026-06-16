@@ -5,10 +5,10 @@
     "version": "0.6.1+cpu"
   },
   "run": {
-    "id": "27530118771",
+    "id": "27601150739",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530118771/job/81365928190",
-    "timestamp": "2026-06-15T07:41:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601150739/job/81602183915",
+    "timestamp": "2026-06-16T07:27:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check torchtune import",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check torchtune version via python",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-15T12:58:44.924284+00:00",
+    "production_refreshed_at": "2026-06-16T11:23:52.454466+00:00",
     "publish_state": "published"
   }
 }

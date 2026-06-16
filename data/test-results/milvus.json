@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "27530178435",
+    "id": "27601203138",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530178435/job/81366120661",
-    "timestamp": "2026-06-15T08:47:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601203138/job/81602358238",
+    "timestamp": "2026-06-16T08:25:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 65,
+    "duration_seconds": 76,
     "details": [
       {
         "name": "Test 1 - Check standalone compose asset",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Validate standalone compose configuration",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
         "status": "passed",
-        "duration_seconds": 24
+        "duration_seconds": 22
       },
       {
         "name": "Test 4 - Start baseline standalone stack and wait for health",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Validate running standalone container and clean up baseline",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 29,
+        "duration_seconds": 40,
         "current_version": "2.5.6",
         "latest_version": "2.5.7",
         "next_installed_version": "2.5.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:58:44.862316+00:00",
+    "production_refreshed_at": "2026-06-16T11:23:52.390124+00:00",
     "publish_state": "published"
   }
 }

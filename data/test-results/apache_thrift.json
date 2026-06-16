@@ -5,10 +5,10 @@
     "version": "0.21.0"
   },
   "run": {
-    "id": "27530150317",
+    "id": "27601184705",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27530150317/job/81366026875",
-    "timestamp": "2026-06-15T08:12:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601184705/job/81602295657",
+    "timestamp": "2026-06-16T08:08:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 59,
+    "duration_seconds": 62,
     "details": [
       {
         "name": "Test 1 - Check thrift binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check thrift version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 59,
+        "duration_seconds": 62,
         "current_version": "0.21.0",
         "latest_version": "0.22.0",
         "next_installed_version": "0.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:58:44.771037+00:00",
+    "production_refreshed_at": "2026-06-16T11:23:52.297726+00:00",
     "publish_state": "published"
   }
 }
