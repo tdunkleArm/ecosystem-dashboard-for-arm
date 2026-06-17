@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Sentry-Python",
-    "version": "2.62.0"
+    "version": "2.63.0"
   },
   "run": {
-    "id": "27601165869",
+    "id": "27671825453",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601165869/job/81602234198",
-    "timestamp": "2026-06-16T07:40:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671825453/job/81837728013",
+    "timestamp": "2026-06-17T07:20:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.437748+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.343311+00:00",
     "publish_state": "published"
   }
 }

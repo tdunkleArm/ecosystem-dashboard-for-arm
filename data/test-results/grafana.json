@@ -5,10 +5,10 @@
     "version": "12.2.0"
   },
   "run": {
-    "id": "27601203138",
+    "id": "27671861554",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601203138/job/81602358722",
-    "timestamp": "2026-06-16T08:39:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671861554/job/81837845165",
+    "timestamp": "2026-06-17T08:01:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check grafana-server binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Grafana version output",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check default config and Arm64 binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 14
+        "duration_seconds": 12
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.351670+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.239171+00:00",
     "publish_state": "published"
   }
 }

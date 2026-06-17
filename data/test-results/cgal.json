@@ -5,10 +5,10 @@
     "version": "5.6"
   },
   "run": {
-    "id": "27601169639",
+    "id": "27671828909",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601169639/job/81602245061",
-    "timestamp": "2026-06-16T07:55:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671828909/job/81837740469",
+    "timestamp": "2026-06-17T07:38:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version header existence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check basic header existence",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.309997+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.188878+00:00",
     "publish_state": "published"
   }
 }

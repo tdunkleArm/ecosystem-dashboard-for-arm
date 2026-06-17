@@ -5,10 +5,10 @@
     "version": "1.11.4"
   },
   "run": {
-    "id": "27601177541",
+    "id": "27671835881",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601177541/job/81602271466",
-    "timestamp": "2026-06-16T08:12:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671835881/job/81837761556",
+    "timestamp": "2026-06-17T07:47:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check julia binary exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Run simple Julia code",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Perform calculation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 17,
+        "duration_seconds": 9,
         "current_version": "1.11.4",
         "latest_version": "1.11.5",
         "next_installed_version": "1.11.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-16T11:23:52.365088+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.250949+00:00",
     "publish_state": "published"
   }
 }

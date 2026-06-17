@@ -5,10 +5,10 @@
     "version": "5.0.9"
   },
   "run": {
-    "id": "27601203138",
+    "id": "27671861554",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601203138/job/81602358340",
-    "timestamp": "2026-06-16T08:36:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671861554/job/81837845425",
+    "timestamp": "2026-06-17T08:09:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 27,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check vue binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check vue version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check vue help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 26
+        "duration_seconds": 28
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.461791+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.382140+00:00",
     "publish_state": "published"
   }
 }

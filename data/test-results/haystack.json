@@ -5,10 +5,10 @@
     "version": "2.30.1"
   },
   "run": {
-    "id": "27601195958",
+    "id": "27671853738",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601195958/job/81602334617",
-    "timestamp": "2026-06-16T08:23:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671853738/job/81837820389",
+    "timestamp": "2026-06-17T07:57:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check Python import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check basic component import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Create a simple Pipeline",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check Document import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check pip dependencies",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.355653+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.242659+00:00",
     "publish_state": "published"
   }
 }

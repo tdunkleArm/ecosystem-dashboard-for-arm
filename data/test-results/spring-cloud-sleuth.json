@@ -5,10 +5,10 @@
     "version": "3.1.5"
   },
   "run": {
-    "id": "27601143271",
+    "id": "27671803184",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27601143271/job/81602160514",
-    "timestamp": "2026-06-16T07:25:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671803184/job/81837655344",
+    "timestamp": "2026-06-17T07:08:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Create Maven Project",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Resolve Dependencies",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 16
       },
       {
         "name": "Test 3 - Verify Library Presence",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:23:52.444030+00:00",
+    "production_refreshed_at": "2026-06-17T09:13:52.348918+00:00",
     "publish_state": "published"
   }
 }
