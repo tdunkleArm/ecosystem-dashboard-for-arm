@@ -5,10 +5,10 @@
     "version": "2.27.1"
   },
   "run": {
-    "id": "27671853738",
+    "id": "27741972496",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671853738/job/81837820220",
-    "timestamp": "2026-06-17T07:58:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741972496/job/82071093815",
+    "timestamp": "2026-06-18T07:34:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check startup script exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 10,
         "current_version": "2.27.1",
         "latest_version": "2.27.2",
         "next_installed_version": "2.27.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:13:52.235171+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.242651+00:00",
     "publish_state": "published"
   }
 }

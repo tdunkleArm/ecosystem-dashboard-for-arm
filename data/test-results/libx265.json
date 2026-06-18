@@ -5,10 +5,10 @@
     "version": "3.6"
   },
   "run": {
-    "id": "27671814462",
+    "id": "27741936961",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671814462/job/81837694119",
-    "timestamp": "2026-06-17T07:12:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741936961/job/82070978593",
+    "timestamp": "2026-06-18T06:57:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 76,
+    "duration_seconds": 39,
     "details": [
       {
         "name": "Test 1 - Check x265 binary and headers",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check x265 version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check x265 help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 75,
+        "duration_seconds": 38,
         "current_version": "3.6",
         "latest_version": "4.0",
         "next_installed_version": "4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:13:52.279534+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.290831+00:00",
     "publish_state": "published"
   }
 }

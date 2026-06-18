@@ -5,10 +5,10 @@
     "version": "7.17.27"
   },
   "run": {
-    "id": "27671853738",
+    "id": "27741972496",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671853738/job/81837820131",
-    "timestamp": "2026-06-17T08:03:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741972496/job/82071093988",
+    "timestamp": "2026-06-18T07:29:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check Functionbeat binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Functionbeat version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Functionbeat help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Export Functionbeat template",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:13:52.232014+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.238582+00:00",
     "publish_state": "published"
   }
 }

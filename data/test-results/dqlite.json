@@ -5,10 +5,10 @@
     "version": "source-build"
   },
   "run": {
-    "id": "27671842743",
+    "id": "27741962147",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671842743/job/81837781628",
-    "timestamp": "2026-06-17T07:48:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741962147/job/82071061990",
+    "timestamp": "2026-06-18T07:19:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 34,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Library File",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 34
       },
       {
         "name": "Test 4 - Check Pkg-Config",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-17T09:13:52.204464+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.224049+00:00",
     "publish_state": "published"
   }
 }

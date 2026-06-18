@@ -5,10 +5,10 @@
     "version": "0.10.2"
   },
   "run": {
-    "id": "27671821983",
+    "id": "27741943147",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671821983/job/81837715539",
-    "timestamp": "2026-06-17T07:43:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741943147/job/82070998416",
+    "timestamp": "2026-06-18T07:00:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check vLLM import",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact version metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check wheel metadata is aarch64",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-17T09:13:52.381109+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.391896+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.0.20"
   },
   "run": {
-    "id": "27671821983",
+    "id": "27741943147",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671821983/job/81837715511",
-    "timestamp": "2026-06-17T07:17:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741943147/job/82070998658",
+    "timestamp": "2026-06-18T07:00:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Validate with Terraform init",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check provider binary info",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.0.20",
         "latest_version": "1.0.21",
         "next_installed_version": "1.0.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:13:52.189210+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.206827+00:00",
     "publish_state": "published"
   }
 }

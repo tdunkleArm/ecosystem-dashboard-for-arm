@@ -5,10 +5,10 @@
     "version": "5.8.3"
   },
   "run": {
-    "id": "27671821983",
+    "id": "27741943147",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671821983/job/81837715331",
-    "timestamp": "2026-06-17T07:18:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741943147/job/82070998565",
+    "timestamp": "2026-06-18T07:03:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Broker Binaries",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "5.8.3",
         "latest_version": "5.8.4",
         "next_installed_version": "5.8.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:13:52.210573+00:00",
+    "production_refreshed_at": "2026-06-18T08:31:41.230168+00:00",
     "publish_state": "published"
   }
 }

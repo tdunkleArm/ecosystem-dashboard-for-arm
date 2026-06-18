@@ -5,11 +5,11 @@
     "version": "21.0.6"
   },
   "run": {
-    "id": "27671842743",
+    "id": "27741962147",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27671842743/job/81837782372",
-    "timestamp": "2026-06-17T07:52:10Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741962147/job/82071062064",
+    "timestamp": "2026-06-18T07:22:59Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-bishengjdk / test-bishengjdk"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check Java Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile and Run HelloWorld",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 31
+        "status": "passed",
+        "duration_seconds": 23,
+        "current_version": "21.0.6",
+        "latest_version": "21.0.7",
+        "next_installed_version": "21.0.7",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned BiSheng JDK version 21.0.6 passed smoke tests in this run. Regression validation installed candidate archive bisheng-jdk-21.0.7-b12-linux-aarch64.tar.gz on Arm64, and the candidate java runtime reported version 21.0.7 after a real compile-and-run check."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "bishengjdk",
     "dashboard_link": "/linux/opensource_packages/bishengjdk",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 13",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-17T09:13:52.182750+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-18T08:31:41.199103+00:00",
     "publish_state": "published"
   }
 }
