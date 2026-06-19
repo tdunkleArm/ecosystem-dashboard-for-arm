@@ -5,10 +5,10 @@
     "version": "7.2.9"
   },
   "run": {
-    "id": "27741972496",
+    "id": "27810837131",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741972496/job/82071093840",
-    "timestamp": "2026-06-18T07:35:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810837131/job/82300565874",
+    "timestamp": "2026-06-19T07:51:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 38,
+    "duration_seconds": 37,
     "details": [
       {
         "name": "Test 1 - Check Redis binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 38,
+        "duration_seconds": 37,
         "current_version": "7.2.9",
         "latest_version": "7.2.10",
         "next_installed_version": "7.2.10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.356054+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.100959+00:00",
     "publish_state": "published"
   }
 }

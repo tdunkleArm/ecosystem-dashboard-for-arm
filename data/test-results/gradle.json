@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "27741949309",
+    "id": "27810814834",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741949309/job/82071017834",
-    "timestamp": "2026-06-18T07:07:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810814834/job/82300495417",
+    "timestamp": "2026-06-19T07:44:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "8.11",
-        "latest_version": "9.5.1",
-        "next_installed_version": "9.5.1",
+        "latest_version": "9.6.0",
+        "next_installed_version": "9.6.0",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.5.1 on Arm64, and the candidate distribution reported version 9.5.1 and returned Gradle help output successfully."
+        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.6.0 on Arm64, and the candidate distribution reported version 9.6.0 and returned Gradle help output successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.246538+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.019613+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.10.3"
   },
   "run": {
-    "id": "27741959006",
+    "id": "27810824196",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741959006/job/82071049820",
-    "timestamp": "2026-06-18T07:18:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810824196/job/82300526014",
+    "timestamp": "2026-06-19T07:45:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Kyuubi release version mapping",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Kyuubi help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 11,
         "current_version": "1.10.3",
         "latest_version": "1.11.0",
         "next_installed_version": "1.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.285645+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.039501+00:00",
     "publish_state": "published"
   }
 }

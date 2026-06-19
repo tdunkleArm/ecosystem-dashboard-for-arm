@@ -5,10 +5,10 @@
     "version": "v3.6.4"
   },
   "run": {
-    "id": "27741927711",
+    "id": "27810793196",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741927711/job/82070945647",
-    "timestamp": "2026-06-18T06:55:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810793196/job/82300422994",
+    "timestamp": "2026-06-19T07:03:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Version Command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v3.6.4",
         "latest_version": "v3.6.5",
         "next_installed_version": "3.6.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.194164+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:32.971637+00:00",
     "publish_state": "published"
   }
 }

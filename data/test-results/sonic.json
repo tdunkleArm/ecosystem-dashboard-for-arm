@@ -5,10 +5,10 @@
     "version": "..."
   },
   "run": {
-    "id": "27741943147",
+    "id": "27810808924",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741943147/job/82070998704",
-    "timestamp": "2026-06-18T07:01:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810808924/job/82300473913",
+    "timestamp": "2026-06-19T07:15:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check sonic version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check sonic help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-18T08:31:41.373300+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.126377+00:00",
     "publish_state": "published"
   }
 }

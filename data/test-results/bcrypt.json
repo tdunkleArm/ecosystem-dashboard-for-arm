@@ -5,10 +5,10 @@
     "version": "3.2.2"
   },
   "run": {
-    "id": "27741927711",
+    "id": "27810793196",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741927711/job/82070946703",
-    "timestamp": "2026-06-18T06:50:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810793196/job/82300423413",
+    "timestamp": "2026-06-19T07:05:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Hashing",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Password Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-18T08:31:41.197691+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:32.974281+00:00",
     "publish_state": "published"
   }
 }

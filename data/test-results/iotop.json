@@ -5,10 +5,10 @@
     "version": "1.18"
   },
   "run": {
-    "id": "27741972496",
+    "id": "27810837131",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741972496/job/82071093824",
-    "timestamp": "2026-06-18T07:34:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810837131/job/82300565869",
+    "timestamp": "2026-06-19T07:56:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Iotop binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "1.18",
         "latest_version": "1.31",
         "next_installed_version": "1.31",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.275044+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.028644+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.2.1"
   },
   "run": {
-    "id": "27741955560",
+    "id": "27810821367",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27741955560/job/82071038760",
-    "timestamp": "2026-06-18T07:18:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810821367/job/82300515242",
+    "timestamp": "2026-06-19T07:33:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check headers and library artifacts exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "1.2.1",
         "latest_version": "1.2.2",
         "next_installed_version": "1.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:31:41.372518+00:00",
+    "production_refreshed_at": "2026-06-19T08:27:33.125557+00:00",
     "publish_state": "published"
   }
 }
