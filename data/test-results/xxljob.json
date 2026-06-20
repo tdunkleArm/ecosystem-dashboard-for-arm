@@ -5,10 +5,10 @@
     "version": "3.2.0"
   },
   "run": {
-    "id": "27810830468",
+    "id": "27862640668",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810830468/job/82300545820",
-    "timestamp": "2026-06-19T07:57:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862640668/job/82461127664",
+    "timestamp": "2026-06-20T06:58:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 23,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Check admin jar exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check layer listing output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 23,
+        "duration_seconds": 18,
         "current_version": "3.2.0",
         "latest_version": "3.3.0",
         "next_installed_version": "3.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:27:33.151676+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:55.210648+00:00",
     "publish_state": "published"
   }
 }

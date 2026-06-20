@@ -5,10 +5,10 @@
     "version": "1.4.74"
   },
   "run": {
-    "id": "27810812041",
+    "id": "27862631421",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810812041/job/82300484180",
-    "timestamp": "2026-06-19T07:23:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862631421/job/82461099555",
+    "timestamp": "2026-06-20T06:30:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-19T08:27:33.045794+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:54.820422+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "6.0.3"
   },
   "run": {
-    "id": "27810833895",
+    "id": "27862642305",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810833895/job/82300556073",
-    "timestamp": "2026-06-19T07:53:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862642305/job/82461132054",
+    "timestamp": "2026-06-20T07:00:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Check Swift binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Swift version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Swift help output",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 20,
         "current_version": "6.0.3",
         "latest_version": "6.2.4",
         "next_installed_version": "6.2.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:27:33.133327+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:55.114677+00:00",
     "publish_state": "published"
   }
 }

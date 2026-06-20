@@ -5,10 +5,10 @@
     "version": "6.4.2"
   },
   "run": {
-    "id": "27810830468",
+    "id": "27862640668",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810830468/job/82300545315",
-    "timestamp": "2026-06-19T07:56:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862640668/job/82461127422",
+    "timestamp": "2026-06-20T06:45:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check qmake6 binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-19T08:27:33.098427+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:55.019484+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "27810808924",
+    "id": "27862629124",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810808924/job/82300473909",
-    "timestamp": "2026-06-19T07:16:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862629124/job/82461094550",
+    "timestamp": "2026-06-20T06:26:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check Hive help commands",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Beeline help and architecture",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 27,
+        "duration_seconds": 30,
         "current_version": "4.0.0",
         "latest_version": "4.2.0",
         "next_installed_version": "4.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:27:33.025167+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:54.762737+00:00",
     "publish_state": "published"
   }
 }

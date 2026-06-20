@@ -5,10 +5,10 @@
     "version": "0.4.0"
   },
   "run": {
-    "id": "27810812041",
+    "id": "27862631421",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27810812041/job/82300484795",
-    "timestamp": "2026-06-19T07:23:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862631421/job/82461099819",
+    "timestamp": "2026-06-20T06:37:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 791,
+    "duration_seconds": 815,
     "details": [
       {
         "name": "Test 1 - Check build artifacts exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional image validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 790,
+        "duration_seconds": 815,
         "current_version": "0.4.0",
         "latest_version": "0.4.1",
         "next_installed_version": "0.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:27:33.132628+00:00",
+    "production_refreshed_at": "2026-06-20T07:23:55.113966+00:00",
     "publish_state": "published"
   }
 }
