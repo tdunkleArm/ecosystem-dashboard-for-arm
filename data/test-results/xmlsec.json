@@ -5,10 +5,10 @@
     "version": "1.2.39"
   },
   "run": {
-    "id": "27862645678",
+    "id": "27896379866",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862645678/job/82461142566",
-    "timestamp": "2026-06-20T07:04:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896379866/job/82548579275",
+    "timestamp": "2026-06-21T07:32:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check xmlsec1 binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-20T07:23:55.209662+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.390232+00:00",
     "publish_state": "published"
   }
 }

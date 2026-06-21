@@ -5,10 +5,10 @@
     "version": "23"
   },
   "run": {
-    "id": "27862619176",
+    "id": "27896356185",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862619176/job/82461066471",
-    "timestamp": "2026-06-20T06:16:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896356185/job/82548510663",
+    "timestamp": "2026-06-21T06:48:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 36,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check Image Architecture",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Install Package (yum/dnf)",
         "status": "passed",
-        "duration_seconds": 22
+        "duration_seconds": 13
       },
       {
         "name": "Test 4 - Check Kernel/Arch inside container",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Simple Command Execution",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 14,
         "current_version": "23",
         "latest_version": "23.4",
         "next_installed_version": "23.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-20T07:23:54.537056+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.213423+00:00",
     "publish_state": "published"
   }
 }

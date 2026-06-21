@@ -5,10 +5,10 @@
     "version": "2.35.1"
   },
   "run": {
-    "id": "27862648941",
+    "id": "27896383044",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862648941/job/82461152050",
-    "timestamp": "2026-06-20T07:03:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896383044/job/82548589445",
+    "timestamp": "2026-06-21T07:41:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check docker-compose binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 3,
         "current_version": "2.35.1",
         "latest_version": "2.36.0",
         "next_installed_version": "2.36.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-20T07:23:54.664543+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.242230+00:00",
     "publish_state": "published"
   }
 }

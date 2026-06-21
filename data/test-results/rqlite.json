@@ -5,10 +5,10 @@
     "version": "8.36.17"
   },
   "run": {
-    "id": "27862620819",
+    "id": "27896357746",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862620819/job/82461071186",
-    "timestamp": "2026-06-20T06:16:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896357746/job/82548514951",
+    "timestamp": "2026-06-21T06:49:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check rqlite binaries exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 4,
         "current_version": "8.36.17",
         "latest_version": "8.36.18",
         "next_installed_version": "8.36.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-20T07:23:55.066738+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.339830+00:00",
     "publish_state": "published"
   }
 }

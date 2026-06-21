@@ -5,10 +5,10 @@
     "version": "2.6.27"
   },
   "run": {
-    "id": "27862632998",
+    "id": "27896368599",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862632998/job/82461104363",
-    "timestamp": "2026-06-20T06:37:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896368599/job/82548545025",
+    "timestamp": "2026-06-21T07:03:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 30,
     "details": [
       {
         "name": "Test 1 - Check source tree exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Build baseline disconf-core in Temurin 8 container",
         "status": "passed",
-        "duration_seconds": 24
+        "duration_seconds": 20
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-20T07:23:54.663286+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.241013+00:00",
     "publish_state": "published"
   }
 }

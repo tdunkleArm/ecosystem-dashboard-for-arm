@@ -5,10 +5,10 @@
     "version": "1912.200626-2build3"
   },
   "run": {
-    "id": "27862648941",
+    "id": "27896383044",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27862648941/job/82461152033",
-    "timestamp": "2026-06-20T07:04:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896383044/job/82548589468",
+    "timestamp": "2026-06-21T07:34:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check icoFoam binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run Help Command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-20T07:23:54.965646+00:00",
+    "production_refreshed_at": "2026-06-21T07:52:02.316565+00:00",
     "publish_state": "published"
   }
 }
