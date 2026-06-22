@@ -5,10 +5,10 @@
     "version": "v1.6.2"
   },
   "run": {
-    "id": "27896364106",
+    "id": "27936134050",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896364106/job/82548532114",
-    "timestamp": "2026-06-21T06:57:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936134050/job/82658146338",
+    "timestamp": "2026-06-22T07:26:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Binary Existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 4,
         "current_version": "plugins v1.6.2 + cnitool v1.2.3",
         "latest_version": "plugins v1.7.1 + cnitool v1.3.0",
         "next_installed_version": "plugins v1.7.1 + cnitool v1.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:52:02.231770+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.046299+00:00",
     "publish_state": "published"
   }
 }

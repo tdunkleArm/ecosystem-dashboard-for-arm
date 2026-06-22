@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "27896362534",
+    "id": "27936130151",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896362534/job/82548527723",
-    "timestamp": "2026-06-21T06:58:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936130151/job/82658137022",
+    "timestamp": "2026-06-22T07:37:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check RocksDBjni jar and Arm64 native library",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check RocksDBjni version output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check Maven dependency resolution",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:52:02.339336+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.189703+00:00",
     "publish_state": "published"
   }
 }

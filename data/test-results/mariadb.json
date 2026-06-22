@@ -5,10 +5,10 @@
     "version": "15.1"
   },
   "run": {
-    "id": "27896371290",
+    "id": "27936150791",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896371290/job/82548554247",
-    "timestamp": "2026-06-21T07:13:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936150791/job/82658202917",
+    "timestamp": "2026-06-22T07:53:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check service status",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Connect and run query",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-21T07:52:02.296738+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.136923+00:00",
     "publish_state": "published"
   }
 }

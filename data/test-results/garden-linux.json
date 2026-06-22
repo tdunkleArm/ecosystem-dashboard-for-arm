@@ -5,10 +5,10 @@
     "version": "934.0"
   },
   "run": {
-    "id": "27896375161",
+    "id": "27936161063",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896375161/job/82548565973",
-    "timestamp": "2026-06-21T07:24:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936161063/job/82658236698",
+    "timestamp": "2026-06-22T08:06:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "934.0",
-        "latest_version": "2150.4.0",
-        "next_installed_version": "2150.4.0",
+        "latest_version": "2150.5.0",
+        "next_installed_version": "2150.5.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.4.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.5.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-21T07:52:02.258562+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.077556+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.0.8"
   },
   "run": {
-    "id": "27896375161",
+    "id": "27936161063",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896375161/job/82548565981",
-    "timestamp": "2026-06-21T07:22:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936161063/job/82658236799",
+    "timestamp": "2026-06-22T08:07:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 70,
+    "duration_seconds": 87,
     "details": [
       {
         "name": "Test 1 - Check FE image contents",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check BE image contents",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check FE and BE startup scripts parse",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 68,
+        "duration_seconds": 84,
         "current_version": "3.0.8",
         "latest_version": "3.1.0",
         "next_installed_version": "3.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:52:02.214319+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.010541+00:00",
     "publish_state": "published"
   }
 }

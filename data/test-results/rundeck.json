@@ -5,10 +5,10 @@
     "version": "5.11.0"
   },
   "run": {
-    "id": "27896378212",
+    "id": "27936167845",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896378212/job/82548574860",
-    "timestamp": "2026-06-21T07:24:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936167845/job/82658258714",
+    "timestamp": "2026-06-22T08:29:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check Rundeck launcher exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check launcher help output",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 4,
         "current_version": "5.11.0",
         "latest_version": "5.11.1",
         "next_installed_version": "5.11.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:52:02.340367+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.190722+00:00",
     "publish_state": "published"
   }
 }

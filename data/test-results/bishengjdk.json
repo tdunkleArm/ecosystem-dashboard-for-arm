@@ -5,10 +5,10 @@
     "version": "21.0.6"
   },
   "run": {
-    "id": "27896373815",
+    "id": "27936157869",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27896373815/job/82548561751",
-    "timestamp": "2026-06-21T07:18:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936157869/job/82658224473",
+    "timestamp": "2026-06-22T08:16:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check Java Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile and Run HelloWorld",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 24,
         "current_version": "21.0.6",
         "latest_version": "21.0.7",
         "next_installed_version": "21.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:52:02.220553+00:00",
+    "production_refreshed_at": "2026-06-22T10:25:25.020557+00:00",
     "publish_state": "published"
   }
 }
