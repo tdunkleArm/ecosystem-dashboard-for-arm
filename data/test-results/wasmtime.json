@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "27936171207",
+    "id": "28005826429",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936171207/job/82658268373",
-    "timestamp": "2026-06-22T08:19:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005826429/job/82887490278",
+    "timestamp": "2026-06-23T06:59:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check wasmtime binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check wasmtime version command",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-22T10:25:25.232235+00:00",
+    "production_refreshed_at": "2026-06-23T07:54:44.099032+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "27936157869",
+    "id": "28005812691",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936157869/job/82658224419",
-    "timestamp": "2026-06-22T08:00:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005812691/job/82887449833",
+    "timestamp": "2026-06-23T06:41:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check Filebeat binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Export template and verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-22T10:25:25.072159+00:00",
+    "production_refreshed_at": "2026-06-23T07:54:43.929653+00:00",
     "publish_state": "published"
   }
 }

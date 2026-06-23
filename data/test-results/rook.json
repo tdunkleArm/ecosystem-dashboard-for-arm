@@ -5,10 +5,10 @@
     "version": "1.15.8"
   },
   "run": {
-    "id": "27936157869",
+    "id": "28005812691",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936157869/job/82658224476",
-    "timestamp": "2026-06-22T08:08:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005812691/job/82887450141",
+    "timestamp": "2026-06-23T06:48:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Check Rook binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 17,
         "current_version": "1.15.8",
         "latest_version": "1.15.9",
         "next_installed_version": "1.15.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-22T10:25:25.190064+00:00",
+    "production_refreshed_at": "2026-06-23T07:54:44.048182+00:00",
     "publish_state": "published"
   }
 }

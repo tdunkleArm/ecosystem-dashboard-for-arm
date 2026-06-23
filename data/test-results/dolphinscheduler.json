@@ -5,10 +5,10 @@
     "version": "3.2.1"
   },
   "run": {
-    "id": "27936153913",
+    "id": "28005809087",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/27936153913/job/82658216375",
-    "timestamp": "2026-06-22T07:58:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005809087/job/82887440429",
+    "timestamp": "2026-06-23T06:41:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2498,
+    "duration_seconds": 1857,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation (distribution layout)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2498,
+        "duration_seconds": 1858,
         "current_version": "3.2.1",
         "latest_version": "3.2.2",
         "next_installed_version": "3.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-22T10:25:25.060001+00:00",
+    "production_refreshed_at": "2026-06-23T07:54:43.907774+00:00",
     "publish_state": "published"
   }
 }
