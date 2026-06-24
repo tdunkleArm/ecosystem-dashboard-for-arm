@@ -5,10 +5,10 @@
     "version": "3.9.1"
   },
   "run": {
-    "id": "28005829486",
+    "id": "28078698785",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005829486/job/82887500639",
-    "timestamp": "2026-06-23T07:10:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078698785/job/83128432233",
+    "timestamp": "2026-06-24T06:50:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Gerrit WAR exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Gerrit version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check site initialization created gerrit.sh",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-23T07:54:43.938964+00:00",
+    "production_refreshed_at": "2026-06-24T08:30:49.900918+00:00",
     "publish_state": "published"
   }
 }

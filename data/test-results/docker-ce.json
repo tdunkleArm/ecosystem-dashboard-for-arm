@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "28005812691",
+    "id": "28078682896",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005812691/job/82887449813",
-    "timestamp": "2026-06-23T06:55:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078682896/job/83128381497",
+    "timestamp": "2026-06-24T06:50:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-23T07:54:43.907175+00:00",
+    "production_refreshed_at": "2026-06-24T08:30:49.882498+00:00",
     "publish_state": "published"
   }
 }

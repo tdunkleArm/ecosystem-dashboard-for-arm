@@ -5,10 +5,10 @@
     "version": "15.1-1ubuntu1~24.04.1)"
   },
   "run": {
-    "id": "28005809087",
+    "id": "28078679527",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005809087/job/82887440273",
-    "timestamp": "2026-06-23T06:36:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078679527/job/83128371180",
+    "timestamp": "2026-06-24T06:31:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check gdb binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check gdb version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check gdb help output",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Debug simple C program (batch mode)",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check gdbserver binary exists (optional)",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-23T07:54:43.937172+00:00",
+    "production_refreshed_at": "2026-06-24T08:30:49.899382+00:00",
     "publish_state": "published"
   }
 }

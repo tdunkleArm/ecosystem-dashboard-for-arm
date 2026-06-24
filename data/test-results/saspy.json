@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Saspy",
-    "version": "5.107.1"
+    "version": "5.108.0"
   },
   "run": {
-    "id": "28005812691",
+    "id": "28078682896",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28005812691/job/82887449767",
-    "timestamp": "2026-06-23T06:40:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078682896/job/83128381653",
+    "timestamp": "2026-06-24T06:46:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check module import",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check API surface",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-23T07:54:44.050023+00:00",
+    "production_refreshed_at": "2026-06-24T08:30:49.990452+00:00",
     "publish_state": "published"
   }
 }
