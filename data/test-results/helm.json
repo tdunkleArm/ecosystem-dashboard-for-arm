@@ -5,10 +5,10 @@
     "version": "v3.17.1"
   },
   "run": {
-    "id": "28078679527",
+    "id": "28150282288",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078679527/job/83128371444",
-    "timestamp": "2026-06-24T06:32:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150282288/job/83366187650",
+    "timestamp": "2026-06-25T06:45:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check helm binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v3.17.1",
         "latest_version": "3.17.2",
         "next_installed_version": "3.17.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:30:49.913326+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.142387+00:00",
     "publish_state": "published"
   }
 }

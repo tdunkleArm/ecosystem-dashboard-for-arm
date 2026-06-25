@@ -5,10 +5,10 @@
     "version": "2.7.1"
   },
   "run": {
-    "id": "28078644526",
+    "id": "28150248293",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078644526/job/83128264750",
-    "timestamp": "2026-06-24T06:13:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150248293/job/83366083092",
+    "timestamp": "2026-06-25T06:02:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Akka JAR exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Java version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Verify JAR content (basic check)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Simple Classpath Check",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:30:49.852211+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.074344+00:00",
     "publish_state": "published"
   }
 }

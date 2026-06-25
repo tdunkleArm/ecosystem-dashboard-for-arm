@@ -5,10 +5,10 @@
     "version": "1.55.1"
   },
   "run": {
-    "id": "28078679527",
+    "id": "28150282288",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078679527/job/83128371731",
-    "timestamp": "2026-06-24T06:47:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150282288/job/83366187309",
+    "timestamp": "2026-06-25T06:31:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Verify generated Java files",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.55.1",
         "latest_version": "1.55.3",
         "next_installed_version": "1.55.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:30:49.897663+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.131081+00:00",
     "publish_state": "published"
   }
 }

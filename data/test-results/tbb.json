@@ -5,10 +5,10 @@
     "version": "2021.11.0"
   },
   "run": {
-    "id": "28078647804",
+    "id": "28150251574",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078647804/job/83128274247",
-    "timestamp": "2026-06-24T06:02:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150251574/job/83366091242",
+    "timestamp": "2026-06-25T06:05:04Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check TBB library exists",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Test 2 - Check TBB header files",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify Architecture Linkage",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-24T08:30:50.003309+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.262572+00:00",
     "publish_state": "published"
   }
 }

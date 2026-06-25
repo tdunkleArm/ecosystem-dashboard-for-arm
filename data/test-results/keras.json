@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Keras",
-    "version": "3.14.1"
+    "version": "3.15.0"
   },
   "run": {
-    "id": "28078647804",
+    "id": "28150251574",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078647804/job/83128274299",
-    "timestamp": "2026-06-24T06:08:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150251574/job/83366091640",
+    "timestamp": "2026-06-25T06:23:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check backend",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Create simple model",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Save and load model",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-24T08:30:49.930626+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.152219+00:00",
     "publish_state": "published"
   }
 }

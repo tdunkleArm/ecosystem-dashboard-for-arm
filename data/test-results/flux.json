@@ -5,10 +5,10 @@
     "version": "v2.5.0"
   },
   "run": {
-    "id": "28078657372",
+    "id": "28150260537",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078657372/job/83128303870",
-    "timestamp": "2026-06-24T06:10:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150260537/job/83366119129",
+    "timestamp": "2026-06-25T06:22:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check flux binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:30:49.895326+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.128771+00:00",
     "publish_state": "published"
   }
 }

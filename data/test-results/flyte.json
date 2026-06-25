@@ -5,10 +5,10 @@
     "version": "0.8.19"
   },
   "run": {
-    "id": "28078676443",
+    "id": "28150279084",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078676443/job/83128361504",
-    "timestamp": "2026-06-24T06:29:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150279084/job/83366177247",
+    "timestamp": "2026-06-25T06:36:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "0.8.19",
-        "latest_version": "2.0.25",
-        "next_installed_version": "2.0.25",
+        "latest_version": "2.0.26",
+        "next_installed_version": "2.0.26",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.25 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.26 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-24T08:30:49.895515+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.128974+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.9.0"
   },
   "run": {
-    "id": "28078686164",
+    "id": "28150288836",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28078686164/job/83128390943",
-    "timestamp": "2026-06-24T06:42:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150288836/job/83366207275",
+    "timestamp": "2026-06-25T06:46:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check mvn binary",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Create simple project (archetype)",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Test 5 - Build project",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 8
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:30:49.947230+00:00",
+    "production_refreshed_at": "2026-06-25T08:02:07.185002+00:00",
     "publish_state": "published"
   }
 }
