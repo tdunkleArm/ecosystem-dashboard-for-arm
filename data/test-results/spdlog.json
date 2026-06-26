@@ -5,10 +5,10 @@
     "version": "1.12.0"
   },
   "run": {
-    "id": "28150305400",
+    "id": "28220522283",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150305400/job/83366258435",
-    "timestamp": "2026-06-25T07:05:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220522283/job/83600528915",
+    "timestamp": "2026-06-26T06:55:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check header files exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Compile C++ example",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 5
       },
       {
         "name": "Test 3 - Run compiled example",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-25T08:02:07.255595+00:00",
+    "production_refreshed_at": "2026-06-26T07:12:48.559823+00:00",
     "publish_state": "published"
   }
 }

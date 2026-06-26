@@ -5,10 +5,10 @@
     "version": "3.1.3"
   },
   "run": {
-    "id": "28150272796",
+    "id": "28220494371",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150272796/job/83366156472",
-    "timestamp": "2026-06-25T06:20:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220494371/job/83600441091",
+    "timestamp": "2026-06-26T06:40:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check pip installation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Import Flask in Python",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Functional validation with test client",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Request context and architecture verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-25T08:02:07.127524+00:00",
+    "production_refreshed_at": "2026-06-26T07:12:48.411378+00:00",
     "publish_state": "published"
   }
 }

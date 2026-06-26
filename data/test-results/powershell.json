@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "28150251574",
+    "id": "28220472836",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150251574/job/83366091529",
-    "timestamp": "2026-06-25T06:07:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220472836/job/83600378563",
+    "timestamp": "2026-06-26T06:09:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check pwsh binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "7.5.0",
         "latest_version": "7.5.1",
         "next_installed_version": "7.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:02:07.237093+00:00",
+    "production_refreshed_at": "2026-06-26T07:12:48.529717+00:00",
     "publish_state": "published"
   }
 }

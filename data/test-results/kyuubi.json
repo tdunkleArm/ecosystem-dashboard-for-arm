@@ -5,10 +5,10 @@
     "version": "1.10.3"
   },
   "run": {
-    "id": "28150282288",
+    "id": "28220503080",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150282288/job/83366187601",
-    "timestamp": "2026-06-25T06:48:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220503080/job/83600469090",
+    "timestamp": "2026-06-26T06:35:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Kyuubi binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 9,
         "current_version": "1.10.3",
         "latest_version": "1.11.0",
         "next_installed_version": "1.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:02:07.172388+00:00",
+    "production_refreshed_at": "2026-06-26T07:12:48.470804+00:00",
     "publish_state": "published"
   }
 }

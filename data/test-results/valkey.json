@@ -5,10 +5,10 @@
     "version": "8.0.2"
   },
   "run": {
-    "id": "28150275850",
+    "id": "28220497211",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28150275850/job/83366165699",
-    "timestamp": "2026-06-25T06:29:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220497211/job/83600449523",
+    "timestamp": "2026-06-26T06:31:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 40,
+        "duration_seconds": 39,
         "current_version": "8.0.2",
         "latest_version": "8.0.3",
         "next_installed_version": "8.0.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:02:07.283456+00:00",
+    "production_refreshed_at": "2026-06-26T07:12:48.574779+00:00",
     "publish_state": "published"
   }
 }
