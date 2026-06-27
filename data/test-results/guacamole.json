@@ -5,10 +5,10 @@
     "version": "(guacd)"
   },
   "run": {
-    "id": "28220508751",
+    "id": "28280376822",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220508751/job/83600485669",
-    "timestamp": "2026-06-26T06:51:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280376822/job/83794815562",
+    "timestamp": "2026-06-27T06:24:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Start guacd service (dry run)",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Check library linking",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-26T07:12:48.423265+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.061707+00:00",
     "publish_state": "published"
   }
 }

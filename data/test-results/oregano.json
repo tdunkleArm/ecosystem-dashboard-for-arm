@@ -5,10 +5,10 @@
     "version": "0.70-1.1ubuntu1"
   },
   "run": {
-    "id": "28220524692",
+    "id": "28280386267",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220524692/job/83600537786",
-    "timestamp": "2026-06-26T06:59:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280386267/job/83794844483",
+    "timestamp": "2026-06-27T06:37:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check published package metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check package-specific docs and manifests",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-26T07:12:48.523612+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.147007+00:00",
     "publish_state": "published"
   }
 }

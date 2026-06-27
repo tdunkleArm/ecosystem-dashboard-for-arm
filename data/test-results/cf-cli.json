@@ -5,10 +5,10 @@
     "version": "8.10.0"
   },
   "run": {
-    "id": "28220485313",
+    "id": "28280363586",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220485313/job/83600414179",
-    "timestamp": "2026-06-26T06:17:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280363586/job/83794776242",
+    "timestamp": "2026-06-27T05:58:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check cf binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check cf-cli help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "8.10.0",
         "latest_version": "8.11.0",
         "next_installed_version": "8.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:12:48.385189+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:29.994033+00:00",
     "publish_state": "published"
   }
 }

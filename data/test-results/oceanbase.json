@@ -5,10 +5,10 @@
     "version": "4.2.5.1"
   },
   "run": {
-    "id": "28220500083",
+    "id": "28280371481",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220500083/job/83600459217",
-    "timestamp": "2026-06-26T06:35:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280371481/job/83794799628",
+    "timestamp": "2026-06-27T06:18:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check observer binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact baseline version",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-26T07:12:48.514981+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.123757+00:00",
     "publish_state": "published"
   }
 }

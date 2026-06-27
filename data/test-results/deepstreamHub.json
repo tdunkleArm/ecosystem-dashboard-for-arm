@@ -5,10 +5,10 @@
     "version": "8.0.0"
   },
   "run": {
-    "id": "28220519672",
+    "id": "28280383218",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220519672/job/83600521290",
-    "timestamp": "2026-06-26T06:53:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280383218/job/83794835195",
+    "timestamp": "2026-06-27T06:36:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check deepstream binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "8.0.0",
         "latest_version": "9.0.0",
         "next_installed_version": "9.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:12:48.397689+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.006923+00:00",
     "publish_state": "published"
   }
 }

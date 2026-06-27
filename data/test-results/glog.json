@@ -5,10 +5,10 @@
     "version": "0.6.0"
   },
   "run": {
-    "id": "28220500083",
+    "id": "28280371481",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220500083/job/83600459440",
-    "timestamp": "2026-06-26T06:31:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280371481/job/83794799849",
+    "timestamp": "2026-06-27T06:20:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check pkg-config for libglog",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile simple C++ program using Glog",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-26T07:12:48.419878+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.058288+00:00",
     "publish_state": "published"
   }
 }

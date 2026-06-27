@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "28220485313",
+    "id": "28280363586",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220485313/job/83600414264",
-    "timestamp": "2026-06-26T06:23:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280363586/job/83794776263",
+    "timestamp": "2026-06-27T06:00:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 39,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Component Existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 2 - Check Carrier Version Output",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check Carrier Help Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Embedded Component Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 39,
+        "duration_seconds": 17,
         "current_version": "9.1.0",
         "latest_version": "9.4.2",
         "next_installed_version": "9.4.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:12:48.404677+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.014073+00:00",
     "publish_state": "published"
   }
 }

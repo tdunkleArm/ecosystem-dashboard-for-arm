@@ -5,10 +5,10 @@
     "version": "0.3.1"
   },
   "run": {
-    "id": "28220522283",
+    "id": "28280384757",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220522283/job/83600529270",
-    "timestamp": "2026-06-26T07:00:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280384757/job/83794839413",
+    "timestamp": "2026-06-27T06:37:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "0.3.1",
-        "latest_version": "0.8.0",
-        "next_installed_version": "0.8.0",
+        "latest_version": "0.8.1",
+        "next_installed_version": "0.8.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.3.1, and the next stable source tag 0.8.0 from llm-d/llm-d also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.3.1, and the next stable source tag 0.8.1 from llm-d/llm-d also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-26T07:12:48.478926+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.103739+00:00",
     "publish_state": "published"
   }
 }

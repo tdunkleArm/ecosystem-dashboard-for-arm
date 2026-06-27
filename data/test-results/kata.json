@@ -5,10 +5,10 @@
     "version": "3.15.0"
   },
   "run": {
-    "id": "28220514294",
+    "id": "28280380083",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28220514294/job/83600503932",
-    "timestamp": "2026-06-26T06:54:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280380083/job/83794825496",
+    "timestamp": "2026-06-27T06:37:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check kata-runtime binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 13,
         "current_version": "3.15.0",
         "latest_version": "3.16.0",
         "next_installed_version": "3.16.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:12:48.465746+00:00",
+    "production_refreshed_at": "2026-06-27T07:05:30.074908+00:00",
     "publish_state": "published"
   }
 }
