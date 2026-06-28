@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "28280374938",
+    "id": "28313489119",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280374938/job/83794809557",
-    "timestamp": "2026-06-27T06:25:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313489119/job/83882297274",
+    "timestamp": "2026-06-28T06:54:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Export template and verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:30.048801+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.833247+00:00",
     "publish_state": "published"
   }
 }

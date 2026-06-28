@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "28280368098",
+    "id": "28313483697",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280368098/job/83794791374",
-    "timestamp": "2026-06-27T06:12:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313483697/job/83882280324",
+    "timestamp": "2026-06-28T06:34:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check htop binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check htop help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 binary format",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation with tree view",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 8,
         "current_version": "3.4.0",
         "latest_version": "3.4.1",
         "next_installed_version": "3.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:30.066702+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.849726+00:00",
     "publish_state": "published"
   }
 }

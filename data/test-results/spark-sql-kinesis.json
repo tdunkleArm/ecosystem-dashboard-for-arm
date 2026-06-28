@@ -5,10 +5,10 @@
     "version": "1.2.3_spark-3.2"
   },
   "run": {
-    "id": "28280357685",
+    "id": "28313473356",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280357685/job/83794759555",
-    "timestamp": "2026-06-27T05:51:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313473356/job/83882252066",
+    "timestamp": "2026-06-28T06:20:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Verify Jar Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Analyze Dependencies",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 6
       },
       {
         "name": "Test 3 - Check for Kinesis classes",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-27T07:05:30.170562+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.935854+00:00",
     "publish_state": "published"
   }
 }

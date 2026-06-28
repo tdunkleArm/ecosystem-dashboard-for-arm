@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "28280381606",
+    "id": "28313495105",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280381606/job/83794830050",
-    "timestamp": "2026-06-27T06:33:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313495105/job/83882313670",
+    "timestamp": "2026-06-28T06:53:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,27 +20,27 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 445,
+    "duration_seconds": 115,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check configuration directory exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check library directory contains jars",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation (script syntax and runtime helpers)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 445,
+        "duration_seconds": 115,
         "current_version": "31.0.0",
         "latest_version": "31.0.1",
         "next_installed_version": "31.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:30.011325+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.824908+00:00",
     "publish_state": "published"
   }
 }

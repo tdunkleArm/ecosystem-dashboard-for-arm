@@ -5,10 +5,10 @@
     "version": "24.04"
   },
   "run": {
-    "id": "28280357685",
+    "id": "28313473356",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280357685/job/83794759598",
-    "timestamp": "2026-06-27T06:03:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313473356/job/83882252171",
+    "timestamp": "2026-06-28T06:16:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,22 +30,22 @@
       {
         "name": "Test 2 - Check OS release file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - Check architecture inside container",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Simple command execution",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:30.196654+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.948594+00:00",
     "publish_state": "published"
   }
 }

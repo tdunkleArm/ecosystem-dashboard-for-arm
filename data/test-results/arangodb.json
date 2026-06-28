@@ -5,10 +5,10 @@
     "version": "3.12.4"
   },
   "run": {
-    "id": "28280357685",
+    "id": "28313473356",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280357685/job/83794759370",
-    "timestamp": "2026-06-27T05:51:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313473356/job/83882251869",
+    "timestamp": "2026-06-28T06:17:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Database Binary",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 7
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 14,
+        "duration_seconds": 8,
         "current_version": "3.12.4",
         "latest_version": "3.12.5",
         "next_installed_version": "3.12.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:29.983507+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.798622+00:00",
     "publish_state": "published"
   }
 }

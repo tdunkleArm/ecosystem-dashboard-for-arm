@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "28280373164",
+    "id": "28313487792",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28280373164/job/83794804447",
-    "timestamp": "2026-06-27T06:16:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313487792/job/83882293074",
+    "timestamp": "2026-06-28T06:36:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 57,
+    "duration_seconds": 55,
     "details": [
       {
         "name": "Test 1 - Check hadoop binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check hadoop version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check hdfs version output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 56,
+        "duration_seconds": 53,
         "current_version": "3.3.6",
         "latest_version": "3.4.0",
         "next_installed_version": "3.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:05:30.062237+00:00",
+    "production_refreshed_at": "2026-06-28T07:14:31.845745+00:00",
     "publish_state": "published"
   }
 }
