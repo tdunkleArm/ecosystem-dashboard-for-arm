@@ -5,10 +5,10 @@
     "version": "2.8.3"
   },
   "run": {
-    "id": "28313490736",
+    "id": "28353591008",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313490736/job/83882301821",
-    "timestamp": "2026-06-28T06:42:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353591008/job/83991439292",
+    "timestamp": "2026-06-29T07:33:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Start baseline registry",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 10,
         "current_version": "2.8.3",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:14:31.821953+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.360048+00:00",
     "publish_state": "published"
   }
 }

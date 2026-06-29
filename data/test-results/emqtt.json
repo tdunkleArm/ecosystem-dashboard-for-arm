@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "EMQTT (Erlang Message Queue Telemetry Transport)",
-    "version": "unknown"
+    "version": "0.4.8"
   },
   "run": {
-    "id": "28313486447",
+    "id": "28353581911",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313486447/job/83882288641",
-    "timestamp": "2026-06-28T06:33:13Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353581911/job/83991408766",
+    "timestamp": "2026-06-29T07:30:05Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,46 @@
     "job_name": "test-emqtt / test-emqtt"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check emqtt_bench binary exists",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check emqtt_bench help output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check emqtt_bench subcommands (pub)",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check emqtt_bench subcommands (sub)",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Dry run connection (expect failure but correct error)",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "current_version": "unknown",
-        "latest_version": "unknown",
-        "next_installed_version": "not_installed",
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 50,
+        "current_version": "0.4.8",
+        "latest_version": "0.4.9",
+        "next_installed_version": "0.4.9",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Baseline emqtt-bench 0.4.8 passed Tests 1-5. Regression validation built and executed candidate 0.4.9 on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "emqtt",
     "dashboard_link": "/linux/opensource_packages/emqtt",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 11",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-28T07:14:31.829603+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-29T11:22:12.367844+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.0.35-33"
   },
   "run": {
-    "id": "28313475015",
+    "id": "28353557781",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313475015/job/83882255849",
-    "timestamp": "2026-06-28T06:13:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353557781/job/83991327351",
+    "timestamp": "2026-06-29T06:43:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Print-defaults functional smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:14:31.958730+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.548631+00:00",
     "publish_state": "published"
   }
 }

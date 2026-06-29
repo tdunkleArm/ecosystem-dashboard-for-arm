@@ -5,10 +5,10 @@
     "version": "1.6.2"
   },
   "run": {
-    "id": "28313473356",
+    "id": "28353554432",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313473356/job/83882252116",
-    "timestamp": "2026-06-28T06:28:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353554432/job/83991317088",
+    "timestamp": "2026-06-29T06:59:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 29,
     "details": [
       {
         "name": "Test 1 - Check Libunwind library exists",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 26
       },
       {
         "name": "Test 2 - Check Libunwind header files",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation (C Compilation Test)",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:14:31.866156+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.424479+00:00",
     "publish_state": "published"
   }
 }

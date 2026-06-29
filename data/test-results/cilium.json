@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Cilium",
-    "version": "0.18.0"
+    "version": "unknown"
   },
   "run": {
-    "id": "28313493620",
+    "id": "28353597137",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313493620/job/83882309330",
-    "timestamp": "2026-06-28T06:49:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353597137/job/83991458351",
+    "timestamp": "2026-06-29T07:46:30Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -17,46 +17,43 @@
     "job_name": "test-cilium / test-cilium"
   },
   "tests": {
-    "passed": 5,
+    "passed": 0,
     "failed": 1,
-    "skipped": 0,
+    "skipped": 5,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Binary",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Run Help",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Client Version",
-        "status": "passed",
-        "duration_seconds": 1
+        "status": "skipped",
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Completion",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
         "duration_seconds": 0,
-        "current_version": "0.18.0",
-        "latest_version": "0.18.1",
-        "next_installed_version": "install_failed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned Cilium CLI version 0.18.0 passed smoke tests in this run, but the regression candidate 0.18.1 could not be downloaded on Arm64."
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -68,12 +65,12 @@
     "core_failed": 0,
     "batch_title": "Batch 16",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
     "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-28T07:14:31.810367+00:00",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-06-29T11:22:12.348133+00:00",
     "publish_state": "published"
   }
 }

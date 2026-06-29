@@ -5,10 +5,10 @@
     "version": "2.9.0"
   },
   "run": {
-    "id": "28313473356",
+    "id": "28353554432",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313473356/job/83882252103",
-    "timestamp": "2026-06-28T06:13:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353554432/job/83991317042",
+    "timestamp": "2026-06-29T06:44:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check gardenctl help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check gardenctl provider-env help",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "2.9.0",
         "latest_version": "2.10.0",
         "next_installed_version": "2.10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:14:31.838488+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.377332+00:00",
     "publish_state": "published"
   }
 }

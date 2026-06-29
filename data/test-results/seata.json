@@ -5,10 +5,10 @@
     "version": "2.2.0"
   },
   "run": {
-    "id": "28313476559",
+    "id": "28353560924",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313476559/job/83882260657",
-    "timestamp": "2026-06-28T06:23:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353560924/job/83991340469",
+    "timestamp": "2026-06-29T06:52:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 931,
     "details": [
       {
         "name": "Test 1 - Check Seata Script",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Java dependency",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 931,
         "current_version": "2.2.0",
         "latest_version": "2.3.0",
         "next_installed_version": "2.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:14:31.917389+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.504963+00:00",
     "publish_state": "published"
   }
 }

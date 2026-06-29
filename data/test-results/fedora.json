@@ -5,10 +5,10 @@
     "version": "42"
   },
   "run": {
-    "id": "28313479476",
+    "id": "28353566993",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313479476/job/83882268690",
-    "timestamp": "2026-06-28T06:23:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353566993/job/83991359648",
+    "timestamp": "2026-06-29T07:01:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 24,
+    "duration_seconds": 26,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Install package with dnf",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 9
       },
       {
         "name": "Test 4 - Check architecture inside container",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Simple command execution",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:14:31.832508+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.371154+00:00",
     "publish_state": "published"
   }
 }

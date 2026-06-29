@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Canonical LXD",
-    "version": "6.8"
+    "version": "6.9"
   },
   "run": {
-    "id": "28313485035",
+    "id": "28353579015",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28313485035/job/83882284326",
-    "timestamp": "2026-06-28T06:42:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353579015/job/83991399414",
+    "timestamp": "2026-06-29T07:32:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binaries Exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Initialize (Dry Run)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:14:31.872054+00:00",
+    "production_refreshed_at": "2026-06-29T11:22:12.446690+00:00",
     "publish_state": "published"
   }
 }
