@@ -5,10 +5,10 @@
     "version": "v5.0-r2"
   },
   "run": {
-    "id": "28353606572",
+    "id": "28424043737",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353606572/job/83991488974",
-    "timestamp": "2026-06-29T08:05:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424043737/job/84222976654",
+    "timestamp": "2026-06-30T07:12:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 89,
+    "duration_seconds": 87,
     "details": [
       {
         "name": "Test 1 - Check srs binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check configuration file exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 89,
+        "duration_seconds": 86,
         "current_version": "v5.0-r2",
         "latest_version": "v5.0-r3",
         "next_installed_version": "v5.0-r3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:22:12.513146+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.781769+00:00",
     "publish_state": "published"
   }
 }

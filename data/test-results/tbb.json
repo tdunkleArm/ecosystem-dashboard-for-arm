@@ -5,10 +5,10 @@
     "version": "2021.11.0"
   },
   "run": {
-    "id": "28353554432",
+    "id": "28423991124",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353554432/job/83991317074",
-    "timestamp": "2026-06-29T06:51:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28423991124/job/84222806791",
+    "timestamp": "2026-06-30T06:12:43Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify Architecture Linkage",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-29T11:22:12.516920+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.785567+00:00",
     "publish_state": "published"
   }
 }

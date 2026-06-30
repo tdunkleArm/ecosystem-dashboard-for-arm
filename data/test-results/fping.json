@@ -5,10 +5,10 @@
     "version": "5.1"
   },
   "run": {
-    "id": "28353593945",
+    "id": "28424031341",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353593945/job/83991447898",
-    "timestamp": "2026-06-29T07:43:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424031341/job/84222935394",
+    "timestamp": "2026-06-30T06:53:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Ping localhost",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Ping multiple hosts (dry run/local)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:22:12.374697+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.679814+00:00",
     "publish_state": "published"
   }
 }

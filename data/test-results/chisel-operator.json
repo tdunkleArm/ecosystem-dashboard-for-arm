@@ -5,10 +5,10 @@
     "version": "0.5.0"
   },
   "run": {
-    "id": "28353560924",
+    "id": "28423997709",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353560924/job/83991340402",
-    "timestamp": "2026-06-29T06:47:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28423997709/job/84222826816",
+    "timestamp": "2026-06-30T06:11:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 315,
+    "duration_seconds": 337,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Dockerfile",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Manifests",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 315,
+        "duration_seconds": 337,
         "current_version": "0.5.0",
         "latest_version": "0.5.1",
         "next_installed_version": "0.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:22:12.347647+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.650028+00:00",
     "publish_state": "published"
   }
 }

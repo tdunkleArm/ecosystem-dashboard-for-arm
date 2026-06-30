@@ -5,10 +5,10 @@
     "version": "2.6.1"
   },
   "run": {
-    "id": "28353566993",
+    "id": "28424004020",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353566993/job/83991359659",
-    "timestamp": "2026-06-29T06:55:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424004020/job/84222846789",
+    "timestamp": "2026-06-30T06:21:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check xmlwf binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Parse invalid XML file",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:22:12.370322+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.674951+00:00",
     "publish_state": "published"
   }
 }

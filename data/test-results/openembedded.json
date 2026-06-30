@@ -5,10 +5,10 @@
     "version": "4.0.33"
   },
   "run": {
-    "id": "28353579015",
+    "id": "28424016215",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353579015/job/83991399120",
-    "timestamp": "2026-06-29T07:32:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424016215/job/84222885736",
+    "timestamp": "2026-06-30T06:43:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 42,
     "details": [
       {
         "name": "Test 1 - Check oe-init-build-env and sibling bitbake",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check BitBake version on baseline",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check layer registration on baseline",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 19
+        "duration_seconds": 18
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 23,
         "current_version": "4.0.33",
         "latest_version": "5.0.18",
         "next_installed_version": "5.0.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:22:12.466836+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.739931+00:00",
     "publish_state": "published"
   }
 }

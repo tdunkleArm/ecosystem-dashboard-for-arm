@@ -5,10 +5,10 @@
     "version": "0.20.0"
   },
   "run": {
-    "id": "28353613199",
+    "id": "28424049849",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353613199/job/83991510783",
-    "timestamp": "2026-06-29T08:03:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424049849/job/84222995508",
+    "timestamp": "2026-06-30T07:18:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 146,
+    "duration_seconds": 105,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 146,
+        "duration_seconds": 105,
         "current_version": "0.20.0",
         "latest_version": "1.2.1",
         "next_installed_version": "1.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-29T11:22:12.518321+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.787000+00:00",
     "publish_state": "published"
   }
 }

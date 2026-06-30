@@ -5,10 +5,10 @@
     "version": "1.2.861-nightly"
   },
   "run": {
-    "id": "28353569893",
+    "id": "28424007124",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28353569893/job/83991369805",
-    "timestamp": "2026-06-29T06:56:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424007124/job/84222856080",
+    "timestamp": "2026-06-30T06:35:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,37 +20,37 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 24,
+    "duration_seconds": 32,
     "details": [
       {
         "name": "Test 1 - Check databend-query binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check version metadata output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 22,
+        "duration_seconds": 32,
         "current_version": "1.2.861-nightly",
         "latest_version": "1.2.862-nightly",
         "next_installed_version": "1.2.862-nightly",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:22:12.357537+00:00",
+    "production_refreshed_at": "2026-06-30T09:55:18.661507+00:00",
     "publish_state": "published"
   }
 }
