@@ -5,10 +5,10 @@
     "version": "1.14.0-1"
   },
   "run": {
-    "id": "28424016215",
+    "id": "28497903342",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424016215/job/84222885872",
-    "timestamp": "2026-06-30T06:39:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497903342/job/84468068438",
+    "timestamp": "2026-07-01T06:50:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check gtest headers exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile simple test program",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 6
       },
       {
         "name": "Test 5 - Run test program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-30T09:55:18.688455+00:00",
+    "production_refreshed_at": "2026-07-01T08:43:13.281040+00:00",
     "publish_state": "published"
   }
 }

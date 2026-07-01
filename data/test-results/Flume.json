@@ -5,10 +5,10 @@
     "version": "1.10.0"
   },
   "run": {
-    "id": "28424004020",
+    "id": "28497891472",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424004020/job/84222846714",
-    "timestamp": "2026-06-30T06:17:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497891472/job/84468031358",
+    "timestamp": "2026-07-01T06:42:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 393,
+    "duration_seconds": 302,
     "details": [
       {
         "name": "Test 1 - Check flume-ng binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check flume version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check flume help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 392,
+        "duration_seconds": 302,
         "current_version": "1.10.0",
         "latest_version": "1.10.1",
         "next_installed_version": "1.10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T09:55:18.624036+00:00",
+    "production_refreshed_at": "2026-07-01T08:43:13.221194+00:00",
     "publish_state": "published"
   }
 }

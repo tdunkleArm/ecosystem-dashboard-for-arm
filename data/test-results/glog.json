@@ -5,10 +5,10 @@
     "version": "0.6.0"
   },
   "run": {
-    "id": "28424019532",
+    "id": "28497906245",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424019532/job/84222894593",
-    "timestamp": "2026-06-30T06:44:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497906245/job/84468079189",
+    "timestamp": "2026-07-01T06:54:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check pkg-config for libglog",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check glog headers exist",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-30T09:55:18.686893+00:00",
+    "production_refreshed_at": "2026-07-01T08:43:13.279647+00:00",
     "publish_state": "published"
   }
 }

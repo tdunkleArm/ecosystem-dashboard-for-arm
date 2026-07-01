@@ -5,10 +5,10 @@
     "version": "3.2.1"
   },
   "run": {
-    "id": "28424022349",
+    "id": "28497909512",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424022349/job/84222905702",
-    "timestamp": "2026-06-30T06:57:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497909512/job/84468088935",
+    "timestamp": "2026-07-01T07:06:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2699,
+    "duration_seconds": 1974,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check alert-server directory exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation (distribution layout)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2700,
+        "duration_seconds": 1975,
         "current_version": "3.2.1",
         "latest_version": "3.2.2",
         "next_installed_version": "3.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T09:55:18.665731+00:00",
+    "production_refreshed_at": "2026-07-01T08:43:13.259572+00:00",
     "publish_state": "published"
   }
 }

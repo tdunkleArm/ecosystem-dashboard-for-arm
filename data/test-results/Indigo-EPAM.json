@@ -5,10 +5,10 @@
     "version": "1.43.0"
   },
   "run": {
-    "id": "28424016215",
+    "id": "28497903342",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28424016215/job/84222885639",
-    "timestamp": "2026-06-30T06:39:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497903342/job/84468068402",
+    "timestamp": "2026-07-01T06:51:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Python Import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check pip metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Basic Usage Check",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation (Molecule Loading)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-30T09:55:18.624807+00:00",
+    "production_refreshed_at": "2026-07-01T08:43:13.221924+00:00",
     "publish_state": "published"
   }
 }
