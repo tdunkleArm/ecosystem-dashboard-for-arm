@@ -5,10 +5,10 @@
     "version": "4.1.1"
   },
   "run": {
-    "id": "28497909512",
+    "id": "28568723814",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497909512/job/84468089035",
-    "timestamp": "2026-07-01T07:02:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568723814/job/84701446734",
+    "timestamp": "2026-07-02T06:22:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check Smoke Project Files",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Dependency Version",
         "status": "passed",
-        "duration_seconds": 24
+        "duration_seconds": 17
       },
       {
         "name": "Test 3 - Check Build Configuration",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 5
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-01T08:43:13.362066+00:00",
+    "production_refreshed_at": "2026-07-02T07:07:50.212611+00:00",
     "publish_state": "published"
   }
 }

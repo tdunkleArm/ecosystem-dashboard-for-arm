@@ -5,10 +5,10 @@
     "version": "1.9.0"
   },
   "run": {
-    "id": "28497888583",
+    "id": "28568702763",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497888583/job/84468022341",
-    "timestamp": "2026-07-01T06:29:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568702763/job/84701382510",
+    "timestamp": "2026-07-02T06:10:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Scikit-learn module import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check pip show",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-01T08:43:13.355618+00:00",
+    "production_refreshed_at": "2026-07-02T07:07:50.206326+00:00",
     "publish_state": "published"
   }
 }

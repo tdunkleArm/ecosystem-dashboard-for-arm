@@ -5,10 +5,10 @@
     "version": "4.5.6"
   },
   "run": {
-    "id": "28497900540",
+    "id": "28568714798",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497900540/job/84468060319",
-    "timestamp": "2026-07-01T06:49:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568714798/job/84701419258",
+    "timestamp": "2026-07-02T06:21:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check setup script exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check setup help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "4.5.6",
         "latest_version": "4.5.7",
         "next_installed_version": "4.5.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-01T08:43:13.337952+00:00",
+    "production_refreshed_at": "2026-07-02T07:07:50.189415+00:00",
     "publish_state": "published"
   }
 }

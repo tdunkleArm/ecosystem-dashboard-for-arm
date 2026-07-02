@@ -5,10 +5,10 @@
     "version": "3.18.0+ds2-10build4"
   },
   "run": {
-    "id": "28497882803",
+    "id": "28568697016",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497882803/job/84468004006",
-    "timestamp": "2026-07-01T06:22:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568697016/job/84701364455",
+    "timestamp": "2026-07-02T05:56:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check library file exists",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 9
       },
       {
         "name": "Test 3 - Compile simple program",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-01T08:43:13.273656+00:00",
+    "production_refreshed_at": "2026-07-02T07:07:50.127646+00:00",
     "publish_state": "published"
   }
 }

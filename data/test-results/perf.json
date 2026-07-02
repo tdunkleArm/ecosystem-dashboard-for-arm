@@ -5,10 +5,10 @@
     "version": "6.2.16"
   },
   "run": {
-    "id": "28497891472",
+    "id": "28568705959",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28497891472/job/84468030696",
-    "timestamp": "2026-07-01T06:34:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568705959/job/84701392818",
+    "timestamp": "2026-07-02T06:07:27Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -17,40 +17,43 @@
     "job_name": "test-perf / test-perf"
   },
   "tests": {
-    "passed": 5,
+    "passed": 0,
     "failed": 1,
-    "skipped": 0,
+    "skipped": 5,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check perf binary exists",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 31
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -62,11 +65,12 @@
     "core_failed": 0,
     "batch_title": "Batch 6",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_applicability": "not_configured",
+    "regression_reason": "not_configured",
+    "regression_note": "Regression validation is not configured for this workflow.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-07-01T08:43:13.340084+00:00",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-07-02T07:07:50.191545+00:00",
     "publish_state": "published"
   }
 }
