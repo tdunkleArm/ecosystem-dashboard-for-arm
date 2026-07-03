@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "28568702763",
+    "id": "28641235458",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568702763/job/84701381895",
-    "timestamp": "2026-07-02T06:00:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641235458/job/84937686887",
+    "timestamp": "2026-07-03T05:52:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check VTK Python API help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-02T07:07:50.250096+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.368814+00:00",
     "publish_state": "published"
   }
 }

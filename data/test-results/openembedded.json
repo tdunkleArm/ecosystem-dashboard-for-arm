@@ -5,10 +5,10 @@
     "version": "4.0.33"
   },
   "run": {
-    "id": "28568717649",
+    "id": "28641247585",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568717649/job/84701428543",
-    "timestamp": "2026-07-02T06:28:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641247585/job/84937726721",
+    "timestamp": "2026-07-03T06:25:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check BitBake version on baseline",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check layer registration on baseline",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 25,
+        "duration_seconds": 24,
         "current_version": "4.0.33",
         "latest_version": "5.0.18",
         "next_installed_version": "5.0.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-02T07:07:50.182359+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.308456+00:00",
     "publish_state": "published"
   }
 }

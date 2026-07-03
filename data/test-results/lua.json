@@ -5,10 +5,10 @@
     "version": "5.4.6"
   },
   "run": {
-    "id": "28568723814",
+    "id": "28641252477",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568723814/job/84701446932",
-    "timestamp": "2026-07-02T06:41:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641252477/job/84937742123",
+    "timestamp": "2026-07-03T06:39:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check lua binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-02T07:07:50.162983+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.273176+00:00",
     "publish_state": "published"
   }
 }

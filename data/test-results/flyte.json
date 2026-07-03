@@ -5,10 +5,10 @@
     "version": "0.8.19"
   },
   "run": {
-    "id": "28568720788",
+    "id": "28641250122",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568720788/job/84701437468",
-    "timestamp": "2026-07-02T06:24:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641250122/job/84937734586",
+    "timestamp": "2026-07-03T06:12:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.8.19",
-        "latest_version": "2.0.26",
-        "next_installed_version": "2.0.26",
+        "latest_version": "2.0.27",
+        "next_installed_version": "2.0.27",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.26 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.27 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-02T07:07:50.126351+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.223899+00:00",
     "publish_state": "published"
   }
 }

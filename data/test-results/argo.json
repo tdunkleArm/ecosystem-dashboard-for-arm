@@ -5,10 +5,10 @@
     "version": "v3.6.4"
   },
   "run": {
-    "id": "28568694115",
+    "id": "28641228170",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568694115/job/84701355159",
-    "timestamp": "2026-07-02T05:59:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641228170/job/84937663690",
+    "timestamp": "2026-07-03T05:49:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Version Command",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Create Workflow File",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Lint Workflow",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Help Command",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-02T07:07:50.091328+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.178033+00:00",
     "publish_state": "published"
   }
 }

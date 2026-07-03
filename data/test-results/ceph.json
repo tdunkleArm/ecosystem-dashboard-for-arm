@@ -5,10 +5,10 @@
     "version": "19.2.3"
   },
   "run": {
-    "id": "28568690865",
+    "id": "28641225661",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568690865/job/84701345795",
-    "timestamp": "2026-07-02T05:53:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641225661/job/84937656052",
+    "timestamp": "2026-07-03T05:48:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check ceph client binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check cephadm binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-02T07:07:50.100223+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.187891+00:00",
     "publish_state": "published"
   }
 }

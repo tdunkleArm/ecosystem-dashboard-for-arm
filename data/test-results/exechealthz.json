@@ -5,10 +5,10 @@
     "version": "0.6.3"
   },
   "run": {
-    "id": "28568705959",
+    "id": "28641237703",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28568705959/job/84701392827",
-    "timestamp": "2026-07-02T06:10:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641237703/job/84937695676",
+    "timestamp": "2026-07-03T06:00:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional unhealthy probe",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "0.6.3",
         "latest_version": "0.7.0",
         "next_installed_version": "0.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-02T07:07:50.122575+00:00",
+    "production_refreshed_at": "2026-07-03T07:03:32.219884+00:00",
     "publish_state": "published"
   }
 }
