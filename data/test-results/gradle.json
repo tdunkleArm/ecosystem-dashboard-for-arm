@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "28641245044",
+    "id": "28696581638",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641245044/job/84937718286",
-    "timestamp": "2026-07-03T06:21:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696581638/job/85107109029",
+    "timestamp": "2026-07-04T06:08:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check Gradle binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Gradle version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Gradle help output",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Verify Arm64 Java runtime",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-03T07:03:32.232920+00:00",
+    "production_refreshed_at": "2026-07-04T06:53:25.924471+00:00",
     "publish_state": "published"
   }
 }

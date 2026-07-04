@@ -5,10 +5,10 @@
     "version": "5.5.0"
   },
   "run": {
-    "id": "28641237703",
+    "id": "28696576657",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641237703/job/84937695848",
-    "timestamp": "2026-07-03T06:04:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696576657/job/85107094240",
+    "timestamp": "2026-07-04T05:50:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Check start script exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact core JAR version",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Run CLI help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Start Hazelcast briefly",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-03T07:03:32.236647+00:00",
+    "production_refreshed_at": "2026-07-04T06:53:25.928379+00:00",
     "publish_state": "published"
   }
 }

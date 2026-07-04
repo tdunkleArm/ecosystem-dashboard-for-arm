@@ -5,10 +5,10 @@
     "version": "1.33.1-101-87a659de4"
   },
   "run": {
-    "id": "28641245044",
+    "id": "28696581638",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28641245044/job/84937718015",
-    "timestamp": "2026-07-03T06:09:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696581638/job/85107108682",
+    "timestamp": "2026-07-04T06:01:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 102,
+    "duration_seconds": 103,
     "details": [
       {
         "name": "Test 1 - Check recursive build artifacts",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Satellite distribution help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 101,
+        "duration_seconds": 102,
         "current_version": "1.33.1-101-87a659de4",
         "latest_version": "master-c77c18baa",
         "next_installed_version": "1.34.0-5-c77c18baa",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-03T07:03:32.270150+00:00",
+    "production_refreshed_at": "2026-07-04T06:53:25.950716+00:00",
     "publish_state": "published"
   }
 }
