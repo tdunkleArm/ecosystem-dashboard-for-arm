@@ -5,10 +5,10 @@
     "version": "v1.10.0"
   },
   "run": {
-    "id": "28696569950",
+    "id": "28731343688",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696569950/job/85107075426",
-    "timestamp": "2026-07-04T05:41:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731343688/job/85197400479",
+    "timestamp": "2026-07-05T06:07:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check vcctl binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "v1.10.0",
         "latest_version": "v1.10.1",
         "next_installed_version": "v1.10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-04T06:53:26.025480+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.875125+00:00",
     "publish_state": "published"
   }
 }

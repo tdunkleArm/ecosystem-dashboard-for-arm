@@ -5,10 +5,10 @@
     "version": "v1.10.0"
   },
   "run": {
-    "id": "28696583152",
+    "id": "28731354685",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696583152/job/85107113751",
-    "timestamp": "2026-07-04T06:04:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731354685/job/85197433056",
+    "timestamp": "2026-07-05T06:28:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Firecracker and jailer binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Firecracker version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check jailer help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Release bundle validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-04T06:53:25.913460+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.717454+00:00",
     "publish_state": "published"
   }
 }

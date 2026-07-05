@@ -5,11 +5,11 @@
     "version": "3.5.22"
   },
   "run": {
-    "id": "28696597186",
+    "id": "28731370048",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696597186/job/85107153506",
-    "timestamp": "2026-07-04T06:31:29Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731370048/job/85197479869",
+    "timestamp": "2026-07-05T06:43:22Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-etcd / test-etcd"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Etcd binaries exist",
@@ -45,12 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 3,
+        "current_version": "3.5.22",
+        "latest_version": "3.5.23",
+        "next_installed_version": "3.5.23",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned etcd version 3.5.22 passed smoke tests in this run. Regression validation downloaded the next stable Arm64 release 3.5.23, and the candidate etcd/etcdctl/etcdutl binaries all reported version 3.5.23 while a real single-node endpoint health plus put/get smoke test succeeded on Arm64."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "etcd",
     "dashboard_link": "/linux/opensource_packages/etcd",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 18",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-07-04T06:53:25.910862+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-07-05T07:04:58.714866+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "11.1"
   },
   "run": {
-    "id": "28696581638",
+    "id": "28731353334",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696581638/job/85107109097",
-    "timestamp": "2026-07-04T06:01:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731353334/job/85197428927",
+    "timestamp": "2026-07-05T06:20:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check gluster binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check gluster version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-04T06:53:25.922610+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.726608+00:00",
     "publish_state": "published"
   }
 }

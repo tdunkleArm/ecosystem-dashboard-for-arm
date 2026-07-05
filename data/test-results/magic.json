@@ -5,10 +5,10 @@
     "version": "7.5.233-2"
   },
   "run": {
-    "id": "28696598995",
+    "id": "28731372137",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696598995/job/85107158259",
-    "timestamp": "2026-07-04T06:30:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731372137/job/85197485884",
+    "timestamp": "2026-07-05T06:52:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "7.5.233-2",
-        "latest_version": "8.3.669",
-        "next_installed_version": "8.3.669",
+        "latest_version": "8.3.670",
+        "next_installed_version": "8.3.670",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 7.5.233-2, and the next stable source tag 8.3.669 from RTimothyEdwards/magic also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 7.5.233-2, and the next stable source tag 8.3.670 from RTimothyEdwards/magic also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-04T06:53:25.955857+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.771147+00:00",
     "publish_state": "published"
   }
 }

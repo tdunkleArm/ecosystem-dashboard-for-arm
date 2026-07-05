@@ -5,10 +5,10 @@
     "version": "5.6.3"
   },
   "run": {
-    "id": "28696589876",
+    "id": "28731362088",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696589876/job/85107133161",
-    "timestamp": "2026-07-04T06:16:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731362088/job/85197455537",
+    "timestamp": "2026-07-05T06:34:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Inspect Worker",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-04T06:53:25.887127+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.691433+00:00",
     "publish_state": "published"
   }
 }

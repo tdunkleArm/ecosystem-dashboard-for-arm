@@ -5,10 +5,10 @@
     "version": "24.10.5"
   },
   "run": {
-    "id": "28696569950",
+    "id": "28731343688",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696569950/job/85107075369",
-    "timestamp": "2026-07-04T05:46:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731343688/job/85197400431",
+    "timestamp": "2026-07-05T06:00:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check nextflow binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help command",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run Hello World pipeline",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-04T06:53:25.967992+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.812653+00:00",
     "publish_state": "published"
   }
 }

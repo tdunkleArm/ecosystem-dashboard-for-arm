@@ -5,10 +5,10 @@
     "version": "REL6_0_RC2"
   },
   "run": {
-    "id": "28696578304",
+    "id": "28731350656",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28696578304/job/85107099225",
-    "timestamp": "2026-07-04T05:52:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731350656/job/85197421888",
+    "timestamp": "2026-07-05T06:20:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check runBenchmark.sh script",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Java Dependency",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-07-04T06:53:25.881294+00:00",
+    "production_refreshed_at": "2026-07-05T07:04:58.685674+00:00",
     "publish_state": "published"
   }
 }
