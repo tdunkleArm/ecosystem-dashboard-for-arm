@@ -5,10 +5,10 @@
     "version": "2017-02-02T22:38:48Z"
   },
   "run": {
-    "id": "28731350656",
+    "id": "28772140750",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731350656/job/85197421906",
-    "timestamp": "2026-07-05T06:18:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772140750/job/85307878047",
+    "timestamp": "2026-07-06T06:48:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check mc binary exists and architecture",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check ls help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-05T07:04:58.775818+00:00",
+    "production_refreshed_at": "2026-07-06T07:31:36.109225+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.5.0"
   },
   "run": {
-    "id": "28731352007",
+    "id": "28772143835",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731352007/job/85197425412",
-    "timestamp": "2026-07-05T06:18:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772143835/job/85307887557",
+    "timestamp": "2026-07-06T06:41:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Maven and Java binaries",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dependency tree",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 12
       },
       {
         "name": "Test 4 - Verify architecture",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-05T07:04:58.695771+00:00",
+    "production_refreshed_at": "2026-07-06T07:31:36.044153+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.9.7-1"
   },
   "run": {
-    "id": "28731372137",
+    "id": "28772181067",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731372137/job/85197485911",
-    "timestamp": "2026-07-05T06:46:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772181067/job/85308000234",
+    "timestamp": "2026-07-06T07:13:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.9.7-1",
         "latest_version": "13_0",
         "next_installed_version": "13_0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-05T07:04:58.750466+00:00",
+    "production_refreshed_at": "2026-07-06T07:31:36.085014+00:00",
     "publish_state": "published"
   }
 }

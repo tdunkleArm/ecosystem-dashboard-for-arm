@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "28731347882",
+    "id": "28772134137",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731347882/job/85197413134",
-    "timestamp": "2026-07-05T06:15:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772134137/job/85307858398",
+    "timestamp": "2026-07-06T06:33:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Check architecture inside container",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Simple command execution",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 11,
         "current_version": "11",
         "latest_version": "12.13",
         "next_installed_version": "12",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-05T07:04:58.703957+00:00",
+    "production_refreshed_at": "2026-07-06T07:31:36.052054+00:00",
     "publish_state": "published"
   }
 }

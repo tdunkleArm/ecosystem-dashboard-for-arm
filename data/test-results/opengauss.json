@@ -5,10 +5,10 @@
     "version": "7.0.0-RC2.B014"
   },
   "run": {
-    "id": "28731352007",
+    "id": "28772143835",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28731352007/job/85197425334",
-    "timestamp": "2026-07-05T06:12:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772143835/job/85307887663",
+    "timestamp": "2026-07-06T06:40:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check baseline client tooling",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check SQL version query",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check gsql help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-07-05T07:04:58.820536+00:00",
+    "production_refreshed_at": "2026-07-06T07:31:36.123678+00:00",
     "publish_state": "published"
   }
 }
