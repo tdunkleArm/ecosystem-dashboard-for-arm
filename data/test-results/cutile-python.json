@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "run": {
-    "id": "28772147128",
+    "id": "28919383914",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772147128/job/85307897284",
-    "timestamp": "2026-07-06T06:51:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919383914/job/85793021960",
+    "timestamp": "2026-07-08T05:37:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 0,
         "current_version": "1.0.0",
-        "latest_version": "1.4.0",
-        "next_installed_version": "1.4.0",
+        "latest_version": "1.5.0",
+        "next_installed_version": "1.5.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable PyPI release with Arm64 wheel validated",
-        "comparison": "Tests 1-5 validated the current CuTile Python release 1.0.0 using published PyPI/docs evidence on Arm64. The newer stable PyPI release 1.4.0 also publishes manylinux2014_aarch64 wheels and passed the same bounded artifact-evidence validation."
+        "comparison": "Tests 1-5 validated the current CuTile Python release 1.0.0 using published PyPI/docs evidence on Arm64. The newer stable PyPI release 1.5.0 also publishes manylinux2014_aarch64 wheels and passed the same bounded artifact-evidence validation."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-06T07:31:36.049506+00:00",
+    "production_refreshed_at": "2026-07-08T06:25:39.167179+00:00",
     "publish_state": "published"
   }
 }

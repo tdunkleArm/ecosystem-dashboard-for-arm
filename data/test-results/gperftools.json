@@ -5,10 +5,10 @@
     "version": "2.15-3build1"
   },
   "run": {
-    "id": "28772170367",
+    "id": "28919403329",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772170367/job/85307970161",
-    "timestamp": "2026-07-06T07:16:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919403329/job/85793086416",
+    "timestamp": "2026-07-08T06:01:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check pprof version/help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check tcmalloc headers exist",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-06T07:31:36.075529+00:00",
+    "production_refreshed_at": "2026-07-08T06:25:39.209775+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.15.3"
   },
   "run": {
-    "id": "28772177317",
+    "id": "28919408777",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772177317/job/85307989159",
-    "timestamp": "2026-07-06T07:08:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919408777/job/85793104894",
+    "timestamp": "2026-07-08T06:12:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check smc++ command exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact version",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-06T07:31:36.159158+00:00",
+    "production_refreshed_at": "2026-07-08T06:25:39.318782+00:00",
     "publish_state": "published"
   }
 }

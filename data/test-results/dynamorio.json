@@ -5,10 +5,10 @@
     "version": "11.1.0"
   },
   "run": {
-    "id": "28772167074",
+    "id": "28919400756",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28772167074/job/85307959486",
-    "timestamp": "2026-07-06T07:08:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919400756/job/85793078654",
+    "timestamp": "2026-07-08T05:59:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check drrun binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check packaged version metadata",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 5,
         "current_version": "11.1.0",
         "latest_version": "11.2.0",
         "next_installed_version": "11.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-06T07:31:36.057293+00:00",
+    "production_refreshed_at": "2026-07-08T06:25:39.175262+00:00",
     "publish_state": "published"
   }
 }
