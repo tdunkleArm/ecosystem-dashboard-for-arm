@@ -5,10 +5,10 @@
     "version": "1.31.1"
   },
   "run": {
-    "id": "28919360972",
+    "id": "28997524403",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919360972/job/85792945776",
-    "timestamp": "2026-07-08T05:16:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997524403/job/86050228149",
+    "timestamp": "2026-07-09T05:59:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Envoy binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Envoy version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Validate Envoy help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.31.1",
         "latest_version": "1.31.2",
         "next_installed_version": "1.31.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-08T06:25:39.195459+00:00",
+    "production_refreshed_at": "2026-07-09T07:36:33.780077+00:00",
     "publish_state": "published"
   }
 }

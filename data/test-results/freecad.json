@@ -5,10 +5,10 @@
     "version": "0.21.0"
   },
   "run": {
-    "id": "28919395418",
+    "id": "28997560770",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919395418/job/85793059726",
-    "timestamp": "2026-07-08T05:50:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997560770/job/86050346569",
+    "timestamp": "2026-07-09T06:43:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Arm64 support gate",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Bounded package-specific smoke",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 17,
         "current_version": "0.21.0",
         "latest_version": "1.1.1",
         "next_installed_version": "1.1.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-08T06:25:39.201575+00:00",
+    "production_refreshed_at": "2026-07-09T07:36:33.785369+00:00",
     "publish_state": "published"
   }
 }

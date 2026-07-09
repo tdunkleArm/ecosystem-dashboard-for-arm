@@ -5,10 +5,10 @@
     "version": "v1.35.6"
   },
   "run": {
-    "id": "28919381121",
+    "id": "28997544707",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919381121/job/85793011831",
-    "timestamp": "2026-07-08T05:32:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997544707/job/86050293531",
+    "timestamp": "2026-07-09T06:31:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check kubectl command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check inspect command",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Check services and architecture",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-08T06:25:39.258964+00:00",
+    "production_refreshed_at": "2026-07-09T07:36:33.827333+00:00",
     "publish_state": "published"
   }
 }

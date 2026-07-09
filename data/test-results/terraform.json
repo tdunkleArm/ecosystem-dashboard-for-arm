@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "28919403329",
+    "id": "28997570564",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28919403329/job/85793086384",
-    "timestamp": "2026-07-08T06:02:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997570564/job/86050378389",
+    "timestamp": "2026-07-09T06:58:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.15.7",
-        "next_installed_version": "1.15.7",
+        "latest_version": "1.15.8",
+        "next_installed_version": "1.15.8",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.7/terraform_1.15.7_linux_arm64.zip and confirmed candidate version 1.15.7 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip and confirmed candidate version 1.15.8 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-08T06:25:39.340922+00:00",
+    "production_refreshed_at": "2026-07-09T07:36:33.891454+00:00",
     "publish_state": "published"
   }
 }
