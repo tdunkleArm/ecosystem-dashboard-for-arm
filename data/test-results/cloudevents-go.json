@@ -5,10 +5,10 @@
     "version": "v2.16.2"
   },
   "run": {
-    "id": "28997557840",
+    "id": "29072657542",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997557840/job/86050335765",
-    "timestamp": "2026-07-09T07:17:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072657542/job/86297269149",
+    "timestamp": "2026-07-10T06:43:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check module dependency",
@@ -35,17 +35,17 @@
       {
         "name": "Test 3 - Render package docs",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Create, validate, build, and run an event",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-09T07:36:33.761943+00:00",
+    "production_refreshed_at": "2026-07-10T07:17:13.914059+00:00",
     "publish_state": "published"
   }
 }

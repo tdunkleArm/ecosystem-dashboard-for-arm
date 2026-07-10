@@ -5,10 +5,10 @@
     "version": "3.12.1"
   },
   "run": {
-    "id": "28997527454",
+    "id": "29072629648",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/28997527454/job/86050237898",
-    "timestamp": "2026-07-09T06:03:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072629648/job/86297178730",
+    "timestamp": "2026-07-10T06:00:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check geos-config version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check geos-config cflags",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-09T07:36:33.789597+00:00",
+    "production_refreshed_at": "2026-07-10T07:17:13.959762+00:00",
     "publish_state": "published"
   }
 }
