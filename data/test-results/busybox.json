@@ -5,10 +5,10 @@
     "version": "1.36.1"
   },
   "run": {
-    "id": "29072660135",
+    "id": "29140495781",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072660135/job/86297277550",
-    "timestamp": "2026-07-10T06:43:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140495781/job/86512525568",
+    "timestamp": "2026-07-11T05:46:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run BusyBox applets",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-10T07:17:13.906474+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.302558+00:00",
     "publish_state": "published"
   }
 }

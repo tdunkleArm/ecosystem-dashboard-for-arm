@@ -5,10 +5,10 @@
     "version": "Framework"
   },
   "run": {
-    "id": "29072629648",
+    "id": "29140475100",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072629648/job/86297178731",
-    "timestamp": "2026-07-10T06:01:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140475100/job/86512470527",
+    "timestamp": "2026-07-11T05:06:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check robot binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check robot version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check robot help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-10T07:17:14.065243+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.445722+00:00",
     "publish_state": "published"
   }
 }

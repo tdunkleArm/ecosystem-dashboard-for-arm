@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Ultralytics",
-    "version": "8.4.91"
+    "version": "8.4.92"
   },
   "run": {
-    "id": "29072634980",
+    "id": "29140478275",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072634980/job/86297197776",
-    "timestamp": "2026-07-10T06:04:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140478275/job/86512479379",
+    "timestamp": "2026-07-11T05:13:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check ultralytics binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check ultralytics version command",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Check ultralytics help output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-10T07:17:14.100226+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.472883+00:00",
     "publish_state": "published"
   }
 }

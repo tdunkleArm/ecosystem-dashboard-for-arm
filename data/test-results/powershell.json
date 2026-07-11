@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "29072629648",
+    "id": "29140475100",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072629648/job/86297178619",
-    "timestamp": "2026-07-10T06:00:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140475100/job/86512470373",
+    "timestamp": "2026-07-11T05:04:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check pwsh binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check PowerShell runtime version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-10T07:17:14.055413+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.435743+00:00",
     "publish_state": "published"
   }
 }

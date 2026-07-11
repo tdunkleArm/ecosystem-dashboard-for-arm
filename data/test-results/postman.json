@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "29072668737",
+    "id": "29140502837",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072668737/job/86297304605",
-    "timestamp": "2026-07-10T06:49:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140502837/job/86512545590",
+    "timestamp": "2026-07-11T05:51:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 28,
         "current_version": "11.71.7",
-        "latest_version": "12.18.4",
-        "next_installed_version": "12.18.4",
+        "latest_version": "12.18.5",
+        "next_installed_version": "12.18.5",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.18.4, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.18.5, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-10T07:17:14.055241+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.435584+00:00",
     "publish_state": "published"
   }
 }

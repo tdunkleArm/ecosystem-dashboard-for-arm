@@ -5,10 +5,10 @@
     "version": "25.2.2"
   },
   "run": {
-    "id": "29072665910",
+    "id": "29140500703",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072665910/job/86297294804",
-    "timestamp": "2026-07-10T06:58:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140500703/job/86512539042",
+    "timestamp": "2026-07-11T05:54:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Neutron entry points",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-10T07:17:13.889789+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.286893+00:00",
     "publish_state": "published"
   }
 }

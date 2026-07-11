@@ -5,10 +5,10 @@
     "version": "v3.6.0"
   },
   "run": {
-    "id": "29072677180",
+    "id": "29140509254",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29072677180/job/86297330611",
-    "timestamp": "2026-07-10T06:58:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140509254/job/86512562858",
+    "timestamp": "2026-07-11T05:57:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Binary Existence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Release Mapping Check",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-10T07:17:14.034024+00:00",
+    "production_refreshed_at": "2026-07-11T06:10:56.401108+00:00",
     "publish_state": "published"
   }
 }
