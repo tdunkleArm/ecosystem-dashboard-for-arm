@@ -5,10 +5,10 @@
     "version": "1.20"
   },
   "run": {
-    "id": "29140493220",
+    "id": "29181083499",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140493220/job/86512519341",
-    "timestamp": "2026-07-11T05:38:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181083499/job/86618683745",
+    "timestamp": "2026-07-12T05:50:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Configure baseline source tree",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 14
       },
       {
         "name": "Test 2 - Compile baseline source",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Install baseline binary and verify version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-11T06:10:56.330424+00:00",
+    "production_refreshed_at": "2026-07-12T06:34:37.343612+00:00",
     "publish_state": "published"
   }
 }

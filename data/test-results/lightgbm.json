@@ -5,10 +5,10 @@
     "version": "4.6.0"
   },
   "run": {
-    "id": "29140480080",
+    "id": "29181072310",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140480080/job/86512483929",
-    "timestamp": "2026-07-11T05:05:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181072310/job/86618651107",
+    "timestamp": "2026-07-12T05:36:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Import LightGBM",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-11T06:10:56.385898+00:00",
+    "production_refreshed_at": "2026-07-12T06:34:37.384216+00:00",
     "publish_state": "published"
   }
 }

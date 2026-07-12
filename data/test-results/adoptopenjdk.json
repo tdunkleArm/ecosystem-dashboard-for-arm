@@ -5,10 +5,10 @@
     "version": "21"
   },
   "run": {
-    "id": "29140473260",
+    "id": "29181066330",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140473260/job/86512464964",
-    "timestamp": "2026-07-11T05:03:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181066330/job/86618633178",
+    "timestamp": "2026-07-12T05:25:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check java binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check javac binary exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check java -version output includes 21",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Compile and run HelloWorld",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-11T06:10:56.290306+00:00",
+    "production_refreshed_at": "2026-07-12T06:34:37.299627+00:00",
     "publish_state": "published"
   }
 }

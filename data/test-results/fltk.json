@@ -5,10 +5,10 @@
     "version": "1.3.8"
   },
   "run": {
-    "id": "29140480080",
+    "id": "29181072310",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29140480080/job/86512484108",
-    "timestamp": "2026-07-11T05:07:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181072310/job/86618651005",
+    "timestamp": "2026-07-12T05:39:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check fltk-config exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile and run simple FLTK program",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-11T06:10:56.335531+00:00",
+    "production_refreshed_at": "2026-07-12T06:34:37.349316+00:00",
     "publish_state": "published"
   }
 }
