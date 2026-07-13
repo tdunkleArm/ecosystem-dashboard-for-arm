@@ -5,10 +5,10 @@
     "version": "0.20.6"
   },
   "run": {
-    "id": "29181083499",
+    "id": "29226566493",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181083499/job/86618683854",
-    "timestamp": "2026-07-12T06:02:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226566493/job/86741778297",
+    "timestamp": "2026-07-13T06:16:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 47,
+    "duration_seconds": 50,
     "details": [
       {
         "name": "Test 1 - Check Vitess clients exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check vtctldclient help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 47,
+        "duration_seconds": 49,
         "current_version": "0.20.6",
         "latest_version": "20.0.7",
         "next_installed_version": "0.20.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-12T06:34:37.463481+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.306900+00:00",
     "publish_state": "published"
   }
 }

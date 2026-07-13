@@ -5,10 +5,10 @@
     "version": "2.15-3build1"
   },
   "run": {
-    "id": "29181090434",
+    "id": "29226577641",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181090434/job/86618703494",
-    "timestamp": "2026-07-12T06:04:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226577641/job/86741814198",
+    "timestamp": "2026-07-13T06:27:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check libtcmalloc.so exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Compile simple C program using tcmalloc",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-12T06:34:37.358816+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.166297+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "10.4.0"
   },
   "run": {
-    "id": "29181079978",
+    "id": "29226560606",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181079978/job/86618674238",
-    "timestamp": "2026-07-12T06:01:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226560606/job/86741761015",
+    "timestamp": "2026-07-13T06:10:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check mattermost binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact baseline version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 6,
         "current_version": "10.4.0",
         "latest_version": "10.4.1",
         "next_installed_version": "10.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-12T06:34:37.391083+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.212152+00:00",
     "publish_state": "published"
   }
 }

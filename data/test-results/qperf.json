@@ -5,10 +5,10 @@
     "version": "0.4.11"
   },
   "run": {
-    "id": "29181083499",
+    "id": "29226566493",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181083499/job/86618683502",
-    "timestamp": "2026-07-12T05:55:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226566493/job/86741777693",
+    "timestamp": "2026-07-13T06:13:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check qperf binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-12T06:34:37.430390+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.264333+00:00",
     "publish_state": "published"
   }
 }

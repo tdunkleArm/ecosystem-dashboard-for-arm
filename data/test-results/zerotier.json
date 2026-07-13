@@ -5,10 +5,10 @@
     "version": "1.16.2"
   },
   "run": {
-    "id": "29181087014",
+    "id": "29226572039",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181087014/job/86618693795",
-    "timestamp": "2026-07-12T06:03:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226572039/job/86741796715",
+    "timestamp": "2026-07-13T06:15:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-12T06:34:37.471394+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.314053+00:00",
     "publish_state": "published"
   }
 }

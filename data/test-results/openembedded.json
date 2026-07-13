@@ -5,10 +5,10 @@
     "version": "4.0.33"
   },
   "run": {
-    "id": "29181079978",
+    "id": "29226560606",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29181079978/job/86618674373",
-    "timestamp": "2026-07-12T05:50:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226560606/job/86741761069",
+    "timestamp": "2026-07-13T05:58:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 43,
+    "duration_seconds": 45,
     "details": [
       {
         "name": "Test 1 - Check oe-init-build-env and sibling bitbake",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 18
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 25,
         "current_version": "4.0.33",
         "latest_version": "5.0.18",
         "next_installed_version": "5.0.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-12T06:34:37.410481+00:00",
+    "production_refreshed_at": "2026-07-13T06:48:52.247535+00:00",
     "publish_state": "published"
   }
 }
