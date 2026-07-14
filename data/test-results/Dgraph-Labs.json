@@ -5,10 +5,10 @@
     "version": "24.1.0"
   },
   "run": {
-    "id": "29226548670",
+    "id": "29306832832",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226548670/job/86741726616",
-    "timestamp": "2026-07-13T05:49:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306832832/job/87001770082",
+    "timestamp": "2026-07-14T05:12:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check dgraph binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24.1.0",
         "latest_version": "24.1.1",
         "next_installed_version": "24.1.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-13T06:48:52.102475+00:00",
+    "production_refreshed_at": "2026-07-14T05:57:47.160637+00:00",
     "publish_state": "published"
   }
 }

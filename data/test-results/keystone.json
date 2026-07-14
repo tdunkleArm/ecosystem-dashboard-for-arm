@@ -5,10 +5,10 @@
     "version": "25.0.0"
   },
   "run": {
-    "id": "29226572039",
+    "id": "29306855901",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226572039/job/86741796418",
-    "timestamp": "2026-07-13T06:20:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306855901/job/87001841232",
+    "timestamp": "2026-07-14T05:26:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check help command",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Basic configuration check (db_sync)",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check python import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-13T06:48:52.197200+00:00",
+    "production_refreshed_at": "2026-07-14T05:57:47.270233+00:00",
     "publish_state": "published"
   }
 }

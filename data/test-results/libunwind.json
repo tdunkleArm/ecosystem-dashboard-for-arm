@@ -5,10 +5,10 @@
     "version": "1.6.2"
   },
   "run": {
-    "id": "29226536469",
+    "id": "29306820849",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226536469/job/86741690695",
-    "timestamp": "2026-07-13T05:35:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306820849/job/87001733208",
+    "timestamp": "2026-07-14T04:51:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Libunwind library exists",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 11
       },
       {
         "name": "Test 2 - Check Libunwind header files",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-13T06:48:52.204768+00:00",
+    "production_refreshed_at": "2026-07-14T05:57:47.278808+00:00",
     "publish_state": "published"
   }
 }

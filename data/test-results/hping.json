@@ -5,10 +5,10 @@
     "version": "3.a2.ds2-10build2"
   },
   "run": {
-    "id": "29226545521",
+    "id": "29306829869",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226545521/job/86741717289",
-    "timestamp": "2026-07-13T05:46:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306829869/job/87001762190",
+    "timestamp": "2026-07-14T04:59:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check package metadata version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check runtime version/help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-13T06:48:52.173448+00:00",
+    "production_refreshed_at": "2026-07-14T05:57:47.250065+00:00",
     "publish_state": "published"
   }
 }

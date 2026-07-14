@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "29226545521",
+    "id": "29306829869",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29226545521/job/86741716970",
-    "timestamp": "2026-07-13T05:48:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306829869/job/87001761692",
+    "timestamp": "2026-07-14T04:51:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check VTK runtime availability",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check VTK version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check VTK Python API help",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-13T06:48:52.307868+00:00",
+    "production_refreshed_at": "2026-07-14T05:57:47.380616+00:00",
     "publish_state": "published"
   }
 }
