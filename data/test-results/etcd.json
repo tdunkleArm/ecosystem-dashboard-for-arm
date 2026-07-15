@@ -5,10 +5,10 @@
     "version": "3.5.22"
   },
   "run": {
-    "id": "29306868047",
+    "id": "29389830069",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306868047/job/87001879526",
-    "timestamp": "2026-07-14T05:42:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389830069/job/87270586497",
+    "timestamp": "2026-07-15T05:38:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Etcd binaries exist",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-14T05:57:47.229945+00:00",
+    "production_refreshed_at": "2026-07-15T06:01:29.228311+00:00",
     "publish_state": "published"
   }
 }

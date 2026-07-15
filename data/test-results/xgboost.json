@@ -5,10 +5,10 @@
     "version": "1.6.2"
   },
   "run": {
-    "id": "29306841889",
+    "id": "29389804057",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306841889/job/87001797815",
-    "timestamp": "2026-07-14T05:10:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389804057/job/87270506663",
+    "timestamp": "2026-07-15T05:17:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Module import validation",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - API surface validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional training smoke",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-14T05:57:47.384717+00:00",
+    "production_refreshed_at": "2026-07-15T06:01:29.356866+00:00",
     "publish_state": "published"
   }
 }

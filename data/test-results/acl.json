@@ -5,10 +5,10 @@
     "version": "3.6.5"
   },
   "run": {
-    "id": "29306818039",
+    "id": "29389783141",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29306818039/job/87001723810",
-    "timestamp": "2026-07-14T04:48:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389783141/job/87270439431",
+    "timestamp": "2026-07-15T04:53:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 55,
+    "duration_seconds": 56,
     "details": [
       {
         "name": "Test 1 - Check acl binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check acl version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check ACL headers/libs installed",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 55,
+        "duration_seconds": 56,
         "current_version": "3.6.5",
         "latest_version": "3.6.6",
         "next_installed_version": "3.6.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-14T05:57:47.166007+00:00",
+    "production_refreshed_at": "2026-07-15T06:01:29.188748+00:00",
     "publish_state": "published"
   }
 }
