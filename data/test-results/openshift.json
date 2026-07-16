@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "29389824346",
+    "id": "29472592089",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389824346/job/87270570166",
-    "timestamp": "2026-07-15T05:30:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472592089/job/87538604614",
+    "timestamp": "2026-07-16T05:46:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check oc binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check client version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "4.14.0",
         "latest_version": "4.22.3",
         "next_installed_version": "4.22.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-15T06:01:29.292317+00:00",
+    "production_refreshed_at": "2026-07-16T06:10:50.602403+00:00",
     "publish_state": "published"
   }
 }

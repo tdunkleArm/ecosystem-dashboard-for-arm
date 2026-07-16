@@ -5,10 +5,10 @@
     "version": "0.0.6"
   },
   "run": {
-    "id": "29389785852",
+    "id": "29472551823",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389785852/job/87270448912",
-    "timestamp": "2026-07-15T05:12:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472551823/job/87538480365",
+    "timestamp": "2026-07-16T04:58:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check RAMExtend binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify Aarch64 binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-15T06:01:29.307937+00:00",
+    "production_refreshed_at": "2026-07-16T06:10:50.618663+00:00",
     "publish_state": "published"
   }
 }

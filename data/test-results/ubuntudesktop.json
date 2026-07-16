@@ -5,10 +5,10 @@
     "version": "23.04"
   },
   "run": {
-    "id": "29389838774",
+    "id": "29472606262",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389838774/job/87270612557",
-    "timestamp": "2026-07-15T05:45:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472606262/job/87538649161",
+    "timestamp": "2026-07-16T05:51:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check package-specific version and release evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-15T06:01:29.348271+00:00",
+    "production_refreshed_at": "2026-07-16T06:10:50.666606+00:00",
     "publish_state": "published"
   }
 }

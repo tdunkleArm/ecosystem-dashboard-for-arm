@@ -5,10 +5,10 @@
     "version": "2.8.1"
   },
   "run": {
-    "id": "29389783141",
+    "id": "29472548797",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29389783141/job/87270439702",
-    "timestamp": "2026-07-15T04:54:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472548797/job/87538471749",
+    "timestamp": "2026-07-16T04:55:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check Version Command",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Initialize Database",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 5
       },
       {
         "name": "Test 3 - Check Config List",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Create User",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Check Users List",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-15T06:01:29.189428+00:00",
+    "production_refreshed_at": "2026-07-16T06:10:50.443430+00:00",
     "publish_state": "published"
   }
 }
