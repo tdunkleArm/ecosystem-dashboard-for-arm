@@ -5,10 +5,10 @@
     "version": "7.0.0-RC2.B014"
   },
   "run": {
-    "id": "29472569464",
+    "id": "29556169129",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472569464/job/87538533608",
-    "timestamp": "2026-07-16T05:09:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556169129/job/87808579330",
+    "timestamp": "2026-07-17T05:22:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check baseline client tooling",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional database validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-07-16T06:10:50.599767+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.557381+00:00",
     "publish_state": "published"
   }
 }

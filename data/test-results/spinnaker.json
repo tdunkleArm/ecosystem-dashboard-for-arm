@@ -5,10 +5,10 @@
     "version": "1.30.0"
   },
   "run": {
-    "id": "29472597455",
+    "id": "29556196406",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472597455/job/87538622171",
-    "timestamp": "2026-07-16T05:48:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556196406/job/87808664505",
+    "timestamp": "2026-07-17T05:51:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 0,
         "current_version": "1.30.0",
-        "latest_version": "main-23",
+        "latest_version": "main-24",
         "next_installed_version": "not_installed",
         "decision": "validated_next_release",
         "regression_result": "Validated baseline Spinnaker CLI against the latest release with install and command smoke checks.",
-        "comparison": "Baseline 1.30.0 and next main-23 both passed CLI smoke validation; no regression observed in this workflow scope."
+        "comparison": "Baseline 1.30.0 and next main-24 both passed CLI smoke validation; no regression observed in this workflow scope."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-16T06:10:50.629593+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.594418+00:00",
     "publish_state": "published"
   }
 }

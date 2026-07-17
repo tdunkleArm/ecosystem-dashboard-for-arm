@@ -5,10 +5,10 @@
     "version": "0.23.0"
   },
   "run": {
-    "id": "29472597455",
+    "id": "29556196406",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472597455/job/87538621961",
-    "timestamp": "2026-07-16T05:47:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556196406/job/87808664123",
+    "timestamp": "2026-07-17T05:48:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check ramalama version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check ramalama help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-16T06:10:50.616683+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.578405+00:00",
     "publish_state": "published"
   }
 }

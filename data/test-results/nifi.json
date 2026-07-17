@@ -5,10 +5,10 @@
     "version": "2.7.2"
   },
   "run": {
-    "id": "29472548797",
+    "id": "29556148969",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472548797/job/87538471653",
-    "timestamp": "2026-07-16T04:56:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556148969/job/87808519671",
+    "timestamp": "2026-07-17T05:02:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 127,
+    "duration_seconds": 159,
     "details": [
       {
         "name": "Test 1 - Check launcher script",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 10
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 110,
+        "duration_seconds": 149,
         "current_version": "2.7.2",
         "latest_version": "2.8.0",
         "next_installed_version": "2.8.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-16T06:10:50.577963+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.548637+00:00",
     "publish_state": "published"
   }
 }

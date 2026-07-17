@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "29472592089",
+    "id": "29556190703",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472592089/job/87538604614",
-    "timestamp": "2026-07-16T05:46:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556190703/job/87808646245",
+    "timestamp": "2026-07-17T05:50:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check oc binary",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check kubectl binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check client version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "4.14.0",
-        "latest_version": "4.22.3",
-        "next_installed_version": "4.22.3",
+        "latest_version": "4.22.4",
+        "next_installed_version": "4.22.4",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.3 on Arm64, and the extracted client binaries reported version 4.22.3 while passing help, completion, and kubectl client checks."
+        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.4 on Arm64, and the extracted client binaries reported version 4.22.4 while passing help, completion, and kubectl client checks."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-16T06:10:50.602403+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.560570+00:00",
     "publish_state": "published"
   }
 }

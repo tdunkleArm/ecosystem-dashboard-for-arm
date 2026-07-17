@@ -5,10 +5,10 @@
     "version": "25.2.2"
   },
   "run": {
-    "id": "29472589371",
+    "id": "29556188031",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29472589371/job/87538595016",
-    "timestamp": "2026-07-16T05:31:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556188031/job/87808637632",
+    "timestamp": "2026-07-17T05:38:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check neutron-server help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-16T06:10:50.439663+00:00",
+    "production_refreshed_at": "2026-07-17T06:16:12.428935+00:00",
     "publish_state": "published"
   }
 }
