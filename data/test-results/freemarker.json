@@ -5,10 +5,10 @@
     "version": "2.3.32-2"
   },
   "run": {
-    "id": "29556148969",
+    "id": "29631057338",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556148969/job/87808519727",
-    "timestamp": "2026-07-17T05:04:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631057338/job/88044548781",
+    "timestamp": "2026-07-18T04:45:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,27 +20,27 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check jar file exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Compile simple Java program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Run compiled Java program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check jar content",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check package metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-17T06:16:12.486630+00:00",
+    "production_refreshed_at": "2026-07-18T05:57:32.000542+00:00",
     "publish_state": "published"
   }
 }

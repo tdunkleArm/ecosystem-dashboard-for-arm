@@ -5,10 +5,10 @@
     "version": "4.5.0"
   },
   "run": {
-    "id": "29556163628",
+    "id": "29631066104",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556163628/job/87808562675",
-    "timestamp": "2026-07-17T05:09:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631066104/job/88044576095",
+    "timestamp": "2026-07-18T05:03:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Impala server binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check impala-shell help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "4.5.0",
         "latest_version": "4.5.0",
         "next_installed_version": "not_installed",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-07-17T06:16:12.505118+00:00",
+    "production_refreshed_at": "2026-07-18T05:57:32.027687+00:00",
     "publish_state": "published"
   }
 }

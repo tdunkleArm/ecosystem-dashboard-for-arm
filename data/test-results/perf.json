@@ -5,10 +5,10 @@
     "version": "6.2.16"
   },
   "run": {
-    "id": "29556163628",
+    "id": "29631066104",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29556163628/job/87808562076",
-    "timestamp": "2026-07-17T05:11:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631066104/job/88044575809",
+    "timestamp": "2026-07-18T04:52:14Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 31
+        "duration_seconds": 32
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-07-17T06:16:12.567476+00:00",
+    "production_refreshed_at": "2026-07-18T05:57:32.104186+00:00",
     "publish_state": "published"
   }
 }
