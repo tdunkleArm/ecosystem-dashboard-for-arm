@@ -5,10 +5,10 @@
     "version": "7.6.3"
   },
   "run": {
-    "id": "29631068075",
+    "id": "29674612779",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631068075/job/88044581096",
-    "timestamp": "2026-07-18T04:56:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674612779/job/88159545524",
+    "timestamp": "2026-07-19T05:35:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check header files",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Header",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Linkable Kernel Library",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-18T05:57:32.094247+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.852664+00:00",
     "publish_state": "published"
   }
 }

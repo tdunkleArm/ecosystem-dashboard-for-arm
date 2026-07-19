@@ -5,10 +5,10 @@
     "version": "1.10.14"
   },
   "run": {
-    "id": "29631090381",
+    "id": "29674630121",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631090381/job/88044642121",
-    "timestamp": "2026-07-18T05:38:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674630121/job/88159596752",
+    "timestamp": "2026-07-19T06:04:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 31,
+    "duration_seconds": 30,
     "details": [
       {
         "name": "Test 1 - Check ant binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check ant version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 30,
+        "duration_seconds": 29,
         "current_version": "1.10.14",
         "latest_version": "1.10.15",
         "next_installed_version": "1.10.15",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-18T05:57:31.890279+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.740900+00:00",
     "publish_state": "published"
   }
 }

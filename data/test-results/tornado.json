@@ -5,10 +5,10 @@
     "version": "6.5.7"
   },
   "run": {
-    "id": "29631064383",
+    "id": "29674608952",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631064383/job/88044570644",
-    "timestamp": "2026-07-18T04:53:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674608952/job/88159535180",
+    "timestamp": "2026-07-19T05:28:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Tornado module import",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check pip show",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-18T05:57:32.148450+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.910225+00:00",
     "publish_state": "published"
   }
 }

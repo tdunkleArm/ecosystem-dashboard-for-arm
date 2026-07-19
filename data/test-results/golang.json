@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "29631072381",
+    "id": "29674616391",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631072381/job/88044593319",
-    "timestamp": "2026-07-18T05:22:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674616391/job/88159556776",
+    "timestamp": "2026-07-19T05:37:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Build simple Go program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "1.24.1",
         "latest_version": "1.24.2",
         "next_installed_version": "1.24.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-18T05:57:32.007263+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.796342+00:00",
     "publish_state": "published"
   }
 }

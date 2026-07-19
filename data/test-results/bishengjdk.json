@@ -5,10 +5,10 @@
     "version": "21.0.6"
   },
   "run": {
-    "id": "29631081887",
+    "id": "29674623583",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631081887/job/88044618933",
-    "timestamp": "2026-07-18T05:18:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674623583/job/88159577918",
+    "timestamp": "2026-07-19T05:58:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Java Binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Verify BiSheng Vendor",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Compile and Run HelloWorld",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 16,
+        "duration_seconds": 11,
         "current_version": "21.0.6",
         "latest_version": "21.0.7",
         "next_installed_version": "21.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-18T05:57:31.928317+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.747552+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "29631060985",
+    "id": "29674605527",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631060985/job/88044561164",
-    "timestamp": "2026-07-18T04:46:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674605527/job/88159524970",
+    "timestamp": "2026-07-19T05:24:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check package architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 49,
+        "duration_seconds": 25,
         "current_version": "8.19.12",
         "latest_version": "8.19.16",
         "next_installed_version": "8.19.16",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-18T05:57:32.047196+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.827825+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.5.6"
   },
   "run": {
-    "id": "29631072381",
+    "id": "29674616391",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29631072381/job/88044593182",
-    "timestamp": "2026-07-18T05:11:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674616391/job/88159556791",
+    "timestamp": "2026-07-19T05:38:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check setup script exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check setup help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check rename helper help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 3,
         "current_version": "4.5.6",
         "latest_version": "4.5.7",
         "next_installed_version": "4.5.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-18T05:57:32.102078+00:00",
+    "production_refreshed_at": "2026-07-19T06:24:57.860592+00:00",
     "publish_state": "published"
   }
 }
