@@ -5,10 +5,10 @@
     "version": "3.12.0"
   },
   "run": {
-    "id": "29674602211",
+    "id": "29719433397",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29674602211/job/88159513568",
-    "timestamp": "2026-07-19T05:16:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719433397/job/88279120737",
+    "timestamp": "2026-07-20T05:42:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check container running",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Create a Route",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Access the Route",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 10,
         "current_version": "3.12.0",
         "latest_version": "3.13.0",
         "next_installed_version": "3.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-19T06:24:57.742115+00:00",
+    "production_refreshed_at": "2026-07-20T06:47:22.796045+00:00",
     "publish_state": "published"
   }
 }
