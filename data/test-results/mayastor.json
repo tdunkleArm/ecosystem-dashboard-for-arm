@@ -5,10 +5,10 @@
     "version": "2.7.4"
   },
   "run": {
-    "id": "29719466986",
+    "id": "29803553392",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719466986/job/88279225172",
-    "timestamp": "2026-07-20T06:14:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803553392/job/88549266389",
+    "timestamp": "2026-07-21T06:11:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kubectl-mayastor binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-20T06:47:22.913043+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.912627+00:00",
     "publish_state": "published"
   }
 }

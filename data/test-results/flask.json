@@ -5,10 +5,10 @@
     "version": "3.1.3"
   },
   "run": {
-    "id": "29719455659",
+    "id": "29803539708",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719455659/job/88279191295",
-    "timestamp": "2026-07-20T06:16:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803539708/job/88549224639",
+    "timestamp": "2026-07-21T05:52:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check Flask version and CLI output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Functional validation with test client",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Request context and architecture verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-20T06:47:22.854870+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.868843+00:00",
     "publish_state": "published"
   }
 }

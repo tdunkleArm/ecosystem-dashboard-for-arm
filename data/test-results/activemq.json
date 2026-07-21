@@ -5,10 +5,10 @@
     "version": "5.17.6+dfsg-1"
   },
   "run": {
-    "id": "29719433397",
+    "id": "29803512118",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719433397/job/88279120597",
-    "timestamp": "2026-07-20T05:34:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803512118/job/88549136770",
+    "timestamp": "2026-07-21T05:16:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check activemq binary exists and is executable",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Java dependency",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check ActiveMQ has configuration files under /etc",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-20T06:47:22.785317+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.823308+00:00",
     "publish_state": "published"
   }
 }

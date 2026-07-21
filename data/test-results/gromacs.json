@@ -5,10 +5,10 @@
     "version": "2023.3-Ubuntu_2023.3_1ubuntu3"
   },
   "run": {
-    "id": "29719474269",
+    "id": "29803560373",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719474269/job/88279242693",
-    "timestamp": "2026-07-20T06:11:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803560373/job/88549286373",
+    "timestamp": "2026-07-21T06:19:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-20T06:47:22.868815+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.880742+00:00",
     "publish_state": "published"
   }
 }

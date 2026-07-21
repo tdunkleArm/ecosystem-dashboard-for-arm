@@ -5,10 +5,10 @@
     "version": "1.12.1"
   },
   "run": {
-    "id": "29719455659",
+    "id": "29803539708",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719455659/job/88279190506",
-    "timestamp": "2026-07-20T05:55:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803539708/job/88549223638",
+    "timestamp": "2026-07-21T05:45:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 203,
+    "duration_seconds": 205,
     "details": [
       {
         "name": "Test 1 - Check Headers",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Static Library",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 201,
+        "duration_seconds": 203,
         "current_version": "1.12.1",
         "latest_version": "1.13.0",
         "next_installed_version": "1.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-20T06:47:22.808493+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.835849+00:00",
     "publish_state": "published"
   }
 }

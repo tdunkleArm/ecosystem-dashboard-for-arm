@@ -5,10 +5,10 @@
     "version": "1.14.0"
   },
   "run": {
-    "id": "29719474269",
+    "id": "29803560373",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719474269/job/88279243425",
-    "timestamp": "2026-07-20T06:29:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803560373/job/88549286814",
+    "timestamp": "2026-07-21T06:22:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check ecctl binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 5
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.14.0",
         "latest_version": "1.14.1",
         "next_installed_version": "1.14.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-20T06:47:22.845009+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.860320+00:00",
     "publish_state": "published"
   }
 }

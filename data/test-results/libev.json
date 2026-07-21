@@ -5,10 +5,10 @@
     "version": "1:4.33-2.1build1"
   },
   "run": {
-    "id": "29719470978",
+    "id": "29803556868",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29719470978/job/88279234812",
-    "timestamp": "2026-07-20T06:13:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803556868/job/88549276544",
+    "timestamp": "2026-07-21T06:35:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check headers and library are present",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check package version",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-20T06:47:22.898934+00:00",
+    "production_refreshed_at": "2026-07-21T08:05:39.901495+00:00",
     "publish_state": "published"
   }
 }
