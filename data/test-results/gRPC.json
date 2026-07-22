@@ -5,10 +5,10 @@
     "version": "1.51.1-4.1build5"
   },
   "run": {
-    "id": "29803546578",
+    "id": "29893276254",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803546578/job/88549245167",
-    "timestamp": "2026-07-21T05:55:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893276254/job/88837905585",
+    "timestamp": "2026-07-22T05:52:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Compile simple C++ program",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Run compiled program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-21T08:05:39.872797+00:00",
+    "production_refreshed_at": "2026-07-22T06:53:30.159454+00:00",
     "publish_state": "published"
   }
 }

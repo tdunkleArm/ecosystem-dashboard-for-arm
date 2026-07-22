@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "29803519234",
+    "id": "29893245728",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29803519234/job/88549158121",
-    "timestamp": "2026-07-21T05:21:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893245728/job/88837817041",
+    "timestamp": "2026-07-22T05:15:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Logstash help output",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Test 4 - Check Logstash config test",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check package architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 30,
+        "duration_seconds": 31,
         "current_version": "8.19.12",
         "latest_version": "8.19.16",
         "next_installed_version": "8.19.16",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-21T08:05:39.908768+00:00",
+    "production_refreshed_at": "2026-07-22T06:53:30.194506+00:00",
     "publish_state": "published"
   }
 }
