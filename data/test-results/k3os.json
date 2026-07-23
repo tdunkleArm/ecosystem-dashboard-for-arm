@@ -5,10 +5,10 @@
     "version": "0.21.5-k3s2r0"
   },
   "run": {
-    "id": "29893279724",
+    "id": "29981892704",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893279724/job/88837914681",
-    "timestamp": "2026-07-22T05:42:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981892704/job/89125283710",
+    "timestamp": "2026-07-23T06:04:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 39,
+    "duration_seconds": 49,
     "details": [
       {
         "name": "Test 1 - Check Arm64 Release Artifacts Exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Release Version Mapping",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Artifact Inspection Output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 22,
         "current_version": "0.21.5-k3s2r0",
         "latest_version": "0.21.5-k3s2r1",
         "next_installed_version": "0.21.5-k3s2r1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-22T06:53:30.178663+00:00",
+    "production_refreshed_at": "2026-07-23T07:49:52.968057+00:00",
     "publish_state": "published"
   }
 }

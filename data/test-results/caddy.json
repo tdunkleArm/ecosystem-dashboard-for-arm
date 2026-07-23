@@ -5,10 +5,10 @@
     "version": "v2.9.0"
   },
   "run": {
-    "id": "29893279724",
+    "id": "29981892704",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893279724/job/88837914453",
-    "timestamp": "2026-07-22T05:41:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981892704/job/89125283593",
+    "timestamp": "2026-07-23T05:55:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check caddy binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check caddy version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check caddy help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-22T06:53:30.105528+00:00",
+    "production_refreshed_at": "2026-07-23T07:49:52.909675+00:00",
     "publish_state": "published"
   }
 }

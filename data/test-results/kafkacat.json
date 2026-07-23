@@ -5,10 +5,10 @@
     "version": "1.6.0"
   },
   "run": {
-    "id": "29893264926",
+    "id": "29981879181",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893264926/job/88837871865",
-    "timestamp": "2026-07-22T05:35:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981879181/job/89125241062",
+    "timestamp": "2026-07-23T05:40:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check kcat version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "1.6.0",
         "latest_version": "1.7.0",
         "next_installed_version": "1.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-22T06:53:30.179513+00:00",
+    "production_refreshed_at": "2026-07-23T07:49:52.969033+00:00",
     "publish_state": "published"
   }
 }

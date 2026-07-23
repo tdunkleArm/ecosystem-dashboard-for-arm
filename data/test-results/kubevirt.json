@@ -5,10 +5,10 @@
     "version": "1.5.2"
   },
   "run": {
-    "id": "29893268888",
+    "id": "29981882919",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893268888/job/88837883850",
-    "timestamp": "2026-07-22T05:30:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981882919/job/89125252328",
+    "timestamp": "2026-07-23T05:53:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check virtctl binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check image-upload help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-22T06:53:30.184090+00:00",
+    "production_refreshed_at": "2026-07-23T07:49:52.974035+00:00",
     "publish_state": "published"
   }
 }

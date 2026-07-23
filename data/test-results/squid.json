@@ -5,10 +5,10 @@
     "version": "6.14"
   },
   "run": {
-    "id": "29893252647",
+    "id": "29981867972",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29893252647/job/88837838394",
-    "timestamp": "2026-07-22T05:35:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981867972/job/89125206446",
+    "timestamp": "2026-07-23T05:26:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check squid binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-22T06:53:30.249834+00:00",
+    "production_refreshed_at": "2026-07-23T07:49:53.047357+00:00",
     "publish_state": "published"
   }
 }
