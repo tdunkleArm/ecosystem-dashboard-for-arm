@@ -5,10 +5,10 @@
     "version": "1.32.1"
   },
   "run": {
-    "id": "29981871947",
+    "id": "30068965810",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981871947/job/89125220284",
-    "timestamp": "2026-07-23T05:39:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068965810/job/89405501636",
+    "timestamp": "2026-07-24T05:29:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check kubectl binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-23T07:49:52.973667+00:00",
+    "production_refreshed_at": "2026-07-24T06:31:50.334793+00:00",
     "publish_state": "published"
   }
 }

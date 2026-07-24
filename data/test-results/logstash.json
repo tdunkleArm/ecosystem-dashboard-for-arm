@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "29981860969",
+    "id": "30068956558",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981860969/job/89125184833",
-    "timestamp": "2026-07-23T05:23:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068956558/job/89405472096",
+    "timestamp": "2026-07-24T05:20:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check Logstash binary exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check Logstash help output",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 10
       },
       {
         "name": "Test 4 - Check Logstash config test",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 10
       },
       {
         "name": "Test 5 - Check package architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 51,
+        "duration_seconds": 50,
         "current_version": "8.19.12",
         "latest_version": "8.19.16",
         "next_installed_version": "8.19.16",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-23T07:49:52.985346+00:00",
+    "production_refreshed_at": "2026-07-24T06:31:50.345763+00:00",
     "publish_state": "published"
   }
 }

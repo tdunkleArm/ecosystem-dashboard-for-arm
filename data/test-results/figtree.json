@@ -5,10 +5,10 @@
     "version": "1.4.4-6"
   },
   "run": {
-    "id": "29981871947",
+    "id": "30068965810",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981871947/job/89125219825",
-    "timestamp": "2026-07-23T05:28:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068965810/job/89405501307",
+    "timestamp": "2026-07-24T05:27:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check figtree binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check help/usage (if available)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Verify launch script content",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-23T07:49:52.941738+00:00",
+    "production_refreshed_at": "2026-07-24T06:31:50.304762+00:00",
     "publish_state": "published"
   }
 }

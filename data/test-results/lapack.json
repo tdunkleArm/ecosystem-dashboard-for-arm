@@ -5,10 +5,10 @@
     "version": "3.12.0-3build1.1"
   },
   "run": {
-    "id": "29981875600",
+    "id": "30068968882",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981875600/job/89125232152",
-    "timestamp": "2026-07-23T05:48:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068968882/job/89405511011",
+    "timestamp": "2026-07-24T05:31:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Library Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-23T07:49:52.976389+00:00",
+    "production_refreshed_at": "2026-07-24T06:31:50.337289+00:00",
     "publish_state": "published"
   }
 }

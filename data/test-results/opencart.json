@@ -5,10 +5,10 @@
     "version": "4.1.0.0"
   },
   "run": {
-    "id": "29981879181",
+    "id": "30068972138",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/29981879181/job/89125241130",
-    "timestamp": "2026-07-23T05:41:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068972138/job/89405521506",
+    "timestamp": "2026-07-24T05:49:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check PHP syntax",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "4.1.0.0",
         "latest_version": "4.1.0.1",
         "next_installed_version": "4.1.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-23T07:49:53.008108+00:00",
+    "production_refreshed_at": "2026-07-24T06:31:50.366985+00:00",
     "publish_state": "published"
   }
 }
