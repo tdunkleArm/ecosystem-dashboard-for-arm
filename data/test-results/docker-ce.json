@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "30068988191",
+    "id": "30145318271",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068988191/job/89405569412",
-    "timestamp": "2026-07-24T06:03:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145318271/job/89645907750",
+    "timestamp": "2026-07-25T05:49:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check docker client version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check dockerd version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check docker help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24.0.3",
         "latest_version": "29.6.2",
         "next_installed_version": "29.6.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-24T06:31:50.293011+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.116486+00:00",
     "publish_state": "published"
   }
 }

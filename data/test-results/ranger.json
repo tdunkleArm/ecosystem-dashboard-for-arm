@@ -5,10 +5,10 @@
     "version": "1.9.3"
   },
   "run": {
-    "id": "30068991336",
+    "id": "30145320434",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068991336/job/89405579727",
-    "timestamp": "2026-07-24T05:53:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145320434/job/89645913765",
+    "timestamp": "2026-07-25T05:41:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Ranger executable exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-24T06:31:50.387617+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.206864+00:00",
     "publish_state": "published"
   }
 }

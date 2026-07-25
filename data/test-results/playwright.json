@@ -5,10 +5,10 @@
     "version": "1.17.0"
   },
   "run": {
-    "id": "30069013022",
+    "id": "30145331833",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30069013022/job/89405645252",
-    "timestamp": "2026-07-24T06:08:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145331833/job/89645948051",
+    "timestamp": "2026-07-25T06:01:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "1.17.0",
-        "latest_version": "1.61.1",
-        "next_installed_version": "1.61.1",
+        "latest_version": "1.62.0",
+        "next_installed_version": "1.62.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 1.17.0, and the next stable source tag 1.61.1 from microsoft/playwright also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 1.17.0, and the next stable source tag 1.62.0 from microsoft/playwright also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-24T06:31:50.379602+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.199266+00:00",
     "publish_state": "published"
   }
 }

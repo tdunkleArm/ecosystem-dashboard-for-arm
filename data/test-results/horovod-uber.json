@@ -5,10 +5,10 @@
     "version": "0.28.1"
   },
   "run": {
-    "id": "30068962773",
+    "id": "30145300443",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068962773/job/89405491685",
-    "timestamp": "2026-07-24T05:30:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145300443/job/89645856299",
+    "timestamp": "2026-07-25T05:31:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Import Horovod runner modules",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "passed",
-    "production_refreshed_at": "2026-07-24T06:31:50.322659+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.144541+00:00",
     "publish_state": "published"
   }
 }

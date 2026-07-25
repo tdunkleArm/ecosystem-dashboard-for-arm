@@ -5,10 +5,10 @@
     "version": "18.1.3"
   },
   "run": {
-    "id": "30068981906",
+    "id": "30145313820",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068981906/job/89405548428",
-    "timestamp": "2026-07-24T05:44:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145313820/job/89645896022",
+    "timestamp": "2026-07-25T05:40:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check llvm-config binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check llvm-as (assembler)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check llvm-dis (disassembler)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-24T06:31:50.344903+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.165725+00:00",
     "publish_state": "published"
   }
 }

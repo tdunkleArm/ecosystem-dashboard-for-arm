@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "30068950008",
+    "id": "30145290546",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30068950008/job/89405452098",
-    "timestamp": "2026-07-24T05:16:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145290546/job/89645828828",
+    "timestamp": "2026-07-25T05:10:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 33,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check kafka scripts exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 23,
+        "duration_seconds": 9,
         "current_version": "4.0.0",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-24T06:31:50.330235+00:00",
+    "production_refreshed_at": "2026-07-25T06:19:00.151777+00:00",
     "publish_state": "published"
   }
 }
