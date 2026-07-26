@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "RepeatMasker",
-    "version": "unknown"
+    "version": "4.1.0"
   },
   "run": {
-    "id": "30145302605",
+    "id": "30189402100",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145302605/job/89645862121",
-    "timestamp": "2026-07-25T05:23:34Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30189402100/job/89759732454",
+    "timestamp": "2026-07-26T06:00:59Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-repeatmasker / test-repeatmasker"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check RepeatMasker files exist",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check RepeatMasker version output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check RepeatMasker help output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 2,
+        "current_version": "4.1.0",
+        "latest_version": "4.2.4",
+        "next_installed_version": "4.2.4",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned RepeatMasker version 4.1.0 passed public source-bundle smoke checks in this run. Regression validation extracted candidate version 4.2.4 on Arm64 and confirmed exact version output, Perl syntax validity, and noninteractive help output. External search-engine and library configuration remain outside this public install-validation scope."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "repeatmasker",
     "dashboard_link": "/linux/opensource_packages/repeatmasker",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 6",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-07-25T06:19:00.208779+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-07-26T06:31:06.659307+00:00",
     "publish_state": "published"
   }
 }

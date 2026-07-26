@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Next.js",
-    "version": "16.2.11"
+    "version": "16.2.12"
   },
   "run": {
-    "id": "30145327956",
+    "id": "30189426653",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145327956/job/89645936685",
-    "timestamp": "2026-07-25T05:53:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30189426653/job/89759800169",
+    "timestamp": "2026-07-26T06:08:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Package Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Help Output Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-25T06:19:00.180971+00:00",
+    "production_refreshed_at": "2026-07-26T06:31:06.633154+00:00",
     "publish_state": "published"
   }
 }

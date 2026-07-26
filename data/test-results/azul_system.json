@@ -5,10 +5,10 @@
     "version": "17.0.9"
   },
   "run": {
-    "id": "30145307183",
+    "id": "30189406128",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30145307183/job/89645876093",
-    "timestamp": "2026-07-25T05:26:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30189406128/job/89759744353",
+    "timestamp": "2026-07-26T05:40:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check azul_system binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check azul_system version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 13,
         "current_version": "17.0.9",
         "latest_version": "17.0.10",
         "next_installed_version": "17.0.10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-25T06:19:00.093333+00:00",
+    "production_refreshed_at": "2026-07-26T06:31:06.549888+00:00",
     "publish_state": "published"
   }
 }
