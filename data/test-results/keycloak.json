@@ -5,11 +5,11 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "30189404195",
+    "id": "30240603872",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30189404195/job/89759738234",
-    "timestamp": "2026-07-26T05:36:53Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240603872/job/89896818246",
+    "timestamp": "2026-07-27T05:56:40Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -18,9 +18,9 @@
   },
   "tests": {
     "passed": 6,
-    "failed": 1,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 29,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Start Keycloak in dev mode",
         "status": "passed",
-        "duration_seconds": 22
+        "duration_seconds": 20
       },
       {
         "name": "Test 5 - Check HTTP response",
@@ -50,21 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 7,
         "current_version": "26.1.4",
         "latest_version": "26.1.5",
         "next_installed_version": "26.1.5",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
         "comparison": "Current pinned Keycloak version 26.1.4 passed smoke tests in this run. Regression validation installed candidate version 26.1.5 on Arm64, and the installed server reported version 26.1.5."
-      },
-      {
-        "name": "Workflow Finalization",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "job_failed_without_emitted_result",
-        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
-        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -72,8 +64,8 @@
     "contract_version": "2.0",
     "package_slug": "keycloak",
     "dashboard_link": "/linux/opensource_packages/keycloak",
-    "badge_status": "failing",
-    "core_failed": 1,
+    "badge_status": "passing",
+    "core_failed": 0,
     "batch_title": "Batch 7",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
@@ -81,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-26T06:31:06.607136+00:00",
+    "production_refreshed_at": "2026-07-27T07:39:11.477109+00:00",
     "publish_state": "published"
   }
 }

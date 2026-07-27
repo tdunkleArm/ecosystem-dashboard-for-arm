@@ -5,10 +5,10 @@
     "version": "0.0.6"
   },
   "run": {
-    "id": "30189394477",
+    "id": "30240584382",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30189394477/job/89759711397",
-    "timestamp": "2026-07-26T05:31:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240584382/job/89896763245",
+    "timestamp": "2026-07-27T05:44:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify Aarch64 binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "0.0.6",
         "latest_version": "0.0.7",
         "next_installed_version": "0.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-26T06:31:06.659127+00:00",
+    "production_refreshed_at": "2026-07-27T07:39:11.534836+00:00",
     "publish_state": "published"
   }
 }
