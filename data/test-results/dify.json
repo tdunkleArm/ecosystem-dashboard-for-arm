@@ -5,10 +5,10 @@
     "version": "0.3.13"
   },
   "run": {
-    "id": "30240617870",
+    "id": "30330316664",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240617870/job/89896859600",
-    "timestamp": "2026-07-27T06:13:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330316664/job/90183874640",
+    "timestamp": "2026-07-28T05:30:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 7,
         "current_version": "0.3.13",
-        "latest_version": "1.16.0",
-        "next_installed_version": "1.16.0",
+        "latest_version": "1.16.1",
+        "next_installed_version": "1.16.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.16.0 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.16.1 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-27T07:39:11.438446+00:00",
+    "production_refreshed_at": "2026-07-28T06:06:08.261384+00:00",
     "publish_state": "published"
   }
 }

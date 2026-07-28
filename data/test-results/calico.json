@@ -5,10 +5,10 @@
     "version": "v3.29.2"
   },
   "run": {
-    "id": "30240589530",
+    "id": "30330289943",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240589530/job/89896777781",
-    "timestamp": "2026-07-27T06:02:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330289943/job/90183796570",
+    "timestamp": "2026-07-28T05:02:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check calicoctl binary architecture",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check calicoctl help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Version",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "v3.29.2",
         "latest_version": "v3.29.3",
         "next_installed_version": "v3.29.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-27T07:39:11.422156+00:00",
+    "production_refreshed_at": "2026-07-28T06:06:08.244937+00:00",
     "publish_state": "published"
   }
 }

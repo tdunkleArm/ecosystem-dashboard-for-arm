@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "30240640306",
+    "id": "30330341436",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240640306/job/89896921741",
-    "timestamp": "2026-07-27T06:35:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330341436/job/90183948161",
+    "timestamp": "2026-07-28T05:52:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -19,7 +19,7 @@
   "tests": {
     "passed": 5,
     "failed": 0,
-    "skipped": 1,
+    "skipped": 0,
     "duration_seconds": 3,
     "details": [
       {
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Gitness help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 image and runner architecture",
@@ -45,11 +45,11 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
+        "status": "skipped",
         "duration_seconds": 0,
         "current_version": "3.0.0",
         "latest_version": "3.0.0",
@@ -71,9 +71,9 @@
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
+    "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-07-27T07:39:11.459386+00:00",
+    "production_refreshed_at": "2026-07-28T06:06:08.282664+00:00",
     "publish_state": "published"
   }
 }

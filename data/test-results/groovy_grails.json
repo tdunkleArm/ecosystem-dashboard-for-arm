@@ -5,10 +5,10 @@
     "version": "Groovy 4.0.30 / Grails 6.2.3"
   },
   "run": {
-    "id": "30240589530",
+    "id": "30330289943",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30240589530/job/89896777583",
-    "timestamp": "2026-07-27T05:51:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330289943/job/90183796397",
+    "timestamp": "2026-07-28T04:59:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 47,
+    "duration_seconds": 35,
     "details": [
       {
         "name": "Test 1 - Check Groovy binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Grails binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 44,
+        "duration_seconds": 32,
         "current_version": "Groovy 4.0.30 / Grails 6.2.3",
         "latest_version": "Groovy 5.0.0 / Grails 7.0.0",
         "next_installed_version": "Groovy 5.0.0 / Grails 7.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-27T07:39:11.463082+00:00",
+    "production_refreshed_at": "2026-07-28T06:06:08.286453+00:00",
     "publish_state": "published"
   }
 }
