@@ -5,10 +5,10 @@
     "version": "1.04"
   },
   "run": {
-    "id": "30330320555",
+    "id": "30424649856",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330320555/job/90183887648",
-    "timestamp": "2026-07-28T05:28:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424649856/job/90488353883",
+    "timestamp": "2026-07-29T05:54:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check lzo version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check lzo help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-28T06:06:08.227357+00:00",
+    "production_refreshed_at": "2026-07-29T07:38:11.314439+00:00",
     "publish_state": "published"
   }
 }

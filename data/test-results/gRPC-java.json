@@ -5,10 +5,10 @@
     "version": "1.55.1"
   },
   "run": {
-    "id": "30330320555",
+    "id": "30424649856",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30330320555/job/90183888264",
-    "timestamp": "2026-07-28T05:38:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424649856/job/90488353493",
+    "timestamp": "2026-07-29T06:00:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gRPC-java plugin exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check protoc availability",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Generate Java stubs from proto",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-28T06:06:08.278431+00:00",
+    "production_refreshed_at": "2026-07-29T07:38:11.367716+00:00",
     "publish_state": "published"
   }
 }
