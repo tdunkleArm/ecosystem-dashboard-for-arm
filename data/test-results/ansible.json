@@ -5,10 +5,10 @@
     "version": "2.16.19"
   },
   "run": {
-    "id": "30424611465",
+    "id": "30515109909",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424611465/job/90488227122",
-    "timestamp": "2026-07-29T05:16:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515109909/job/90783070415",
+    "timestamp": "2026-07-30T04:57:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check Version Command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Run Ad-hoc Ping",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Run Simple Playbook",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check Module Documentation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-29T07:38:11.322525+00:00",
+    "production_refreshed_at": "2026-07-30T06:18:21.617477+00:00",
     "publish_state": "published"
   }
 }

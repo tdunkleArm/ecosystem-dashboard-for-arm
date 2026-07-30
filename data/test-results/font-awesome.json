@@ -5,10 +5,10 @@
     "version": "5.0.10+really4.7.0~dfsg-4.1"
   },
   "run": {
-    "id": "30424629108",
+    "id": "30515128144",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424629108/job/90488286494",
-    "timestamp": "2026-07-29T05:28:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515128144/job/90783125374",
+    "timestamp": "2026-07-30T05:17:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check for OTF/TTF files",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Verify font with fc-list",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-29T07:38:11.365662+00:00",
+    "production_refreshed_at": "2026-07-30T06:18:21.658747+00:00",
     "publish_state": "published"
   }
 }

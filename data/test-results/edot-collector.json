@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "30424636010",
+    "id": "30515134847",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424636010/job/90488305870",
-    "timestamp": "2026-07-29T05:40:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515134847/job/90783145231",
+    "timestamp": "2026-07-30T05:33:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 32,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check EDOT wrapper exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check embedded package version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check collector help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 31,
+        "duration_seconds": 11,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-29T07:38:11.355531+00:00",
+    "production_refreshed_at": "2026-07-30T06:18:21.648995+00:00",
     "publish_state": "published"
   }
 }

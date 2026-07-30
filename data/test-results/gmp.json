@@ -5,10 +5,10 @@
     "version": "2:6.3.0+dfsg-2ubuntu6.1"
   },
   "run": {
-    "id": "30424618522",
+    "id": "30515117229",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424618522/job/90488253696",
-    "timestamp": "2026-07-29T05:38:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515117229/job/90783092517",
+    "timestamp": "2026-07-30T05:00:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check gmp.h header exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check libgmp.so exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile simple C program using GMP",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-29T07:38:11.373788+00:00",
+    "production_refreshed_at": "2026-07-30T06:18:21.666257+00:00",
     "publish_state": "published"
   }
 }

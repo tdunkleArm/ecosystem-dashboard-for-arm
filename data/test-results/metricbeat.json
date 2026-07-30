@@ -5,10 +5,10 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "30424642949",
+    "id": "30515141258",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30424642949/job/90488327970",
-    "timestamp": "2026-07-29T05:53:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515141258/job/90783164252",
+    "timestamp": "2026-07-30T05:20:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Metricbeat version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Metricbeat help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 6,
         "current_version": "9.0.4",
         "latest_version": "9.0.5",
         "next_installed_version": "9.0.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-29T07:38:11.410263+00:00",
+    "production_refreshed_at": "2026-07-30T06:18:21.701797+00:00",
     "publish_state": "published"
   }
 }
