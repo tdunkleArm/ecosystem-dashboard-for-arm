@@ -5,10 +5,10 @@
     "version": "1.2.0-6ubuntu3"
   },
   "run": {
-    "id": "30515150052",
+    "id": "30607031358",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515150052/job/90783197341",
-    "timestamp": "2026-07-30T05:31:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30607031358/job/91081354669",
+    "timestamp": "2026-07-31T06:03:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Hiredis header exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Hiredis library exists",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 13
       },
       {
         "name": "Test 3 - Compile Hiredis test program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-30T06:18:21.672928+00:00",
+    "production_refreshed_at": "2026-07-31T07:11:29.381391+00:00",
     "publish_state": "published"
   }
 }

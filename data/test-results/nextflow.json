@@ -5,10 +5,10 @@
     "version": "24.10.5"
   },
   "run": {
-    "id": "30515113428",
+    "id": "30606992196",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515113428/job/90783078149",
-    "timestamp": "2026-07-30T05:01:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30606992196/job/91081231154",
+    "timestamp": "2026-07-31T05:40:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run Hello World pipeline",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-30T06:18:21.711287+00:00",
+    "production_refreshed_at": "2026-07-31T07:11:29.420757+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.10.1"
   },
   "run": {
-    "id": "30515175184",
+    "id": "30607055308",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515175184/job/90783271646",
-    "timestamp": "2026-07-30T05:55:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30607055308/job/91081427029",
+    "timestamp": "2026-07-31T06:18:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-07-30T06:18:21.715223+00:00",
+    "production_refreshed_at": "2026-07-31T07:11:29.424772+00:00",
     "publish_state": "published"
   }
 }

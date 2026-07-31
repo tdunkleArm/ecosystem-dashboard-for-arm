@@ -5,10 +5,10 @@
     "version": "2.6.0"
   },
   "run": {
-    "id": "30515131393",
+    "id": "30607011359",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515131393/job/90783133107",
-    "timestamp": "2026-07-30T05:08:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30607011359/job/91081285684",
+    "timestamp": "2026-07-31T05:43:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kube-router binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "2.6.0",
         "latest_version": "2.6.1",
         "next_installed_version": "2.6.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-30T06:18:21.684977+00:00",
+    "production_refreshed_at": "2026-07-31T07:11:29.394008+00:00",
     "publish_state": "published"
   }
 }

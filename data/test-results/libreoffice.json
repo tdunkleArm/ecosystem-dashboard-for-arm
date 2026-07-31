@@ -5,10 +5,10 @@
     "version": "24.2.7.2"
   },
   "run": {
-    "id": "30515134847",
+    "id": "30607014811",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30515134847/job/90783145217",
-    "timestamp": "2026-07-30T05:14:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30607014811/job/91081299807",
+    "timestamp": "2026-07-31T05:43:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check libreoffice binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check libreoffice help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-30T06:18:21.691250+00:00",
+    "production_refreshed_at": "2026-07-31T07:11:29.400362+00:00",
     "publish_state": "published"
   }
 }
