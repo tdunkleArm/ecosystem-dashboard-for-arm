@@ -5,10 +5,10 @@
     "version": "3.15.1"
   },
   "run": {
-    "id": "30606992196",
+    "id": "30685820164",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30606992196/job/91081231077",
-    "timestamp": "2026-07-31T05:32:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30685820164/job/91331258135",
+    "timestamp": "2026-08-01T05:27:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check import",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Train simple model (dummy data)",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Save and load model",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-31T07:11:29.391831+00:00",
+    "production_refreshed_at": "2026-08-01T06:35:30.346449+00:00",
     "publish_state": "published"
   }
 }
