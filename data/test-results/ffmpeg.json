@@ -5,10 +5,10 @@
     "version": "6.1.1-3ubuntu5"
   },
   "run": {
-    "id": "30685832428",
+    "id": "30733994899",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30685832428/job/91331291275",
-    "timestamp": "2026-08-01T05:34:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30733994899/job/91459198956",
+    "timestamp": "2026-08-02T05:30:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ffmpeg version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Generate test video",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Probe generated video",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-01T06:35:30.238490+00:00",
+    "production_refreshed_at": "2026-08-02T06:25:12.184543+00:00",
     "publish_state": "published"
   }
 }

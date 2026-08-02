@@ -5,10 +5,10 @@
     "version": "934.0"
   },
   "run": {
-    "id": "30685847681",
+    "id": "30734010565",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30685847681/job/91331338665",
-    "timestamp": "2026-08-01T06:03:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30734010565/job/91459242315",
+    "timestamp": "2026-08-02T05:55:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "934.0",
-        "latest_version": "2150.7.0",
-        "next_installed_version": "2150.7.0",
+        "latest_version": "2150.8.0",
+        "next_installed_version": "2150.8.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.7.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.8.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-01T06:35:30.315692+00:00",
+    "production_refreshed_at": "2026-08-02T06:25:12.191654+00:00",
     "publish_state": "published"
   }
 }

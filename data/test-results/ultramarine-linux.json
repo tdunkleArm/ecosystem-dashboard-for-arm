@@ -5,10 +5,10 @@
     "version": "43"
   },
   "run": {
-    "id": "30685825187",
+    "id": "30733988513",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30685825187/job/91331273803",
-    "timestamp": "2026-08-01T05:39:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30733988513/job/91459181554",
+    "timestamp": "2026-08-02T05:27:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Baseline artifact existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Baseline index validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Baseline checksum manifest validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "43",
         "latest_version": "44",
         "next_installed_version": "44",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release_metadata",
-    "production_refreshed_at": "2026-08-01T06:35:30.506232+00:00",
+    "production_refreshed_at": "2026-08-02T06:25:12.314451+00:00",
     "publish_state": "published"
   }
 }

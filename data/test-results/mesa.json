@@ -5,10 +5,10 @@
     "version": "9.0.0-2"
   },
   "run": {
-    "id": "30685854768",
+    "id": "30734016873",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30685854768/job/91331357734",
-    "timestamp": "2026-08-01T06:10:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30734016873/job/91459261222",
+    "timestamp": "2026-08-02T06:00:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check glxgears binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-01T06:35:30.408820+00:00",
+    "production_refreshed_at": "2026-08-02T06:25:12.240042+00:00",
     "publish_state": "published"
   }
 }
