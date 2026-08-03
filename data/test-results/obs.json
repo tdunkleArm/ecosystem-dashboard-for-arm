@@ -5,10 +5,10 @@
     "version": "0.169.1"
   },
   "run": {
-    "id": "30733988513",
+    "id": "30787649690",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30733988513/job/91459181380",
-    "timestamp": "2026-08-02T05:23:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787649690/job/91604302584",
+    "timestamp": "2026-08-03T05:43:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check osc binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-02T06:25:12.257370+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.463732+00:00",
     "publish_state": "published"
   }
 }

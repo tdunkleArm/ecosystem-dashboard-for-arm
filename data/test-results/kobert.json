@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "30734006375",
+    "id": "30787677102",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30734006375/job/91459230932",
-    "timestamp": "2026-08-02T05:45:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787677102/job/91604387881",
+    "timestamp": "2026-08-03T06:10:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Check exported utility helpers",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Download tokenizer asset",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Check PyTorch integration",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-02T06:25:12.219252+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.432825+00:00",
     "publish_state": "published"
   }
 }

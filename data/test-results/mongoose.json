@@ -5,10 +5,10 @@
     "version": "8.4.1"
   },
   "run": {
-    "id": "30734006375",
+    "id": "30787677102",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30734006375/job/91459231430",
-    "timestamp": "2026-08-02T05:51:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787677102/job/91604388849",
+    "timestamp": "2026-08-03T06:05:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Module Existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-02T06:25:12.244981+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.453638+00:00",
     "publish_state": "published"
   }
 }

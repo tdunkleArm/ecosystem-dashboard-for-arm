@@ -5,11 +5,11 @@
     "version": "[client]"
   },
   "run": {
-    "id": "30733990877",
+    "id": "30787652973",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30733990877/job/91459187239",
-    "timestamp": "2026-08-02T05:26:56Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787652973/job/91604315094",
+    "timestamp": "2026-08-03T05:47:25Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,8 +17,8 @@
     "job_name": "test-multipass / test-multipass"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
     "duration_seconds": 1,
     "details": [
@@ -49,11 +49,8 @@
       },
       {
         "name": "Regression applicability - package manager installed",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 0
       }
     ]
   },
@@ -61,16 +58,14 @@
     "contract_version": "2.0",
     "package_slug": "multipass",
     "dashboard_link": "/linux/opensource_packages/multipass",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 5",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-08-02T06:25:12.246680+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.454975+00:00",
     "publish_state": "published"
   }
 }

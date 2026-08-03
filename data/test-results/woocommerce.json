@@ -5,10 +5,10 @@
     "version": "9.5.1"
   },
   "run": {
-    "id": "30734012762",
+    "id": "30787687753",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30734012762/job/91459249857",
-    "timestamp": "2026-08-02T05:54:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787687753/job/91604421979",
+    "timestamp": "2026-08-03T06:16:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - WordPress And Plugin Smoke",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 5,
         "current_version": "9.5.1",
         "latest_version": "9.5.2",
         "next_installed_version": "9.5.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-02T06:25:12.322966+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.519677+00:00",
     "publish_state": "published"
   }
 }

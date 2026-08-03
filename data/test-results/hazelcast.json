@@ -5,10 +5,10 @@
     "version": "5.5.0"
   },
   "run": {
-    "id": "30733992884",
+    "id": "30787656430",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30733992884/job/91459192347",
-    "timestamp": "2026-08-02T05:40:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787656430/job/91604326193",
+    "timestamp": "2026-08-03T05:58:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check start script exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact core JAR version",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Run CLI help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Start Hazelcast briefly",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 10,
         "current_version": "5.5.0",
         "latest_version": "5.6.0",
         "next_installed_version": "5.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-02T06:25:12.203973+00:00",
+    "production_refreshed_at": "2026-08-03T06:41:33.420692+00:00",
     "publish_state": "published"
   }
 }
