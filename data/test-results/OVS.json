@@ -5,10 +5,10 @@
     "version": "3.3.4"
   },
   "run": {
-    "id": "30787646017",
+    "id": "30879269672",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787646017/job/91604291456",
-    "timestamp": "2026-08-03T05:47:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879269672/job/91896929600",
+    "timestamp": "2026-08-04T05:09:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check ovs-vsctl binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check ovs version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-03T06:41:33.361630+00:00",
+    "production_refreshed_at": "2026-08-04T06:21:30.249711+00:00",
     "publish_state": "published"
   }
 }

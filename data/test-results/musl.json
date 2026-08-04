@@ -5,10 +5,10 @@
     "version": "1.2.4-2"
   },
   "run": {
-    "id": "30787683858",
+    "id": "30879307915",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787683858/job/91604409947",
-    "timestamp": "2026-08-03T06:06:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879307915/job/91897043966",
+    "timestamp": "2026-08-04T05:44:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional compile and run",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-03T06:41:33.455948+00:00",
+    "production_refreshed_at": "2026-08-04T06:21:30.345253+00:00",
     "publish_state": "published"
   }
 }

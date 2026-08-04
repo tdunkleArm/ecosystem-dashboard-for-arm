@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "30787697993",
+    "id": "30879326289",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787697993/job/91604451067",
-    "timestamp": "2026-08-03T06:17:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879326289/job/91897096366",
+    "timestamp": "2026-08-04T05:48:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 42,
     "details": [
       {
         "name": "Test 1 - Check standalone compose asset",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Validate standalone compose configuration",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-03T06:41:33.451139+00:00",
+    "production_refreshed_at": "2026-08-04T06:21:30.340236+00:00",
     "publish_state": "published"
   }
 }

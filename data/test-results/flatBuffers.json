@@ -5,10 +5,10 @@
     "version": "2.0.8"
   },
   "run": {
-    "id": "30787670252",
+    "id": "30879294396",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30787670252/job/91604370070",
-    "timestamp": "2026-08-03T06:02:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879294396/job/91897004276",
+    "timestamp": "2026-08-04T05:30:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check flatc binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check flatc version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-03T06:41:33.406769+00:00",
+    "production_refreshed_at": "2026-08-04T06:21:30.294705+00:00",
     "publish_state": "published"
   }
 }
