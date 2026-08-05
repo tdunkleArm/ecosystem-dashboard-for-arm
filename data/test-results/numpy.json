@@ -5,10 +5,10 @@
     "version": "2.5.1"
   },
   "run": {
-    "id": "30879321381",
+    "id": "30977337217",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879321381/job/91897082367",
-    "timestamp": "2026-08-04T05:48:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977337217/job/92214029354",
+    "timestamp": "2026-08-05T06:03:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Import NumPy",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check installed version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check f2py help",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-04T06:21:30.351404+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.458408+00:00",
     "publish_state": "published"
   }
 }

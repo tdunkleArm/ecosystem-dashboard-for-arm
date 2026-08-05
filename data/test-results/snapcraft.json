@@ -5,10 +5,10 @@
     "version": "9.0.1"
   },
   "run": {
-    "id": "30879277166",
+    "id": "30977291516",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879277166/job/91896953805",
-    "timestamp": "2026-08-04T05:05:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977291516/job/92213902103",
+    "timestamp": "2026-08-05T05:42:41Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Binary Exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-08-04T06:21:30.386098+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.493452+00:00",
     "publish_state": "published"
   }
 }

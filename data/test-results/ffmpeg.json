@@ -5,10 +5,10 @@
     "version": "6.1.1-3ubuntu5"
   },
   "run": {
-    "id": "30879284172",
+    "id": "30977299719",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879284172/job/91896975721",
-    "timestamp": "2026-08-04T05:27:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977299719/job/92213915178",
+    "timestamp": "2026-08-05T05:23:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check ffmpeg binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Generate test video",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Probe generated video",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-04T06:21:30.293307+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.383906+00:00",
     "publish_state": "published"
   }
 }

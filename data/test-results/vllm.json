@@ -5,10 +5,10 @@
     "version": "0.10.2"
   },
   "run": {
-    "id": "30879284172",
+    "id": "30977299719",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879284172/job/91896975537",
-    "timestamp": "2026-08-04T05:22:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977299719/job/92213915346",
+    "timestamp": "2026-08-05T05:21:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check vLLM import",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check wheel metadata is aarch64",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-04T06:21:30.406376+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.514490+00:00",
     "publish_state": "published"
   }
 }

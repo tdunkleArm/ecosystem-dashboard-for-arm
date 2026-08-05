@@ -5,10 +5,10 @@
     "version": "1.4.0"
   },
   "run": {
-    "id": "30879307915",
+    "id": "30977326054",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879307915/job/91897044570",
-    "timestamp": "2026-08-04T05:35:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977326054/job/92213994660",
+    "timestamp": "2026-08-05T05:48:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 76,
+    "duration_seconds": 51,
     "details": [
       {
         "name": "Test 1 - Check Arm64 Release Artifacts Exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 51,
+        "duration_seconds": 26,
         "current_version": "1.4.0",
         "latest_version": "1.4.1",
         "next_installed_version": "1.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-04T06:21:30.308331+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.398265+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "20260802"
   },
   "run": {
-    "id": "30879291083",
+    "id": "30977307807",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30879291083/job/91896993704",
-    "timestamp": "2026-08-04T05:20:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977307807/job/92213934779",
+    "timestamp": "2026-08-05T05:35:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 21,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Image Availability",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 21
+        "duration_seconds": 17
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-04T06:21:30.360437+00:00",
+    "production_refreshed_at": "2026-08-05T06:19:32.468023+00:00",
     "publish_state": "published"
   }
 }
