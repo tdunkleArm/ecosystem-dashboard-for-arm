@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "30977337217",
+    "id": "31073452418",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977337217/job/92214029069",
-    "timestamp": "2026-08-05T05:54:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073452418/job/92526092579",
+    "timestamp": "2026-08-06T05:50:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Gitness binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Gitness version output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-08-05T06:19:32.392725+00:00",
+    "production_refreshed_at": "2026-08-06T06:17:31.519148+00:00",
     "publish_state": "published"
   }
 }

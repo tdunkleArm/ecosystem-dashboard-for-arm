@@ -5,10 +5,10 @@
     "version": "2.5.1"
   },
   "run": {
-    "id": "30977287208",
+    "id": "31073404899",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977287208/job/92213874491",
-    "timestamp": "2026-08-05T05:14:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073404899/job/92525939371",
+    "timestamp": "2026-08-06T05:19:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check encoder and decoder binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 11,
         "current_version": "2.5.1",
         "latest_version": "2.6.0",
         "next_installed_version": "2.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-05T06:19:32.340329+00:00",
+    "production_refreshed_at": "2026-08-06T06:17:31.459902+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "24.04.00"
   },
   "run": {
-    "id": "30977311625",
+    "id": "31073426455",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977311625/job/92213946399",
-    "timestamp": "2026-08-05T05:33:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073426455/job/92526008999",
+    "timestamp": "2026-08-06T05:33:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24.04.00",
-        "latest_version": "26.06.00",
-        "next_installed_version": "26.06.00",
+        "latest_version": "26.08.00",
+        "next_installed_version": "26.08.00",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 24.04.00, and the next stable source tag 26.06.00 from rapidsai/cuvs also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 24.04.00, and the next stable source tag 26.08.00 from rapidsai/cuvs also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-05T06:19:32.369306+00:00",
+    "production_refreshed_at": "2026-08-06T06:17:31.492718+00:00",
     "publish_state": "published"
   }
 }

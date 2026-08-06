@@ -5,10 +5,10 @@
     "version": "2.5.11-hadoop3"
   },
   "run": {
-    "id": "30977295591",
+    "id": "31073412089",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977295591/job/92213910631",
-    "timestamp": "2026-08-05T05:29:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073412089/job/92525971255",
+    "timestamp": "2026-08-06T05:22:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check configuration files",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Start HBase master briefly",
         "status": "passed",
-        "duration_seconds": 21
+        "duration_seconds": 20
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-08-05T06:19:32.399127+00:00",
+    "production_refreshed_at": "2026-08-06T06:17:31.526621+00:00",
     "publish_state": "published"
   }
 }

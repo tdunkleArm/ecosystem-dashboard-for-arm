@@ -5,10 +5,10 @@
     "version": "0.16.0"
   },
   "run": {
-    "id": "30977307807",
+    "id": "31073422638",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/30977307807/job/92213934902",
-    "timestamp": "2026-08-05T05:37:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073422638/job/92525996917",
+    "timestamp": "2026-08-06T05:30:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.16.0",
-        "latest_version": "26.06.00",
-        "next_installed_version": "26.06.00",
+        "latest_version": "26.08.00",
+        "next_installed_version": "26.08.00",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.16.0, and the next stable source tag 26.06.00 from rapidsai/cugraph also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.16.0, and the next stable source tag 26.08.00 from rapidsai/cugraph also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-05T06:19:32.367780+00:00",
+    "production_refreshed_at": "2026-08-06T06:17:31.491028+00:00",
     "publish_state": "published"
   }
 }
