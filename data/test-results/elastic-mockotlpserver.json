@@ -5,10 +5,10 @@
     "version": "50"
   },
   "run": {
-    "id": "31073459834",
+    "id": "31147253403",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073459834/job/92526116119",
-    "timestamp": "2026-08-06T05:57:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147253403/job/92769148601",
+    "timestamp": "2026-08-07T05:17:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check mockotlpserver help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Start server and check port",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-06T06:17:31.504058+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.802778+00:00",
     "publish_state": "published"
   }
 }

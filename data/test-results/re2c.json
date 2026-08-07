@@ -5,10 +5,10 @@
     "version": "4.3"
   },
   "run": {
-    "id": "31073452418",
+    "id": "31147245268",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073452418/job/92526092555",
-    "timestamp": "2026-08-06T05:51:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147245268/job/92769123489",
+    "timestamp": "2026-08-07T05:07:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 330,
+    "duration_seconds": 319,
     "details": [
       {
         "name": "Test 1 - Check re2c binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 330,
+        "duration_seconds": 319,
         "current_version": "4.3",
         "latest_version": "4.3.1",
         "next_installed_version": "4.3.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-06T06:17:31.598403+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.901255+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "6.8"
   },
   "run": {
-    "id": "31073441129",
+    "id": "31147232574",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073441129/job/92526055821",
-    "timestamp": "2026-08-06T05:44:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147232574/job/92769087815",
+    "timestamp": "2026-08-07T04:56:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 3,
         "current_version": "6.8",
-        "latest_version": "7.0.2",
-        "next_installed_version": "7.0.2",
+        "latest_version": "7.0.3",
+        "next_installed_version": "7.0.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned WordPress version 6.8 passed source tarball validation in this run, and candidate release 7.0.2 also passed PHP lint plus installer-page smoke on Arm64 from a fresh isolated install."
+        "comparison": "Current pinned WordPress version 6.8 passed source tarball validation in this run, and candidate release 7.0.3 also passed PHP lint plus installer-page smoke on Arm64 from a fresh isolated install."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-06T06:17:31.633072+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.937954+00:00",
     "publish_state": "published"
   }
 }

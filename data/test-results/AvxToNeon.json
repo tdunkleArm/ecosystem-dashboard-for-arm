@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "run": {
-    "id": "31073397414",
+    "id": "31147184835",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073397414/job/92525916286",
-    "timestamp": "2026-08-06T05:20:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147184835/job/92768940618",
+    "timestamp": "2026-08-07T04:23:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Header Existence",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile Simple Program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Run Program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-08-06T06:17:31.455569+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.754602+00:00",
     "publish_state": "published"
   }
 }

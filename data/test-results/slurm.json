@@ -5,10 +5,10 @@
     "version": "25.05.7"
   },
   "run": {
-    "id": "31073444888",
+    "id": "31147236653",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073444888/job/92526068212",
-    "timestamp": "2026-08-06T05:46:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147236653/job/92769102007",
+    "timestamp": "2026-08-07T05:10:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 172,
+    "duration_seconds": 166,
     "details": [
       {
         "name": "Test 1 - Check srun binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 172,
+        "duration_seconds": 166,
         "current_version": "25.05.7",
         "latest_version": "25.11.4",
         "next_installed_version": "25.11.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-06T06:17:31.607615+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.911190+00:00",
     "publish_state": "published"
   }
 }

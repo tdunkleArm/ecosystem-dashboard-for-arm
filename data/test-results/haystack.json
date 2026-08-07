@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "31073448791",
+    "id": "31147241055",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31073448791/job/92526084064",
-    "timestamp": "2026-08-06T06:01:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31147241055/job/92769110583",
+    "timestamp": "2026-08-07T05:00:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check Document import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check pip dependencies",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-06T06:17:31.526214+00:00",
+    "production_refreshed_at": "2026-08-07T05:28:09.825290+00:00",
     "publish_state": "published"
   }
 }
