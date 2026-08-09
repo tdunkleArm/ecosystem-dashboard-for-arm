@@ -5,10 +5,10 @@
     "version": "2.15-3build1"
   },
   "run": {
-    "id": "31236976840",
+    "id": "31292507491",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236976840/job/93051208251",
-    "timestamp": "2026-08-08T04:11:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292507491/job/93192002037",
+    "timestamp": "2026-08-09T04:08:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check tcmalloc headers exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check libtcmalloc.so exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-08T04:29:44.377374+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.830746+00:00",
     "publish_state": "published"
   }
 }

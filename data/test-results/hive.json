@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "31236951931",
+    "id": "31292485873",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236951931/job/93051140927",
-    "timestamp": "2026-08-08T03:32:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292485873/job/93191941285",
+    "timestamp": "2026-08-09T03:38:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 128,
     "details": [
       {
         "name": "Test 1 - Check Hive scripts exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact Hive version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Hive jar layout",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 23,
+        "duration_seconds": 125,
         "current_version": "4.0.0",
         "latest_version": "4.2.0",
         "next_installed_version": "4.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-08T04:29:44.386318+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.837113+00:00",
     "publish_state": "published"
   }
 }

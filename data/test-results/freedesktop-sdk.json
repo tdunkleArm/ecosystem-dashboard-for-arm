@@ -5,10 +5,10 @@
     "version": "1.14.6"
   },
   "run": {
-    "id": "31236965436",
+    "id": "31292496762",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236965436/job/93051177708",
-    "timestamp": "2026-08-08T03:50:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292496762/job/93191972718",
+    "timestamp": "2026-08-09T03:58:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check flatpak help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - List installed runtimes (should be empty initially)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-08T04:29:44.365520+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.821375+00:00",
     "publish_state": "published"
   }
 }

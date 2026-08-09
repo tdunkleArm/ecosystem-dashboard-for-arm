@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "31236949386",
+    "id": "31292483898",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236949386/job/93051131542",
-    "timestamp": "2026-08-08T03:38:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292483898/job/93191935639",
+    "timestamp": "2026-08-09T03:39:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RepeatMasker version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check RepeatMasker help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "4.1.0",
         "latest_version": "4.2.4",
         "next_installed_version": "4.2.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-08T04:29:44.500454+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.913173+00:00",
     "publish_state": "published"
   }
 }

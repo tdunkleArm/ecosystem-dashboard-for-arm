@@ -5,10 +5,10 @@
     "version": "0.4.1"
   },
   "run": {
-    "id": "31236956723",
+    "id": "31292489867",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236956723/job/93051155181",
-    "timestamp": "2026-08-08T03:36:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292489867/job/93191951817",
+    "timestamp": "2026-08-09T03:54:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check package-specific version and release evidence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "0.4.1",
         "latest_version": "0.15.0",
         "next_installed_version": "0.15.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-08T04:29:44.327772+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.796309+00:00",
     "publish_state": "published"
   }
 }

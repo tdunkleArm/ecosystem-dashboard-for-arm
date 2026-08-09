@@ -5,10 +5,10 @@
     "version": "1.2.3_spark-3.2"
   },
   "run": {
-    "id": "31236937756",
+    "id": "31292474559",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236937756/job/93051102518",
-    "timestamp": "2026-08-08T03:23:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292474559/job/93191910769",
+    "timestamp": "2026-08-09T03:28:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Verify Jar Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Analyze Dependencies",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Test 3 - Check for Kinesis classes",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation (Architecture Only)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-08-08T04:29:44.516870+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.924614+00:00",
     "publish_state": "published"
   }
 }

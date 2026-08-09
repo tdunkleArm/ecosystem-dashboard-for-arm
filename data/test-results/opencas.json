@@ -5,10 +5,10 @@
     "version": "24.09.0.0000"
   },
   "run": {
-    "id": "31236973903",
+    "id": "31292504938",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236973903/job/93051200423",
-    "timestamp": "2026-08-08T04:03:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292504938/job/93191993392",
+    "timestamp": "2026-08-09T04:08:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 104,
+    "duration_seconds": 102,
     "details": [
       {
         "name": "Test 1 - Check Open CAS binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 30
+        "duration_seconds": 31
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 44,
+        "duration_seconds": 42,
         "current_version": "24.09.0.0000",
         "latest_version": "25.03",
         "next_installed_version": "25.03.0.0000",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-08T04:29:44.460049+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.888262+00:00",
     "publish_state": "published"
   }
 }

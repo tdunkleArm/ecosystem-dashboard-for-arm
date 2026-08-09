@@ -5,10 +5,10 @@
     "version": "0.38.0"
   },
   "run": {
-    "id": "31236971109",
+    "id": "31292502246",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236971109/job/93051193384",
-    "timestamp": "2026-08-08T03:56:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292502246/job/93191985114",
+    "timestamp": "2026-08-09T04:14:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Thanos binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.38.0",
         "latest_version": "0.39.0",
         "next_installed_version": "version",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-08T04:29:44.527361+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.936619+00:00",
     "publish_state": "published"
   }
 }

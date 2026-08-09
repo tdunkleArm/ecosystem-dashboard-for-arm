@@ -5,10 +5,10 @@
     "version": "v2.9.0"
   },
   "run": {
-    "id": "31236965436",
+    "id": "31292496762",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31236965436/job/93051177451",
-    "timestamp": "2026-08-08T03:50:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292496762/job/93191973053",
+    "timestamp": "2026-08-09T03:54:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check caddy version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check caddy help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "v2.9.0",
         "latest_version": "v2.9.1",
         "next_installed_version": "v2.9.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-08T04:29:44.307484+00:00",
+    "production_refreshed_at": "2026-08-09T04:42:42.782804+00:00",
     "publish_state": "published"
   }
 }
