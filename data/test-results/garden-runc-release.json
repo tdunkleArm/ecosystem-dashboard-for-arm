@@ -5,10 +5,10 @@
     "version": "1.70.0"
   },
   "run": {
-    "id": "31292483898",
+    "id": "31353594498",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292483898/job/93191935273",
-    "timestamp": "2026-08-09T03:34:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353594498/job/93348913266",
+    "timestamp": "2026-08-10T03:57:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check gdn binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 3,
         "current_version": "1.70.0",
         "latest_version": "1.71.0",
         "next_installed_version": "1.71.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-09T04:42:42.823810+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.526283+00:00",
     "publish_state": "published"
   }
 }

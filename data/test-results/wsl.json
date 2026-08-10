@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "31292520554",
+    "id": "31353644772",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292520554/job/93192033467",
-    "timestamp": "2026-08-09T04:18:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353644772/job/93349057472",
+    "timestamp": "2026-08-10T04:38:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "2.0.0",
         "latest_version": "2.9.4",
         "next_installed_version": "2.9.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-09T04:42:42.951464+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.640149+00:00",
     "publish_state": "published"
   }
 }

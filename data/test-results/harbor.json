@@ -5,10 +5,10 @@
     "version": "2.12.4"
   },
   "run": {
-    "id": "31292479451",
+    "id": "31353584480",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292479451/job/93191922496",
-    "timestamp": "2026-08-09T03:37:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353584480/job/93348886786",
+    "timestamp": "2026-08-10T03:56:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 46,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Harbor install script exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Run Harbor prepare help path",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 37,
+        "duration_seconds": 8,
         "current_version": "2.12.4",
         "latest_version": "2.13.0",
         "next_installed_version": "2.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-09T04:42:42.833879+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.535226+00:00",
     "publish_state": "published"
   }
 }

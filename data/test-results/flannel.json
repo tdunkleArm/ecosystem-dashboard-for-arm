@@ -5,10 +5,10 @@
     "version": "v0.26.4"
   },
   "run": {
-    "id": "31292507491",
+    "id": "31353627915",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292507491/job/93192001982",
-    "timestamp": "2026-08-09T04:07:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353627915/job/93349011884",
+    "timestamp": "2026-08-10T04:29:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check flanneld help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.26.4",
         "latest_version": "v0.26.5",
         "next_installed_version": "v0.26.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-09T04:42:42.818051+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.521445+00:00",
     "publish_state": "published"
   }
 }

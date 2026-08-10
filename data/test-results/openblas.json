@@ -5,10 +5,10 @@
     "version": "0.3.26"
   },
   "run": {
-    "id": "31292479451",
+    "id": "31353584480",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292479451/job/93191922122",
-    "timestamp": "2026-08-09T03:36:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353584480/job/93348885949",
+    "timestamp": "2026-08-10T03:50:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check pkg-config",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile and Link Simple Program",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-09T04:42:42.887851+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.584236+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "v0.4"
   },
   "run": {
-    "id": "31292479451",
+    "id": "31353584480",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292479451/job/93191922117",
-    "timestamp": "2026-08-09T03:32:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353584480/job/93348885789",
+    "timestamp": "2026-08-10T03:52:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check go.mod existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "v0.4",
         "latest_version": "v0.4",
         "next_installed_version": "v0.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-08-09T04:42:42.869911+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.568057+00:00",
     "publish_state": "published"
   }
 }

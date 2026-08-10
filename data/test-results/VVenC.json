@@ -5,10 +5,10 @@
     "version": "1.13.1"
   },
   "run": {
-    "id": "31292507491",
+    "id": "31353627915",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31292507491/job/93192001940",
-    "timestamp": "2026-08-09T04:06:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353627915/job/93349011752",
+    "timestamp": "2026-08-10T04:28:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 123,
+    "duration_seconds": 134,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 123,
+        "duration_seconds": 134,
         "current_version": "1.13.1",
         "latest_version": "1.14.0",
         "next_installed_version": "1.14.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-09T04:42:42.765851+00:00",
+    "production_refreshed_at": "2026-08-10T04:56:46.476726+00:00",
     "publish_state": "published"
   }
 }
