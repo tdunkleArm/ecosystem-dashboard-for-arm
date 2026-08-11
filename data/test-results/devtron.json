@@ -5,10 +5,10 @@
     "version": "1.1.0"
   },
   "run": {
-    "id": "31353614462",
+    "id": "31455986444",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353614462/job/93348972811",
-    "timestamp": "2026-08-10T04:17:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455986444/job/93669755098",
+    "timestamp": "2026-08-11T04:20:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check Devtron chart exists",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Verify Arm64 image manifests",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Render Devtron chart",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-10T04:56:46.508085+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.137685+00:00",
     "publish_state": "published"
   }
 }

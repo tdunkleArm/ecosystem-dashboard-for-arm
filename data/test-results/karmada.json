@@ -5,10 +5,10 @@
     "version": "1.13.0"
   },
   "run": {
-    "id": "31353631275",
+    "id": "31456006028",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353631275/job/93349018830",
-    "timestamp": "2026-08-10T04:27:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31456006028/job/93669807353",
+    "timestamp": "2026-08-11T04:21:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check karmadactl binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-10T04:56:46.547011+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.175560+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.49.2"
   },
   "run": {
-    "id": "31353618004",
+    "id": "31455990640",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353618004/job/93348982802",
-    "timestamp": "2026-08-10T04:19:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455990640/job/93669762580",
+    "timestamp": "2026-08-11T04:12:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check spicedb binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.49.2",
         "latest_version": "1.50.0",
         "next_installed_version": "1.50.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-10T04:56:46.618161+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.248193+00:00",
     "publish_state": "published"
   }
 }

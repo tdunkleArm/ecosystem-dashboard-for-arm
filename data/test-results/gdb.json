@@ -5,10 +5,10 @@
     "version": "15.1-1ubuntu1~24.04.1)"
   },
   "run": {
-    "id": "31353614462",
+    "id": "31455986444",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353614462/job/93348972124",
-    "timestamp": "2026-08-10T04:14:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455986444/job/93669754358",
+    "timestamp": "2026-08-11T04:07:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check gdb binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check gdb version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check gdb help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-10T04:56:46.527277+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.156801+00:00",
     "publish_state": "published"
   }
 }

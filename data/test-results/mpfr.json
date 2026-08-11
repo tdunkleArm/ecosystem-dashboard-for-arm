@@ -5,10 +5,10 @@
     "version": "4.2.1"
   },
   "run": {
-    "id": "31353581100",
+    "id": "31455947132",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353581100/job/93348876403",
-    "timestamp": "2026-08-10T03:48:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455947132/job/93669638637",
+    "timestamp": "2026-08-11T03:41:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Compile simple C program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-10T04:56:46.573099+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.201736+00:00",
     "publish_state": "published"
   }
 }

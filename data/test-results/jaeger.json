@@ -5,10 +5,10 @@
     "version": "v2.14.0"
   },
   "run": {
-    "id": "31353584480",
+    "id": "31455950459",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353584480/job/93348886758",
-    "timestamp": "2026-08-10T03:55:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455950459/job/93669652789",
+    "timestamp": "2026-08-11T03:44:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check jaeger binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-10T04:56:46.543354+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.172158+00:00",
     "publish_state": "published"
   }
 }

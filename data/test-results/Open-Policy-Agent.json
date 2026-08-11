@@ -5,10 +5,10 @@
     "version": "1.2.0"
   },
   "run": {
-    "id": "31353621362",
+    "id": "31455994500",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353621362/job/93348992563",
-    "timestamp": "2026-08-10T04:21:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455994500/job/93669771723",
+    "timestamp": "2026-08-11T04:08:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check OPA binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.2.0",
         "latest_version": "1.14.1",
         "next_installed_version": "1.14.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-10T04:56:46.475038+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.104697+00:00",
     "publish_state": "published"
   }
 }

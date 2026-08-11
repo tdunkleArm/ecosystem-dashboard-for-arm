@@ -5,10 +5,10 @@
     "version": "3.6.5"
   },
   "run": {
-    "id": "31353627915",
+    "id": "31456002238",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353627915/job/93349012022",
-    "timestamp": "2026-08-10T04:24:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31456002238/job/93669797381",
+    "timestamp": "2026-08-11T04:18:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check osgversion binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile Simple OSG Program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-10T04:56:46.588194+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.217328+00:00",
     "publish_state": "published"
   }
 }

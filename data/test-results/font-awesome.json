@@ -5,10 +5,10 @@
     "version": "5.0.10+really4.7.0~dfsg-4.1"
   },
   "run": {
-    "id": "31353594498",
+    "id": "31455961345",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353594498/job/93348913760",
-    "timestamp": "2026-08-10T03:54:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455961345/job/93669682072",
+    "timestamp": "2026-08-11T03:44:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check font directory exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Verify font with fc-list",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check CSS file (if installed)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check package metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-10T04:56:46.523414+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.153160+00:00",
     "publish_state": "published"
   }
 }

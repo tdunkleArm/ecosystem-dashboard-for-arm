@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "31353577614",
+    "id": "31455944665",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31353577614/job/93348865911",
-    "timestamp": "2026-08-10T03:49:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455944665/job/93669631358",
+    "timestamp": "2026-08-11T03:41:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check katsu package",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check katsu help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-10T04:56:46.547573+00:00",
+    "production_refreshed_at": "2026-08-11T04:39:10.176123+00:00",
     "publish_state": "published"
   }
 }
