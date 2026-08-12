@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "31456002238",
+    "id": "31561911444",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31456002238/job/93669797619",
-    "timestamp": "2026-08-11T04:13:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31561911444/job/94005809642",
+    "timestamp": "2026-08-12T04:42:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 81,
+    "duration_seconds": 78,
     "details": [
       {
         "name": "Test 1 - Check binary existence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 36,
+        "duration_seconds": 33,
         "current_version": "11.71.7",
-        "latest_version": "12.22.8",
-        "next_installed_version": "12.22.8",
+        "latest_version": "12.23.1",
+        "next_installed_version": "12.23.1",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.22.8, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.23.1, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-11T04:39:10.227560+00:00",
+    "production_refreshed_at": "2026-08-12T05:08:22.149632+00:00",
     "publish_state": "published"
   }
 }

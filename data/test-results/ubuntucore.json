@@ -5,10 +5,10 @@
     "version": "20"
   },
   "run": {
-    "id": "31455973099",
+    "id": "31561883195",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455973099/job/93669714781",
-    "timestamp": "2026-08-11T03:59:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31561883195/job/94005732934",
+    "timestamp": "2026-08-12T04:19:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 15,
     "details": [
       {
         "name": "Test 1 - Baseline artifact existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Baseline index validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Baseline checksum manifest validation",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Baseline image integrity validation",
         "status": "passed",
-        "duration_seconds": 15
+        "duration_seconds": 13
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "20",
         "latest_version": "26",
         "next_installed_version": "26",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release_metadata",
-    "production_refreshed_at": "2026-08-11T04:39:10.261184+00:00",
+    "production_refreshed_at": "2026-08-12T05:08:22.180461+00:00",
     "publish_state": "published"
   }
 }

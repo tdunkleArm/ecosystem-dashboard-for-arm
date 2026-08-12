@@ -5,10 +5,10 @@
     "version": "1.11.0"
   },
   "run": {
-    "id": "31455977741",
+    "id": "31561887053",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31455977741/job/93669724271",
-    "timestamp": "2026-08-11T04:03:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31561887053/job/94005740748",
+    "timestamp": "2026-08-12T04:25:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Epinio binary exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check Epinio settings command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Completion and architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 1,
         "current_version": "1.11.0",
         "latest_version": "1.12.0",
         "next_installed_version": "1.12.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-11T04:39:10.147936+00:00",
+    "production_refreshed_at": "2026-08-12T05:08:22.072853+00:00",
     "publish_state": "published"
   }
 }
