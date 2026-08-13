@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "31561887053",
+    "id": "31665919922",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31561887053/job/94005740779",
-    "timestamp": "2026-08-12T04:22:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31665919922/job/94340343654",
+    "timestamp": "2026-08-13T04:38:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 4,
         "current_version": "4.1.0",
-        "latest_version": "4.6.2",
-        "next_installed_version": "4.6.2",
+        "latest_version": "4.7.0",
+        "next_installed_version": "4.7.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.6.2 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.7.0 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-12T05:08:22.059149+00:00",
+    "production_refreshed_at": "2026-08-13T05:08:30.776640+00:00",
     "publish_state": "published"
   }
 }

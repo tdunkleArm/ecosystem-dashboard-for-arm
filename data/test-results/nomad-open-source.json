@@ -5,10 +5,10 @@
     "version": "1.6.1"
   },
   "run": {
-    "id": "31561894896",
+    "id": "31665927364",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31561894896/job/94005762670",
-    "timestamp": "2026-08-12T04:40:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31665927364/job/94340370054",
+    "timestamp": "2026-08-13T04:37:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check binary exists",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "1.6.1",
-        "latest_version": "2.0.4",
-        "next_installed_version": "2.0.4",
+        "latest_version": "2.0.5",
+        "next_installed_version": "2.0.5",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.4 on Arm64, and the staged binary reported version 2.0.4."
+        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.5 on Arm64, and the staged binary reported version 2.0.5."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-12T05:08:22.131829+00:00",
+    "production_refreshed_at": "2026-08-13T05:08:30.847038+00:00",
     "publish_state": "published"
   }
 }
