@@ -5,10 +5,10 @@
     "version": "5.0.0.93"
   },
   "run": {
-    "id": "31665938907",
+    "id": "31768610679",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31665938907/job/94340404396",
-    "timestamp": "2026-08-13T04:49:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31768610679/job/94669622552",
+    "timestamp": "2026-08-14T04:38:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Import OpenCV",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-13T05:08:30.851874+00:00",
+    "production_refreshed_at": "2026-08-14T05:05:44.038747+00:00",
     "publish_state": "published"
   }
 }

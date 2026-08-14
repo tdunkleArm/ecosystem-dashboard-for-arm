@@ -5,10 +5,10 @@
     "version": "8.17.0"
   },
   "run": {
-    "id": "31665888236",
+    "id": "31768559440",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31665888236/job/94340252773",
-    "timestamp": "2026-08-13T04:15:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31768559440/job/94669469631",
+    "timestamp": "2026-08-14T04:05:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Version Command",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Export Template",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "8.17.0",
         "latest_version": "8.18.0",
         "next_installed_version": "8.18.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-13T05:08:30.758063+00:00",
+    "production_refreshed_at": "2026-08-14T05:05:43.940842+00:00",
     "publish_state": "published"
   }
 }
