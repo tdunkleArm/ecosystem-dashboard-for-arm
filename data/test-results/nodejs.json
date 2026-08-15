@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Node.js",
-    "version": "v22.23.1"
+    "version": "v22.23.2"
   },
   "run": {
-    "id": "31768563180",
+    "id": "31860049069",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31768563180/job/94669481163",
-    "timestamp": "2026-08-14T04:06:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860049069/job/94951707844",
+    "timestamp": "2026-08-15T02:47:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-14T05:05:44.033521+00:00",
+    "production_refreshed_at": "2026-08-15T03:52:07.469501+00:00",
     "publish_state": "published"
   }
 }
