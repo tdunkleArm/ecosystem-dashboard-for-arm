@@ -5,10 +5,10 @@
     "version": "1.12"
   },
   "run": {
-    "id": "31860069905",
+    "id": "31922992940",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860069905/job/94951768731",
-    "timestamp": "2026-08-15T03:15:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922992940/job/95105875113",
+    "timestamp": "2026-08-16T03:21:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check gzip version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Compress a file",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-15T03:52:07.425960+00:00",
+    "production_refreshed_at": "2026-08-16T04:03:39.339411+00:00",
     "publish_state": "published"
   }
 }

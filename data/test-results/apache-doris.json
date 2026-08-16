@@ -5,10 +5,10 @@
     "version": "3.0.8"
   },
   "run": {
-    "id": "31860082254",
+    "id": "31923005246",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860082254/job/94951806559",
-    "timestamp": "2026-08-15T03:18:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31923005246/job/95105907127",
+    "timestamp": "2026-08-16T03:30:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 99,
+    "duration_seconds": 40,
     "details": [
       {
         "name": "Test 1 - Check FE image contents",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check BE image contents",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 97,
+        "duration_seconds": 39,
         "current_version": "3.0.8",
         "latest_version": "3.1.0",
         "next_installed_version": "3.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-15T03:52:07.376055+00:00",
+    "production_refreshed_at": "2026-08-16T04:03:39.291419+00:00",
     "publish_state": "published"
   }
 }

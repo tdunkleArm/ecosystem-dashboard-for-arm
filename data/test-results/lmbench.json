@@ -5,10 +5,10 @@
     "version": "3.0-a9+debian.1-6build3"
   },
   "run": {
-    "id": "31860061656",
+    "id": "31922984253",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860061656/job/94951744945",
-    "timestamp": "2026-08-15T03:02:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922984253/job/95105849160",
+    "timestamp": "2026-08-16T03:06:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Suite Configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-15T03:52:07.452246+00:00",
+    "production_refreshed_at": "2026-08-16T04:03:39.364288+00:00",
     "publish_state": "published"
   }
 }

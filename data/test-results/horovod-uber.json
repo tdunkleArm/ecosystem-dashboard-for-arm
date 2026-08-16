@@ -5,10 +5,10 @@
     "version": "0.28.1"
   },
   "run": {
-    "id": "31860055603",
+    "id": "31922977901",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860055603/job/94951732560",
-    "timestamp": "2026-08-15T03:13:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922977901/job/95105831239",
+    "timestamp": "2026-08-16T03:02:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check horovodrun help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 and MPI path",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Import Horovod runner modules",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -66,7 +66,7 @@
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "passed",
-    "production_refreshed_at": "2026-08-15T03:52:07.430010+00:00",
+    "production_refreshed_at": "2026-08-16T04:03:39.343255+00:00",
     "publish_state": "published"
   }
 }

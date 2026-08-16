@@ -5,10 +5,10 @@
     "version": "2.14.0"
   },
   "run": {
-    "id": "31860064338",
+    "id": "31922987072",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31860064338/job/94951752370",
-    "timestamp": "2026-08-15T03:05:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922987072/job/95105856711",
+    "timestamp": "2026-08-16T03:12:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check package.json dependency",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check ws dependency",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-15T03:52:07.409484+00:00",
+    "production_refreshed_at": "2026-08-16T04:03:39.324153+00:00",
     "publish_state": "published"
   }
 }
