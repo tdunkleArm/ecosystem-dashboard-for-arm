@@ -5,10 +5,10 @@
     "version": "1.0.84"
   },
   "run": {
-    "id": "31922987072",
+    "id": "31989437101",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922987072/job/95105856788",
-    "timestamp": "2026-08-16T03:14:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989437101/job/95270192150",
+    "timestamp": "2026-08-17T03:12:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 47,
+    "duration_seconds": 45,
     "details": [
       {
         "name": "Test 1 - Check Library Artifacts",
         "status": "passed",
-        "duration_seconds": 27
+        "duration_seconds": 26
       },
       {
         "name": "Test 2 - Check Version Provenance",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 20,
+        "duration_seconds": 19,
         "current_version": "1.0.84",
         "latest_version": "1.0.85",
         "next_installed_version": "1.0.85",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-16T04:03:39.358196+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.672820+00:00",
     "publish_state": "published"
   }
 }

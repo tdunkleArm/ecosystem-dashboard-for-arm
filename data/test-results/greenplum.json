@@ -5,10 +5,10 @@
     "version": "1.0.0-beta"
   },
   "run": {
-    "id": "31923008211",
+    "id": "31989467802",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31923008211/job/95105916156",
-    "timestamp": "2026-08-16T03:29:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989467802/job/95270272616",
+    "timestamp": "2026-08-17T03:42:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check exact source tag checkout",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile GreenplumPython package tree",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.0.0-beta",
         "latest_version": "1.0.0",
         "next_installed_version": "1.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-16T04:03:39.338294+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.652601+00:00",
     "publish_state": "published"
   }
 }

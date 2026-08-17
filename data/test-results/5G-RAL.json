@@ -5,10 +5,10 @@
     "version": "armral-25.01"
   },
   "run": {
-    "id": "31922968403",
+    "id": "31989413168",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922968403/job/95105806061",
-    "timestamp": "2026-08-16T03:02:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989413168/job/95270121441",
+    "timestamp": "2026-08-17T03:03:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 170,
+    "duration_seconds": 171,
     "details": [
       {
         "name": "Test 1 - Check Library Built",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check Headers",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 53
+        "duration_seconds": 52
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 117,
+        "duration_seconds": 119,
         "current_version": "armral-25.01",
         "latest_version": "armral-25.04",
         "next_installed_version": "armral-25.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-16T04:03:39.280610+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.593643+00:00",
     "publish_state": "published"
   }
 }

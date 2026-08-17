@@ -5,10 +5,10 @@
     "version": "3.a2.ds2-10build2"
   },
   "run": {
-    "id": "31922977901",
+    "id": "31989425227",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922977901/job/95105831285",
-    "timestamp": "2026-08-16T03:06:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989425227/job/95270155751",
+    "timestamp": "2026-08-17T03:00:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check hping3 binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 binary format",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional packet craft dry-run",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-16T04:03:39.343418+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.657706+00:00",
     "publish_state": "published"
   }
 }

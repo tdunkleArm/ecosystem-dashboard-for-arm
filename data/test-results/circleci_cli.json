@@ -5,10 +5,10 @@
     "version": "0.1.31425"
   },
   "run": {
-    "id": "31922971635",
+    "id": "31989417135",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922971635/job/95105815871",
-    "timestamp": "2026-08-16T03:07:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989417135/job/95270131333",
+    "timestamp": "2026-08-17T03:07:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check circleci_cli binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "0.1.31425",
         "latest_version": "0.1.31543",
         "next_installed_version": "0.1.31543",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-16T04:03:39.304816+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.618201+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "31923015579",
+    "id": "31989476009",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31923015579/job/95105934754",
-    "timestamp": "2026-08-16T03:38:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989476009/job/95270299182",
+    "timestamp": "2026-08-17T03:43:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 745,
+    "duration_seconds": 286,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation (script syntax and runtime helpers)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 745,
+        "duration_seconds": 286,
         "current_version": "31.0.0",
         "latest_version": "31.0.1",
         "next_installed_version": "31.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-16T04:03:39.319007+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.632667+00:00",
     "publish_state": "published"
   }
 }

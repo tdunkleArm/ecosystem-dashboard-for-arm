@@ -5,10 +5,10 @@
     "version": "1.19.2"
   },
   "run": {
-    "id": "31922987072",
+    "id": "31989437101",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922987072/job/95105856671",
-    "timestamp": "2026-08-16T03:08:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989437101/job/95270191183",
+    "timestamp": "2026-08-17T03:09:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check fluentd binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check fluentd version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check fluentd help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Dry-run configuration",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Ruby API and architecture validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-16T04:03:39.328954+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.642939+00:00",
     "publish_state": "published"
   }
 }

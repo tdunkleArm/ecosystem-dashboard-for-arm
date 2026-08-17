@@ -5,10 +5,10 @@
     "version": "3.7.2"
   },
   "run": {
-    "id": "31922981319",
+    "id": "31989429071",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31922981319/job/95105842045",
-    "timestamp": "2026-08-16T03:19:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989429071/job/95270166369",
+    "timestamp": "2026-08-17T03:09:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check gmond version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check gmond help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-16T04:03:39.331835+00:00",
+    "production_refreshed_at": "2026-08-17T04:06:00.645908+00:00",
     "publish_state": "published"
   }
 }
