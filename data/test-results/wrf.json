@@ -5,10 +5,10 @@
     "version": "4.7.0"
   },
   "run": {
-    "id": "31989476009",
+    "id": "32093351278",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989476009/job/95270299004",
-    "timestamp": "2026-08-17T03:42:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093351278/job/95579821688",
+    "timestamp": "2026-08-18T03:38:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 593,
+    "duration_seconds": 641,
     "details": [
       {
         "name": "Test 1 - Check wrf binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 593,
+        "duration_seconds": 640,
         "current_version": "4.7.0",
         "latest_version": "4.7.1",
         "next_installed_version": "4.7.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-17T04:06:00.752442+00:00",
+    "production_refreshed_at": "2026-08-18T04:02:17.326879+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "25.2.0"
   },
   "run": {
-    "id": "31989409119",
+    "id": "32093271076",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/31989409119/job/95270111884",
-    "timestamp": "2026-08-17T02:55:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093271076/job/95579592315",
+    "timestamp": "2026-08-18T02:50:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Image Labels/Env",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Dry Run Container Start",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-17T04:06:00.601436+00:00",
+    "production_refreshed_at": "2026-08-18T04:02:17.177575+00:00",
     "publish_state": "published"
   }
 }
