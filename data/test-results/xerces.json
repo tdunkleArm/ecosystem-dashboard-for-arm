@@ -5,10 +5,10 @@
     "version": "3.2.4"
   },
   "run": {
-    "id": "32093291478",
+    "id": "32210070004",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093291478/job/95579648096",
-    "timestamp": "2026-08-18T02:58:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210070004/job/95940860558",
+    "timestamp": "2026-08-19T02:57:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check Header Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 5
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-18T04:02:17.327836+00:00",
+    "production_refreshed_at": "2026-08-19T03:51:37.430797+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.1.1"
   },
   "run": {
-    "id": "32093367973",
+    "id": "32210136780",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093367973/job/95579867635",
-    "timestamp": "2026-08-18T03:38:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210136780/job/95941054776",
+    "timestamp": "2026-08-19T03:40:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "3.1.1",
-        "latest_version": "6.5.2",
-        "next_installed_version": "6.5.2",
+        "latest_version": "6.5.3",
+        "next_installed_version": "6.5.3",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 3.1.1, and the next stable source tag 6.5.2 from Xpra-org/xpra also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 3.1.1, and the next stable source tag 6.5.3 from Xpra-org/xpra also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-18T04:02:17.328457+00:00",
+    "production_refreshed_at": "2026-08-19T03:51:37.431438+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.0.4"
   },
   "run": {
-    "id": "32093271076",
+    "id": "32210051522",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093271076/job/95579592358",
-    "timestamp": "2026-08-18T02:52:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210051522/job/95940804527",
+    "timestamp": "2026-08-19T02:52:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Check container running",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Admin API",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 10
       },
       {
         "name": "Test 3 - Produce Message",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Consume Message",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-18T04:02:17.290538+00:00",
+    "production_refreshed_at": "2026-08-19T03:51:37.392740+00:00",
     "publish_state": "published"
   }
 }

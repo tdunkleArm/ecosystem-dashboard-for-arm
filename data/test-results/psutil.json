@@ -5,10 +5,10 @@
     "version": "7.2.2"
   },
   "run": {
-    "id": "32093286346",
+    "id": "32210065601",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093286346/job/95579627477",
-    "timestamp": "2026-08-18T03:00:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210065601/job/95940848025",
+    "timestamp": "2026-08-19T03:00:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check psutil module import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version via python",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-18T04:02:17.290368+00:00",
+    "production_refreshed_at": "2026-08-19T03:51:37.392578+00:00",
     "publish_state": "published"
   }
 }

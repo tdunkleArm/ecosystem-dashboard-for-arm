@@ -5,10 +5,10 @@
     "version": "4.0.5"
   },
   "run": {
-    "id": "32093276391",
+    "id": "32210056226",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32093276391/job/95579598314",
-    "timestamp": "2026-08-18T02:52:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210056226/job/95940819502",
+    "timestamp": "2026-08-19T02:56:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Start Dummy Java Process",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Attach Arthas (Dry Run)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-18T04:02:17.182919+00:00",
+    "production_refreshed_at": "2026-08-19T03:51:37.285690+00:00",
     "publish_state": "published"
   }
 }
