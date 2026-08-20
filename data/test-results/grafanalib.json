@@ -5,10 +5,10 @@
     "version": "0.7.1"
   },
   "run": {
-    "id": "32210119072",
+    "id": "32326199504",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210119072/job/95941008456",
-    "timestamp": "2026-08-19T03:33:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326199504/job/96297850629",
+    "timestamp": "2026-08-20T03:32:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Generate JSON from dashboard",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check pip show info",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-19T03:51:37.330304+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.138754+00:00",
     "publish_state": "published"
   }
 }

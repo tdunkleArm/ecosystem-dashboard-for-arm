@@ -5,10 +5,10 @@
     "version": "3.45.1"
   },
   "run": {
-    "id": "32210056226",
+    "id": "32326135597",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210056226/job/95940820397",
-    "timestamp": "2026-08-19T03:02:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326135597/job/96297661758",
+    "timestamp": "2026-08-20T02:52:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check sqlite3 help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-19T03:51:37.412149+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.220973+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.70.0"
   },
   "run": {
-    "id": "32210073858",
+    "id": "32326153319",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210073858/job/95940873737",
-    "timestamp": "2026-08-19T03:00:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326153319/job/96297714474",
+    "timestamp": "2026-08-20T02:57:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gdn binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check gdn server help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Verify architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.70.0",
         "latest_version": "1.71.0",
         "next_installed_version": "1.71.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-19T03:51:37.324197+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.132488+00:00",
     "publish_state": "published"
   }
 }

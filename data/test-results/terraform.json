@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "32210114845",
+    "id": "32326195799",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210114845/job/95940994791",
-    "timestamp": "2026-08-19T03:26:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326195799/job/96297838997",
+    "timestamp": "2026-08-20T03:35:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.15.8",
-        "next_installed_version": "1.15.8",
+        "latest_version": "1.15.9",
+        "next_installed_version": "1.15.9",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip and confirmed candidate version 1.15.8 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.9/terraform_1.15.9_linux_arm64.zip and confirmed candidate version 1.15.9 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-19T03:51:37.417916+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.226742+00:00",
     "publish_state": "published"
   }
 }

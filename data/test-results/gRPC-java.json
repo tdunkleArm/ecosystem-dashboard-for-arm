@@ -5,10 +5,10 @@
     "version": "1.55.1"
   },
   "run": {
-    "id": "32210098035",
+    "id": "32326180031",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210098035/job/95940945797",
-    "timestamp": "2026-08-19T03:25:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326180031/job/96297790226",
+    "timestamp": "2026-08-20T03:26:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check gRPC-java plugin exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Verify plugin architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.55.1",
         "latest_version": "1.55.3",
         "next_installed_version": "1.55.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-19T03:51:37.323421+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.131652+00:00",
     "publish_state": "published"
   }
 }

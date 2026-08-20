@@ -5,10 +5,10 @@
     "version": "0.9.0"
   },
   "run": {
-    "id": "32210131716",
+    "id": "32326211770",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210131716/job/95941044327",
-    "timestamp": "2026-08-19T03:33:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326211770/job/96297887646",
+    "timestamp": "2026-08-20T03:40:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.9.0",
-        "latest_version": "0.14.5",
-        "next_installed_version": "0.14.5",
+        "latest_version": "0.15.0",
+        "next_installed_version": "0.15.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.9.0, and the next stable source tag 0.14.5 from NVIDIA/mig-parted also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.9.0, and the next stable source tag 0.15.0 from NVIDIA/mig-parted also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-19T03:51:37.363128+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.172399+00:00",
     "publish_state": "published"
   }
 }

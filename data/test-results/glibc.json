@@ -5,10 +5,10 @@
     "version": "2.39"
   },
   "run": {
-    "id": "32210110871",
+    "id": "32326192129",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32210110871/job/95940984680",
-    "timestamp": "2026-08-19T03:31:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326192129/job/96297828206",
+    "timestamp": "2026-08-20T03:35:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check ldd binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check ldd version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-19T03:51:37.327891+00:00",
+    "production_refreshed_at": "2026-08-20T04:19:09.136285+00:00",
     "publish_state": "published"
   }
 }
