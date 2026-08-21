@@ -5,10 +5,10 @@
     "version": "2.5.0"
   },
   "run": {
-    "id": "32326162299",
+    "id": "32441644647",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326162299/job/96297739386",
-    "timestamp": "2026-08-20T03:18:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441644647/job/96653389952",
+    "timestamp": "2026-08-21T03:16:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 30,
     "details": [
       {
         "name": "Test 1 - Check Maven and Java binaries",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dependency tree",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 22
       },
       {
         "name": "Test 4 - Verify architecture",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Build and run CloudEvent example",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 8
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-20T04:19:09.106030+00:00",
+    "production_refreshed_at": "2026-08-21T04:04:01.701941+00:00",
     "publish_state": "published"
   }
 }

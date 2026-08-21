@@ -5,10 +5,10 @@
     "version": "3.0"
   },
   "run": {
-    "id": "32326215960",
+    "id": "32441703038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326215960/job/96297900118",
-    "timestamp": "2026-08-20T03:45:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441703038/job/96653556505",
+    "timestamp": "2026-08-21T03:48:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "3.0",
-        "latest_version": "3.3",
-        "next_installed_version": "3.3",
+        "latest_version": "3.3.1",
+        "next_installed_version": "3.3.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 3.0, and the next stable source tag 3.3 from TurboVNC/turbovnc also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 3.0, and the next stable source tag 3.3.1 from TurboVNC/turbovnc also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-20T04:19:09.230235+00:00",
+    "production_refreshed_at": "2026-08-21T04:04:01.907256+00:00",
     "publish_state": "published"
   }
 }

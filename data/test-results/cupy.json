@@ -5,10 +5,10 @@
     "version": "9.6.0"
   },
   "run": {
-    "id": "32326166873",
+    "id": "32441648509",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326166873/job/96297752726",
-    "timestamp": "2026-08-20T03:09:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441648509/job/96653402201",
+    "timestamp": "2026-08-21T03:14:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Baseline package evidence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Baseline version and release alignment",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "9.6.0",
-        "latest_version": "14.1.1",
-        "next_installed_version": "14.1.1",
+        "latest_version": "14.2.0",
+        "next_installed_version": "14.2.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 9.6.0, and the next stable source tag 14.1.1 from cupy/cupy also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 9.6.0, and the next stable source tag 14.2.0 from cupy/cupy also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-20T04:19:09.111053+00:00",
+    "production_refreshed_at": "2026-08-21T04:04:01.709566+00:00",
     "publish_state": "published"
   }
 }

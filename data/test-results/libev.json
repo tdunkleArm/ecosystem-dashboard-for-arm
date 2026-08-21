@@ -5,10 +5,10 @@
     "version": "1:4.33-2.1build1"
   },
   "run": {
-    "id": "32326188143",
+    "id": "32441671126",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326188143/job/96297817150",
-    "timestamp": "2026-08-20T03:32:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441671126/job/96653465731",
+    "timestamp": "2026-08-21T03:34:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check package version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check API surface",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-20T04:19:09.159214+00:00",
+    "production_refreshed_at": "2026-08-21T04:04:01.791880+00:00",
     "publish_state": "published"
   }
 }

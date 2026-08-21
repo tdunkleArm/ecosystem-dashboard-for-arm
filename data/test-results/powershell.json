@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "32326135597",
+    "id": "32441619217",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32326135597/job/96297661707",
-    "timestamp": "2026-08-20T02:54:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441619217/job/96653314287",
+    "timestamp": "2026-08-21T03:02:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check PowerShell runtime version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "7.5.0",
         "latest_version": "7.5.1",
         "next_installed_version": "7.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-20T04:19:09.200268+00:00",
+    "production_refreshed_at": "2026-08-21T04:04:01.855708+00:00",
     "publish_state": "published"
   }
 }
