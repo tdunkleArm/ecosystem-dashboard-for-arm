@@ -5,10 +5,10 @@
     "version": "25.2.0"
   },
   "run": {
-    "id": "32441614990",
+    "id": "32547266226",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441614990/job/96653296794",
-    "timestamp": "2026-08-21T02:57:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547266226/job/96967888802",
+    "timestamp": "2026-08-22T02:49:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Docker image exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Dry Run Container Start",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-21T04:04:01.669839+00:00",
+    "production_refreshed_at": "2026-08-22T04:00:14.019455+00:00",
     "publish_state": "published"
   }
 }

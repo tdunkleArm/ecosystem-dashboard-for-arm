@@ -5,10 +5,10 @@
     "version": "7.17.27"
   },
   "run": {
-    "id": "32441680374",
+    "id": "32547315479",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441680374/job/96653492062",
-    "timestamp": "2026-08-21T03:31:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547315479/job/96968022737",
+    "timestamp": "2026-08-22T03:22:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Export Functionbeat template",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "7.17.27",
         "latest_version": "7.17.28",
         "next_installed_version": "7.17.28",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-21T04:04:01.745615+00:00",
+    "production_refreshed_at": "2026-08-22T04:00:14.069594+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "10.0"
   },
   "run": {
-    "id": "32441644647",
+    "id": "32547290738",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32441644647/job/96653389962",
-    "timestamp": "2026-08-21T03:12:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547290738/job/96967949529",
+    "timestamp": "2026-08-22T03:09:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Boot baseline image",
         "status": "passed",
-        "duration_seconds": 90
+        "duration_seconds": 91
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 131,
+        "duration_seconds": 119,
         "current_version": "10.0",
         "latest_version": "10.1",
         "next_installed_version": "10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-21T04:04:01.820599+00:00",
+    "production_refreshed_at": "2026-08-22T04:00:14.124172+00:00",
     "publish_state": "published"
   }
 }
