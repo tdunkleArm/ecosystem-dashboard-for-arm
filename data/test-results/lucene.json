@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Lucene",
-    "version": "unknown"
+    "version": "10.2.2"
   },
   "run": {
-    "id": "32547287451",
+    "id": "32614096024",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547287451/job/96967938104",
-    "timestamp": "2026-08-22T02:57:26Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614096024/job/97131803367",
+    "timestamp": "2026-08-23T03:06:57Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,40 @@
     "job_name": "test-lucene / test-lucene"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Version Check",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Configuration Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 0
       }
     ]
   },
@@ -61,16 +58,14 @@
     "contract_version": "2.0",
     "package_slug": "lucene",
     "dashboard_link": "/linux/opensource_packages/lucene",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 7",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-08-22T04:00:14.110550+00:00",
+    "regression_applicability": "not_applicable",
+    "regression_reason": "package_manager_installed",
+    "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
+    "production_refreshed_at": "2026-08-23T04:08:12.018181+00:00",
     "publish_state": "published"
   }
 }

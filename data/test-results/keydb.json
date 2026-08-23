@@ -5,10 +5,10 @@
     "version": "6.3.3"
   },
   "run": {
-    "id": "32547273246",
+    "id": "32614084834",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547273246/job/96967900762",
-    "timestamp": "2026-08-22T02:51:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614084834/job/97131771600",
+    "timestamp": "2026-08-23T02:57:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 66,
+    "duration_seconds": 64,
     "details": [
       {
         "name": "Test 1 - Check KeyDB binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 66,
+        "duration_seconds": 64,
         "current_version": "6.3.3",
         "latest_version": "6.3.4",
         "next_installed_version": "6.3.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-22T04:00:14.094788+00:00",
+    "production_refreshed_at": "2026-08-23T04:08:12.005005+00:00",
     "publish_state": "published"
   }
 }

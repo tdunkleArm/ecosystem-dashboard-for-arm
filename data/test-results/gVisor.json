@@ -5,10 +5,10 @@
     "version": "release-20250127.0"
   },
   "run": {
-    "id": "32547311718",
+    "id": "32614117890",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547311718/job/96968011031",
-    "timestamp": "2026-08-22T03:24:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614117890/job/97131860884",
+    "timestamp": "2026-08-23T03:34:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check runsc version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check runsc help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "release-20250127.0",
         "latest_version": "release-20250203.0",
         "next_installed_version": "release-20250203.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-22T04:00:14.070215+00:00",
+    "production_refreshed_at": "2026-08-23T04:08:11.984343+00:00",
     "publish_state": "published"
   }
 }

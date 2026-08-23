@@ -5,10 +5,10 @@
     "version": "3.3.13"
   },
   "run": {
-    "id": "32547297117",
+    "id": "32614104212",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547297117/job/96967968596",
-    "timestamp": "2026-08-22T03:16:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614104212/job/97131821612",
+    "timestamp": "2026-08-23T03:17:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Scan Terraform File",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-22T04:00:14.037258+00:00",
+    "production_refreshed_at": "2026-08-23T04:08:11.955750+00:00",
     "publish_state": "published"
   }
 }

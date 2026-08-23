@@ -5,10 +5,10 @@
     "version": "v3.17.1"
   },
   "run": {
-    "id": "32547302403",
+    "id": "32614109713",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32547302403/job/96967985493",
-    "timestamp": "2026-08-22T03:16:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614109713/job/97131837878",
+    "timestamp": "2026-08-23T03:21:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check helm binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help command",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Create a sample chart",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Lint the sample chart",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "v3.17.1",
         "latest_version": "3.17.2",
         "next_installed_version": "3.17.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-22T04:00:14.082918+00:00",
+    "production_refreshed_at": "2026-08-23T04:08:11.995075+00:00",
     "publish_state": "published"
   }
 }
