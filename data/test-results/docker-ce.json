@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "32614112335",
+    "id": "32684802254",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614112335/job/97131845764",
-    "timestamp": "2026-08-23T03:22:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684802254/job/97307834253",
+    "timestamp": "2026-08-24T03:26:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "24.0.3",
         "latest_version": "29.7.2",
         "next_installed_version": "29.7.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-23T04:08:11.968979+00:00",
+    "production_refreshed_at": "2026-08-24T04:00:52.121938+00:00",
     "publish_state": "published"
   }
 }

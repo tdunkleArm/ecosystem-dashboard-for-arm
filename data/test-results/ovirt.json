@@ -5,11 +5,11 @@
     "version": "4.5.6"
   },
   "run": {
-    "id": "32614101488",
+    "id": "32684784055",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614101488/job/97131815010",
-    "timestamp": "2026-08-23T03:14:55Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684784055/job/97307778034",
+    "timestamp": "2026-08-24T03:14:07Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-ovirt / test-ovirt"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check setup script exists",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 4,
         "current_version": "4.5.6",
         "latest_version": "4.5.7",
-        "next_installed_version": "not_installed",
-        "decision": "next_lookup_failed",
-        "regression_result": "Next version lookup failed on Arm64",
-        "comparison": "Current pinned oVirt Engine version 4.5.6 passed smoke tests in this run, but the next stable release tag 4.5.7 could not be downloaded for Arm64 regression validation."
+        "next_installed_version": "4.5.7",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned oVirt Engine version 4.5.6 passed smoke tests in this run. Regression validation downloaded candidate release 4.5.7, confirmed the setup/remove/rename helper binaries, and verified all candidate help paths on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "ovirt",
     "dashboard_link": "/linux/opensource_packages/ovirt",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 9",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_lookup_failed",
-    "production_refreshed_at": "2026-08-23T04:08:12.045007+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-08-24T04:00:52.200573+00:00",
     "publish_state": "published"
   }
 }

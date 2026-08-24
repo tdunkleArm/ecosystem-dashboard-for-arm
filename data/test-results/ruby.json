@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "32614126700",
+    "id": "32684825437",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614126700/job/97131885394",
-    "timestamp": "2026-08-23T03:34:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684825437/job/97307896471",
+    "timestamp": "2026-08-24T03:43:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 132,
+    "duration_seconds": 122,
     "details": [
       {
         "name": "Test 1 - Check Ruby binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 132,
+        "duration_seconds": 122,
         "current_version": "3.4.0",
         "latest_version": "4.0.6",
         "next_installed_version": "4.0.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-23T04:08:12.060910+00:00",
+    "production_refreshed_at": "2026-08-24T04:00:52.217679+00:00",
     "publish_state": "published"
   }
 }

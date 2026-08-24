@@ -5,11 +5,11 @@
     "version": "24.10.5"
   },
   "run": {
-    "id": "32614081919",
+    "id": "32684756682",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32614081919/job/97131760510",
-    "timestamp": "2026-08-23T03:05:50Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684756682/job/97307697356",
+    "timestamp": "2026-08-24T03:07:52Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-nextflow / test-nextflow"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check nextflow binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help command",
@@ -45,12 +45,15 @@
       {
         "name": "Test 5 - Run Hello World pipeline",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 13
       },
       {
         "name": "Regression applicability - package manager installed",
-        "status": "passed",
-        "duration_seconds": 0
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "result_not_emitted",
+        "regression_result": "Regression validation step failed before emitting terminal outputs",
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -58,14 +61,16 @@
     "contract_version": "2.0",
     "package_slug": "nextflow",
     "dashboard_link": "/linux/opensource_packages/nextflow",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 2",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-23T04:08:12.031328+00:00",
+    "regression_status": "failed",
+    "regression_decision": "result_not_emitted",
+    "production_refreshed_at": "2026-08-24T04:00:52.185933+00:00",
     "publish_state": "published"
   }
 }
