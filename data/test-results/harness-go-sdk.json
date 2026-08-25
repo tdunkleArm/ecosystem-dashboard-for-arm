@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Harness Go SDK",
-    "version": "v0.8.24"
+    "version": "v0.8.25"
   },
   "run": {
-    "id": "32684764041",
+    "id": "32803051471",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684764041/job/97307719923",
-    "timestamp": "2026-08-24T03:01:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803051471/job/97667646618",
+    "timestamp": "2026-08-25T03:10:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Go installation",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check SDK import",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Run the test app",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-24T04:00:52.146944+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.144494+00:00",
     "publish_state": "published"
   }
 }

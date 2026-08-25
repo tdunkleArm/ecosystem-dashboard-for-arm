@@ -5,10 +5,10 @@
     "version": "0.151.0"
   },
   "run": {
-    "id": "32684756682",
+    "id": "32803043384",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684756682/job/97307697293",
-    "timestamp": "2026-08-24T03:09:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803043384/job/97667619037",
+    "timestamp": "2026-08-25T02:58:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check daytona binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check daytona help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "0.151.0",
         "latest_version": "0.152.0",
         "next_installed_version": "0.152.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-24T04:00:52.119167+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.099093+00:00",
     "publish_state": "published"
   }
 }

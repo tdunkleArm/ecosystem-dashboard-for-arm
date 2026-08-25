@@ -5,10 +5,10 @@
     "version": "7.2.2"
   },
   "run": {
-    "id": "32684764041",
+    "id": "32803051471",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684764041/job/97307720440",
-    "timestamp": "2026-08-24T02:59:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803051471/job/97667647104",
+    "timestamp": "2026-08-25T03:07:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check pip show",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-24T04:00:52.207614+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.245261+00:00",
     "publish_state": "published"
   }
 }

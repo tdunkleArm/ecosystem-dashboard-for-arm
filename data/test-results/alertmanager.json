@@ -5,10 +5,10 @@
     "version": "0.28.1"
   },
   "run": {
-    "id": "32684802254",
+    "id": "32803093142",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684802254/job/97307834440",
-    "timestamp": "2026-08-24T03:26:24Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803093142/job/97667774090",
+    "timestamp": "2026-08-25T03:25:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check alertmanager binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.28.1",
         "latest_version": "0.29.0",
         "next_installed_version": "0.29.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-24T04:00:52.093081+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.054081+00:00",
     "publish_state": "published"
   }
 }

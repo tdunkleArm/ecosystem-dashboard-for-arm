@@ -5,10 +5,10 @@
     "version": "1.55.1"
   },
   "run": {
-    "id": "32684797390",
+    "id": "32803088221",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684797390/job/97307818744",
-    "timestamp": "2026-08-24T03:26:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803088221/job/97667756266",
+    "timestamp": "2026-08-25T03:25:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check protoc availability",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Generate Java stubs from proto",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Verify generated Java files",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-24T04:00:52.137255+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.128962+00:00",
     "publish_state": "published"
   }
 }

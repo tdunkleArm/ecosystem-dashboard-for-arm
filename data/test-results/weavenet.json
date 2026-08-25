@@ -5,10 +5,10 @@
     "version": "2.8.0"
   },
   "run": {
-    "id": "32684802254",
+    "id": "32803093142",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32684802254/job/97307834355",
-    "timestamp": "2026-08-24T03:26:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803093142/job/97667773794",
+    "timestamp": "2026-08-25T03:29:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check weave script exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "2.8.0",
         "latest_version": "2.8.1",
         "next_installed_version": "2.8.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-24T04:00:52.244502+00:00",
+    "production_refreshed_at": "2026-08-25T04:05:02.307894+00:00",
     "publish_state": "published"
   }
 }
