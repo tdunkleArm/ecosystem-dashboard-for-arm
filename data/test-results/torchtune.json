@@ -5,10 +5,10 @@
     "version": "unknown"
   },
   "run": {
-    "id": "32803051471",
+    "id": "32924720971",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803051471/job/97667647215",
-    "timestamp": "2026-08-25T03:11:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924720971/job/98045201168",
+    "timestamp": "2026-08-26T03:14:49Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check torchtune import",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 2 - Check torchtune version via python",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check package metadata and prerequisite resolution",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-08-25T04:05:02.293176+00:00",
+    "production_refreshed_at": "2026-08-26T04:08:33.881211+00:00",
     "publish_state": "published"
   }
 }

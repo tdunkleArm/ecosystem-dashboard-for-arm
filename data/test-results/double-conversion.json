@@ -5,10 +5,10 @@
     "version": "3.3.1"
   },
   "run": {
-    "id": "32803093142",
+    "id": "32924760926",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32803093142/job/97667773866",
-    "timestamp": "2026-08-25T03:25:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924760926/job/98045322030",
+    "timestamp": "2026-08-26T03:39:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check CMakeLists.txt exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check built library",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check header files",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "3.3.1",
         "latest_version": "3.4.0",
         "next_installed_version": "3.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-25T04:05:02.106567+00:00",
+    "production_refreshed_at": "2026-08-26T04:08:33.692300+00:00",
     "publish_state": "published"
   }
 }
