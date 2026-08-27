@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "32924746757",
+    "id": "33071019915",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924746757/job/98045281180",
-    "timestamp": "2026-08-26T03:20:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071019915/job/98512989162",
+    "timestamp": "2026-08-27T12:47:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "4.1.0",
-        "latest_version": "4.7.0",
-        "next_installed_version": "4.7.0",
+        "latest_version": "4.7.1",
+        "next_installed_version": "4.7.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.7.0 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.7.1 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-26T04:08:33.683110+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.760457+00:00",
     "publish_state": "published"
   }
 }

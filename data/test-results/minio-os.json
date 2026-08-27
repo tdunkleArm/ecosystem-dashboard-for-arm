@@ -5,10 +5,10 @@
     "version": "RELEASE.2025-09-07T16-13-09Z"
   },
   "run": {
-    "id": "32924760926",
+    "id": "33071037797",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924760926/job/98045322301",
-    "timestamp": "2026-08-26T03:42:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071037797/job/98513058906",
+    "timestamp": "2026-08-27T13:00:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check server subcommand help",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-26T04:08:33.818722+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.825142+00:00",
     "publish_state": "published"
   }
 }

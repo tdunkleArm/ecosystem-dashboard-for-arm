@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "32924776725",
+    "id": "33071056091",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924776725/job/98045367059",
-    "timestamp": "2026-08-26T03:38:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071056091/job/98513124272",
+    "timestamp": "2026-08-27T13:03:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.15.9",
-        "next_installed_version": "1.15.9",
+        "latest_version": "1.16.0",
+        "next_installed_version": "1.16.0",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.9/terraform_1.15.9_linux_arm64.zip and confirmed candidate version 1.15.9 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.16.0/terraform_1.16.0_linux_arm64.zip and confirmed candidate version 1.16.0 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-26T04:08:33.878884+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.881028+00:00",
     "publish_state": "published"
   }
 }

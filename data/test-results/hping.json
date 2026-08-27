@@ -5,10 +5,10 @@
     "version": "3.a2.ds2-10build2"
   },
   "run": {
-    "id": "32924725073",
+    "id": "33070984990",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924725073/job/98045214417",
-    "timestamp": "2026-08-26T03:06:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33070984990/job/98512883863",
+    "timestamp": "2026-08-27T12:25:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check hping3 binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional packet craft dry-run",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-26T04:08:33.748954+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.794603+00:00",
     "publish_state": "published"
   }
 }

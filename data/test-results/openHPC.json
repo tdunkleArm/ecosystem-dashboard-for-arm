@@ -5,10 +5,10 @@
     "version": "v3.2.1.GA"
   },
   "run": {
-    "id": "32924786775",
+    "id": "33071068039",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924786775/job/98045404442",
-    "timestamp": "2026-08-26T03:45:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071068039/job/98513166033",
+    "timestamp": "2026-08-27T13:11:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check release RPM download",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check release tag exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Validate Arm repo metadata",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "v3.2.1.GA",
         "latest_version": "v3.3.GA",
         "next_installed_version": "v3.3.GA",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-26T04:08:33.838867+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.837899+00:00",
     "publish_state": "published"
   }
 }

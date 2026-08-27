@@ -5,10 +5,10 @@
     "version": "2.11"
   },
   "run": {
-    "id": "32924760926",
+    "id": "33071037797",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924760926/job/98045322310",
-    "timestamp": "2026-08-26T03:34:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071037797/job/98513058891",
+    "timestamp": "2026-08-27T12:58:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check headers exist",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Arm64 shared library exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Compile smoke program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-26T04:08:33.847913+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.847530+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.30.2"
   },
   "run": {
-    "id": "32924793487",
+    "id": "33071074046",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/32924793487/job/98045416198",
-    "timestamp": "2026-08-26T03:50:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071074046/job/98513180417",
+    "timestamp": "2026-08-27T13:20:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 6,
         "current_version": "0.30.2",
-        "latest_version": "0.30.11",
-        "next_installed_version": "0.30.11",
+        "latest_version": "0.30.12",
+        "next_installed_version": "0.30.12",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.30.2, and the next stable source tag 0.30.11 from KLayout/klayout also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.30.2, and the next stable source tag 0.30.12 from KLayout/klayout also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-26T04:08:33.775247+00:00",
+    "production_refreshed_at": "2026-08-27T14:33:41.804517+00:00",
     "publish_state": "published"
   }
 }
