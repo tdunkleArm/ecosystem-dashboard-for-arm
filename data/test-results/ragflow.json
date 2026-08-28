@@ -5,10 +5,10 @@
     "version": "0.7.0"
   },
   "run": {
-    "id": "33071080217",
+    "id": "33176567549",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071080217/job/98513221589",
-    "timestamp": "2026-08-27T13:16:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33176567549/job/98866628951",
+    "timestamp": "2026-08-28T14:37:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 5,
         "current_version": "0.7.0",
-        "latest_version": "0.27.0",
-        "next_installed_version": "0.27.0",
+        "latest_version": "0.27.1",
+        "next_installed_version": "0.27.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.7.0, and the next stable source tag 0.27.0 from infiniflow/ragflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.7.0, and the next stable source tag 0.27.1 from infiniflow/ragflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-08-27T14:33:41.858441+00:00",
+    "production_refreshed_at": "2026-08-28T14:57:47.366286+00:00",
     "publish_state": "published"
   }
 }

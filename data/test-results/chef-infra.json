@@ -5,10 +5,10 @@
     "version": "18.8.54"
   },
   "run": {
-    "id": "33071074046",
+    "id": "33176561680",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33071074046/job/98513179298",
-    "timestamp": "2026-08-27T13:15:19Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33176561680/job/98866612663",
+    "timestamp": "2026-08-28T14:34:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Ohai",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Local Mode Run",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "18.8.54",
         "latest_version": "18.10.17",
         "next_installed_version": "18.10.17",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-27T14:33:41.751291+00:00",
+    "production_refreshed_at": "2026-08-28T14:57:47.261029+00:00",
     "publish_state": "published"
   }
 }
