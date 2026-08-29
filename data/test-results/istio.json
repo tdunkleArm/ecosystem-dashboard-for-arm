@@ -5,10 +5,10 @@
     "version": "1.24.0"
   },
   "run": {
-    "id": "33176480405",
+    "id": "33243373959",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33176480405/job/98866326613",
-    "timestamp": "2026-08-28T13:48:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243373959/job/99076437761",
+    "timestamp": "2026-08-29T08:38:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check istioctl binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "1.24.0",
         "latest_version": "1.24.1",
         "next_installed_version": "1.24.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-28T14:57:47.306092+00:00",
+    "production_refreshed_at": "2026-08-29T09:37:42.685953+00:00",
     "publish_state": "published"
   }
 }

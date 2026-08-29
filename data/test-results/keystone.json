@@ -5,10 +5,10 @@
     "version": "25.0.0"
   },
   "run": {
-    "id": "33176533370",
+    "id": "33243401170",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33176533370/job/98866507222",
-    "timestamp": "2026-08-28T14:19:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243401170/job/99076511218",
+    "timestamp": "2026-08-29T09:14:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check keystone-manage binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Basic configuration check (db_sync)",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check python import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-28T14:57:47.311879+00:00",
+    "production_refreshed_at": "2026-08-29T09:37:42.691295+00:00",
     "publish_state": "published"
   }
 }

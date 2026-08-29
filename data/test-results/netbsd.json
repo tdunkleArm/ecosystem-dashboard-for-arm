@@ -5,10 +5,10 @@
     "version": "10.0"
   },
   "run": {
-    "id": "33176497082",
+    "id": "33243381361",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33176497082/job/98866390768",
-    "timestamp": "2026-08-28T14:12:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243381361/job/99076460375",
+    "timestamp": "2026-08-29T08:59:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 104,
+    "duration_seconds": 105,
     "details": [
       {
         "name": "Test 1 - Check image archive exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check QEMU boot prerequisites",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 113,
+        "duration_seconds": 123,
         "current_version": "10.0",
         "latest_version": "10.1",
         "next_installed_version": "10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-28T14:57:47.338055+00:00",
+    "production_refreshed_at": "2026-08-29T09:37:42.715842+00:00",
     "publish_state": "published"
   }
 }
