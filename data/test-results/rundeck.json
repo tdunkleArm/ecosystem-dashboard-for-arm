@@ -5,10 +5,10 @@
     "version": "5.11.0"
   },
   "run": {
-    "id": "33243407614",
+    "id": "33299966046",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243407614/job/99076527978",
-    "timestamp": "2026-08-29T09:17:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299966046/job/99226132800",
+    "timestamp": "2026-08-30T08:23:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check pinned release artifact metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check launcher help output",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 3,
         "current_version": "5.11.0",
         "latest_version": "5.11.1",
         "next_installed_version": "5.11.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-29T09:37:42.747094+00:00",
+    "production_refreshed_at": "2026-08-30T08:49:33.301876+00:00",
     "publish_state": "published"
   }
 }

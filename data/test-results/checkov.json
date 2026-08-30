@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Checkov",
-    "version": "3.3.15"
+    "version": "3.3.16"
   },
   "run": {
-    "id": "33243387028",
+    "id": "33299947063",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243387028/job/99076476029",
-    "timestamp": "2026-08-29T08:52:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299947063/job/99226080835",
+    "timestamp": "2026-08-30T08:11:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Scan Terraform File",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - List Checks",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-29T09:37:42.642546+00:00",
+    "production_refreshed_at": "2026-08-30T08:49:33.192500+00:00",
     "publish_state": "published"
   }
 }

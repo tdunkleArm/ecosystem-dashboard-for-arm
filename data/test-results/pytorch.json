@@ -5,10 +5,10 @@
     "version": "2.13.0+cu130"
   },
   "run": {
-    "id": "33243397511",
+    "id": "33299957134",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243397511/job/99076503226",
-    "timestamp": "2026-08-29T09:02:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299957134/job/99226111045",
+    "timestamp": "2026-08-30T08:22:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Import PyTorch",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-29T09:37:42.739347+00:00",
+    "production_refreshed_at": "2026-08-30T08:49:33.293346+00:00",
     "publish_state": "published"
   }
 }

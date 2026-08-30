@@ -5,10 +5,10 @@
     "version": "1.17.0"
   },
   "run": {
-    "id": "33243401170",
+    "id": "33299960336",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243401170/job/99076511258",
-    "timestamp": "2026-08-29T09:08:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299960336/job/99226118681",
+    "timestamp": "2026-08-30T08:18:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check kn binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check completion output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-29T09:37:42.691963+00:00",
+    "production_refreshed_at": "2026-08-30T08:49:33.244051+00:00",
     "publish_state": "published"
   }
 }

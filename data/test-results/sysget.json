@@ -5,11 +5,11 @@
     "version": "2.2"
   },
   "run": {
-    "id": "33243401170",
+    "id": "33299960336",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33243401170/job/99076511243",
-    "timestamp": "2026-08-29T09:16:41Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299960336/job/99226118716",
+    "timestamp": "2026-08-30T08:21:31Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -18,9 +18,9 @@
   },
   "tests": {
     "passed": 6,
-    "failed": 0,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check sysget binary exists",
@@ -50,13 +50,21 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 9,
         "current_version": "2.2",
         "latest_version": "2.3",
         "next_installed_version": "2.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
         "comparison": "Current pinned Sysget version 2.2 passed the real Arm64 source-build smoke in this run. Regression validation rebuilt candidate version 2.3 from source and confirmed the isolated Arm64 help and package-search paths successfully."
+      },
+      {
+        "name": "Workflow Finalization",
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "job_failed_without_emitted_result",
+        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
+        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -64,8 +72,8 @@
     "contract_version": "2.0",
     "package_slug": "sysget",
     "dashboard_link": "/linux/opensource_packages/sysget",
-    "badge_status": "passing",
-    "core_failed": 0,
+    "badge_status": "failing",
+    "core_failed": 1,
     "batch_title": "Batch 14",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
@@ -73,7 +81,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-29T09:37:42.759514+00:00",
+    "production_refreshed_at": "2026-08-30T08:49:33.314838+00:00",
     "publish_state": "published"
   }
 }
