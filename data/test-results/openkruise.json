@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "33299947063",
+    "id": "33370835943",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299947063/job/99226080830",
-    "timestamp": "2026-08-30T08:03:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370835943/job/99421383792",
+    "timestamp": "2026-08-31T08:43:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-08-30T08:49:33.278785+00:00",
+    "production_refreshed_at": "2026-08-31T10:59:14.622724+00:00",
     "publish_state": "published"
   }
 }

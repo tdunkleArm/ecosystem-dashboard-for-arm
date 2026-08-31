@@ -5,10 +5,10 @@
     "version": "Jewel (10.2.x)"
   },
   "run": {
-    "id": "33299928712",
+    "id": "33370802460",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299928712/job/99226028763",
-    "timestamp": "2026-08-30T07:53:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370802460/job/99421273826",
+    "timestamp": "2026-08-31T08:04:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check package-specific baseline markers",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check package-specific version and release evidence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-08-30T08:49:33.189328+00:00",
+    "production_refreshed_at": "2026-08-31T10:59:14.532068+00:00",
     "publish_state": "published"
   }
 }

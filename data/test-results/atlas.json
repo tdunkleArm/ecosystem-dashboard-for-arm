@@ -5,10 +5,10 @@
     "version": "2.3.0"
   },
   "run": {
-    "id": "33299921457",
+    "id": "33370787200",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299921457/job/99226008959",
-    "timestamp": "2026-08-30T07:45:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370787200/job/99421219711",
+    "timestamp": "2026-08-31T08:01:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 94,
+    "duration_seconds": 178,
     "details": [
       {
         "name": "Test 1 - Check Source Files",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Validate Build (Maven)",
         "status": "passed",
-        "duration_seconds": 60
+        "duration_seconds": 36
       },
       {
         "name": "Test 4 - Check Distro Module",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 142,
         "current_version": "2.3.0",
         "latest_version": "2.4.0",
         "next_installed_version": "2.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-30T08:49:33.182702+00:00",
+    "production_refreshed_at": "2026-08-31T10:59:14.525296+00:00",
     "publish_state": "published"
   }
 }

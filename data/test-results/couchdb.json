@@ -5,10 +5,10 @@
     "version": "3.3.3"
   },
   "run": {
-    "id": "33299921457",
+    "id": "33370787200",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33299921457/job/99226008935",
-    "timestamp": "2026-08-30T07:45:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370787200/job/99421219949",
+    "timestamp": "2026-08-31T08:04:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check container running",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Create Database",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Create Document",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 8,
         "current_version": "3.3.3",
         "latest_version": "3.4.1",
         "next_installed_version": "3.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-30T08:49:33.198129+00:00",
+    "production_refreshed_at": "2026-08-31T10:59:14.541460+00:00",
     "publish_state": "published"
   }
 }
