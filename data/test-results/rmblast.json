@@ -5,10 +5,10 @@
     "version": "2.14.1"
   },
   "run": {
-    "id": "33370818537",
+    "id": "33480539678",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370818537/job/99421331231",
-    "timestamp": "2026-08-31T08:28:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480539678/job/99768956827",
+    "timestamp": "2026-09-01T07:22:18Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check RMBlast binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check pinned release version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "failed",
     "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-08-31T10:59:14.643169+00:00",
+    "production_refreshed_at": "2026-09-01T10:48:32.743106+00:00",
     "publish_state": "published"
   }
 }

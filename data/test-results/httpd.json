@@ -5,10 +5,10 @@
     "version": "2.4.32"
   },
   "run": {
-    "id": "33370787200",
+    "id": "33480502040",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370787200/job/99421219661",
-    "timestamp": "2026-08-31T08:09:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480502040/job/99768840826",
+    "timestamp": "2026-09-01T07:05:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 43,
+    "duration_seconds": 54,
     "details": [
       {
         "name": "Test 1 - Check httpd binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check config syntax",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Start server and curl localhost",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 52,
         "current_version": "2.4.32",
         "latest_version": "2.4.68",
         "next_installed_version": "2.4.68",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-31T10:59:14.578539+00:00",
+    "production_refreshed_at": "2026-09-01T10:48:32.672544+00:00",
     "publish_state": "published"
   }
 }

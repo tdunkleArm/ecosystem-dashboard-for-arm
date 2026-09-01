@@ -5,10 +5,10 @@
     "version": "[client]"
   },
   "run": {
-    "id": "33370807489",
+    "id": "33480527214",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370807489/job/99421290706",
-    "timestamp": "2026-08-31T08:06:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480527214/job/99768921204",
+    "timestamp": "2026-09-01T07:17:52Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check multipass binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help command",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-08-31T10:59:14.610073+00:00",
+    "production_refreshed_at": "2026-09-01T10:48:32.707133+00:00",
     "publish_state": "published"
   }
 }

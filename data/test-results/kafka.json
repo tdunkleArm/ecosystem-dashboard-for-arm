@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "33370787200",
+    "id": "33480502040",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33370787200/job/99421218676",
-    "timestamp": "2026-08-31T07:59:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480502040/job/99768838959",
+    "timestamp": "2026-09-01T07:05:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1128,
+    "duration_seconds": 671,
     "details": [
       {
         "name": "Test 1 - Check kafka scripts exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Prepare KRaft metadata",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Start Kafka Server",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Create a topic",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - List topics",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1117,
+        "duration_seconds": 661,
         "current_version": "4.0.0",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-08-31T10:59:14.585153+00:00",
+    "production_refreshed_at": "2026-09-01T10:48:32.679441+00:00",
     "publish_state": "published"
   }
 }
