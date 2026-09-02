@@ -5,10 +5,10 @@
     "version": "2021.11.0"
   },
   "run": {
-    "id": "33480508209",
+    "id": "33600073053",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480508209/job/99768860749",
-    "timestamp": "2026-09-01T07:07:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33600073053/job/100151615958",
+    "timestamp": "2026-09-02T06:42:55Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check TBB library exists",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 5
       },
       {
         "name": "Test 2 - Check TBB header files",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-09-01T10:48:32.759742+00:00",
+    "production_refreshed_at": "2026-09-02T09:43:37.486892+00:00",
     "publish_state": "published"
   }
 }

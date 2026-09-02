@@ -5,10 +5,10 @@
     "version": "4.1.9"
   },
   "run": {
-    "id": "33480520783",
+    "id": "33600085127",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33480520783/job/99768897127",
-    "timestamp": "2026-09-01T07:15:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33600085127/job/100151653044",
+    "timestamp": "2026-09-02T06:47:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check logzio python module",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check logzio version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check logzio help output",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-01T10:48:32.695939+00:00",
+    "production_refreshed_at": "2026-09-02T09:43:37.422980+00:00",
     "publish_state": "published"
   }
 }
