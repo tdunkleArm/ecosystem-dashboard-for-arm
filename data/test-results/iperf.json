@@ -5,10 +5,10 @@
     "version": "3.16"
   },
   "run": {
-    "id": "33600104229",
+    "id": "33724736128",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33600104229/job/100151707717",
-    "timestamp": "2026-09-02T06:56:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724736128/job/100551110288",
+    "timestamp": "2026-09-03T07:09:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Iperf binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 9,
         "current_version": "3.16",
         "latest_version": "3.20",
         "next_installed_version": "3.20",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-02T09:43:37.401994+00:00",
+    "production_refreshed_at": "2026-09-03T09:05:18.276411+00:00",
     "publish_state": "published"
   }
 }

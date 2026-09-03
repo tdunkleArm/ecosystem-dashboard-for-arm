@@ -5,10 +5,10 @@
     "version": "5.1"
   },
   "run": {
-    "id": "33600150131",
+    "id": "33724786693",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33600150131/job/100151853761",
-    "timestamp": "2026-09-02T07:43:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724786693/job/100551269294",
+    "timestamp": "2026-09-03T07:28:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check fping binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check fping version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-02T09:43:37.383234+00:00",
+    "production_refreshed_at": "2026-09-03T09:05:18.257826+00:00",
     "publish_state": "published"
   }
 }
