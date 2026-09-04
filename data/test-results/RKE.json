@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "33724786693",
+    "id": "33846108038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724786693/job/100551269141",
-    "timestamp": "2026-09-03T07:50:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846108038/job/100938258409",
+    "timestamp": "2026-09-04T07:35:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check rke binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check rke version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check rke help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-03T09:05:18.206531+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.107344+00:00",
     "publish_state": "published"
   }
 }

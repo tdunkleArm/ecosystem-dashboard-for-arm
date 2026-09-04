@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "33724774527",
+    "id": "33846096201",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724774527/job/100551217774",
-    "timestamp": "2026-09-03T07:28:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846096201/job/100938223788",
+    "timestamp": "2026-09-04T07:39:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "24.0.3",
-        "latest_version": "29.7.2",
-        "next_installed_version": "29.7.2",
+        "latest_version": "29.8.0",
+        "next_installed_version": "29.8.0",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.7.2, and both the docker client and dockerd binaries reported version 29.7.2 on Arm64."
+        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.8.0, and both the docker client and dockerd binaries reported version 29.8.0 on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-03T09:05:18.242857+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.140141+00:00",
     "publish_state": "published"
   }
 }

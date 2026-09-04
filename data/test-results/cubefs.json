@@ -5,10 +5,10 @@
     "version": "v3.4.0"
   },
   "run": {
-    "id": "33724768319",
+    "id": "33846090194",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724768319/job/100551208736",
-    "timestamp": "2026-09-03T07:22:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846090194/job/100938207389",
+    "timestamp": "2026-09-04T07:36:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check repository exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check for Makefile",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check for Go.mod",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 7
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-03T09:05:18.234861+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.132957+00:00",
     "publish_state": "published"
   }
 }

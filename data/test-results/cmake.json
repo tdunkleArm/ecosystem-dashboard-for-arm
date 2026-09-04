@@ -5,10 +5,10 @@
     "version": "3.31.6"
   },
   "run": {
-    "id": "33724786693",
+    "id": "33846108038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724786693/job/100551268954",
-    "timestamp": "2026-09-03T07:37:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846108038/job/100938260265",
+    "timestamp": "2026-09-04T07:40:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check binary",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Configure, build, and run a project",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-03T09:05:18.231959+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.130357+00:00",
     "publish_state": "published"
   }
 }

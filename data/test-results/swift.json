@@ -5,10 +5,10 @@
     "version": "6.0.3"
   },
   "run": {
-    "id": "33724786693",
+    "id": "33846108038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724786693/job/100551268878",
-    "timestamp": "2026-09-03T07:28:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846108038/job/100938259832",
+    "timestamp": "2026-09-04T07:33:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 26,
     "details": [
       {
         "name": "Test 1 - Check Swift binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 24,
         "current_version": "6.0.3",
         "latest_version": "6.2.4",
         "next_installed_version": "6.2.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-03T09:05:18.362568+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.246464+00:00",
     "publish_state": "published"
   }
 }

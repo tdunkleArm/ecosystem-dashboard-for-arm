@@ -5,10 +5,10 @@
     "version": "2.4.6"
   },
   "run": {
-    "id": "33724755301",
+    "id": "33846079235",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724755301/job/100551170066",
-    "timestamp": "2026-09-03T07:09:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846079235/job/100938172736",
+    "timestamp": "2026-09-04T07:23:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package import exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-03T09:05:18.333773+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.221587+00:00",
     "publish_state": "published"
   }
 }

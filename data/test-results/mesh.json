@@ -5,10 +5,10 @@
     "version": "v0.4"
   },
   "run": {
-    "id": "33724716241",
+    "id": "33846049369",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33724716241/job/100551050469",
-    "timestamp": "2026-09-03T06:53:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846049369/job/100938077666",
+    "timestamp": "2026-09-04T07:00:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check go.mod existence",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Build package",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 8
       },
       {
         "name": "Test 3 - Run tests (short)",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Check for example/main",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.4",
         "latest_version": "v0.4",
         "next_installed_version": "v0.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-09-03T09:05:18.302800+00:00",
+    "production_refreshed_at": "2026-09-04T08:40:36.194197+00:00",
     "publish_state": "published"
   }
 }
