@@ -5,10 +5,10 @@
     "version": "2.4.0"
   },
   "run": {
-    "id": "33846135693",
+    "id": "33950287766",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846135693/job/100938345801",
-    "timestamp": "2026-09-04T07:51:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950287766/job/101263650649",
+    "timestamp": "2026-09-05T07:16:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 7,
         "current_version": "2.4.0",
-        "latest_version": "3.15.2",
-        "next_installed_version": "3.15.2",
+        "latest_version": "3.16.0",
+        "next_installed_version": "3.16.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.15.2 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.16.0 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-04T08:40:36.196956+00:00",
+    "production_refreshed_at": "2026-09-05T07:34:22.981110+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "20250625"
   },
   "run": {
-    "id": "33846108038",
+    "id": "33950272390",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846108038/job/100938260445",
-    "timestamp": "2026-09-04T07:33:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950272390/job/101263603532",
+    "timestamp": "2026-09-05T07:14:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check whisper CLI exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check whisper help output",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-04T08:40:36.261234+00:00",
+    "production_refreshed_at": "2026-09-05T07:34:23.054892+00:00",
     "publish_state": "published"
   }
 }

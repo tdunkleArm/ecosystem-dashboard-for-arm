@@ -5,10 +5,10 @@
     "version": "0.24.0"
   },
   "run": {
-    "id": "33846125042",
+    "id": "33950281560",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33846125042/job/100938314157",
-    "timestamp": "2026-09-04T07:51:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950281560/job/101263630618",
+    "timestamp": "2026-09-05T07:15:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check ramalama binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ramalama help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-04T08:40:36.228634+00:00",
+    "production_refreshed_at": "2026-09-05T07:34:23.018195+00:00",
     "publish_state": "published"
   }
 }
