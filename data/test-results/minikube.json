@@ -5,10 +5,10 @@
     "version": "v1.34.0"
   },
   "run": {
-    "id": "33950257018",
+    "id": "34017335275",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950257018/job/101263562952",
-    "timestamp": "2026-09-05T06:59:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34017335275/job/101443333093",
+    "timestamp": "2026-09-06T07:10:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check minikube binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check config command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 3,
         "current_version": "v1.34.0",
         "latest_version": "v1.35.0",
         "next_installed_version": "v1.35.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-05T07:34:22.980326+00:00",
+    "production_refreshed_at": "2026-09-06T07:47:26.293161+00:00",
     "publish_state": "published"
   }
 }

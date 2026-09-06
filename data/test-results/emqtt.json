@@ -5,10 +5,10 @@
     "version": "0.4.8"
   },
   "run": {
-    "id": "33950257018",
+    "id": "34017335275",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950257018/job/101263562948",
-    "timestamp": "2026-09-05T07:00:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34017335275/job/101443332805",
+    "timestamp": "2026-09-06T07:07:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check emqtt_bench binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 59,
+        "duration_seconds": 55,
         "current_version": "0.4.8",
         "latest_version": "0.4.9",
         "next_installed_version": "0.4.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-05T07:34:22.922705+00:00",
+    "production_refreshed_at": "2026-09-06T07:47:26.243924+00:00",
     "publish_state": "published"
   }
 }

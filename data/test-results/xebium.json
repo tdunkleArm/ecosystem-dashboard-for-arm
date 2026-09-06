@@ -5,10 +5,10 @@
     "version": "0.6"
   },
   "run": {
-    "id": "33950278451",
+    "id": "34017355352",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/33950278451/job/101263620758",
-    "timestamp": "2026-09-05T07:17:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34017355352/job/101443389196",
+    "timestamp": "2026-09-06T07:28:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 31,
+    "duration_seconds": 23,
     "details": [
       {
         "name": "Test 1 - Check Xebium jar artifacts exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check built classes are present",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 30,
+        "duration_seconds": 21,
         "current_version": "0.6",
         "latest_version": "0.14",
         "next_installed_version": "0.14",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-05T07:34:23.056535+00:00",
+    "production_refreshed_at": "2026-09-06T07:47:26.359309+00:00",
     "publish_state": "published"
   }
 }
