@@ -5,10 +5,10 @@
     "version": "v0.4"
   },
   "run": {
-    "id": "34017311404",
+    "id": "34092892451",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34017311404/job/101443271312",
-    "timestamp": "2026-09-06T06:50:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092892451/job/101649989302",
+    "timestamp": "2026-09-07T06:57:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check go.mod existence",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Build package",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Test 3 - Run tests (short)",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check for example/main",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-09-06T07:47:26.291024+00:00",
+    "production_refreshed_at": "2026-09-07T10:06:03.551864+00:00",
     "publish_state": "published"
   }
 }

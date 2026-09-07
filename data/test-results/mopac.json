@@ -5,10 +5,10 @@
     "version": "22.0.6+dfsg-1"
   },
   "run": {
-    "id": "34017349380",
+    "id": "34092960975",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34017349380/job/101443371717",
-    "timestamp": "2026-09-06T07:18:45Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092960975/job/101650193814",
+    "timestamp": "2026-09-07T07:42:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check mopac binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check help/usage (if available)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Run simple calculation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-06T07:47:26.295311+00:00",
+    "production_refreshed_at": "2026-09-07T10:06:03.556487+00:00",
     "publish_state": "published"
   }
 }
