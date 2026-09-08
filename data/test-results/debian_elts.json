@@ -5,11 +5,11 @@
     "version": "11"
   },
   "run": {
-    "id": "34092898537",
+    "id": "34196398483",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092898537/job/101650005911",
-    "timestamp": "2026-09-07T07:15:36Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196398483/job/101965000652",
+    "timestamp": "2026-09-08T06:56:09Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -18,9 +18,9 @@
   },
   "tests": {
     "passed": 6,
-    "failed": 0,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Check architecture inside container",
@@ -50,13 +50,21 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 9,
         "current_version": "11",
         "latest_version": "12.13",
         "next_installed_version": "12",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
         "comparison": "Baseline Debian 11 passed the Arm64 container smoke in this run, and candidate image tag 12.13 also pulled successfully, reported VERSION_ID 12, completed in-container apt smoke, and passed architecture plus command validation on Arm64."
+      },
+      {
+        "name": "Workflow Finalization",
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "job_failed_without_emitted_result",
+        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
+        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -64,8 +72,8 @@
     "contract_version": "2.0",
     "package_slug": "debian_elts",
     "dashboard_link": "/linux/opensource_packages/debian_elts",
-    "badge_status": "passing",
-    "core_failed": 0,
+    "badge_status": "failing",
+    "core_failed": 1,
     "batch_title": "Batch 5",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
@@ -73,7 +81,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-07T10:06:03.493344+00:00",
+    "production_refreshed_at": "2026-09-08T11:15:13.541620+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.2.1"
   },
   "run": {
-    "id": "34092941446",
+    "id": "34196439038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092941446/job/101650138654",
-    "timestamp": "2026-09-07T07:41:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196439038/job/101965121870",
+    "timestamp": "2026-09-08T07:31:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4037,
+    "duration_seconds": 4794,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check alert-server directory exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4037,
+        "duration_seconds": 4794,
         "current_version": "3.2.1",
         "latest_version": "3.2.2",
         "next_installed_version": "3.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-07T10:06:03.496066+00:00",
+    "production_refreshed_at": "2026-09-08T11:15:13.545009+00:00",
     "publish_state": "published"
   }
 }

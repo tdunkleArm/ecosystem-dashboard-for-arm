@@ -5,10 +5,10 @@
     "version": "1.23.0"
   },
   "run": {
-    "id": "34092892451",
+    "id": "34196392949",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092892451/job/101649990380",
-    "timestamp": "2026-09-07T07:14:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196392949/job/101964973192",
+    "timestamp": "2026-09-08T06:51:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check groff binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check groff version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check nroff binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-07T10:06:03.518661+00:00",
+    "production_refreshed_at": "2026-09-08T11:15:13.573184+00:00",
     "publish_state": "published"
   }
 }

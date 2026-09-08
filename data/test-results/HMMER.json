@@ -5,10 +5,10 @@
     "version": "3.4"
   },
   "run": {
-    "id": "34092941446",
+    "id": "34196439038",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092941446/job/101650138610",
-    "timestamp": "2026-09-07T07:40:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196439038/job/101965122298",
+    "timestamp": "2026-09-08T07:38:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check hmmbuild binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-07T10:06:03.459578+00:00",
+    "production_refreshed_at": "2026-09-08T11:15:13.500636+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "6.2.16"
   },
   "run": {
-    "id": "34092904049",
+    "id": "34196404127",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34092904049/job/101650022521",
-    "timestamp": "2026-09-07T07:08:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196404127/job/101965010472",
+    "timestamp": "2026-09-08T07:09:41Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check perf binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-09-07T10:06:03.579568+00:00",
+    "production_refreshed_at": "2026-09-08T11:15:13.644670+00:00",
     "publish_state": "published"
   }
 }
