@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "34196492587",
+    "id": "34321673091",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196492587/job/101965279482",
-    "timestamp": "2026-09-08T08:15:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321673091/job/102369503143",
+    "timestamp": "2026-09-09T08:15:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "2.0.0",
-        "latest_version": "2.9.10",
-        "next_installed_version": "2.9.10",
+        "latest_version": "2.9.11",
+        "next_installed_version": "2.9.11",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2.0.0, and the next stable source tag 2.9.10 from microsoft/WSL also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2.0.0, and the next stable source tag 2.9.11 from microsoft/WSL also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-08T11:15:13.696460+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.796568+00:00",
     "publish_state": "published"
   }
 }

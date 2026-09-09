@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "34196464174",
+    "id": "34321640614",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196464174/job/101965191193",
-    "timestamp": "2026-09-08T08:18:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321640614/job/102369404377",
+    "timestamp": "2026-09-09T08:02:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 35,
+        "duration_seconds": 34,
         "current_version": "11.71.7",
-        "latest_version": "12.27.1",
-        "next_installed_version": "12.27.1",
+        "latest_version": "12.27.2",
+        "next_installed_version": "12.27.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.27.1, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.27.2, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.648330+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.755712+00:00",
     "publish_state": "published"
   }
 }

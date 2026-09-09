@@ -5,10 +5,10 @@
     "version": "1.2.861-nightly"
   },
   "run": {
-    "id": "34196409943",
+    "id": "34321584741",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196409943/job/101965027500",
-    "timestamp": "2026-09-08T07:27:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321584741/job/102369223368",
+    "timestamp": "2026-09-09T07:15:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check databend-query binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 27,
         "current_version": "1.2.861-nightly",
         "latest_version": "1.2.862-nightly",
         "next_installed_version": "1.2.862-nightly",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.540334+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.665103+00:00",
     "publish_state": "published"
   }
 }

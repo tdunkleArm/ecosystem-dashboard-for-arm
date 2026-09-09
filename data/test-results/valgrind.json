@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Valgrind",
-    "version": "unknown"
+    "version": "3.23.0"
   },
   "run": {
-    "id": "34196439038",
+    "id": "34321615461",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196439038/job/101965122309",
-    "timestamp": "2026-09-08T07:42:51Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321615461/job/102369323516",
+    "timestamp": "2026-09-09T07:41:09Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-valgrind / test-valgrind"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 110,
     "details": [
       {
         "name": "Test 1 - Check valgrind binary exists",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact version output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 110,
+        "current_version": "3.23.0",
+        "latest_version": "3.27.1",
+        "next_installed_version": "3.27.1",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Valgrind version 3.23.0 passed smoke tests in this run. Regression validation rebuilt candidate version 3.27.1 on Arm64, the isolated candidate binary reported version 3.27.1, and memcheck still reported the expected leak summary."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "valgrind",
     "dashboard_link": "/linux/opensource_packages/valgrind",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-09-08T11:15:13.688487+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-09-09T10:29:24.789617+00:00",
     "publish_state": "published"
   }
 }

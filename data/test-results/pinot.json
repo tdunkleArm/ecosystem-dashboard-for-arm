@@ -5,9 +5,9 @@
     "version": "unknown"
   },
   "run": {
-    "id": "34196381609",
+    "id": "34321555584",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196381609/job/101964938080",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321555584/job/102369131567",
     "timestamp": "",
     "status": "success",
     "runner": {
@@ -17,9 +17,9 @@
     "job_name": "test-pinot / test-pinot"
   },
   "tests": {
-    "passed": 6,
+    "passed": 5,
     "failed": 0,
-    "skipped": 0,
+    "skipped": 1,
     "duration_seconds": 0,
     "details": [
       {
@@ -49,8 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 7465
+        "status": "skipped",
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,8 +65,8 @@
     "regression_applicability": "not_configured",
     "regression_reason": "not_configured",
     "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "passed",
-    "production_refreshed_at": "2026-09-08T11:15:13.646425+00:00",
+    "regression_status": "skipped",
+    "production_refreshed_at": "2026-09-09T10:29:24.754134+00:00",
     "publish_state": "published"
   }
 }

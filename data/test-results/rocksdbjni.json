@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "34196398483",
+    "id": "34321573389",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196398483/job/101965000653",
-    "timestamp": "2026-09-08T07:05:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321573389/job/102369184859",
+    "timestamp": "2026-09-09T07:08:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check RocksDBjni jar and Arm64 native library",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 6,
         "current_version": "10.5.1",
         "latest_version": "10.8.3",
         "next_installed_version": "10.8.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.661449+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.766670+00:00",
     "publish_state": "published"
   }
 }

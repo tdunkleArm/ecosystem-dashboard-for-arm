@@ -5,10 +5,10 @@
     "version": "1.0.20"
   },
   "run": {
-    "id": "34196409943",
+    "id": "34321584741",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196409943/job/101965027481",
-    "timestamp": "2026-09-08T07:09:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321584741/job/102369222994",
+    "timestamp": "2026-09-09T07:10:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check chaossearch binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Validate with Terraform init",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check provider binary info",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.0.20",
         "latest_version": "1.0.21",
         "next_installed_version": "1.0.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.527152+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.654069+00:00",
     "publish_state": "published"
   }
 }

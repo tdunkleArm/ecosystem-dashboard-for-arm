@@ -5,10 +5,10 @@
     "version": "v2.5.1"
   },
   "run": {
-    "id": "34196445489",
+    "id": "34321621773",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196445489/job/101965143294",
-    "timestamp": "2026-09-08T07:39:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321621773/job/102369344228",
+    "timestamp": "2026-09-09T07:41:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check kamel version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check kamel help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "v2.5.1",
         "latest_version": "v2.6.0",
         "next_installed_version": "v2.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.523022+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.650745+00:00",
     "publish_state": "published"
   }
 }

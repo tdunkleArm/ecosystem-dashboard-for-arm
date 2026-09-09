@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "34196464174",
+    "id": "34321640614",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196464174/job/101965191150",
-    "timestamp": "2026-09-08T07:57:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321640614/job/102369403987",
+    "timestamp": "2026-09-09T07:52:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "4.14.0",
-        "latest_version": "4.22.11",
-        "next_installed_version": "4.22.11",
+        "latest_version": "4.22.12",
+        "next_installed_version": "4.22.12",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.11 on Arm64, and the extracted client binaries reported version 4.22.11 while passing help, completion, and kubectl client checks."
+        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.12 on Arm64, and the extracted client binaries reported version 4.22.12 while passing help, completion, and kubectl client checks."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.637777+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.746909+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.5.0"
   },
   "run": {
-    "id": "34196398483",
+    "id": "34321573389",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34196398483/job/101965000578",
-    "timestamp": "2026-09-08T06:59:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321573389/job/102369187276",
+    "timestamp": "2026-09-09T07:36:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Quartz artifact exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dependency resolution",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 5,
         "current_version": "2.5.0",
         "latest_version": "2.5.1",
         "next_installed_version": "2.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-08T11:15:13.654778+00:00",
+    "production_refreshed_at": "2026-09-09T10:29:24.760990+00:00",
     "publish_state": "published"
   }
 }
