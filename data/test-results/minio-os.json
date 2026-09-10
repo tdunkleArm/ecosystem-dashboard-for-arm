@@ -5,10 +5,10 @@
     "version": "RELEASE.2025-09-07T16-13-09Z"
   },
   "run": {
-    "id": "34321621773",
+    "id": "34447468209",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321621773/job/102369344571",
-    "timestamp": "2026-09-09T07:38:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447468209/job/102775333945",
+    "timestamp": "2026-09-10T07:48:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check binary exists and architecture",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check server subcommand help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-09T10:29:24.728929+00:00",
+    "production_refreshed_at": "2026-09-10T11:19:15.495232+00:00",
     "publish_state": "published"
   }
 }

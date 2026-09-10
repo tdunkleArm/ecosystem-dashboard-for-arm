@@ -5,10 +5,10 @@
     "version": "10.2.4"
   },
   "run": {
-    "id": "34321608990",
+    "id": "34447455638",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321608990/job/102369303106",
-    "timestamp": "2026-09-09T07:33:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447455638/job/102775294976",
+    "timestamp": "2026-09-10T07:39:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check drupal directory exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check index.php",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check core bootstrap file",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "10.2.4",
         "latest_version": "11.2.5",
         "next_installed_version": "11.2.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-09T10:29:24.671364+00:00",
+    "production_refreshed_at": "2026-09-10T11:19:15.438289+00:00",
     "publish_state": "published"
   }
 }

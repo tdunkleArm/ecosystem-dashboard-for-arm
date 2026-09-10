@@ -5,10 +5,10 @@
     "version": "1.6.24"
   },
   "run": {
-    "id": "34321549418",
+    "id": "34447385353",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321549418/job/102369110095",
-    "timestamp": "2026-09-09T06:58:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447385353/job/102775077669",
+    "timestamp": "2026-09-10T06:55:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check service status",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Set and Get value (using netcat)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-09T10:29:24.725762+00:00",
+    "production_refreshed_at": "2026-09-10T11:19:15.491851+00:00",
     "publish_state": "published"
   }
 }

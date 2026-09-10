@@ -5,11 +5,11 @@
     "version": "unknown"
   },
   "run": {
-    "id": "34321646715",
+    "id": "34447493130",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321646715/job/102369425151",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447493130/job/102775412253",
     "timestamp": "",
-    "status": "success",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -18,14 +18,14 @@
   },
   "tests": {
     "passed": 5,
-    "failed": 0,
-    "skipped": 1,
+    "failed": 1,
+    "skipped": 0,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check configuration directory exists",
@@ -49,8 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "failed",
+        "duration_seconds": 7460
       }
     ]
   },
@@ -58,15 +58,15 @@
     "contract_version": "missing",
     "package_slug": "druid",
     "dashboard_link": "/linux/opensource_packages/druid",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 17",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "skipped",
-    "production_refreshed_at": "2026-09-09T10:29:24.671171+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-09-10T11:19:15.438115+00:00",
     "publish_state": "published"
   }
 }

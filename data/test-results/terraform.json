@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "34321640614",
+    "id": "34447487001",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321640614/job/102369403855",
-    "timestamp": "2026-09-09T07:54:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447487001/job/102775418400",
+    "timestamp": "2026-09-10T08:06:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.16.1",
-        "next_installed_version": "1.16.1",
+        "latest_version": "1.16.2",
+        "next_installed_version": "1.16.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.16.1/terraform_1.16.1_linux_arm64.zip and confirmed candidate version 1.16.1 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.16.2/terraform_1.16.2_linux_arm64.zip and confirmed candidate version 1.16.2 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-09T10:29:24.783582+00:00",
+    "production_refreshed_at": "2026-09-10T11:19:15.549557+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "34321573389",
+    "id": "34447419097",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34321573389/job/102369187186",
-    "timestamp": "2026-09-09T07:19:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447419097/job/102775176105",
+    "timestamp": "2026-09-10T07:07:32Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check OS release file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check architecture inside container",
@@ -81,7 +81,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-09T10:29:24.666156+00:00",
+    "production_refreshed_at": "2026-09-10T11:19:15.433078+00:00",
     "publish_state": "published"
   }
 }
