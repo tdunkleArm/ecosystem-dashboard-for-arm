@@ -5,10 +5,10 @@
     "version": "2.0.1"
   },
   "run": {
-    "id": "34447487001",
+    "id": "34572028359",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447487001/job/102775418300",
-    "timestamp": "2026-09-10T08:04:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34572028359/job/103176017160",
+    "timestamp": "2026-09-11T07:47:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check npm package exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Verify Node.js import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-10T11:19:15.436514+00:00",
+    "production_refreshed_at": "2026-09-11T08:23:06.170379+00:00",
     "publish_state": "published"
   }
 }

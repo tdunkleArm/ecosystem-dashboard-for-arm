@@ -5,10 +5,10 @@
     "version": "13.3.0"
   },
   "run": {
-    "id": "34447498908",
+    "id": "34572039484",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34447498908/job/102775430740",
-    "timestamp": "2026-09-10T08:08:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34572039484/job/103176048193",
+    "timestamp": "2026-09-11T07:59:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check gcc binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile simple C program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-10T11:19:15.452876+00:00",
+    "production_refreshed_at": "2026-09-11T08:23:06.189486+00:00",
     "publish_state": "published"
   }
 }
