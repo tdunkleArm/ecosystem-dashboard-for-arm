@@ -5,10 +5,10 @@
     "version": "2.7.4"
   },
   "run": {
-    "id": "34572010760",
+    "id": "34679031428",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34572010760/job/103175964392",
-    "timestamp": "2026-09-11T07:41:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34679031428/job/103514046750",
+    "timestamp": "2026-09-12T07:19:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check embedded release tag provenance",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "2.7.4",
         "latest_version": "2.7.5",
         "next_installed_version": "2.7.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-11T08:23:06.233948+00:00",
+    "production_refreshed_at": "2026-09-12T07:55:34.571784+00:00",
     "publish_state": "published"
   }
 }

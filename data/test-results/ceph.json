@@ -5,10 +5,10 @@
     "version": "19.2.3"
   },
   "run": {
-    "id": "34571943360",
+    "id": "34678992336",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34571943360/job/103175757839",
-    "timestamp": "2026-09-11T06:54:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34678992336/job/103513939119",
+    "timestamp": "2026-09-12T06:46:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check rados binary (RADOS object store)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check rbd binary (RADOS Block Device)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-11T08:23:06.151545+00:00",
+    "production_refreshed_at": "2026-09-12T07:55:34.500134+00:00",
     "publish_state": "published"
   }
 }
