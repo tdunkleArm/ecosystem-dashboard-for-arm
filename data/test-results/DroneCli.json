@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "34679048611",
+    "id": "34744360471",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34679048611/job/103514096518",
-    "timestamp": "2026-09-12T07:26:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744360471/job/103689398617",
+    "timestamp": "2026-09-13T07:44:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check drone binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.8.0",
         "latest_version": "1.9.0",
         "next_installed_version": "1.9.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-12T07:55:34.477374+00:00",
+    "production_refreshed_at": "2026-09-13T08:06:25.242655+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.1.1"
   },
   "run": {
-    "id": "34679040938",
+    "id": "34744354176",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34679040938/job/103514074439",
-    "timestamp": "2026-09-12T07:27:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744354176/job/103689381874",
+    "timestamp": "2026-09-13T07:38:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check basic component import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Create a simple Pipeline",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check Document import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-12T07:55:34.542986+00:00",
+    "production_refreshed_at": "2026-09-13T08:06:25.304838+00:00",
     "publish_state": "published"
   }
 }
