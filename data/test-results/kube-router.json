@@ -5,10 +5,10 @@
     "version": "2.6.0"
   },
   "run": {
-    "id": "34744325393",
+    "id": "34817981301",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744325393/job/103689301720",
-    "timestamp": "2026-09-13T07:14:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34817981301/job/103892783039",
+    "timestamp": "2026-09-14T07:40:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check metrics flag parsing",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "2.6.0",
         "latest_version": "2.6.1",
         "next_installed_version": "2.6.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-13T08:06:25.317852+00:00",
+    "production_refreshed_at": "2026-09-14T08:36:24.646874+00:00",
     "publish_state": "published"
   }
 }

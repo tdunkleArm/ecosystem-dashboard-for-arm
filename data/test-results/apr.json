@@ -5,10 +5,10 @@
     "version": "1.7.5"
   },
   "run": {
-    "id": "34744307623",
+    "id": "34817945045",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744307623/job/103689251104",
-    "timestamp": "2026-09-13T07:04:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34817945045/job/103892666647",
+    "timestamp": "2026-09-14T07:29:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,27 +20,27 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 223,
+    "duration_seconds": 221,
     "details": [
       {
         "name": "Test 1 - Configure",
         "status": "passed",
-        "duration_seconds": 21
+        "duration_seconds": 16
       },
       {
         "name": "Test 2 - Compile (Make)",
         "status": "passed",
-        "duration_seconds": 18
+        "duration_seconds": 20
       },
       {
         "name": "Test 3 - Run Tests (Make Test)",
         "status": "passed",
-        "duration_seconds": 162
+        "duration_seconds": 163
       },
       {
         "name": "Test 4 - Install (Dry Run)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Installed Libs",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-13T08:06:25.254071+00:00",
+    "production_refreshed_at": "2026-09-14T08:36:24.587603+00:00",
     "publish_state": "published"
   }
 }

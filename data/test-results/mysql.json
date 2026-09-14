@@ -5,10 +5,10 @@
     "version": "Linux"
   },
   "run": {
-    "id": "34744307623",
+    "id": "34817945045",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744307623/job/103689250678",
-    "timestamp": "2026-09-13T07:04:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34817945045/job/103892665598",
+    "timestamp": "2026-09-14T07:27:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check mysql client binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check service status",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 10
       },
       {
         "name": "Test 5 - Simple connection check",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-13T08:06:25.339928+00:00",
+    "production_refreshed_at": "2026-09-14T08:36:24.667569+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "34744314133",
+    "id": "34817957516",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744314133/job/103689269310",
-    "timestamp": "2026-09-13T07:07:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34817957516/job/103892705543",
+    "timestamp": "2026-09-14T07:34:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check dependency tree",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Build dummy project",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-13T08:06:25.382870+00:00",
+    "production_refreshed_at": "2026-09-14T08:36:24.708072+00:00",
     "publish_state": "published"
   }
 }

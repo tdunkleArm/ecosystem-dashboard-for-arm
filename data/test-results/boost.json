@@ -5,10 +5,10 @@
     "version": "1.83"
   },
   "run": {
-    "id": "34744316756",
+    "id": "34817963746",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34744316756/job/103689277336",
-    "timestamp": "2026-09-13T07:14:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34817963746/job/103892728149",
+    "timestamp": "2026-09-14T07:30:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check Headers",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Compile and run Boost examples",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-13T08:06:25.259182+00:00",
+    "production_refreshed_at": "2026-09-14T08:36:24.592503+00:00",
     "publish_state": "published"
   }
 }
