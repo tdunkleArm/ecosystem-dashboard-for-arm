@@ -5,10 +5,10 @@
     "version": "5.9.13/K6.17.0-1022-azure"
   },
   "run": {
-    "id": "34818028678",
+    "id": "34939915157",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34818028678/job/103892932682",
-    "timestamp": "2026-09-14T08:10:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939915157/job/104286009701",
+    "timestamp": "2026-09-15T07:58:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-14T08:36:24.710056+00:00",
+    "production_refreshed_at": "2026-09-15T11:26:11.931969+00:00",
     "publish_state": "published"
   }
 }

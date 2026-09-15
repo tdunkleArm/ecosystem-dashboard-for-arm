@@ -5,10 +5,10 @@
     "version": "0.10.41"
   },
   "run": {
-    "id": "34818022988",
+    "id": "34939908913",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34818022988/job/103892916403",
-    "timestamp": "2026-09-14T08:04:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939908913/job/104285993883",
+    "timestamp": "2026-09-15T08:10:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Infracost binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "0.10.41",
         "latest_version": "0.10.42",
         "next_installed_version": "0.10.42",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-14T08:36:24.638864+00:00",
+    "production_refreshed_at": "2026-09-15T11:26:11.855081+00:00",
     "publish_state": "published"
   }
 }

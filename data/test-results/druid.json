@@ -1,15 +1,15 @@
 {
   "schema_version": "2.0",
   "package": {
-    "name": "Druid",
-    "version": "31.0.0"
+    "name": "druid",
+    "version": "unknown"
   },
   "run": {
-    "id": "34818040306",
+    "id": "34939929140",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34818040306/job/103892973144",
-    "timestamp": "2026-09-14T08:14:31Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939929140/job/104286058266",
+    "timestamp": "",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-druid / test-druid"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 691,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
@@ -49,31 +49,24 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 691,
-        "current_version": "31.0.0",
-        "latest_version": "31.0.1",
-        "next_installed_version": "31.0.1",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Druid version 31.0.0 passed smoke tests in this run. Regression validation downloaded and extracted candidate version 31.0.1 on Arm64, and the staged distribution exposed the quickstart script, runtime helper script, configuration directory, and library layout expected by this workflow."
+        "status": "failed",
+        "duration_seconds": 7462
       }
     ]
   },
   "metadata": {
-    "contract_version": "2.0",
+    "contract_version": "missing",
     "package_slug": "druid",
     "dashboard_link": "/linux/opensource_packages/druid",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 17",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-14T08:36:24.612791+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-09-15T11:26:11.794982+00:00",
     "publish_state": "published"
   }
 }
