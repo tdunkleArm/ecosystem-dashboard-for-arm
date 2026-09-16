@@ -5,10 +5,10 @@
     "version": "42"
   },
   "run": {
-    "id": "34939860414",
+    "id": "35066771046",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939860414/job/104285838757",
-    "timestamp": "2026-09-15T07:33:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066771046/job/104698713959",
+    "timestamp": "2026-09-16T07:17:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 23,
+    "duration_seconds": 49,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 15,
+        "duration_seconds": 40,
         "current_version": "42",
         "latest_version": "43",
         "next_installed_version": "43",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-15T11:26:11.829329+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.524763+00:00",
     "publish_state": "published"
   }
 }

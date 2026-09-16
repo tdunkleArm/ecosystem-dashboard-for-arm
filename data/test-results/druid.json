@@ -5,9 +5,9 @@
     "version": "unknown"
   },
   "run": {
-    "id": "34939929140",
+    "id": "35066842860",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939929140/job/104286058266",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066842860/job/104698940732",
     "timestamp": "",
     "status": "failure",
     "runner": {
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check library directory contains jars",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 7462
+        "duration_seconds": 7459
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-09-15T11:26:11.794982+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.517241+00:00",
     "publish_state": "published"
   }
 }

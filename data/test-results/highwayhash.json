@@ -5,10 +5,10 @@
     "version": "0~git20200803.9490b14-4.1build1"
   },
   "run": {
-    "id": "34939915157",
+    "id": "35066829366",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939915157/job/104286009922",
-    "timestamp": "2026-09-15T07:56:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066829366/job/104698895768",
+    "timestamp": "2026-09-16T08:00:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check headers exist",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check library file exists",
         "status": "passed",
-        "duration_seconds": 12
+        "duration_seconds": 5
       },
       {
         "name": "Test 3 - Compile C++ program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-15T11:26:11.851708+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.540950+00:00",
     "publish_state": "published"
   }
 }

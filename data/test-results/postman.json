@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "34939921941",
+    "id": "35066836059",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939921941/job/104286036149",
-    "timestamp": "2026-09-15T08:12:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066836059/job/104698920644",
+    "timestamp": "2026-09-16T07:57:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 79,
+    "duration_seconds": 78,
     "details": [
       {
         "name": "Test 1 - Check binary existence",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 34,
         "current_version": "11.71.7",
-        "latest_version": "12.28.1",
-        "next_installed_version": "12.28.1",
+        "latest_version": "12.28.2",
+        "next_installed_version": "12.28.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.28.1, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.28.2, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-15T11:26:11.908951+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.595419+00:00",
     "publish_state": "published"
   }
 }

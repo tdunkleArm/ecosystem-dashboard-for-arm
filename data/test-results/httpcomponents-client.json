@@ -5,10 +5,10 @@
     "version": "5.4"
   },
   "run": {
-    "id": "34939835357",
+    "id": "35066742362",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939835357/job/104285762991",
-    "timestamp": "2026-09-15T07:15:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066742362/job/104698634814",
+    "timestamp": "2026-09-16T07:07:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile Java client",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Run loopback HTTP request",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Check expected client classes",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-15T11:26:11.853143+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.542231+00:00",
     "publish_state": "published"
   }
 }

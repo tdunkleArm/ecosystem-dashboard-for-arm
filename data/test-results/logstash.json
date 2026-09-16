@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "34939842171",
+    "id": "35066748792",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939842171/job/104285780433",
-    "timestamp": "2026-09-15T07:14:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066748792/job/104698652648",
+    "timestamp": "2026-09-16T07:05:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Logstash binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Logstash config test",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Check package architecture",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 31,
+        "duration_seconds": 52,
         "current_version": "8.19.12",
-        "latest_version": "8.19.19",
-        "next_installed_version": "8.19.19",
+        "latest_version": "8.19.20",
+        "next_installed_version": "8.19.20",
         "decision": "next_install_validated",
         "regression_result": "Next stable Logstash candidate installed and validated successfully on Arm64.",
-        "comparison": "Baseline 8.19.12 passed tests 1-5, and candidate 8.19.19 passed install, version, help, architecture, and config validation in Test 6."
+        "comparison": "Baseline 8.19.12 passed tests 1-5, and candidate 8.19.20 passed install, version, help, architecture, and config validation in Test 6."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-15T11:26:11.874628+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.563196+00:00",
     "publish_state": "published"
   }
 }

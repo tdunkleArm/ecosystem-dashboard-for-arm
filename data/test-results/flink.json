@@ -5,10 +5,10 @@
     "version": "2.1.0"
   },
   "run": {
-    "id": "34939854169",
+    "id": "35066763662",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/34939854169/job/104285820737",
-    "timestamp": "2026-09-15T07:31:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066763662/job/104698692006",
+    "timestamp": "2026-09-16T07:30:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6108,
+    "duration_seconds": 6187,
     "details": [
       {
         "name": "Test 1 - Check flink binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check flink version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6080,
+        "duration_seconds": 6159,
         "current_version": "2.1.0",
         "latest_version": "2.1.1",
         "next_installed_version": "2.1.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-15T11:26:11.831541+00:00",
+    "production_refreshed_at": "2026-09-16T11:36:56.526865+00:00",
     "publish_state": "published"
   }
 }
