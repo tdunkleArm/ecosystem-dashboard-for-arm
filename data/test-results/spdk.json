@@ -5,10 +5,10 @@
     "version": "v22.09"
   },
   "run": {
-    "id": "35066797700",
+    "id": "35192559536",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066797700/job/104698796757",
-    "timestamp": "2026-09-16T07:34:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192559536/job/105108210565",
+    "timestamp": "2026-09-17T07:37:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 116,
+    "duration_seconds": 126,
     "details": [
       {
         "name": "Test 1 - Check SPDK binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 115,
+        "duration_seconds": 125,
         "current_version": "v22.09",
         "latest_version": "v23.01",
         "next_installed_version": "v23.01",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-16T11:36:56.613357+00:00",
+    "production_refreshed_at": "2026-09-17T11:26:34.075719+00:00",
     "publish_state": "published"
   }
 }

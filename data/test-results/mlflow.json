@@ -5,10 +5,10 @@
     "version": "2.4.0"
   },
   "run": {
-    "id": "35066863321",
+    "id": "35192622941",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066863321/job/104699000564",
-    "timestamp": "2026-09-16T08:12:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192622941/job/105108413339",
+    "timestamp": "2026-09-17T08:20:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 8,
         "current_version": "2.4.0",
-        "latest_version": "3.16.0",
-        "next_installed_version": "3.16.0",
+        "latest_version": "3.16.1",
+        "next_installed_version": "3.16.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.16.0 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.16.1 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-16T11:36:56.570751+00:00",
+    "production_refreshed_at": "2026-09-17T11:26:34.010871+00:00",
     "publish_state": "published"
   }
 }

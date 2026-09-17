@@ -5,10 +5,10 @@
     "version": "3.8.2"
   },
   "run": {
-    "id": "35066742362",
+    "id": "35192509673",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066742362/job/104698634971",
-    "timestamp": "2026-09-16T07:10:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192509673/job/105108058351",
+    "timestamp": "2026-09-17T07:05:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Libaom library exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Libaom header files",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-16T11:36:56.556138+00:00",
+    "production_refreshed_at": "2026-09-17T11:26:33.983990+00:00",
     "publish_state": "published"
   }
 }

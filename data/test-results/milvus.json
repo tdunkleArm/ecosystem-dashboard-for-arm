@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "35066849576",
+    "id": "35192610518",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35066849576/job/104698959673",
-    "timestamp": "2026-09-16T08:07:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192610518/job/105108372246",
+    "timestamp": "2026-09-17T08:18:10Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check standalone compose asset",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Validate standalone compose configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-09-16T11:36:56.569328+00:00",
+    "production_refreshed_at": "2026-09-17T11:26:34.008235+00:00",
     "publish_state": "published"
   }
 }
