@@ -5,10 +5,10 @@
     "version": "V6.12.4"
   },
   "run": {
-    "id": "35192616591",
+    "id": "35317221459",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192616591/job/105108392251",
-    "timestamp": "2026-09-17T08:16:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317221459/job/105511437406",
+    "timestamp": "2026-09-18T08:05:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 43,
+    "duration_seconds": 47,
     "details": [
       {
         "name": "Test 1 - Check fdfs_trackerd binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 42,
+        "duration_seconds": 47,
         "current_version": "V6.12.4",
         "latest_version": "V6.13.0",
         "next_installed_version": "V6.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-17T11:26:33.932117+00:00",
+    "production_refreshed_at": "2026-09-18T09:43:00.684911+00:00",
     "publish_state": "published"
   }
 }

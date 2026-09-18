@@ -5,10 +5,10 @@
     "version": "7.0.31"
   },
   "run": {
-    "id": "35192504112",
+    "id": "35317123213",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35192504112/job/105108038348",
-    "timestamp": "2026-09-17T07:02:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317123213/job/105511129313",
+    "timestamp": "2026-09-18T06:57:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Binary Existence and Architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Version Check",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Functional Validation (Ping)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Functional Validation (Insert and Find)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 5,
         "current_version": "7.0.31",
         "latest_version": "7.0.32",
         "next_installed_version": "7.0.32",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-17T11:26:34.012373+00:00",
+    "production_refreshed_at": "2026-09-18T09:43:00.744689+00:00",
     "publish_state": "published"
   }
 }
