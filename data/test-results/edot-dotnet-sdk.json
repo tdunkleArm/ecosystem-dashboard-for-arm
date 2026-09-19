@@ -5,10 +5,10 @@
     "version": "Elastic.OpenTelemetry"
   },
   "run": {
-    "id": "35317189575",
+    "id": "35427967496",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317189575/job/105511336826",
-    "timestamp": "2026-09-18T07:52:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427967496/job/105857146960",
+    "timestamp": "2026-09-19T07:28:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-18T09:43:00.678048+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.486654+00:00",
     "publish_state": "published"
   }
 }

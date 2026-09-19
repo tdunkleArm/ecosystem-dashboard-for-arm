@@ -5,10 +5,10 @@
     "version": "v10.3.0"
   },
   "run": {
-    "id": "35317134374",
+    "id": "35427935269",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317134374/job/105511162922",
-    "timestamp": "2026-09-18T07:23:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427935269/job/105857056998",
+    "timestamp": "2026-09-19T07:04:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Validate offline database import/export",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "v10.3.0",
         "latest_version": "v10.4.0-release-10",
         "next_installed_version": "v10.4.0-release-10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-18T09:43:00.705832+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.524134+00:00",
     "publish_state": "published"
   }
 }

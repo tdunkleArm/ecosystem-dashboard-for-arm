@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "35317134374",
+    "id": "35427935269",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317134374/job/105511162181",
-    "timestamp": "2026-09-18T07:11:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427935269/job/105857057023",
+    "timestamp": "2026-09-19T07:05:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 32,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Java Environment Check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 26,
+        "duration_seconds": 30,
         "current_version": "1.21.2",
         "latest_version": "1.22.0",
         "next_installed_version": "1.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-18T09:43:00.641049+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.395515+00:00",
     "publish_state": "published"
   }
 }

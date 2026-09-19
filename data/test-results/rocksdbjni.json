@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "35317144771",
+    "id": "35427940590",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317144771/job/105511198690",
-    "timestamp": "2026-09-18T07:11:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427940590/job/105857072742",
+    "timestamp": "2026-09-19T07:04:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RocksDBjni version output",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Check Maven dependency resolution",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 6,
         "current_version": "10.5.1",
         "latest_version": "10.8.3",
         "next_installed_version": "10.8.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-18T09:43:00.788911+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.646767+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.1.7"
   },
   "run": {
-    "id": "35317189575",
+    "id": "35427967496",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317189575/job/105511336439",
-    "timestamp": "2026-09-18T07:54:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427967496/job/105857146899",
+    "timestamp": "2026-09-19T07:29:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check corosync binary exists and architecture",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Config Validity (Dry Run)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check Keygen Binary",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-18T09:43:00.662478+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.464600+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "22.0.0"
   },
   "run": {
-    "id": "35317134374",
+    "id": "35427935269",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317134374/job/105511161827",
-    "timestamp": "2026-09-18T07:06:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427935269/job/105857056946",
+    "timestamp": "2026-09-19T06:58:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Functional validation with WSGI app",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Request context and architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-18T09:43:00.702194+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.517884+00:00",
     "publish_state": "published"
   }
 }

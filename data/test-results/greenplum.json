@@ -5,10 +5,10 @@
     "version": "1.0.0-beta"
   },
   "run": {
-    "id": "35317200180",
+    "id": "35427975373",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35317200180/job/105511370074",
-    "timestamp": "2026-09-18T07:47:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427975373/job/105857167801",
+    "timestamp": "2026-09-19T07:33:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check exact source tag checkout",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 2,
         "current_version": "1.0.0-beta",
         "latest_version": "1.0.0",
         "next_installed_version": "1.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-18T09:43:00.700937+00:00",
+    "production_refreshed_at": "2026-09-19T08:03:29.516935+00:00",
     "publish_state": "published"
   }
 }
