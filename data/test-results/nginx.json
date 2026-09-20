@@ -5,10 +5,10 @@
     "version": "1.20.1"
   },
   "run": {
-    "id": "35427929287",
+    "id": "35496620187",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427929287/job/105857040094",
-    "timestamp": "2026-09-19T06:55:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35496620187/job/106040661371",
+    "timestamp": "2026-09-20T07:21:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check nginx binary",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 10,
         "current_version": "1.20.1",
         "latest_version": "1.30.5",
         "next_installed_version": "1.30.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-19T08:03:29.596089+00:00",
+    "production_refreshed_at": "2026-09-20T08:31:53.750229+00:00",
     "publish_state": "published"
   }
 }

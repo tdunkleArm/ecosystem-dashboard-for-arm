@@ -5,10 +5,10 @@
     "version": "3.147.0"
   },
   "run": {
-    "id": "35427981508",
+    "id": "35496677336",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427981508/job/105857185663",
-    "timestamp": "2026-09-19T07:36:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35496677336/job/106040812315",
+    "timestamp": "2026-09-20T08:05:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check pulumi binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "3.147.0",
         "latest_version": "3.148.0",
         "next_installed_version": "3.148.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-19T08:03:29.630721+00:00",
+    "production_refreshed_at": "2026-09-20T08:31:53.776524+00:00",
     "publish_state": "published"
   }
 }

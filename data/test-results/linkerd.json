@@ -5,10 +5,10 @@
     "version": "stable-2.14.9"
   },
   "run": {
-    "id": "35427971814",
+    "id": "35496665845",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35427971814/job/105857162094",
-    "timestamp": "2026-09-19T07:29:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35496665845/job/106040780220",
+    "timestamp": "2026-09-20T07:49:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Check Linkerd binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-19T08:03:29.563690+00:00",
+    "production_refreshed_at": "2026-09-20T08:31:53.719915+00:00",
     "publish_state": "published"
   }
 }
