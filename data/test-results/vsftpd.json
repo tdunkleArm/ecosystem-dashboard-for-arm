@@ -5,10 +5,10 @@
     "version": "3.0.5-0ubuntu3.1"
   },
   "run": {
-    "id": "35496645690",
+    "id": "35573382623",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35496645690/job/106040727279",
-    "timestamp": "2026-09-20T07:45:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35573382623/job/106249683364",
+    "timestamp": "2026-09-21T07:49:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Package Version Check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Configuration Startup Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-20T08:31:53.838844+00:00",
+    "production_refreshed_at": "2026-09-21T11:40:01.048606+00:00",
     "publish_state": "published"
   }
 }

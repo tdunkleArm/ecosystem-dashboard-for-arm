@@ -5,10 +5,10 @@
     "version": "1.46.0"
   },
   "run": {
-    "id": "35496652547",
+    "id": "35573393743",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35496652547/job/106040744862",
-    "timestamp": "2026-09-20T07:45:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35573393743/job/106249719844",
+    "timestamp": "2026-09-21T08:14:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Python Import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check pip metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Basic Usage Check",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-20T08:31:53.581842+00:00",
+    "production_refreshed_at": "2026-09-21T11:40:00.764440+00:00",
     "publish_state": "published"
   }
 }
