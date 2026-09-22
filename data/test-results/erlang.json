@@ -5,10 +5,10 @@
     "version": "13.2.2.5"
   },
   "run": {
-    "id": "35573445018",
+    "id": "35698404218",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35573445018/job/106249900412",
-    "timestamp": "2026-09-21T08:46:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698404218/job/106650393257",
+    "timestamp": "2026-09-22T09:12:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check erl version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Run simple Erlang expression",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-21T11:40:00.843138+00:00",
+    "production_refreshed_at": "2026-09-22T11:54:59.968319+00:00",
     "publish_state": "published"
   }
 }

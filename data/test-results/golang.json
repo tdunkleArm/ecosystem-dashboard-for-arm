@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "35573388149",
+    "id": "35698342985",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35573388149/job/106249702491",
-    "timestamp": "2026-09-21T08:18:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698342985/job/106650199921",
+    "timestamp": "2026-09-22T07:53:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check go binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 5,
         "current_version": "1.24.1",
         "latest_version": "1.24.2",
         "next_installed_version": "1.24.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-21T11:40:00.866801+00:00",
+    "production_refreshed_at": "2026-09-22T11:54:59.981520+00:00",
     "publish_state": "published"
   }
 }

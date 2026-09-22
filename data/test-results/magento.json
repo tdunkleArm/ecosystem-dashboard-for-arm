@@ -5,10 +5,10 @@
     "version": "2.4.7-p4"
   },
   "run": {
-    "id": "35573388149",
+    "id": "35698342985",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35573388149/job/106249701935",
-    "timestamp": "2026-09-21T07:58:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698342985/job/106650199294",
+    "timestamp": "2026-09-22T07:40:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,17 +20,17 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Check Magento source layout",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact baseline version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Magento CLI help",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-21T11:40:00.923458+00:00",
+    "production_refreshed_at": "2026-09-22T11:55:00.013773+00:00",
     "publish_state": "published"
   }
 }
