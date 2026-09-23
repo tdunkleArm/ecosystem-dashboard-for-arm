@@ -5,10 +5,10 @@
     "version": "2.1"
   },
   "run": {
-    "id": "35698313732",
+    "id": "35830303318",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698313732/job/106650098449",
-    "timestamp": "2026-09-22T07:33:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830303318/job/107081123958",
+    "timestamp": "2026-09-23T07:23:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check uconv version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check uconv help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-22T11:54:59.989731+00:00",
+    "production_refreshed_at": "2026-09-23T10:23:52.938987+00:00",
     "publish_state": "published"
   }
 }

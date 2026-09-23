@@ -5,10 +5,10 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "35698348974",
+    "id": "35830346577",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698348974/job/106650214761",
-    "timestamp": "2026-09-22T07:56:47Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830346577/job/107081256160",
+    "timestamp": "2026-09-23T07:37:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check Metricbeat binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Metricbeat help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Metricbeat configuration",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 6,
         "current_version": "9.0.4",
         "latest_version": "9.0.5",
         "next_installed_version": "9.0.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-22T11:55:00.016636+00:00",
+    "production_refreshed_at": "2026-09-23T10:23:52.969885+00:00",
     "publish_state": "published"
   }
 }

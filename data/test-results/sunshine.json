@@ -5,10 +5,10 @@
     "version": "0.15.0"
   },
   "run": {
-    "id": "35698416173",
+    "id": "35830417561",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698416173/job/106650431188",
-    "timestamp": "2026-09-22T09:08:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830417561/job/107081483036",
+    "timestamp": "2026-09-23T08:15:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "0.15.0",
-        "latest_version": "2026.921.13701",
-        "next_installed_version": "2026.921.13701",
+        "latest_version": "2026.922.203725",
+        "next_installed_version": "2026.922.203725",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.921.13701 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.922.203725 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-22T11:55:00.071193+00:00",
+    "production_refreshed_at": "2026-09-23T10:23:53.031142+00:00",
     "publish_state": "published"
   }
 }

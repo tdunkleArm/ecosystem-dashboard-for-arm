@@ -5,10 +5,10 @@
     "version": "4.23.6"
   },
   "run": {
-    "id": "35698331363",
+    "id": "35830326319",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35698331363/job/106650157779",
-    "timestamp": "2026-09-22T07:54:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830326319/job/107081199561",
+    "timestamp": "2026-09-23T07:22:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 124,
+    "duration_seconds": 137,
     "details": [
       {
         "name": "Test 1 - Check smbclient binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 123,
+        "duration_seconds": 137,
         "current_version": "4.23.6",
         "latest_version": "4.23.7",
         "next_installed_version": "4.23.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-22T11:55:00.058806+00:00",
+    "production_refreshed_at": "2026-09-23T10:23:53.018343+00:00",
     "publish_state": "published"
   }
 }
