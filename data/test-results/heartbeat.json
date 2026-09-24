@@ -5,11 +5,11 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "35830352828",
+    "id": "35967604146",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830352828/job/107081277051",
-    "timestamp": "2026-09-23T07:41:48Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967604146/job/107529644872",
+    "timestamp": "2026-09-24T07:42:43Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-heartbeat / test-heartbeat"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check Heartbeat binary exists",
@@ -49,14 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 10,
-        "current_version": "9.0.4",
-        "latest_version": "9.0.5",
-        "next_installed_version": "9.0.5",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Heartbeat version 9.0.4 passed smoke tests in this run. Regression validation installed candidate version 9.0.5 on Arm64, and the extracted binary reported version 9.0.5 while successfully passing help, config, and export checks."
+        "status": "failed",
+        "duration_seconds": 3
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "heartbeat",
     "dashboard_link": "/linux/opensource_packages/heartbeat",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 11",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-23T10:23:52.935593+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-09-24T11:47:33.136207+00:00",
     "publish_state": "published"
   }
 }

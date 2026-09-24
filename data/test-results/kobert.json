@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "35830358820",
+    "id": "35967611000",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35830358820/job/107081301450",
-    "timestamp": "2026-09-23T07:47:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967611000/job/107529667369",
+    "timestamp": "2026-09-24T07:50:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 21,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check top-level import",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Download tokenizer asset",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Check PyTorch integration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-23T10:23:52.949516+00:00",
+    "production_refreshed_at": "2026-09-24T11:47:33.147507+00:00",
     "publish_state": "published"
   }
 }
