@@ -5,11 +5,11 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "35967604146",
+    "id": "36105467177",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967604146/job/107529644872",
-    "timestamp": "2026-09-24T07:42:43Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105467177/job/107976917077",
+    "timestamp": "2026-09-25T07:24:23Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-heartbeat / test-heartbeat"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Heartbeat binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Heartbeat configuration",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 5
       },
       {
         "name": "Test 5 - Export config and verify architecture",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 3
+        "status": "passed",
+        "duration_seconds": 8,
+        "current_version": "9.0.4",
+        "latest_version": "9.0.5",
+        "next_installed_version": "9.0.5",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Heartbeat version 9.0.4 passed smoke tests in this run. Regression validation installed candidate version 9.0.5 on Arm64, and the extracted binary reported version 9.0.5 while successfully passing help, config, and export checks."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "heartbeat",
     "dashboard_link": "/linux/opensource_packages/heartbeat",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 11",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-09-24T11:47:33.136207+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-09-25T09:38:24.675332+00:00",
     "publish_state": "published"
   }
 }

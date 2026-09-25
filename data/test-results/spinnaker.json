@@ -5,10 +5,10 @@
     "version": "1.30.0"
   },
   "run": {
-    "id": "35967651333",
+    "id": "36105517767",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967651333/job/107529796499",
-    "timestamp": "2026-09-24T08:12:29Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105517767/job/107977075596",
+    "timestamp": "2026-09-25T07:50:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "1.30.0",
-        "latest_version": "main-31",
-        "next_installed_version": "not_installed",
+        "latest_version": "2026.1.3",
+        "next_installed_version": "2026.1.3",
         "decision": "validated_next_release",
         "regression_result": "Validated baseline Spinnaker CLI against the latest release with install and command smoke checks.",
-        "comparison": "Baseline 1.30.0 and next main-31 both passed CLI smoke validation; no regression observed in this workflow scope."
+        "comparison": "Baseline 1.30.0 and next 2026.1.3 both passed CLI smoke validation; no regression observed in this workflow scope."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-09-24T11:47:33.209515+00:00",
+    "production_refreshed_at": "2026-09-25T09:38:24.797178+00:00",
     "publish_state": "published"
   }
 }

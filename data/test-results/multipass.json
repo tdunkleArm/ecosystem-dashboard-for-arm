@@ -5,10 +5,10 @@
     "version": "[client]"
   },
   "run": {
-    "id": "35967563984",
+    "id": "36105427474",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967563984/job/107529518917",
-    "timestamp": "2026-09-24T07:13:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105427474/job/107976796660",
+    "timestamp": "2026-09-25T07:10:01Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - List available images (find)",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-09-24T11:47:33.168714+00:00",
+    "production_refreshed_at": "2026-09-25T09:38:24.730911+00:00",
     "publish_state": "published"
   }
 }

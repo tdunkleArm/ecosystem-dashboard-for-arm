@@ -5,10 +5,10 @@
     "version": "0.4.8"
   },
   "run": {
-    "id": "35967604146",
+    "id": "36105467177",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967604146/job/107529646314",
-    "timestamp": "2026-09-24T07:38:53Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105467177/job/107976918317",
+    "timestamp": "2026-09-25T07:41:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check emqtt_bench help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check emqtt_bench subcommands (pub)",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check emqtt_bench subcommands (sub)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Dry run connection (expect failure but correct error)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 83,
+        "duration_seconds": 56,
         "current_version": "0.4.8",
         "latest_version": "0.4.9",
         "next_installed_version": "0.4.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-24T11:47:33.117533+00:00",
+    "production_refreshed_at": "2026-09-25T09:38:24.643058+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "e1a039c"
   },
   "run": {
-    "id": "35967604146",
+    "id": "36105467177",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/35967604146/job/107529645950",
-    "timestamp": "2026-09-24T07:49:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105467177/job/107976918217",
+    "timestamp": "2026-09-25T07:33:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check source tree exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check build plan output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-24T11:47:33.212981+00:00",
+    "production_refreshed_at": "2026-09-25T09:38:24.803389+00:00",
     "publish_state": "published"
   }
 }
