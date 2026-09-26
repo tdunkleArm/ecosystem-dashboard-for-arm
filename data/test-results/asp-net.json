@@ -5,10 +5,10 @@
     "version": "8.0.131"
   },
   "run": {
-    "id": "36105438981",
+    "id": "36225343938",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105438981/job/107976832985",
-    "timestamp": "2026-09-25T07:25:31Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36225343938/job/108358179875",
+    "timestamp": "2026-09-26T07:20:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check dotnet binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dotnet help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-25T09:38:24.585197+00:00",
+    "production_refreshed_at": "2026-09-26T08:04:18.025006+00:00",
     "publish_state": "published"
   }
 }

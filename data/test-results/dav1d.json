@@ -5,10 +5,10 @@
     "version": "1.5.1"
   },
   "run": {
-    "id": "36105474702",
+    "id": "36225362404",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36105474702/job/107976942732",
-    "timestamp": "2026-09-25T07:29:49Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36225362404/job/108358231169",
+    "timestamp": "2026-09-26T07:25:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check dav1d binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 7,
         "current_version": "1.5.1",
         "latest_version": "1.5.3",
         "next_installed_version": "1.5.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-25T09:38:24.625519+00:00",
+    "production_refreshed_at": "2026-09-26T08:04:18.047238+00:00",
     "publish_state": "published"
   }
 }
