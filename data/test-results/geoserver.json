@@ -5,10 +5,10 @@
     "version": "2.27.1"
   },
   "run": {
-    "id": "36225375973",
+    "id": "36303221201",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36225375973/job/108358271034",
-    "timestamp": "2026-09-26T07:38:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36303221201/job/108574731409",
+    "timestamp": "2026-09-27T08:08:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check startup script exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check GeoServer core files",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check GeoServer webapp files",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check GeoServer startup help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 6,
         "current_version": "2.27.1",
         "latest_version": "2.27.2",
         "next_installed_version": "2.27.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-26T08:04:18.069753+00:00",
+    "production_refreshed_at": "2026-09-27T08:35:04.852490+00:00",
     "publish_state": "published"
   }
 }

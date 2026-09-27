@@ -5,10 +5,10 @@
     "version": "1.0.8-5build1"
   },
   "run": {
-    "id": "36225362404",
+    "id": "36303207584",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36225362404/job/108358231651",
-    "timestamp": "2026-09-26T07:25:36Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36303207584/job/108574690993",
+    "timestamp": "2026-09-27T07:57:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check make-bcache binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check bcache-super-show binary",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-26T08:04:18.027153+00:00",
+    "production_refreshed_at": "2026-09-27T08:35:04.778640+00:00",
     "publish_state": "published"
   }
 }
