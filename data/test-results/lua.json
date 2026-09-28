@@ -5,10 +5,10 @@
     "version": "5.4.6"
   },
   "run": {
-    "id": "36303207584",
+    "id": "36395385370",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36303207584/job/108574691131",
-    "timestamp": "2026-09-27T08:03:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395385370/job/108840510944",
+    "timestamp": "2026-09-28T09:04:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check math library",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check interactive mode (dry run)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-27T08:35:04.912421+00:00",
+    "production_refreshed_at": "2026-09-28T13:13:35.063091+00:00",
     "publish_state": "published"
   }
 }
