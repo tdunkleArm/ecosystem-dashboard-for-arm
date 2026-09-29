@@ -5,10 +5,10 @@
     "version": "2.3.9"
   },
   "run": {
-    "id": "36395293076",
+    "id": "36538616996",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395293076/job/108840150531",
-    "timestamp": "2026-09-28T08:07:25Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538616996/job/109308437970",
+    "timestamp": "2026-09-29T07:54:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check abyss-pe binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check ABySS tool version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-28T13:13:34.978437+00:00",
+    "production_refreshed_at": "2026-09-29T12:57:20.265761+00:00",
     "publish_state": "published"
   }
 }

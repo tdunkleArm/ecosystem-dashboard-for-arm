@@ -5,10 +5,10 @@
     "version": "1.9.17"
   },
   "run": {
-    "id": "36395440832",
+    "id": "36538761958",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395440832/job/108840625484",
-    "timestamp": "2026-09-28T09:20:51Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538761958/job/109308909644",
+    "timestamp": "2026-09-29T09:04:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check datree binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 0,
         "current_version": "1.9.17",
         "latest_version": "1.9.19",
         "next_installed_version": "1.9.19",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-28T13:13:34.973248+00:00",
+    "production_refreshed_at": "2026-09-29T12:57:20.260912+00:00",
     "publish_state": "published"
   }
 }

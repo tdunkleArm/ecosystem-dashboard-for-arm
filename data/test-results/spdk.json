@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "SPDK",
-    "version": "unknown"
+    "version": "v22.09"
   },
   "run": {
-    "id": "36395367945",
+    "id": "36538688561",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395367945/job/108840382761",
-    "timestamp": "2026-09-28T08:52:03Z",
-    "status": "failure",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538688561/job/109308672161",
+    "timestamp": "2026-09-29T08:26:15Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-spdk / test-spdk"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 121,
     "details": [
       {
         "name": "Test 1 - Check SPDK binary exists",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check source tag version",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check SPDK help output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 120,
+        "current_version": "v22.09",
+        "latest_version": "v23.01",
+        "next_installed_version": "v23.01",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Baseline v22.09 and candidate v23.01 both built from upstream source and passed Arm64 smoke checks."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "spdk",
     "dashboard_link": "/linux/opensource_packages/spdk",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 10",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-09-28T13:13:35.115506+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-09-29T12:57:20.401648+00:00",
     "publish_state": "published"
   }
 }

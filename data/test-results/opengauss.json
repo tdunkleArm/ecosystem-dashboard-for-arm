@@ -5,11 +5,11 @@
     "version": "7.0.0-RC2.B014"
   },
   "run": {
-    "id": "36395351603",
+    "id": "36538673343",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395351603/job/108840328535",
-    "timestamp": "2026-09-28T08:27:30Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538673343/job/109308619186",
+    "timestamp": "2026-09-29T08:22:35Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,34 +17,34 @@
     "job_name": "test-opengauss / test-opengauss"
   },
   "tests": {
-    "passed": 5,
-    "failed": 0,
-    "skipped": 0,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 6,
     "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check baseline client tooling",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check SQL version query",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check gsql help output",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional database validation",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
@@ -54,9 +54,17 @@
         "current_version": "7.0.0-RC2.B014",
         "latest_version": "7.0.0-RC2.B015",
         "next_installed_version": "not_validated",
-        "decision": "no_newer_stable_available",
-        "regression_result": "No newer stable OpenGauss Arm64 image is available for Test 6 in this lane",
-        "comparison": "Current pinned OpenGauss image tag 7.0.0-RC2.B014 completed the baseline Arm64 validation path in this run. The next visible public tag 7.0.0-RC2.B015 is an RC/testing build rather than a stable regression target, and no newer stable public Arm64-supported image is available in the tested lane to validate instead."
+        "decision": "baseline_install_failed",
+        "regression_result": "Baseline install failed before regression validation",
+        "comparison": "Current pinned OpenGauss image tag 7.0.0-RC2.B014 did not complete baseline install validation in this run, so a genuine Arm64 next-image regression validation was not possible."
+      },
+      {
+        "name": "Workflow Finalization",
+        "status": "failed",
+        "duration_seconds": 0,
+        "decision": "job_failed_without_emitted_result",
+        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
+        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
       }
     ]
   },
@@ -64,16 +72,16 @@
     "contract_version": "2.0",
     "package_slug": "opengauss",
     "dashboard_link": "/linux/opensource_packages/opengauss",
-    "badge_status": "passing",
-    "core_failed": 0,
+    "badge_status": "failing",
+    "core_failed": 1,
     "batch_title": "Batch 8",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
     "regression_status": "skipped",
-    "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-09-28T13:13:35.084989+00:00",
+    "regression_decision": "baseline_install_failed",
+    "production_refreshed_at": "2026-09-29T12:57:20.371290+00:00",
     "publish_state": "published"
   }
 }

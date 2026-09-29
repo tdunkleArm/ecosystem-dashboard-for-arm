@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "RMBlast",
-    "version": "2.14.1"
+    "version": "unknown"
   },
   "run": {
-    "id": "36395343349",
+    "id": "36538665344",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36395343349/job/108840311145",
-    "timestamp": "2026-09-28T08:38:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538665344/job/109308593040",
+    "timestamp": "2026-09-29T08:08:13Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -17,46 +17,46 @@
     "job_name": "test-rmblast / test-rmblast"
   },
   "tests": {
-    "passed": 5,
+    "passed": 0,
     "failed": 1,
-    "skipped": 0,
-    "duration_seconds": 2,
+    "skipped": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check RMBlast binaries exist",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check pinned release version",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
-        "status": "passed",
-        "duration_seconds": 1
+        "status": "skipped",
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "passed",
+        "status": "skipped",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "passed",
-        "duration_seconds": 1
+        "status": "skipped",
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
         "duration_seconds": 0,
-        "current_version": "2.14.1",
+        "current_version": "unknown",
         "latest_version": "unknown",
         "next_installed_version": "not_installed",
         "decision": "result_not_emitted",
         "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The Test 6 step failed in the job, but the workflow did not emit a terminal regression decision before exiting."
+        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-09-28T13:13:35.106957+00:00",
+    "production_refreshed_at": "2026-09-29T12:57:20.393013+00:00",
     "publish_state": "published"
   }
 }
