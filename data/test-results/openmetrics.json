@@ -5,10 +5,10 @@
     "version": "0.26.0"
   },
   "run": {
-    "id": "36538705370",
+    "id": "36686025155",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538705370/job/109308724171",
-    "timestamp": "2026-09-29T08:42:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36686025155/job/109791992448",
+    "timestamp": "2026-09-30T08:42:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Import Library",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Installed Version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Render API Documentation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-29T12:57:20.372268+00:00",
+    "production_refreshed_at": "2026-09-30T12:04:53.445707+00:00",
     "publish_state": "published"
   }
 }

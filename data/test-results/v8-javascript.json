@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "V8 Javascript",
-    "version": "12.4.254.21-node.56"
+    "version": "12.4.254.21-node.57"
   },
   "run": {
-    "id": "36538649519",
+    "id": "36685965506",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538649519/job/109308544305",
-    "timestamp": "2026-09-29T08:05:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36685965506/job/109791804373",
+    "timestamp": "2026-09-30T08:06:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-29T12:57:20.416439+00:00",
+    "production_refreshed_at": "2026-09-30T12:04:53.488226+00:00",
     "publish_state": "published"
   }
 }

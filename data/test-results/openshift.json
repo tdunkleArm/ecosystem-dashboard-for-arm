@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "36538737795",
+    "id": "36686060278",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538737795/job/109308828265",
-    "timestamp": "2026-09-29T08:48:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36686060278/job/109792103447",
+    "timestamp": "2026-09-30T09:11:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check client version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "4.14.0",
-        "latest_version": "4.22.14",
-        "next_installed_version": "4.22.14",
+        "latest_version": "4.22.15",
+        "next_installed_version": "4.22.15",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.14 on Arm64, and the extracted client binaries reported version 4.22.14 while passing help, completion, and kubectl client checks."
+        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.15 on Arm64, and the extracted client binaries reported version 4.22.15 while passing help, completion, and kubectl client checks."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-29T12:57:20.374054+00:00",
+    "production_refreshed_at": "2026-09-30T12:04:53.447290+00:00",
     "publish_state": "published"
   }
 }

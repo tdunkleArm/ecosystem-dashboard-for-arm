@@ -5,10 +5,10 @@
     "version": "8.0.35-33"
   },
   "run": {
-    "id": "36538632847",
+    "id": "36685948915",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36538632847/job/109308493493",
-    "timestamp": "2026-09-29T07:53:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36685948915/job/109791749054",
+    "timestamp": "2026-09-30T07:59:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Binary existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Print-defaults functional smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-29T12:57:20.425020+00:00",
+    "production_refreshed_at": "2026-09-30T12:04:53.496785+00:00",
     "publish_state": "published"
   }
 }
