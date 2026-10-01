@@ -5,10 +5,10 @@
     "version": "1.19.2"
   },
   "run": {
-    "id": "36685989018",
+    "id": "36834599088",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36685989018/job/109791881251",
-    "timestamp": "2026-09-30T08:08:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834599088/job/110278888534",
+    "timestamp": "2026-10-01T08:34:16Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check fluentd help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Dry-run configuration",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Ruby API and architecture validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-09-30T12:04:53.385752+00:00",
+    "production_refreshed_at": "2026-10-01T12:12:58.915705+00:00",
     "publish_state": "published"
   }
 }

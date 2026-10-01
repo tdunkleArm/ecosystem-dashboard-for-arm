@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "36686031988",
+    "id": "36834638082",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36686031988/job/109792025760",
-    "timestamp": "2026-09-30T08:32:26Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834638082/job/110279020610",
+    "timestamp": "2026-10-01T09:09:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "24.0.3",
-        "latest_version": "29.8.1",
-        "next_installed_version": "29.8.1",
+        "latest_version": "29.8.2",
+        "next_installed_version": "29.8.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.8.1, and both the docker client and dockerd binaries reported version 29.8.1 on Arm64."
+        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.8.2, and both the docker client and dockerd binaries reported version 29.8.2 on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-30T12:04:53.372662+00:00",
+    "production_refreshed_at": "2026-10-01T12:12:58.900377+00:00",
     "publish_state": "published"
   }
 }

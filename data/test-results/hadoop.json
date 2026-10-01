@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "36686025155",
+    "id": "36834630185",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36686025155/job/109791992487",
-    "timestamp": "2026-09-30T08:41:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834630185/job/110278993835",
+    "timestamp": "2026-10-01T08:56:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 239,
+    "duration_seconds": 60,
     "details": [
       {
         "name": "Test 1 - Check hadoop binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check hadoop version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check hdfs version output",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check Hadoop classpath and examples",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check native loader output and architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 238,
+        "duration_seconds": 58,
         "current_version": "3.3.6",
         "latest_version": "3.4.0",
         "next_installed_version": "3.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-30T12:04:53.397172+00:00",
+    "production_refreshed_at": "2026-10-01T12:12:58.929089+00:00",
     "publish_state": "published"
   }
 }

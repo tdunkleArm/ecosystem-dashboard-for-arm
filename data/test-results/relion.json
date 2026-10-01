@@ -5,10 +5,10 @@
     "version": "5.0.0"
   },
   "run": {
-    "id": "36685973616",
+    "id": "36834584252",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36685973616/job/109791831956",
-    "timestamp": "2026-09-30T08:02:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834584252/job/110278838119",
+    "timestamp": "2026-10-01T08:26:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 283,
+    "duration_seconds": 288,
     "details": [
       {
         "name": "Test 1 - Check Relion binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Relion help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Relion CLI options",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 283,
+        "duration_seconds": 288,
         "current_version": "5.0.0",
         "latest_version": "5.0.1",
         "next_installed_version": "5.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-09-30T12:04:53.463397+00:00",
+    "production_refreshed_at": "2026-10-01T12:12:59.011069+00:00",
     "publish_state": "published"
   }
 }
