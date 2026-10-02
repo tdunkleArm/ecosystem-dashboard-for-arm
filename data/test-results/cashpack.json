@@ -5,10 +5,10 @@
     "version": "0.1"
   },
   "run": {
-    "id": "36834673026",
+    "id": "36980792093",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834673026/job/110279124553",
-    "timestamp": "2026-10-01T09:16:23Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980792093/job/110754630690",
+    "timestamp": "2026-10-02T08:33:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 5,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check built library artifacts",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run upstream test suite",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check test binaries",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-10-01T12:12:58.881054+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.363209+00:00",
     "publish_state": "published"
   }
 }

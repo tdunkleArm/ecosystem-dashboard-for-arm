@@ -5,10 +5,10 @@
     "version": "2.3"
   },
   "run": {
-    "id": "36834553096",
+    "id": "36980681293",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834553096/job/110278730215",
-    "timestamp": "2026-10-01T08:14:37Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980681293/job/110754285653",
+    "timestamp": "2026-10-02T07:54:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Create Template Test Class",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile Project",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 8
       },
       {
         "name": "Test 3 - Run Template Test",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-01T12:12:59.042638+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.514050+00:00",
     "publish_state": "published"
   }
 }

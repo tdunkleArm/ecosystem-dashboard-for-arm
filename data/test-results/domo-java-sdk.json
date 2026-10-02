@@ -5,10 +5,10 @@
     "version": "v0.2.0"
   },
   "run": {
-    "id": "36834568586",
+    "id": "36980696914",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834568586/job/110278782249",
-    "timestamp": "2026-10-01T08:32:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980696914/job/110754326173",
+    "timestamp": "2026-10-02T07:59:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 33,
+    "duration_seconds": 31,
     "details": [
       {
         "name": "Test 1 - Check smoke project files",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check dependency resolution",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 18
       },
       {
         "name": "Test 3 - Check Maven project configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-01T12:12:58.901273+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.382044+00:00",
     "publish_state": "published"
   }
 }

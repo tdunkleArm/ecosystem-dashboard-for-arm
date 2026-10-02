@@ -5,10 +5,10 @@
     "version": "1.1.0"
   },
   "run": {
-    "id": "36834630185",
+    "id": "36980755510",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834630185/job/110278993232",
-    "timestamp": "2026-10-01T08:54:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980755510/job/110754516858",
+    "timestamp": "2026-10-02T08:26:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Render Devtron chart",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 6,
         "current_version": "1.1.0",
         "latest_version": "1.2.0",
         "next_installed_version": "1.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-01T12:12:58.898807+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.379712+00:00",
     "publish_state": "published"
   }
 }

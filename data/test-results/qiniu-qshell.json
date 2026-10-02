@@ -5,11 +5,11 @@
     "version": "2.18.0"
   },
   "run": {
-    "id": "36834606615",
+    "id": "36980733649",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834606615/job/110278937097",
-    "timestamp": "2026-10-01T08:39:01Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980733649/job/110754444340",
+    "timestamp": "2026-10-02T08:09:47Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-qiniu-qshell / test-qiniu-qshell"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check binary existence",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 1,
+        "status": "failed",
+        "duration_seconds": 0,
         "current_version": "2.18.0",
         "latest_version": "2.19.0",
-        "next_installed_version": "2.19.0",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Qshell version 2.18.0 passed smoke tests in this run. Regression validation installed candidate Arm64 archive qshell-v2.19.0-linux-arm64.tar.gz successfully and confirmed version, help, and base64 encode/decode successfully."
+        "next_installed_version": "not_installed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Qshell version 2.18.0 passed smoke tests in this run, but the candidate Arm64 archive qshell-v2.19.0-linux-arm64.tar.gz could not be downloaded from v2.19.0."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "qiniu-qshell",
     "dashboard_link": "/linux/opensource_packages/qiniu-qshell",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 9",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-01T12:12:59.006795+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-10-02T08:59:44.478040+00:00",
     "publish_state": "published"
   }
 }

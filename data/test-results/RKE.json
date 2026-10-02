@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "36834656011",
+    "id": "36980777220",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834656011/job/110279081763",
-    "timestamp": "2026-10-01T09:11:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980777220/job/110754589443",
+    "timestamp": "2026-10-02T08:29:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check rke binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check rke version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.8.0",
         "latest_version": "1.8.1",
         "next_installed_version": "1.8.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-01T12:12:58.862121+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.345526+00:00",
     "publish_state": "published"
   }
 }

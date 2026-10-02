@@ -5,11 +5,11 @@
     "version": "3.5.3"
   },
   "run": {
-    "id": "36834545155",
+    "id": "36980673226",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834545155/job/110278710032",
-    "timestamp": "2026-10-01T08:09:21Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980673226/job/110754264684",
+    "timestamp": "2026-10-02T07:50:28Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-spark / test-spark"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 2120,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Help Or Configuration Validation",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 2103,
+        "status": "failed",
+        "duration_seconds": 1614,
         "current_version": "3.5.3",
         "latest_version": "3.5.4",
-        "next_installed_version": "3.5.4",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Spark version 3.5.3 passed smoke tests in this run. Regression validation installed candidate version 3.5.4 on Arm64, the extracted Spark distribution reported version 3.5.4, and the isolated candidate runtime completed both SparkPi and PySpark DataFrame smoke successfully."
+        "next_installed_version": "install_failed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Spark version 3.5.3 passed smoke tests in this run, but the regression candidate 3.5.4 could not be downloaded from the official Apache distribution paths."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "spark",
     "dashboard_link": "/linux/opensource_packages/spark",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 1",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-01T12:12:59.023187+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-10-02T08:59:44.494081+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "23.04"
   },
   "run": {
-    "id": "36834704589",
+    "id": "36980822464",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36834704589/job/110279229747",
-    "timestamp": "2026-10-01T09:31:11Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980822464/job/110754723655",
+    "timestamp": "2026-10-02T08:43:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "23.04",
-        "latest_version": "26.04.1",
-        "next_installed_version": "26.04.1",
+        "latest_version": "26.10",
+        "next_installed_version": "26.10",
         "decision": "validated_next_release",
         "regression_result": "Next Ubuntu Desktop release metadata validated on Arm64",
-        "comparison": "Tests 1-5 validated the current Ubuntu Desktop release 23.04 using published release/docs evidence on Arm64. The newer stable release page 26.04.1 is available and passed the same bounded release-metadata validation."
+        "comparison": "Tests 1-5 validated the current Ubuntu Desktop release 23.04 using published release/docs evidence on Arm64. The newer stable release page 26.10 is available and passed the same bounded release-metadata validation."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-01T12:12:59.039413+00:00",
+    "production_refreshed_at": "2026-10-02T08:59:44.511055+00:00",
     "publish_state": "published"
   }
 }
