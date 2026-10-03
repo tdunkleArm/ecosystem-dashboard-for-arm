@@ -5,10 +5,10 @@
     "version": "1.4.4-6"
   },
   "run": {
-    "id": "36980711701",
+    "id": "37106401260",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980711701/job/110754375658",
-    "timestamp": "2026-10-02T07:57:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106401260/job/111155688292",
+    "timestamp": "2026-10-03T07:37:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check figtree binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check figtree jar exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Java dependency",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check help/usage (if available)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-02T08:59:44.392985+00:00",
+    "production_refreshed_at": "2026-10-03T08:35:34.778132+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "36980740773",
+    "id": "37106416591",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980740773/job/110754472985",
-    "timestamp": "2026-10-02T08:15:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106416591/job/111155735729",
+    "timestamp": "2026-10-03T07:47:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - List modules and verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "9.0.4",
         "latest_version": "9.0.5",
         "next_installed_version": "9.0.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-02T08:59:44.441395+00:00",
+    "production_refreshed_at": "2026-10-03T08:35:34.822197+00:00",
     "publish_state": "published"
   }
 }

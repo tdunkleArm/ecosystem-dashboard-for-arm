@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "36980711701",
+    "id": "37106401260",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980711701/job/110754376054",
-    "timestamp": "2026-10-02T08:08:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106401260/job/111155688642",
+    "timestamp": "2026-10-03T07:34:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check hdfs binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check HDFS jar layout",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check hdfs config and classpath",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-02T08:59:44.409966+00:00",
+    "production_refreshed_at": "2026-10-03T08:35:34.793333+00:00",
     "publish_state": "published"
   }
 }

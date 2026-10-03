@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "36980704380",
+    "id": "37106396831",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/36980704380/job/110754352851",
-    "timestamp": "2026-10-02T08:07:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106396831/job/111155674950",
+    "timestamp": "2026-10-03T07:34:22Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check architecture inside container",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Simple command execution",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 9,
         "current_version": "11",
         "latest_version": "12.13",
         "next_installed_version": "12",
@@ -81,7 +81,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-02T08:59:44.378772+00:00",
+    "production_refreshed_at": "2026-10-03T08:35:34.765105+00:00",
     "publish_state": "published"
   }
 }
