@@ -5,10 +5,10 @@
     "version": "1.20.0"
   },
   "run": {
-    "id": "37106392842",
+    "id": "37186469995",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106392842/job/111155663422",
-    "timestamp": "2026-10-03T07:36:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186469995/job/111389343325",
+    "timestamp": "2026-10-04T07:49:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check keadm binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check init command help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check join command help",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-03T08:35:34.805892+00:00",
+    "production_refreshed_at": "2026-10-04T08:39:46.624768+00:00",
     "publish_state": "published"
   }
 }

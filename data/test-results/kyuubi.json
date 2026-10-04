@@ -5,10 +5,10 @@
     "version": "1.10.3"
   },
   "run": {
-    "id": "37106424803",
+    "id": "37186505587",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106424803/job/111155756234",
-    "timestamp": "2026-10-03T07:50:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186505587/job/111389444787",
+    "timestamp": "2026-10-04T08:12:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 14,
     "details": [
       {
         "name": "Test 1 - Check Kyuubi binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Kyuubi release version mapping",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Kyuubi help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 10,
         "current_version": "1.10.3",
         "latest_version": "1.11.0",
         "next_installed_version": "1.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-03T08:35:34.807764+00:00",
+    "production_refreshed_at": "2026-10-04T08:39:46.626730+00:00",
     "publish_state": "published"
   }
 }

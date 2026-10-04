@@ -5,10 +5,10 @@
     "version": "8.5.0"
   },
   "run": {
-    "id": "37106392842",
+    "id": "37186469995",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106392842/job/111155663190",
-    "timestamp": "2026-10-03T07:41:12Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186469995/job/111389343351",
+    "timestamp": "2026-10-04T07:43:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 15,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Source Tree and Version Metadata",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Build Elastic eBPF",
         "status": "passed",
-        "duration_seconds": 14
+        "duration_seconds": 12
       },
       {
         "name": "Test 3 - Build Output Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "8.5.0",
         "latest_version": "8.5.0",
         "next_installed_version": "8.5.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-10-03T08:35:34.772425+00:00",
+    "production_refreshed_at": "2026-10-04T08:39:46.591197+00:00",
     "publish_state": "published"
   }
 }

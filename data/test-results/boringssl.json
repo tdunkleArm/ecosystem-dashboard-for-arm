@@ -5,10 +5,10 @@
     "version": "9d99d81"
   },
   "run": {
-    "id": "37106396831",
+    "id": "37186473986",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37106396831/job/111155674106",
-    "timestamp": "2026-10-03T07:37:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186473986/job/111389353524",
+    "timestamp": "2026-10-04T07:47:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check bssl binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Run bssl help",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Generate RSA Key",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-10-03T08:35:34.747985+00:00",
+    "production_refreshed_at": "2026-10-04T08:39:46.566729+00:00",
     "publish_state": "published"
   }
 }
