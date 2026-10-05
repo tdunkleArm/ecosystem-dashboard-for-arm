@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "37186478422",
+    "id": "37281622789",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186478422/job/111389367963",
-    "timestamp": "2026-10-04T07:54:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281622789/job/111670809237",
+    "timestamp": "2026-10-05T08:19:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 31,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check hdfs binary exists",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check hdfs config and classpath",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Check namenode help and architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 29,
+        "duration_seconds": 25,
         "current_version": "3.3.6",
         "latest_version": "3.4.3",
         "next_installed_version": "3.4.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-04T08:39:46.612114+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.258391+00:00",
     "publish_state": "published"
   }
 }

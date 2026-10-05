@@ -5,10 +5,10 @@
     "version": "3007.13"
   },
   "run": {
-    "id": "37186526833",
+    "id": "37281718382",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186526833/job/111389509679",
-    "timestamp": "2026-10-04T08:20:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281718382/job/111671104782",
+    "timestamp": "2026-10-05T09:17:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check salt-call CLI exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-04T08:39:46.680959+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.341403+00:00",
     "publish_state": "published"
   }
 }

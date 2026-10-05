@@ -5,10 +5,10 @@
     "version": "v10.3.0"
   },
   "run": {
-    "id": "37186466053",
+    "id": "37281597248",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186466053/job/111389327900",
-    "timestamp": "2026-10-04T07:43:27Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281597248/job/111670729778",
+    "timestamp": "2026-10-05T08:17:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Heketi binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture and binary format",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Validate offline database import/export",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v10.3.0",
         "latest_version": "v10.4.0-release-10",
         "next_installed_version": "v10.4.0-release-10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-04T08:39:46.612481+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.258828+00:00",
     "publish_state": "published"
   }
 }

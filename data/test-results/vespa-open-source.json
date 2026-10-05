@@ -5,10 +5,10 @@
     "version": "8.640.27"
   },
   "run": {
-    "id": "37186526833",
+    "id": "37281718382",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186526833/job/111389509465",
-    "timestamp": "2026-10-04T08:15:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281718382/job/111671104975",
+    "timestamp": "2026-10-05T09:11:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check Image Availability",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 23,
         "current_version": "8.640.27",
         "latest_version": "8.643.19",
         "next_installed_version": "8.643.19",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-04T08:39:46.703640+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.367616+00:00",
     "publish_state": "published"
   }
 }

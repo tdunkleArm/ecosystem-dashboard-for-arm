@@ -5,10 +5,10 @@
     "version": "0.6.3"
   },
   "run": {
-    "id": "37186478422",
+    "id": "37281622789",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186478422/job/111389367412",
-    "timestamp": "2026-10-04T07:47:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281622789/job/111670810377",
+    "timestamp": "2026-10-05T08:18:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check Exechealthz binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Functional healthy probe",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional unhealthy probe",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "0.6.3",
         "latest_version": "0.7.0",
         "next_installed_version": "0.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-04T08:39:46.595166+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.237628+00:00",
     "publish_state": "published"
   }
 }

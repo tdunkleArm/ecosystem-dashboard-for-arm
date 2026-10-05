@@ -5,10 +5,10 @@
     "version": "3.8.3"
   },
   "run": {
-    "id": "37186530924",
+    "id": "37281727240",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186530924/job/111389532674",
-    "timestamp": "2026-10-04T08:22:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281727240/job/111671137484",
+    "timestamp": "2026-10-05T09:15:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gnutls-cli binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check certtool binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check gnutls headers exist",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile simple C program using GnuTLS",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-04T08:39:46.606931+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.252152+00:00",
     "publish_state": "published"
   }
 }

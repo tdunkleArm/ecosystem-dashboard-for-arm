@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "37186473986",
+    "id": "37281613984",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37186473986/job/111389353889",
-    "timestamp": "2026-10-04T07:46:10Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281613984/job/111670780556",
+    "timestamp": "2026-10-05T08:16:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Maven dependency resolution",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 6,
         "current_version": "10.5.1",
         "latest_version": "10.8.3",
         "next_installed_version": "10.8.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-04T08:39:46.679496+00:00",
+    "production_refreshed_at": "2026-10-05T12:26:14.339640+00:00",
     "publish_state": "published"
   }
 }
