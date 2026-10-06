@@ -5,10 +5,10 @@
     "version": "4.5.0"
   },
   "run": {
-    "id": "37281622789",
+    "id": "37436145255",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281622789/job/111670809631",
-    "timestamp": "2026-10-05T08:22:09Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436145255/job/112178339253",
+    "timestamp": "2026-10-06T08:58:45Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check impala-shell help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check impalad version output",
@@ -73,7 +73,7 @@
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-10-05T12:26:14.262581+00:00",
+    "production_refreshed_at": "2026-10-06T13:37:48.289349+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.18.1"
   },
   "run": {
-    "id": "37281613984",
+    "id": "37436136426",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281613984/job/111670781329",
-    "timestamp": "2026-10-05T08:13:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436136426/job/112178301945",
+    "timestamp": "2026-10-06T08:58:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check exact baseline source tag and model testdata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check tensorflow_model_server binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "2.18.1",
         "latest_version": "2.19.0",
         "next_installed_version": "not_installed",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-10-05T12:26:14.357853+00:00",
+    "production_refreshed_at": "2026-10-06T13:37:48.376236+00:00",
     "publish_state": "published"
   }
 }

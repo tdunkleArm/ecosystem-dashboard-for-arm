@@ -5,10 +5,10 @@
     "version": "0.69.2"
   },
   "run": {
-    "id": "37281727240",
+    "id": "37436250555",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281727240/job/111671136598",
-    "timestamp": "2026-10-05T09:17:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436250555/job/112178683879",
+    "timestamp": "2026-10-06T09:49:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check trivy binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-05T12:26:14.362351+00:00",
+    "production_refreshed_at": "2026-10-06T13:37:48.380299+00:00",
     "publish_state": "published"
   }
 }

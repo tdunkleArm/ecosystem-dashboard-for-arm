@@ -5,10 +5,10 @@
     "version": "5.17.6+dfsg-1"
   },
   "run": {
-    "id": "37281579657",
+    "id": "37436099914",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37281579657/job/111670671452",
-    "timestamp": "2026-10-05T08:12:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436099914/job/112178184436",
+    "timestamp": "2026-10-06T08:26:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check 'activemq --help' output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check Java dependency",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-05T12:26:14.187482+00:00",
+    "production_refreshed_at": "2026-10-06T13:37:48.224287+00:00",
     "publish_state": "published"
   }
 }
