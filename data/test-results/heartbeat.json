@@ -5,10 +5,10 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "37436188213",
+    "id": "37591196950",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436188213/job/112178476495",
-    "timestamp": "2026-10-06T09:24:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591196950/job/112692845800",
+    "timestamp": "2026-10-07T08:44:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 15,
     "details": [
       {
         "name": "Test 1 - Check Heartbeat binary exists",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check Heartbeat configuration",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 5 - Export config and verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-06T13:37:48.285776+00:00",
+    "production_refreshed_at": "2026-10-07T13:35:18.725990+00:00",
     "publish_state": "published"
   }
 }

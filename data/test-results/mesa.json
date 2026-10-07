@@ -5,10 +5,10 @@
     "version": "9.0.0-2"
   },
   "run": {
-    "id": "37436242502",
+    "id": "37591251918",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436242502/job/112178656762",
-    "timestamp": "2026-10-06T09:48:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591251918/job/112693027072",
+    "timestamp": "2026-10-07T09:16:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check glxinfo binary",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check glxgears binary",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-06T13:37:48.316498+00:00",
+    "production_refreshed_at": "2026-10-07T13:35:18.756207+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.13.1"
   },
   "run": {
-    "id": "37436099914",
+    "id": "37591110154",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37436099914/job/112178184464",
-    "timestamp": "2026-10-06T08:26:32Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591110154/job/112692564028",
+    "timestamp": "2026-10-07T08:07:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Compile Generated Java Code",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "4.13.1",
         "latest_version": "4.13.2",
         "next_installed_version": "4.13.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-06T13:37:48.228788+00:00",
+    "production_refreshed_at": "2026-10-07T13:35:18.669084+00:00",
     "publish_state": "published"
   }
 }
