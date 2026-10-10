@@ -5,10 +5,10 @@
     "version": "3.6.0"
   },
   "run": {
-    "id": "37591261012",
+    "id": "38036376533",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591261012/job/112693066297",
-    "timestamp": "2026-10-07T09:49:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036376533/job/114167558000",
+    "timestamp": "2026-10-10T08:48:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 26,
     "details": [
       {
         "name": "Test 1 - Check image exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Start Bytebase current container",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 6
       },
       {
         "name": "Test 3 - Check current Bytebase HTTP response",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 21,
+        "duration_seconds": 20,
         "current_version": "3.6.0",
         "latest_version": "3.6.1",
         "next_installed_version": "3.6.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-07T13:35:18.678140+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.450245+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.8.19"
   },
   "run": {
-    "id": "37591196950",
+    "id": "38036338192",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591196950/job/112692847226",
-    "timestamp": "2026-10-07T08:51:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036338192/job/114167444822",
+    "timestamp": "2026-10-10T08:26:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.8.19",
-        "latest_version": "2.0.50",
-        "next_installed_version": "2.0.50",
+        "latest_version": "2.0.51",
+        "next_installed_version": "2.0.51",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.50 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.51 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-07T13:35:18.711608+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.480951+00:00",
     "publish_state": "published"
   }
 }

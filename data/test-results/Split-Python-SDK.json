@@ -5,10 +5,10 @@
     "version": "10.7.0"
   },
   "run": {
-    "id": "37591215242",
+    "id": "38036349016",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591215242/job/112692910596",
-    "timestamp": "2026-10-07T09:02:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036349016/job/114167478062",
+    "timestamp": "2026-10-10T08:31:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check module import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check pip package info",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-07T13:35:18.663310+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.436174+00:00",
     "publish_state": "published"
   }
 }

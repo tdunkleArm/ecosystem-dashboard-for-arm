@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "37591128277",
+    "id": "38036304571",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591128277/job/112692621938",
-    "timestamp": "2026-10-07T08:38:00Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036304571/job/114167342029",
+    "timestamp": "2026-10-10T08:00:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check in-toto-run binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check in-toto-verify binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-07T13:35:18.729898+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.497353+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "5.0.0"
   },
   "run": {
-    "id": "37591162678",
+    "id": "38036321257",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591162678/job/112692734001",
-    "timestamp": "2026-10-07T08:43:16Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036321257/job/114167391805",
+    "timestamp": "2026-10-10T08:14:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 21,
+    "duration_seconds": 14,
     "details": [
       {
         "name": "Test 1 - Check Kylin scripts exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 9,
         "current_version": "5.0.0",
         "latest_version": "5.0.2",
         "next_installed_version": "5.0.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-07T13:35:18.741531+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.507855+00:00",
     "publish_state": "published"
   }
 }

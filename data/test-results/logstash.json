@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "37591128277",
+    "id": "38036304571",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/37591128277/job/112692622368",
-    "timestamp": "2026-10-07T08:04:02Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036304571/job/114167342107",
+    "timestamp": "2026-10-10T08:00:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Logstash binary exists",
@@ -40,23 +40,23 @@
       {
         "name": "Test 4 - Check Logstash config test",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Check package architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 51,
+        "duration_seconds": 31,
         "current_version": "8.19.12",
-        "latest_version": "8.19.20",
-        "next_installed_version": "8.19.20",
+        "latest_version": "8.19.21",
+        "next_installed_version": "8.19.21",
         "decision": "next_install_validated",
         "regression_result": "Next stable Logstash candidate installed and validated successfully on Arm64.",
-        "comparison": "Baseline 8.19.12 passed tests 1-5, and candidate 8.19.20 passed install, version, help, architecture, and config validation in Test 6."
+        "comparison": "Baseline 8.19.12 passed tests 1-5, and candidate 8.19.21 passed install, version, help, architecture, and config validation in Test 6."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-07T13:35:18.751087+00:00",
+    "production_refreshed_at": "2026-10-10T09:03:47.516659+00:00",
     "publish_state": "published"
   }
 }
