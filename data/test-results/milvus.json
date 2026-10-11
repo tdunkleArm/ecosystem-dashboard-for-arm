@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "38036376533",
+    "id": "38123866111",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036376533/job/114167557665",
-    "timestamp": "2026-10-10T08:47:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123866111/job/114424033947",
+    "timestamp": "2026-10-11T08:56:53Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check standalone compose asset",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Validate standalone compose configuration",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
         "status": "passed",
-        "duration_seconds": 16
+        "duration_seconds": 17
       },
       {
         "name": "Test 4 - Start baseline standalone stack and wait for health",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-10-10T09:03:47.522780+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.427853+00:00",
     "publish_state": "published"
   }
 }

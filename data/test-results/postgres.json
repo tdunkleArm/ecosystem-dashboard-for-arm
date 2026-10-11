@@ -5,10 +5,10 @@
     "version": "16.15"
   },
   "run": {
-    "id": "38036295519",
+    "id": "38123788979",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036295519/job/114167317272",
-    "timestamp": "2026-10-10T08:00:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123788979/job/114423801995",
+    "timestamp": "2026-10-11T08:09:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check client and server binaries",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional start and query",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-10T09:03:47.549287+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.479239+00:00",
     "publish_state": "published"
   }
 }

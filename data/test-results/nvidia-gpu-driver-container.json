@@ -5,10 +5,10 @@
     "version": "535.288.01"
   },
   "run": {
-    "id": "38036387829",
+    "id": "38123875203",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036387829/job/114167588711",
-    "timestamp": "2026-10-10T08:44:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123875203/job/114424060937",
+    "timestamp": "2026-10-11T09:00:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "535.288.01",
         "latest_version": "metadata_review",
         "next_installed_version": "metadata_review",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "metadata_review_required",
-    "production_refreshed_at": "2026-10-10T09:03:47.533535+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.448960+00:00",
     "publish_state": "published"
   }
 }

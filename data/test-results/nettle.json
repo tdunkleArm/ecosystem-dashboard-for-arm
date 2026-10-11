@@ -5,10 +5,10 @@
     "version": "3.9"
   },
   "run": {
-    "id": "38036355120",
+    "id": "38123845835",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036355120/job/114167493294",
-    "timestamp": "2026-10-10T08:31:39Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123845835/job/114423975149",
+    "timestamp": "2026-10-11T08:45:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check nettle-hash binary",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Hash data and compile a program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-10T09:03:47.529650+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.441417+00:00",
     "publish_state": "published"
   }
 }

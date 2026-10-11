@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "38036371219",
+    "id": "38123861386",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036371219/job/114167540352",
-    "timestamp": "2026-10-10T08:38:34Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123861386/job/114424018494",
+    "timestamp": "2026-10-11T08:54:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 image and runner architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "3.0.0",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-10-10T09:03:47.487114+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.356971+00:00",
     "publish_state": "published"
   }
 }

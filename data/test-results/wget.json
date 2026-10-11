@@ -5,10 +5,10 @@
     "version": "1.24.5"
   },
   "run": {
-    "id": "38036304571",
+    "id": "38123797856",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38036304571/job/114167342023",
-    "timestamp": "2026-10-10T07:59:28Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123797856/job/114423827677",
+    "timestamp": "2026-10-11T08:10:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 35,
     "details": [
       {
         "name": "Test 1 - Check Wget binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 33,
+        "duration_seconds": 34,
         "current_version": "1.24.5",
         "latest_version": "1.25.0",
         "next_installed_version": "1.25.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-10T09:03:47.586789+00:00",
+    "production_refreshed_at": "2026-10-11T09:14:15.552092+00:00",
     "publish_state": "published"
   }
 }
