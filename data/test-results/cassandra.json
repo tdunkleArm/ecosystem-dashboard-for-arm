@@ -5,10 +5,10 @@
     "version": "5.0.9"
   },
   "run": {
-    "id": "38123788979",
+    "id": "38223513125",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38123788979/job/114423802252",
-    "timestamp": "2026-10-11T08:11:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223513125/job/114725293103",
+    "timestamp": "2026-10-12T08:28:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 39,
+    "duration_seconds": 38,
     "details": [
       {
         "name": "Test 1 - Check binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check nodetool help",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-11T09:14:15.288891+00:00",
+    "production_refreshed_at": "2026-10-12T12:45:48.970756+00:00",
     "publish_state": "published"
   }
 }
