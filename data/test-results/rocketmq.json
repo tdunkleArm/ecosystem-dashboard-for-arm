@@ -5,10 +5,10 @@
     "version": "5.3.3"
   },
   "run": {
-    "id": "38223603723",
+    "id": "38372096941",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223603723/job/114725601783",
-    "timestamp": "2026-10-12T09:27:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372096941/job/115211350029",
+    "timestamp": "2026-10-13T10:07:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check RocketMQ binaries exist",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 11
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-12T12:45:49.082121+00:00",
+    "production_refreshed_at": "2026-10-13T14:02:08.134498+00:00",
     "publish_state": "published"
   }
 }

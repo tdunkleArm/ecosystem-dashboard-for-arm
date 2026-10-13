@@ -5,9 +5,9 @@
     "version": "unknown"
   },
   "run": {
-    "id": "38223513125",
+    "id": "38371989726",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223513125/job/114725293641",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38371989726/job/115211010637",
     "timestamp": "",
     "status": "failure",
     "runner": {
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check launcher script",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact version metadata",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 16
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 7453
+        "duration_seconds": 7441
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-10-12T12:45:49.053083+00:00",
+    "production_refreshed_at": "2026-10-13T14:02:08.082288+00:00",
     "publish_state": "published"
   }
 }

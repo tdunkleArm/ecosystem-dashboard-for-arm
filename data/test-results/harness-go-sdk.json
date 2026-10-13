@@ -5,10 +5,10 @@
     "version": "v0.8.36"
   },
   "run": {
-    "id": "38223539473",
+    "id": "38372020714",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223539473/job/114725380340",
-    "timestamp": "2026-10-12T08:34:38Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372020714/job/115211101878",
+    "timestamp": "2026-10-13T08:58:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check Go installation",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check SDK import",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Run the test app",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-12T12:45:49.012341+00:00",
+    "production_refreshed_at": "2026-10-13T14:02:08.007177+00:00",
     "publish_state": "published"
   }
 }

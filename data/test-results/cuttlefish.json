@@ -5,10 +5,10 @@
     "version": "1.26.0"
   },
   "run": {
-    "id": "38223513125",
+    "id": "38371989726",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223513125/job/114725292919",
-    "timestamp": "2026-10-12T08:26:03Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38371989726/job/115211009663",
+    "timestamp": "2026-10-13T08:50:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check cvd binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression applicability",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-12T12:45:48.982624+00:00",
+    "production_refreshed_at": "2026-10-13T14:02:07.953436+00:00",
     "publish_state": "published"
   }
 }

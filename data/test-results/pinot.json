@@ -5,9 +5,9 @@
     "version": "unknown"
   },
   "run": {
-    "id": "38223521739",
+    "id": "38372000620",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223521739/job/114725322768",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372000620/job/115211033172",
     "timestamp": "",
     "status": "success",
     "runner": {
@@ -17,9 +17,9 @@
     "job_name": "test-pinot / test-pinot"
   },
   "tests": {
-    "passed": 6,
+    "passed": 5,
     "failed": 0,
-    "skipped": 0,
+    "skipped": 1,
     "duration_seconds": 0,
     "details": [
       {
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Pinot quickstart admin path",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -49,8 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 7450
+        "status": "skipped",
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,8 +65,8 @@
     "regression_applicability": "not_configured",
     "regression_reason": "not_configured",
     "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "passed",
-    "production_refreshed_at": "2026-10-12T12:45:49.070017+00:00",
+    "regression_status": "skipped",
+    "production_refreshed_at": "2026-10-13T14:02:08.112802+00:00",
     "publish_state": "published"
   }
 }

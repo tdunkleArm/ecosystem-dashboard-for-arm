@@ -5,11 +5,11 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "38223650404",
+    "id": "38372151984",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38223650404/job/114725763781",
-    "timestamp": "2026-10-12T09:41:47Z",
-    "status": "success",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372151984/job/115211532120",
+    "timestamp": "2026-10-13T10:45:05Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-ruby / test-ruby"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 124,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Ruby binaries exist",
@@ -49,14 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 124,
-        "current_version": "3.4.0",
-        "latest_version": "4.0.7",
-        "next_installed_version": "4.0.7",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Ruby version 3.4.0 passed smoke tests in this run. Regression validation built candidate version 4.0.7 from the official source tarball on Arm64, confirmed the installed interpreter reports the expected version, and reran the Ruby/gem/irb smoke path successfully."
+        "status": "failed",
+        "duration_seconds": 0
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "ruby",
     "dashboard_link": "/linux/opensource_packages/ruby",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 18",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-12T12:45:49.083151+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-10-13T14:02:08.136335+00:00",
     "publish_state": "published"
   }
 }
