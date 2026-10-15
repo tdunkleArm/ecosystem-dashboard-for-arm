@@ -5,10 +5,10 @@
     "version": "12.2.0"
   },
   "run": {
-    "id": "38372151984",
+    "id": "38695002774",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372151984/job/115211532576",
-    "timestamp": "2026-10-13T10:30:35Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38695002774/job/116289418120",
+    "timestamp": "2026-10-15T07:52:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Grafana version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Grafana help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check default config and Arm64 binary",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-13T14:02:08.002153+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.328116+00:00",
     "publish_state": "published"
   }
 }

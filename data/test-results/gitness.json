@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "38372142633",
+    "id": "38694994027",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372142633/job/115211500532",
-    "timestamp": "2026-10-13T10:34:50Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694994027/job/116289390289",
+    "timestamp": "2026-10-15T07:38:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -19,8 +19,8 @@
   "tests": {
     "passed": 5,
     "failed": 0,
-    "skipped": 1,
-    "duration_seconds": 4,
+    "skipped": 0,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Gitness binary exists",
@@ -49,8 +49,8 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 1,
+        "status": "skipped",
+        "duration_seconds": 0,
         "current_version": "3.0.0",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -71,9 +71,9 @@
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
+    "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-10-13T14:02:07.996823+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.324886+00:00",
     "publish_state": "published"
   }
 }

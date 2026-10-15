@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "38372151984",
+    "id": "38695002774",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372151984/job/115211532120",
-    "timestamp": "2026-10-13T10:45:05Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38695002774/job/116289418031",
+    "timestamp": "2026-10-15T07:44:14Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-10-13T14:02:08.136335+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.413419+00:00",
     "publish_state": "published"
   }
 }

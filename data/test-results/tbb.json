@@ -5,10 +5,10 @@
     "version": "2021.11.0"
   },
   "run": {
-    "id": "38372000620",
+    "id": "38694874839",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372000620/job/115211033245",
-    "timestamp": "2026-10-13T08:50:52Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694874839/job/116289006927",
+    "timestamp": "2026-10-15T07:01:30Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check TBB library exists",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check TBB header files",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify Architecture Linkage",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "failed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "decision": "result_not_emitted",
         "regression_result": "Regression validation step failed before emitting terminal outputs",
         "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-10-13T14:02:08.161575+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.429663+00:00",
     "publish_state": "published"
   }
 }

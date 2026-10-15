@@ -5,10 +5,10 @@
     "version": "0.2.1"
   },
   "run": {
-    "id": "38372087864",
+    "id": "38694943893",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372087864/job/115211315680",
-    "timestamp": "2026-10-13T09:41:08Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694943893/job/116289234821",
+    "timestamp": "2026-10-15T07:23:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Open-falcon binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check wrapper help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 11,
         "current_version": "0.2.1",
         "latest_version": "0.3",
         "next_installed_version": "0.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-13T14:02:08.093169+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.385879+00:00",
     "publish_state": "published"
   }
 }

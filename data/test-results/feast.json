@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "38372087864",
+    "id": "38694943893",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38372087864/job/115211316845",
-    "timestamp": "2026-10-13T10:04:59Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694943893/job/116289235168",
+    "timestamp": "2026-10-15T07:26:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 4,
         "current_version": "0.1.0",
-        "latest_version": "0.66.0",
-        "next_installed_version": "0.66.0",
+        "latest_version": "0.67.0",
+        "next_installed_version": "0.67.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.66.0 from feast-dev/feast also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 0.67.0 from feast-dev/feast also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-13T14:02:07.978883+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.313720+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "Linux"
   },
   "run": {
-    "id": "38371989726",
+    "id": "38694866847",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38371989726/job/115211008603",
-    "timestamp": "2026-10-13T08:50:15Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694866847/job/116288978322",
+    "timestamp": "2026-10-15T06:50:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check service status",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 9
       },
       {
         "name": "Test 5 - Simple connection check",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-13T14:02:08.075124+00:00",
+    "production_refreshed_at": "2026-10-15T09:26:48.374227+00:00",
     "publish_state": "published"
   }
 }
