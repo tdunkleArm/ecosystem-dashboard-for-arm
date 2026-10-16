@@ -5,10 +5,10 @@
     "version": "1.16.0"
   },
   "run": {
-    "id": "38694905157",
+    "id": "38862403328",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694905157/job/116289104621",
-    "timestamp": "2026-10-15T07:15:40Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38862403328/job/116847470083",
+    "timestamp": "2026-10-16T06:51:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 67,
+    "duration_seconds": 68,
     "details": [
       {
         "name": "Test 1 - Check source tree and Gradle wrapper",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 9
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-15T09:26:48.443883+00:00",
+    "production_refreshed_at": "2026-10-16T08:24:13.242156+00:00",
     "publish_state": "published"
   }
 }

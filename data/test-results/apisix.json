@@ -5,10 +5,10 @@
     "version": "3.12.0"
   },
   "run": {
-    "id": "38694866847",
+    "id": "38862368356",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694866847/job/116288978850",
-    "timestamp": "2026-10-15T06:53:42Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38862368356/job/116847360500",
+    "timestamp": "2026-10-16T06:42:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check container running",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Admin API",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 7,
         "current_version": "3.12.0",
         "latest_version": "3.13.0",
         "next_installed_version": "3.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-15T09:26:48.273142+00:00",
+    "production_refreshed_at": "2026-10-16T08:24:13.093715+00:00",
     "publish_state": "published"
   }
 }

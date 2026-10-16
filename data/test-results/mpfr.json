@@ -5,10 +5,10 @@
     "version": "4.2.1"
   },
   "run": {
-    "id": "38694882475",
+    "id": "38862382374",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694882475/job/116289028313",
-    "timestamp": "2026-10-15T06:57:33Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38862382374/job/116847402874",
+    "timestamp": "2026-10-16T06:47:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check mpfr.h exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile simple C program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Run compiled program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-15T09:26:48.372093+00:00",
+    "production_refreshed_at": "2026-10-16T08:24:13.179239+00:00",
     "publish_state": "published"
   }
 }

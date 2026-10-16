@@ -5,10 +5,10 @@
     "version": "1.20"
   },
   "run": {
-    "id": "38694951432",
+    "id": "38862444083",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38694951432/job/116289254226",
-    "timestamp": "2026-10-15T07:31:56Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38862444083/job/116847606789",
+    "timestamp": "2026-10-16T07:07:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Configure baseline source tree",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 15
       },
       {
         "name": "Test 2 - Compile baseline source",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 8,
         "current_version": "1.20",
         "latest_version": "1.21",
         "next_installed_version": "1.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-15T09:26:48.311082+00:00",
+    "production_refreshed_at": "2026-10-16T08:24:13.126469+00:00",
     "publish_state": "published"
   }
 }
