@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "38862498116",
+    "id": "39010058062",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/38862498116/job/116847790955",
-    "timestamp": "2026-10-16T07:34:43Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39010058062/job/117330535906",
+    "timestamp": "2026-10-17T07:12:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check published package metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check package-specific docs and manifests",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-16T08:24:13.189038+00:00",
+    "production_refreshed_at": "2026-10-17T07:31:20.918659+00:00",
     "publish_state": "published"
   }
 }
