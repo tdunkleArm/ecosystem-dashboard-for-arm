@@ -5,10 +5,10 @@
     "version": "2.6.4"
   },
   "run": {
-    "id": "39010022883",
+    "id": "39105646761",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39010022883/job/117330420558",
-    "timestamp": "2026-10-17T06:55:20Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105646761/job/117610789949",
+    "timestamp": "2026-10-18T07:29:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check flex binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check flex version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-17T07:31:20.861908+00:00",
+    "production_refreshed_at": "2026-10-18T07:53:03.620173+00:00",
     "publish_state": "published"
   }
 }

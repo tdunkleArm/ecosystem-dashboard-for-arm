@@ -5,10 +5,10 @@
     "version": "0.15.0"
   },
   "run": {
-    "id": "39010062627",
+    "id": "39105689390",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39010062627/job/117330548079",
-    "timestamp": "2026-10-17T07:14:17Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105689390/job/117610918810",
+    "timestamp": "2026-10-18T07:37:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "0.15.0",
-        "latest_version": "2026.1017.22144",
-        "next_installed_version": "2026.1017.22144",
+        "latest_version": "2026.1018.5342",
+        "next_installed_version": "2026.1018.5342",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.1017.22144 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.15.0, and the next stable source tag 2026.1018.5342 from LizardByte/Sunshine also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-17T07:31:20.956087+00:00",
+    "production_refreshed_at": "2026-10-18T07:53:03.717079+00:00",
     "publish_state": "published"
   }
 }

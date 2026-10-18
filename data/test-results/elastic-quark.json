@@ -5,10 +5,10 @@
     "version": "v0.3"
   },
   "run": {
-    "id": "39010018757",
+    "id": "39105642924",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39010018757/job/117330411545",
-    "timestamp": "2026-10-17T06:53:54Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105642924/job/117610779397",
+    "timestamp": "2026-10-18T07:17:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check repository exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check for Makefile",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check for C source files",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.3",
         "latest_version": "v0.4",
         "next_installed_version": "v0.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-17T07:31:20.856017+00:00",
+    "production_refreshed_at": "2026-10-18T07:53:03.614168+00:00",
     "publish_state": "published"
   }
 }

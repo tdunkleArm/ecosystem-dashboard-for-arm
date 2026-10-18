@@ -5,10 +5,10 @@
     "version": "8.9.1"
   },
   "run": {
-    "id": "39009975334",
+    "id": "39105597163",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39009975334/job/117330272685",
-    "timestamp": "2026-10-17T06:28:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105597163/job/117610640842",
+    "timestamp": "2026-10-18T06:52:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check RocksDB library is installed",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RocksDB header files exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check RocksDB shared library exists",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-17T07:31:20.943435+00:00",
+    "production_refreshed_at": "2026-10-18T07:53:03.703776+00:00",
     "publish_state": "published"
   }
 }
