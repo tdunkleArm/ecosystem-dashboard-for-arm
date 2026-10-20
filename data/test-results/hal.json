@@ -5,10 +5,10 @@
     "version": "4.4.0"
   },
   "run": {
-    "id": "39105635592",
+    "id": "39383765782",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105635592/job/117610753415",
-    "timestamp": "2026-10-18T07:05:44Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383765782/job/118498664170",
+    "timestamp": "2026-10-20T07:35:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 341,
+    "duration_seconds": 362,
     "details": [
       {
         "name": "Test 1 - Check hal binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check built ARM64 executable",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check runtime libraries and architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 341,
+        "duration_seconds": 361,
         "current_version": "4.4.0",
         "latest_version": "4.4.1",
         "next_installed_version": "4.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-18T07:53:03.632179+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.219314+00:00",
     "publish_state": "published"
   }
 }

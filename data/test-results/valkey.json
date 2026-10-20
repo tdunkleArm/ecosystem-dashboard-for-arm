@@ -5,10 +5,10 @@
     "version": "8.0.2"
   },
   "run": {
-    "id": "39105639302",
+    "id": "39383774204",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105639302/job/117610766524",
-    "timestamp": "2026-10-18T07:16:55Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383774204/job/118498689162",
+    "timestamp": "2026-10-20T07:25:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 41,
+    "duration_seconds": 39,
     "details": [
       {
         "name": "Test 1 - Check Valkey binaries exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 39,
         "current_version": "8.0.2",
         "latest_version": "8.0.3",
         "next_installed_version": "8.0.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-18T07:53:03.727170+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.314737+00:00",
     "publish_state": "published"
   }
 }

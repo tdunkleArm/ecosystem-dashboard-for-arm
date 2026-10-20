@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Falco",
-    "version": "0.45.0"
+    "version": "0.45.1"
   },
   "run": {
-    "id": "39105664086",
+    "id": "39383825271",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105664086/job/117610847063",
-    "timestamp": "2026-10-18T07:28:04Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383825271/job/118498842621",
+    "timestamp": "2026-10-20T07:47:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-18T07:53:03.617496+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.204076+00:00",
     "publish_state": "published"
   }
 }

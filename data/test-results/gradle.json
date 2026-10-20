@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "39105635592",
+    "id": "39383765782",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105635592/job/117610753382",
-    "timestamp": "2026-10-18T07:12:14Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383765782/job/118498663998",
+    "timestamp": "2026-10-20T07:31:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check Gradle binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Gradle version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Gradle help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 Java runtime",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "8.11",
-        "latest_version": "9.8.1",
-        "next_installed_version": "9.8.1",
+        "latest_version": "9.8.2",
+        "next_installed_version": "9.8.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.8.1 on Arm64, and the candidate distribution reported version 9.8.1 and returned Gradle help output successfully."
+        "comparison": "Current pinned Gradle version 8.11 passed smoke tests in this run. Regression validation installed candidate version 9.8.2 on Arm64, and the candidate distribution reported version 9.8.2 and returned Gradle help output successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-18T07:53:03.630195+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.217243+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.5.2"
   },
   "run": {
-    "id": "39105655015",
+    "id": "39383808169",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105655015/job/117610818534",
-    "timestamp": "2026-10-18T07:29:06Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383808169/job/118498794956",
+    "timestamp": "2026-10-20T07:43:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check mlrun CLI exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-18T07:53:03.665937+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.254365+00:00",
     "publish_state": "published"
   }
 }

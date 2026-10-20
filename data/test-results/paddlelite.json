@@ -5,10 +5,10 @@
     "version": "2.11"
   },
   "run": {
-    "id": "39105650685",
+    "id": "39383799737",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105650685/job/117610804817",
-    "timestamp": "2026-10-18T07:22:30Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383799737/job/118498767801",
+    "timestamp": "2026-10-20T07:39:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check headers exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile smoke program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-18T07:53:03.687785+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.276004+00:00",
     "publish_state": "published"
   }
 }

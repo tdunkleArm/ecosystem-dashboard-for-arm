@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Strongswan",
-    "version": "5.9.13/K6.17.0-1022-azure"
+    "version": "5.9.13/K7.0.0-1017-azure"
   },
   "run": {
-    "id": "39105659248",
+    "id": "39383816802",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105659248/job/117610831625",
-    "timestamp": "2026-10-18T07:25:46Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383816802/job/118498815362",
+    "timestamp": "2026-10-20T07:56:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-18T07:53:03.716722+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.304238+00:00",
     "publish_state": "published"
   }
 }

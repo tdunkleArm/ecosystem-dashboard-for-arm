@@ -5,10 +5,10 @@
     "version": "0.1.9"
   },
   "run": {
-    "id": "39105606912",
+    "id": "39383716373",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39105606912/job/117610669289",
-    "timestamp": "2026-10-18T07:02:41Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383716373/job/118498513570",
+    "timestamp": "2026-10-20T07:06:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 24,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Check jar existence",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 6
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-18T07:53:03.633662+00:00",
+    "production_refreshed_at": "2026-10-20T08:44:03.220863+00:00",
     "publish_state": "published"
   }
 }
