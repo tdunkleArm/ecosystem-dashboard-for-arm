@@ -5,10 +5,10 @@
     "version": "1.2.0"
   },
   "run": {
-    "id": "39383707338",
+    "id": "39558260015",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383707338/job/118498492988",
-    "timestamp": "2026-10-20T07:02:21Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558260015/job/119083102641",
+    "timestamp": "2026-10-21T07:03:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 705,
+    "duration_seconds": 4721,
     "details": [
       {
         "name": "Test 1 - Check Pinot admin launcher exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Pinot quickstart admin path",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 696,
+        "duration_seconds": 4715,
         "current_version": "1.2.0",
         "latest_version": "1.3.0",
         "next_installed_version": "1.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-20T08:44:03.278960+00:00",
+    "production_refreshed_at": "2026-10-21T09:18:25.411415+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "39383840977",
+    "id": "39558390143",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383840977/job/118498892561",
-    "timestamp": "2026-10-20T07:52:18Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558390143/job/119083523838",
+    "timestamp": "2026-10-21T07:53:12Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Ruby binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "failed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-10-20T08:44:03.292101+00:00",
+    "production_refreshed_at": "2026-10-21T09:18:25.425212+00:00",
     "publish_state": "published"
   }
 }

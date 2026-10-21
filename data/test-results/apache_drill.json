@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "39383716373",
+    "id": "39558270736",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383716373/job/118498513524",
-    "timestamp": "2026-10-20T07:04:57Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558270736/job/119083136059",
+    "timestamp": "2026-10-21T07:06:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 332,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 330,
+        "duration_seconds": 26,
         "current_version": "1.21.2",
         "latest_version": "1.22.0",
         "next_installed_version": "1.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-20T08:44:03.167234+00:00",
+    "production_refreshed_at": "2026-10-21T09:18:25.297993+00:00",
     "publish_state": "published"
   }
 }

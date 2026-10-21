@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "39383799737",
+    "id": "39558351521",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383799737/job/118498768158",
-    "timestamp": "2026-10-20T07:36:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558351521/job/119083399064",
+    "timestamp": "2026-10-21T07:30:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -40,23 +40,23 @@
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "24.0.3",
-        "latest_version": "29.9.1",
-        "next_installed_version": "29.9.1",
+        "latest_version": "29.9.2",
+        "next_installed_version": "29.9.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.9.1, and both the docker client and dockerd binaries reported version 29.9.1 on Arm64."
+        "comparison": "Current pinned Docker CE version 24.0.3 passed smoke tests in this run. Regression validation downloaded the next official Arm64 static release 29.9.2, and both the docker client and dockerd binaries reported version 29.9.2 on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-20T08:44:03.194122+00:00",
+    "production_refreshed_at": "2026-10-21T09:18:25.325119+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.4.0"
   },
   "run": {
-    "id": "39383856387",
+    "id": "39558405770",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39383856387/job/118498943560",
-    "timestamp": "2026-10-20T07:57:01Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558405770/job/119083581021",
+    "timestamp": "2026-10-21T07:54:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 9,
         "current_version": "2.4.0",
-        "latest_version": "3.17.1",
-        "next_installed_version": "3.17.1",
+        "latest_version": "3.17.2",
+        "next_installed_version": "3.17.2",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.17.1 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2.4.0, and the next stable source tag 3.17.2 from mlflow/mlflow also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-10-20T08:44:03.254024+00:00",
+    "production_refreshed_at": "2026-10-21T09:18:25.385518+00:00",
     "publish_state": "published"
   }
 }
