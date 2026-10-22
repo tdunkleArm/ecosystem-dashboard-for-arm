@@ -5,10 +5,10 @@
     "version": "1.5.2"
   },
   "run": {
-    "id": "39558359519",
+    "id": "39737371431",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558359519/job/119083423258",
-    "timestamp": "2026-10-21T07:33:07Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39737371431/job/119686160007",
+    "timestamp": "2026-10-22T07:35:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check mlrun CLI exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact package version",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-21T09:18:25.385943+00:00",
+    "production_refreshed_at": "2026-10-22T09:52:56.462146+00:00",
     "publish_state": "published"
   }
 }

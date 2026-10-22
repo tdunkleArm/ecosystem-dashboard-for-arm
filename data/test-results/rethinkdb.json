@@ -5,10 +5,10 @@
     "version": "2.4.4"
   },
   "run": {
-    "id": "39558288771",
+    "id": "39737299441",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558288771/job/119083194450",
-    "timestamp": "2026-10-21T06:59:22Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39737299441/job/119685921296",
+    "timestamp": "2026-10-22T07:11:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 805,
+    "duration_seconds": 755,
     "details": [
       {
         "name": "Test 1 - Check built rethinkdb binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 804,
+        "duration_seconds": 754,
         "current_version": "2.4.4",
         "latest_version": "2.4.5",
         "next_installed_version": "2.4.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-21T09:18:25.422522+00:00",
+    "production_refreshed_at": "2026-10-22T09:52:56.530303+00:00",
     "publish_state": "published"
   }
 }

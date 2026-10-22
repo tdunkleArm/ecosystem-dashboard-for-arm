@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "39558270736",
+    "id": "39737284810",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558270736/job/119083135815",
-    "timestamp": "2026-10-21T07:00:48Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39737284810/job/119685872472",
+    "timestamp": "2026-10-22T07:02:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Maven access",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Verify Shiro Dependency Artifact (Simulated)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-21T09:18:25.297650+00:00",
+    "production_refreshed_at": "2026-10-22T09:52:56.306391+00:00",
     "publish_state": "published"
   }
 }

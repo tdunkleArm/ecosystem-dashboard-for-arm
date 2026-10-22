@@ -5,10 +5,10 @@
     "version": "3.4.0-1build1"
   },
   "run": {
-    "id": "39558333772",
+    "id": "39737346560",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558333772/job/119083343599",
-    "timestamp": "2026-10-21T07:25:13Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39737346560/job/119686077950",
+    "timestamp": "2026-10-22T07:41:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check header file exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check library file exists",
         "status": "passed",
-        "duration_seconds": 15
+        "duration_seconds": 13
       },
       {
         "name": "Test 3 - Compile simple program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-10-21T09:18:25.340148+00:00",
+    "production_refreshed_at": "2026-10-22T09:52:56.378971+00:00",
     "publish_state": "published"
   }
 }

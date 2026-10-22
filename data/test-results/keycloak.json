@@ -5,10 +5,10 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "39558304714",
+    "id": "39737315057",
     "attempt": "1",
-    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39558304714/job/119083246092",
-    "timestamp": "2026-10-21T07:30:58Z",
+    "url": "https://github.com/tdunkleArm/ecosystem-dashboard-for-arm/actions/runs/39737315057/job/119685971657",
+    "timestamp": "2026-10-22T07:12:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,37 +20,37 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Start Keycloak in dev mode",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 21
       },
       {
         "name": "Test 5 - Check HTTP response",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "26.1.4",
         "latest_version": "26.1.5",
         "next_installed_version": "26.1.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-10-21T09:18:25.363721+00:00",
+    "production_refreshed_at": "2026-10-22T09:52:56.421105+00:00",
     "publish_state": "published"
   }
 }
